@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P31",
+        "Enunciado": "¿Cuántas ruedas tiene un cuatriciclo pesado?",
+        "Opciones": [
+            "A) Tres ruedas simétricas.",
+            "B) Dos ruedas.",
+            "C) Cuatro ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cuatriciclo pesado es definido como un automóvil de cuatro ruedas."
+    },
+    {
+        "_id": "PB-TM1-P32",
+        "Enunciado": "Si un cuatriciclo pesado está destinado al transporte de personas, ¿cuál es su peso máximo permitido con carga y pasajeros?",
+        "Opciones": [
+            "A) 600 kilos.",
+            "B) 350 kilos.",
+            "C) 450 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cuatriciclo pesado pesa como máximo 450 kilos con carga y pasajeros si lleva personas."
+    },
+    {
+        "_id": "PB-TM1-P33",
+        "Enunciado": "¿Cuál es el peso máximo de un cuatriciclo pesado, incluyendo carga y pasajeros, si transporta mercancías?",
+        "Opciones": [
+            "A) 750 kilos.",
+            "B) 600 kilos.",
+            "C) 450 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si el cuatriciclo pesado lleva mercancías, su peso máximo con carga y pasajeros es de 600 kilos."
+    },
+    {
+        "_id": "PB-TM1-P34",
+        "Enunciado": "¿Cuál es la potencia máxima que puede tener el motor de un cuatriciclo pesado?",
+        "Opciones": [
+            "A) 15 kilovatios.",
+            "B) 10 kilovatios.",
+            "C) 25 kilovatios."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el temario, la potencia máxima del motor de un cuatriciclo pesado es de 15 kilovatios."
+    },
+    {
+        "_id": "PB-TM1-P35",
+        "Enunciado": "¿Qué es el kilovatio según la definición del documento?",
+        "Opciones": [
+            "A) Unidad que se usa para medir la potencia máxima que puede tener un aparato.",
+            "B) Unidad de peso que determina si un remolque es ligero o pesado.",
+            "C) Medida que sirve para calcular la cilindrada total de los motores eléctricos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El kilovatio se define como la unidad que se usa para medir la potencia máxima que puede tener un aparato."
+    },
+    {
+        "_id": "PB-TM1-P36",
+        "Enunciado": "¿Para qué se usa el turismo principalmente?",
+        "Opciones": [
+            "A) Para el transporte de mercancías ligeras en zonas urbanas.",
+            "B) Para mover o arrastrar otros vehículos de gran tonelaje.",
+            "C) Para transportar a personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El turismo es un automóvil que se usa para transportar a personas."
+    },
+    {
+        "_id": "PB-TM1-P37",
+        "Enunciado": "¿Cuántas ruedas debe tener por lo menos un turismo?",
+        "Opciones": [
+            "A) Tres ruedas simétricas.",
+            "B) Exactamente cuatro ruedas, ni más ni menos.",
+            "C) Por lo menos cuatro ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El documento indica que un turismo tiene por lo menos cuatro ruedas."
+    },
+    {
+        "_id": "PB-TM1-P38",
+        "Enunciado": "¿Cuál es el número máximo de asientos que puede tener un turismo?",
+        "Opciones": [
+            "A) Cinco asientos en total.",
+            "B) Nueve asientos como máximo, contando el asiento del conductor.",
+            "C) Siete asientos, contando el del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un turismo puede tener nueve asientos como máximo, incluyendo el asiento del conductor."
+    },
+    {
+        "_id": "PB-TM1-P39",
+        "Enunciado": "¿Cuál es la función del derivado de turismo?",
+        "Opciones": [
+            "A) Sirve para el transporte mixto de personas y carga a partes iguales.",
+            "B) Sirve para transportar mercancías en vez de personas.",
+            "C) Sirve para realizar servicios especiales de obras y construcción."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El derivado de turismo tiene la carrocería de un turismo pero sirve para transportar mercancías en vez de personas."
+    },
+    {
+        "_id": "PB-TM1-P40",
+        "Enunciado": "¿De cuántas filas de asientos dispone un derivado de turismo?",
+        "Opciones": [
+            "A) Solo tiene una fila de asientos.",
+            "B) Tiene dos filas de asientos para dejar espacio a los operarios.",
+            "C) No tiene asientos, el conductor va de pie."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El derivado de turismo solo tiene una fila de asientos para dejar más espacio a las mercancías."
+    },
+    {
+        "_id": "PB-TM1-P41",
+        "Enunciado": "¿Cómo se define la carrocería en el temario?",
+        "Opciones": [
+            "A) Estructura que da forma al automóvil.",
+            "B) El conjunto de piezas mecánicas que permiten el movimiento del automóvil.",
+            "C) La parte exterior del motor que lo protege de la lluvia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La carrocería es la estructura que da forma al automóvil."
+    },
+    {
+        "_id": "PB-TM1-P42",
+        "Enunciado": "¿Qué caracteriza al vehículo pick-up?",
+        "Opciones": [
+            "A) Es un vehículo articulado que transporta una plataforma de carga abierta.",
+            "B) Es un vehículo de tres ruedas con una caja trasera para mercancías.",
+            "C) Los asientos para las personas y la zona de carga están separados en dos espacios diferentes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En el pick-up, los asientos para las personas y la zona de carga están separados en dos espacios diferentes."
+    },
+    {
+        "_id": "PB-TM1-P43",
+        "Enunciado": "¿Cuánto pesa como máximo un pick-up con carga y pasajeros?",
+        "Opciones": [
+            "A) 750 kilos.",
+            "B) 3.500 kilos.",
+            "C) 1.500 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un vehículo pick-up con carga y pasajeros pesa como máximo 3.500 kilos."
+    },
+    {
+        "_id": "PB-TM1-P44",
+        "Enunciado": "¿Para qué sirve un vehículo mixto adaptable?",
+        "Opciones": [
+            "A) Únicamente para el transporte de mercancías pesadas en trayectos cortos.",
+            "B) Sirve para transportar a personas o mercancías.",
+            "C) Exclusivamente para el transporte de personas con discapacidad física."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El vehículo mixto adaptable es aquel que sirve para transportar a personas o mercancías."
+    },
+    {
+        "_id": "PB-TM1-P45",
+        "Enunciado": "En un vehículo mixto adaptable, ¿se pueden alterar los asientos?",
+        "Opciones": [
+            "A) Sí, los asientos se pueden poner o quitar dependiendo del uso.",
+            "B) Solo se pueden quitar los asientos si el vehículo va vacío.",
+            "C) No, los asientos son fijos y no pueden manipularse."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el vehículo mixto adaptable, los asientos se pueden poner o quitar dependiendo del uso que se le quiera dar."
+    },
+    {
+        "_id": "PB-TM1-P46",
+        "Enunciado": "¿Cuántas personas pueden viajar como máximo en un vehículo mixto adaptable?",
+        "Opciones": [
+            "A) Nueve personas como máximo.",
+            "B) Doce personas.",
+            "C) Cinco personas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el vehículo mixto adaptable pueden viajar nueve personas como máximo."
+    },
+    {
+        "_id": "PB-TM1-P47",
+        "Enunciado": "¿Cómo se define el autobús o autocar?",
+        "Opciones": [
+            "A) Vehículo de más de 3.500 kilos destinado a mercancías.",
+            "B) Vehículo con motor eléctrico que circula por raíles.",
+            "C) Vehículo con más de nueve asientos que sirve para transportar a personas y sus equipajes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un autobús o autocar es un vehículo con más de nueve asientos para transportar personas y equipajes."
+    },
+    {
+        "_id": "PB-TM1-P48",
+        "Enunciado": "¿Cuántas ruedas tiene como mínimo un camión?",
+        "Opciones": [
+            "A) Seis ruedas.",
+            "B) Tres ruedas simétricas.",
+            "C) Cuatro ruedas o más."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El camión es un vehículo de cuatro ruedas o más que sirve para transportar mercancías."
+    },
+    {
+        "_id": "PB-TM1-P49",
+        "Enunciado": "¿Cuál es la función principal del camión?",
+        "Opciones": [
+            "A) El transporte de personas y sus equipajes en largas distancias.",
+            "B) Sirve para transportar mercancías.",
+            "C) El arrastre de semirremolques de gran tonelaje."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El camión se define como un vehículo que sirve para transportar mercancías."
+    },
+    {
+        "_id": "PB-TM1-P50",
+        "Enunciado": "¿Cuántos asientos puede tener como máximo la cabina de un camión?",
+        "Opciones": [
+            "A) Nueve asientos como máximo.",
+            "B) Cinco asientos.",
+            "C) Solo dos asientos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La cabina del camión, donde viajan los pasajeros y el conductor, puede tener nueve asientos como máximo."
+    },
+    {
+        "_id": "PB-TM1-P51",
+        "Enunciado": "¿Qué se transporta en el espacio de atrás (resto del camión)?",
+        "Opciones": [
+            "A) Los equipajes de los pasajeros de la cabina.",
+            "B) Las mercancías.",
+            "C) Los sistemas de herramientas para reparaciones en ruta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El resto del camión es el lugar en el que viajan las mercancías."
+    },
+    {
+        "_id": "PB-TM1-P52",
+        "Enunciado": "¿Cuántas ruedas tiene una furgoneta o furgón?",
+        "Opciones": [
+            "A) Dos ruedas.",
+            "B) Siempre exactamente cuatro ruedas.",
+            "C) Cuatro ruedas o más."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La furgoneta o furgón tiene cuatro ruedas o más."
+    },
+    {
+        "_id": "PB-TM1-P53",
+        "Enunciado": "¿Para qué sirve el furgón o furgoneta?",
+        "Opciones": [
+            "A) Sirve para el transporte de nueve o más pasajeros.",
+            "B) Sirve para transportar mercancías.",
+            "C) Sirve para el arrastre de máquinas remolcadas de obras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al igual que el camión, la furgoneta o furgón sirve para transportar mercancías."
+    },
+    {
+        "_id": "PB-TM1-P54",
+        "Enunciado": "¿Cuál es la diferencia entre el furgón y el camión?",
+        "Opciones": [
+            "A) En el furgón la cabina y el resto del camión están juntas, no separadas.",
+            "B) El furgón no puede transportar más de 750 kilos.",
+            "C) El camión tiene la cabina y la zona de carga juntas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "A diferencia del camión, en el furgón la cabina y el resto están juntas."
+    },
+    {
+        "_id": "PB-TM1-P55",
+        "Enunciado": "¿Cuál es la función del tractocamión?",
+        "Opciones": [
+            "A) Realizar trabajos de movimiento de tierras.",
+            "B) Sirve para arrastrar el semirremolque.",
+            "C) Arrastrar remolques agrícolas pesados."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El tractocamión es el vehículo que sirve para arrastrar el semirremolque."
+    },
+    {
+        "_id": "PB-TM1-P56",
+        "Enunciado": "¿Qué es un conjunto de vehículos?",
+        "Opciones": [
+            "A) Automóvil formado por un vehículo a motor y un remolque o semirremolque enganchado o unido a él.",
+            "B) Un grupo de automóviles que circulan juntos por una vía.",
+            "C) Un vehículo con motor que transporta a otros vehículos terminados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se define conjunto de vehículos como el automóvil formado por un motor y un remolque o semirremolque unido."
+    },
+    {
+        "_id": "PB-TM1-P57",
+        "Enunciado": "¿Cómo está unido el remolque en un tren de carretera?",
+        "Opciones": [
+            "A) Unido directamente al vehículo a motor, sin eje.",
+            "B) Mediante un cable de seguridad de acero.",
+            "C) Enganchado al vehículo a motor por medio de un eje."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En un tren de carretera, el remolque está enganchado al vehículo a motor por medio de un eje."
+    },
+    {
+        "_id": "PB-TM1-P58",
+        "Enunciado": "¿Cómo se une el semirremolque en un vehículo articulado?",
+        "Opciones": [
+            "A) Está unido al vehículo a motor, sin eje.",
+            "B) Por medio de un eje adicional.",
+            "C) Mediante un enganche de bola tradicional."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el vehículo articulado, el semirremolque está unido al vehículo a motor sin eje."
+    },
+    {
+        "_id": "PB-TM1-P59",
+        "Enunciado": "¿Cuántos ejes como mínimo tiene una configuración euromodular en sus ruedas?",
+        "Opciones": [
+            "A) Cuatro ejes.",
+            "B) Ocho ejes.",
+            "C) Al menos 6 ejes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La configuración euromodular consiste en vehículos enganchados que tienen al menos 6 ejes en sus ruedas."
+    },
+    {
+        "_id": "PB-TM1-P60",
+        "Enunciado": "¿Cuál es la función de los ejes en las ruedas?",
+        "Opciones": [
+            "A) Permiten que el vehículo circule sin necesidad de neumáticos.",
+            "B) Conectan las ruedas entre sí y les ayudan a girar.",
+            "C) Sirven para amortiguar el peso de la carga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los ejes conectan las ruedas entre sí y les ayudan a girar."
+    }
+]

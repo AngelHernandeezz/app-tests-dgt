@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P61",
+        "Enunciado": "¿Qué es un motocultor según el temario?",
+        "Opciones": [
+            "A) Una máquina sin motor para el arado manual.",
+            "B) Vehículo pequeño que tiene motor y ruedas.",
+            "C) Un tipo de motocicleta adaptada para el campo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El motocultor se define como un vehículo pequeño que tiene motor y ruedas."
+    },
+    {
+        "_id": "PB-TM1-P62",
+        "Enunciado": "¿Cómo se mueve el motocultor?",
+        "Opciones": [
+            "A) La persona que lo conduce va andando y lo mueve por medio de una pieza larga.",
+            "B) Se mueve mediante control remoto inalámbrico.",
+            "C) El conductor va sentado sobre el motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el motocultor, la persona que lo conduce va andando y lo mueve por medio de una pieza larga, como un manillar."
+    },
+    {
+        "_id": "PB-TM1-P63",
+        "Enunciado": "¿Cuál es el uso principal del motocultor?",
+        "Opciones": [
+            "A) Para el transporte de materiales de construcción en grandes obras.",
+            "B) Para la limpieza y mantenimiento de parques públicos urbanos.",
+            "C) En jardinería y en agricultura para remover la tierra en huertos o terrenos pequeños."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El motocultor se utiliza sobre todo en jardinería y en agricultura para remover la tierra en huertos o terrenos pequeños."
+    },
+    {
+        "_id": "PB-TM1-P64",
+        "Enunciado": "¿Qué caracteriza a una máquina automotriz?",
+        "Opciones": [
+            "A) Vehículo de cuatro ruedas o más que se usa para hacer trabajos en el campo y en la construcción.",
+            "B) Es un vehículo remolcado destinado a la siembra.",
+            "C) Es un vehículo de dos ruedas para mensajería rural."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La máquina automotriz es un vehículo de cuatro ruedas o más usado para trabajos en el campo y la construcción."
+    },
+    {
+        "_id": "PB-TM1-P65",
+        "Enunciado": "¿Qué dos tipos de vehículos especiales remolcados existen?",
+        "Opciones": [
+            "A) Caravana y semirremolque de carga.",
+            "B) Remolque agrícola y máquina remolcada.",
+            "C) Plataforma móvil y eje de transporte."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Existen dos tipos de vehículos especiales remolcados: el remolque agrícola y la máquina remolcada."
+    },
+    {
+        "_id": "PB-TM1-P66",
+        "Enunciado": "¿Qué es un remolque agrícola?",
+        "Opciones": [
+            "A) Vehículo para hacer trabajos en el campo que tiene que ser arrastrado por un tractor o por otros vehículos especiales.",
+            "B) Un vehículo automóvil diseñado exclusivamente para la cosecha.",
+            "C) Una plataforma motorizada que ayuda al tractor en pendientes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El remolque agrícola es un vehículo para trabajos de campo que debe ser arrastrado por un tractor o vehículos especiales."
+    },
+    {
+        "_id": "PB-TM1-P67",
+        "Enunciado": "¿Para qué sirve una máquina remolcada?",
+        "Opciones": [
+            "A) Para transportar a los trabajadores a las zonas de obra.",
+            "B) Para realizar trabajos de pavimentación en autopistas únicamente.",
+            "C) Sirve para hacer trabajos en obras, en el campo o en otros servicios."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La máquina remolcada sirve para hacer trabajos en obras, en el campo o en otros servicios, y debe ser arrastrada."
+    },
+    {
+        "_id": "PB-TM1-P68",
+        "Enunciado": "¿Por qué algunos vehículos que llevan motor no se consideran 'vehículos a motor'?",
+        "Opciones": [
+            "A) Porque tienen unas características especiales.",
+            "B) Porque su motor es siempre de combustión interna.",
+            "C) Porque no pueden circular por vías públicas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Algunos vehículos con motor no se consideran 'vehículos a motor' por tener características especiales."
+    },
+    {
+        "_id": "PB-TM1-P69",
+        "Enunciado": "¿Cómo funciona el tranvía?",
+        "Opciones": [
+            "A) Mediante un sistema de inducción magnética sin contacto.",
+            "B) Utilizando neumáticos especiales para circular por vías férreas.",
+            "C) A través de raíles puestos en la carretera o en la calle."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El tranvía funciona a través de raíles puestos en la carretera o en la calle."
+    },
+    {
+        "_id": "PB-TM1-P70",
+        "Enunciado": "¿Cuántas ruedas puede tener un ciclomotor?",
+        "Opciones": [
+            "A) Dos o tres ruedas, pero nunca cuatro.",
+            "B) Dos, tres o cuatro ruedas.",
+            "C) Siempre exactamente dos ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los ciclomotores pueden ser vehículos de dos, tres o cuatro ruedas."
+    },
+    {
+        "_id": "PB-TM1-P71",
+        "Enunciado": "¿Qué tipo de motor tienen los ciclomotores?",
+        "Opciones": [
+            "A) Motores de alta cilindrada para competición.",
+            "B) Motores exclusivamente eléctricos de gran par motor.",
+            "C) Motores con poca potencia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los ciclomotores se caracterizan por tener motores con poca potencia."
+    },
+    {
+        "_id": "PB-TM1-P72",
+        "Enunciado": "¿Cuál es la velocidad máxima que alcanzan los ciclomotores?",
+        "Opciones": [
+            "A) 25 kilómetros por hora.",
+            "B) 45 kilómetros por hora.",
+            "C) 60 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La velocidad máxima que alcanzan los ciclomotores es de 45 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM1-P73",
+        "Enunciado": "¿Cuántas personas pueden viajar como máximo en un ciclomotor?",
+        "Opciones": [
+            "A) Tres personas si tiene tres ruedas.",
+            "B) Solo una persona.",
+            "C) Dos personas como máximo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En los ciclomotores pueden viajar dos personas como máximo."
+    },
+    {
+        "_id": "PB-TM1-P74",
+        "Enunciado": "¿Para quién se fabrican los vehículos para personas de movilidad reducida?",
+        "Opciones": [
+            "A) Para el transporte de heridos en centros hospitalarios.",
+            "B) Se fabrican para que los usen personas que tienen una discapacidad física.",
+            "C) Para personas mayores que no disponen de permiso de conducir."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Estos vehículos se fabrican específicamente para personas con discapacidad física."
+    },
+    {
+        "_id": "PB-TM1-P75",
+        "Enunciado": "¿Qué velocidad máxima alcanzan los vehículos para personas de movilidad reducida?",
+        "Opciones": [
+            "A) 45 kilómetros por hora.",
+            "B) 50 kilómetros por hora.",
+            "C) 25 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La velocidad máxima que alcanzan es de 45 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM1-P76",
+        "Enunciado": "¿Cuánto pesa como máximo un vehículo para personas de movilidad reducida?",
+        "Opciones": [
+            "A) 350 kilos.",
+            "B) 750 kilos.",
+            "C) 450 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Un vehículo para personas de movilidad reducida pesa como máximo 350 kilos."
+    },
+    {
+        "_id": "PB-TM1-P77",
+        "Enunciado": "¿Qué tipo de motor tienen los vehículos de movilidad personal (VMP)?",
+        "Opciones": [
+            "A) No tienen motor, son de tracción humana.",
+            "B) Motor de explosión de dos tiempos.",
+            "C) Motor eléctrico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos de movilidad personal, como el patín eléctrico, tienen un motor eléctrico."
+    },
+    {
+        "_id": "PB-TM1-P78",
+        "Enunciado": "¿Qué velocidad alcanzan los vehículos de movilidad personal?",
+        "Opciones": [
+            "A) Exactamente 15 kilómetros por hora.",
+            "B) Hasta 45 kilómetros por hora.",
+            "C) Entre 6 y 25 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los VMP alcanzan una velocidad de entre 6 y 25 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM1-P79",
+        "Enunciado": "¿Cuántas personas pueden viajar en un vehículo de movilidad personal?",
+        "Opciones": [
+            "A) Una persona y un niño como máximo.",
+            "B) Solo puede viajar una persona.",
+            "C) Dos personas si el vehículo dispone de plataforma ancha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En este tipo de vehículos solo puede viajar una persona."
+    },
+    {
+        "_id": "PB-TM1-P80",
+        "Enunciado": "¿Quién es el conductor según el temario?",
+        "Opciones": [
+            "A) Persona que conduce un vehículo o lleva el control de los mandos en el aprendizaje.",
+            "B) Únicamente el titular del vehículo cuando está circulando.",
+            "C) Cualquier persona que se encuentre dentro de un vehículo en movimiento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Conductor es la persona que conduce o quien lleva el control de los mandos añadidos en vehículos de autoescuela."
+    },
+    {
+        "_id": "PB-TM1-P81",
+        "Enunciado": "¿Qué es un peatón?",
+        "Opciones": [
+            "A) Persona que espera en una parada de transporte público.",
+            "B) Persona que va andando por la acera y la carretera.",
+            "C) Persona que utiliza cualquier vehículo sin motor para desplazarse."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se define peatón como la persona que va andando por la acera y la carretera."
+    },
+    {
+        "_id": "PB-TM1-P82",
+        "Enunciado": "¿Se consideran peatones las personas que empujan una silla de ruedas?",
+        "Opciones": [
+            "A) Solo si circulan por zonas peatonales exclusivas.",
+            "B) No, se consideran conductores de vehículos sin motor.",
+            "C) Sí, también son peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "También son peatones las personas que arrastran o empujan una silla de ruedas o cualquier vehículo pequeño sin motor."
+    },
+    {
+        "_id": "PB-TM1-P83",
+        "Enunciado": "¿Es peatón una persona que lleva de la mano un ciclomotor de dos ruedas?",
+        "Opciones": [
+            "A) Solo si el motor está apagado y bloqueado.",
+            "B) No, porque el ciclomotor tiene motor.",
+            "C) Sí, son peatones las personas que van andando y llevan consigo un ciclo o ciclomotor de dos ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las personas que van andando y llevan un ciclo o ciclomotor de dos ruedas se consideran peatones."
+    },
+    {
+        "_id": "PB-TM1-P84",
+        "Enunciado": "¿Quién es el titular del vehículo?",
+        "Opciones": [
+            "A) Persona que tiene puesto a su nombre el vehículo en el registro oficial.",
+            "B) La persona que conduce el vehículo en el momento de una inspección.",
+            "C) El fabricante o importador del vehículo en España."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El titular es la persona que tiene puesto a su nombre el vehículo en el registro oficial que corresponda."
+    },
+    {
+        "_id": "PB-TM1-P85",
+        "Enunciado": "¿De qué es responsable el titular del vehículo respecto a la conducción?",
+        "Opciones": [
+            "A) De que no conduzcan ese vehículo personas que no tienen permiso de conducir.",
+            "B) De pagar todas las multas de aparcamiento del conductor habitual.",
+            "C) De realizar el mantenimiento mecánico diario del motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El titular es responsable de que no conduzcan su vehículo personas sin el permiso necesario."
+    },
+    {
+        "_id": "PB-TM1-P86",
+        "Enunciado": "¿Qué debe hacer el titular del vehículo con su documentación?",
+        "Opciones": [
+            "A) Guardarla siempre en su domicilio particular por seguridad.",
+            "B) Llevarla siempre en el vehículo y enseñarla a las autoridades cuando se la pidan.",
+            "C) Entregarla a la policía cada vez que cambie de domicilio."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El titular debe llevar siempre la documentación en el vehículo para enseñarla si se la piden."
+    },
+    {
+        "_id": "PB-TM1-P87",
+        "Enunciado": "¿Quién es el conductor habitual?",
+        "Opciones": [
+            "A) Persona que trabaja profesionalmente como conductor de camiones.",
+            "B) El titular del vehículo cuando lo usa más de tres veces por semana.",
+            "C) Persona que suele conducir un vehículo, aunque no sea el titular."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El conductor habitual es la persona que suele conducir el vehículo aunque no sea el propietario."
+    },
+    {
+        "_id": "PB-TM1-P88",
+        "Enunciado": "¿Qué requisito debe cumplir el conductor habitual?",
+        "Opciones": [
+            "A) Tener una antigüedad mínima de cinco años en el permiso de conducir.",
+            "B) Debe tener el permiso de conducir necesario para conducir ese vehículo.",
+            "C) Ser familiar directo del titular del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El conductor habitual debe disponer del permiso de conducir correspondiente al vehículo que maneja."
+    },
+    {
+        "_id": "PB-TM1-P89",
+        "Enunciado": "¿Quién autoriza a una persona a ser conductor habitual?",
+        "Opciones": [
+            "A) El titular del vehículo.",
+            "B) La empresa aseguradora del vehículo.",
+            "C) La Jefatura Provincial de Tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El titular del vehículo es quien autoriza a esa persona a ser conductor habitual."
+    },
+    {
+        "_id": "PB-TM1-P90",
+        "Enunciado": "¿Para qué se han creado los vehículos de la categoría M?",
+        "Opciones": [
+            "A) Para el transporte de escombros y materiales de construcción.",
+            "B) Para transportar a personas y sus equipajes.",
+            "C) Para el transporte exclusivo de mercancías perecederas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La categoría M incluye vehículos a motor creados para transportar a personas y sus equipajes."
+    }
+]

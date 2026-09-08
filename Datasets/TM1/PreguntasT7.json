@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P181",
+        "Enunciado": "¿Qué vehículos deben tener seguro obligatorio de responsabilidad civil si el propietario vive en España?",
+        "Opciones": [
+            "A) Todos los vehículos con motor, excepto algunas excepciones específicas.",
+            "B) Únicamente los turismos de uso privado.",
+            "C) Solo los camiones y autobuses destinados al transporte público."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario indica que todos los vehículos con motor deben tener seguro obligatorio si el propietario vive en España, salvo excepciones."
+    },
+    {
+        "_id": "PB-TM1-P182",
+        "Enunciado": "¿Cuál de los siguientes vehículos NO está obligado a tener seguro de responsabilidad civil?",
+        "Opciones": [
+            "A) Cuatriciclos pesados.",
+            "B) Motocicletas con sidecar.",
+            "C) Trenes y tranvías."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Entre las excepciones al seguro obligatorio se encuentran los trenes y los tranvías."
+    },
+    {
+        "_id": "PB-TM1-P183",
+        "Enunciado": "¿Están obligadas las sillas de ruedas a contratar el seguro obligatorio de responsabilidad civil?",
+        "Opciones": [
+            "A) Sí, siempre que circulen por la calzada.",
+            "B) No, son una de las excepciones citadas en el documento.",
+            "C) Solo si disponen de un motor eléctrico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las sillas de ruedas están exentas de la obligación de tener seguro obligatorio de responsabilidad civil."
+    },
+    {
+        "_id": "PB-TM1-P184",
+        "Enunciado": "¿Deben tener seguro los juguetes que funcionan con motor?",
+        "Opciones": [
+            "A) Solo si se utilizan en parques públicos.",
+            "B) No, se consideran una excepción a la regla general de aseguramiento.",
+            "C) Sí, si superan la velocidad de 6 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los juguetes con motor no necesitan tener seguro de responsabilidad civil."
+    },
+    {
+        "_id": "PB-TM1-P185",
+        "Enunciado": "¿Qué otros vehículos no necesitan seguro si no pueden cargar más de 750 kilos?",
+        "Opciones": [
+            "A) Los remolques, semirremolques y máquinas remolcadas.",
+            "B) Ciclomotores de dos ruedas.",
+            "C) Turismos ligeros y motocicletas de baja cilindrada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "No necesitan seguro los remolques, semirremolques y máquinas remolcadas que no puedan cargar más de 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P186",
+        "Enunciado": "¿Qué cubren los daños a objetos en el seguro obligatorio?",
+        "Opciones": [
+            "A) Los daños que el vehículo cause a algún objeto, como arreglar una farola si chocas contra ella.",
+            "B) Los desperfectos mecánicos del propio vehículo asegurado tras un choque.",
+            "C) El robo de objetos personales que el conductor haya dejado en el maletero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El seguro cubre los daños que el vehículo causa a objetos ajenos, como por ejemplo una farola."
+    },
+    {
+        "_id": "PB-TM1-P187",
+        "Enunciado": "En caso de atropello a un peatón, ¿qué cubre el seguro obligatorio?",
+        "Opciones": [
+            "A) Solo si el peatón cruzaba correctamente por un paso señalizado.",
+            "B) Únicamente los gastos de defensa legal del conductor.",
+            "C) Los daños causados a la otra persona."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El seguro obligatorio cubre los daños causados a otra persona, poniendo como ejemplo el atropello de un peatón."
+    },
+    {
+        "_id": "PB-TM1-P188",
+        "Enunciado": "¿En qué caso el seguro NO cubre los daños causados a otra persona?",
+        "Opciones": [
+            "A) Si el conductor del vehículo asegurado no es el titular del mismo.",
+            "B) Si el accidente ocurre durante la noche en una vía sin iluminación.",
+            "C) Si la otra persona tiene un mal comportamiento, como lanzarse contra el coche para ser atropellada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El seguro no cubre daños si la persona afectada tiene un mal comportamiento deliberado, como lanzarse contra el vehículo."
+    },
+    {
+        "_id": "PB-TM1-P189",
+        "Enunciado": "¿Cubre el seguro obligatorio los daños a personas provocados por un huracán o un incendio?",
+        "Opciones": [
+            "A) Solo si el conductor no pudo evitar el área de la catástrofe.",
+            "B) No, porque son motivos que no tienen que ver con la conducción.",
+            "C) Sí, siempre que el vehículo esté en movimiento en ese momento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El seguro no cubre daños por motivos ajenos a la conducción, como incendios o huracanes."
+    },
+    {
+        "_id": "PB-TM1-P190",
+        "Enunciado": "¿Qué lesiones físicas NO están cubiertas por el seguro obligatorio de responsabilidad civil?",
+        "Opciones": [
+            "A) Las heridas de los pasajeros que viajen en el asiento trasero.",
+            "B) Las lesiones que en un accidente sufra el conductor del vehículo asegurado.",
+            "C) Las lesiones del peatón que cruzaba distraído."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El seguro obligatorio no cubre las lesiones que sufra el propio conductor del vehículo asegurado."
+    },
+    {
+        "_id": "PB-TM1-P191",
+        "Enunciado": "¿Están cubiertos por el seguro los daños de los objetos que están dentro del coche de la persona que conduce?",
+        "Opciones": [
+            "A) No, estos objetos no están cubiertos por el seguro obligatorio.",
+            "B) Sí, siempre que se presente la factura de compra de dichos objetos.",
+            "C) Solo si los objetos sufren daños por rotura de cristales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El seguro obligatorio no cubre los daños que sufran los objetos situados en el interior del vehículo del conductor."
+    },
+    {
+        "_id": "PB-TM1-P192",
+        "Enunciado": "¿Qué ocurre con los daños que el accidente provoque en los objetos de los familiares de la persona asegurada?",
+        "Opciones": [
+            "A) Se cubren mediante una ampliación automática de la póliza básica.",
+            "B) Están cubiertos solo si el familiar convive en el mismo domicilio.",
+            "C) No están cubiertos por el seguro obligatorio de responsabilidad civil."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El seguro no cubre los daños provocados en los objetos de la persona asegurada, del conductor o de sus familiares."
+    },
+    {
+        "_id": "PB-TM1-P193",
+        "Enunciado": "¿Qué ejemplo proporciona el texto sobre daños no cubiertos a bienes de familiares?",
+        "Opciones": [
+            "A) Romper la puerta del garaje de un hermano al entrar en su casa.",
+            "B) El robo de una bicicleta propiedad de un hijo dentro del coche.",
+            "C) Chocar contra el vehículo de un primo que estaba mal aparcado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Como ejemplo de exclusión, el texto menciona no cubrir el arreglo de la puerta del garaje de un hermano."
+    },
+    {
+        "_id": "PB-TM1-P194",
+        "Enunciado": "¿Cubre el seguro los daños a personas que no llevan casco si es obligatorio llevarlo?",
+        "Opciones": [
+            "A) Sí, pero el seguro reclamará posteriormente el importe al conductor.",
+            "B) Solo si se demuestra que el casco no habría evitado las lesiones.",
+            "C) No, en ese caso el seguro no cubre los daños a esas personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El seguro obligatorio no cubre los daños a personas que incumplan la obligación de llevar casco."
+    },
+    {
+        "_id": "PB-TM1-P195",
+        "Enunciado": "¿Qué sucede con los accidentes y daños que se produzcan en un vehículo robado?",
+        "Opciones": [
+            "A) Los cubre el seguro del propietario legal pero con una franquicia alta.",
+            "B) No están cubiertos por el seguro obligatorio.",
+            "C) Están cubiertos íntegramente por el Consorcio de Compensación de Seguros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El documento establece que los accidentes y daños producidos en un vehículo robado no están cubiertos."
+    },
+    {
+        "_id": "PB-TM1-P196",
+        "Enunciado": "Tras un accidente, ¿cuál es la obligación de los conductores respecto a sus seguros?",
+        "Opciones": [
+            "A) Esperar a que la autoridad policial realice el atestado oficial.",
+            "B) Tienen que informar a sus seguros obligatoriamente.",
+            "C) Informar únicamente si hay heridos de gravedad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los conductores de todos los vehículos implicados en un accidente tienen la obligación de informar a sus seguros."
+    },
+    {
+        "_id": "PB-TM1-P197",
+        "Enunciado": "¿De cuánto tiempo disponen los conductores para informar a sus seguros tras un accidente?",
+        "Opciones": [
+            "A) Como muy tarde 7 días después del accidente.",
+            "B) Tienen un plazo máximo de 15 días naturales.",
+            "C) Deben hacerlo en las primeras 24 horas sin excepción."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El plazo máximo para informar al seguro tras un accidente es de 7 días."
+    },
+    {
+        "_id": "PB-TM1-P198",
+        "Enunciado": "¿Qué ocurre si un vehículo no dispone de seguro obligatorio?",
+        "Opciones": [
+            "A) Solo puede circular por vías urbanas secundarias.",
+            "B) Puede circular si el conductor firma una declaración de responsabilidad personal.",
+            "C) El vehículo no puede circular."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una de las consecuencias de no asegurar el vehículo es que este no puede circular."
+    },
+    {
+        "_id": "PB-TM1-P199",
+        "Enunciado": "Si un agente de tráfico detecta un vehículo sin seguro circulando, ¿qué hará?",
+        "Opciones": [
+            "A) Le retirará el permiso de conducir al conductor de forma permanente.",
+            "B) Le permitirá llegar a su destino pero con una citación judicial.",
+            "C) Inmovilizará el vehículo en ese momento."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si un agente para un vehículo sin seguro, procederá a su inmovilización inmediata."
+    },
+    {
+        "_id": "PB-TM1-P200",
+        "Enunciado": "¿Quién es responsable de pagar los gastos del lugar en el que el vehículo esté parado (inmovilizado) por falta de seguro?",
+        "Opciones": [
+            "A) La Jefatura Provincial de Tráfico.",
+            "B) El propietario del vehículo.",
+            "C) El conductor habitual si no coincide con el dueño."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El propietario debe pagar los gastos del depósito o lugar donde el vehículo quede inmovilizado por no tener seguro."
+    },
+    {
+        "_id": "PB-TM1-P201",
+        "Enunciado": "Además de la inmovilización, ¿qué otra sanción recibe el propietario de un vehículo no asegurado?",
+        "Opciones": [
+            "A) Tiene que pagar una multa.",
+            "B) La realización obligatoria de trabajos comunitarios.",
+            "C) La prohibición de comprar otro vehículo durante dos años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "No asegurar el vehículo conlleva, además de otras medidas, el pago de una multa por parte del propietario."
+    },
+    {
+        "_id": "PB-TM1-P202",
+        "Enunciado": "¿Qué documento se debe llevar siempre en el vehículo para demostrar que está asegurado?",
+        "Opciones": [
+            "A) La póliza completa firmada por ambas partes.",
+            "B) El justificante de pago del seguro.",
+            "C) Una certificación sellada por un notario público."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es obligatorio llevar siempre en el vehículo el justificante de pago del seguro."
+    },
+    {
+        "_id": "PB-TM1-P203",
+        "Enunciado": "¿Qué información aparece en el justificante de pago del seguro respecto a la compañía?",
+        "Opciones": [
+            "A) El nombre del agente que tramitó la póliza.",
+            "B) La dirección de la oficina central de la aseguradora.",
+            "C) Nombre de la empresa aseguradora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El justificante debe incluir el nombre de la empresa aseguradora."
+    },
+    {
+        "_id": "PB-TM1-P204",
+        "Enunciado": "¿Qué dato identificativo del vehículo figura en el justificante de pago del seguro?",
+        "Opciones": [
+            "A) El color oficial de la carrocería.",
+            "B) Número de matrícula del vehículo.",
+            "C) El número de bastidor grabado en el chasis."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En el justificante del seguro debe aparecer el número de matrícula del vehículo."
+    },
+    {
+        "_id": "PB-TM1-P205",
+        "Enunciado": "Además de la matrícula y la aseguradora, ¿qué otro elemento se menciona que aparece en el justificante?",
+        "Opciones": [
+            "A) Placa del seguro.",
+            "B) Fotografía del titular del vehículo.",
+            "C) El código de barras de la Inspección Técnica."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El documento indica que en el justificante aparecerá la placa del seguro."
+    },
+    {
+        "_id": "PB-TM1-P206",
+        "Enunciado": "¿Qué fecha límite debe aparecer obligatoriamente en el justificante de pago del seguro?",
+        "Opciones": [
+            "A) Fecha en la que hay que renovar el seguro.",
+            "B) Fecha de la última revisión mecánica en taller.",
+            "C) Fecha en la que se obtuvo el primer permiso de conducir."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El justificante debe mostrar la fecha de renovación del seguro."
+    },
+    {
+        "_id": "PB-TM1-P207",
+        "Enunciado": "¿Qué información relativa al alcance del seguro aparece en el justificante de pago?",
+        "Opciones": [
+            "A) El precio desglosado de las tasas e impuestos.",
+            "B) La lista de talleres concertados para reparaciones.",
+            "C) Indicación de qué daños cubre el seguro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El justificante incluye una indicación sobre los daños que el seguro cubre."
+    },
+    {
+        "_id": "PB-TM1-P208",
+        "Enunciado": "¿Quién es el responsable de pagar la multa por una infracción cometida como conductor o peatón?",
+        "Opciones": [
+            "A) La compañía aseguradora si la falta es por motivo de accidente.",
+            "B) Siempre el titular del vehículo involucrado.",
+            "C) Por norma general, la persona que comete la falta o infracción."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Generalmente, la responsabilidad del pago de la multa recae sobre quien comete la infracción."
+    },
+    {
+        "_id": "PB-TM1-P209",
+        "Enunciado": "Si un peatón comete una falta o infracción de tráfico, ¿quién debe pagar la sanción?",
+        "Opciones": [
+            "A) El ayuntamiento de la localidad donde ocurrió la falta.",
+            "B) El propio peatón que comete la falta.",
+            "C) El conductor del vehículo que circulaba más cerca en ese momento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al igual que el conductor, si un peatón comete una falta es él quien debe pagar la multa."
+    },
+    {
+        "_id": "PB-TM1-P210",
+        "Enunciado": "¿Existen casos en los que los conductores son responsables de una infracción sin haber provocado ellos un accidente?",
+        "Opciones": [
+            "A) Sí, el temario cita casos específicos de responsabilidad del conductor.",
+            "B) No, la responsabilidad solo existe si hay colisión o atropello.",
+            "C) Solo si se trata de conductores profesionales de transporte."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El documento afirma que hay casos donde los conductores son responsables aunque no hayan provocado ellos el accidente."
+    }
+]

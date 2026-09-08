@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P1",
+        "Enunciado": "¿Qué es un vehículo según las definiciones del temario?",
+        "Opciones": [
+            "A) Aparato preparado para circular por vías, calles, carreteras y terrenos de todo tipo.",
+            "B) Las máquinas industriales destinadas a trabajos de construcción o campo.",
+            "C) Únicamente los medios de transporte con motor diseñados para la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario define vehículo como el aparato preparado para circular por vías, calles, carreteras y terrenos de todo tipo."
+    },
+    {
+        "_id": "PB-TM1-P2",
+        "Enunciado": "¿Cómo se dividen inicialmente los tipos de vehículos en el documento?",
+        "Opciones": [
+            "A) Vehículos sin motor y vehículos con motor.",
+            "B) Automóviles y vehículos especiales.",
+            "C) Vehículos ligeros y vehículos pesados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La clasificación inicial de los tipos de vehículos los divide en vehículos sin motor y vehículos con motor."
+    },
+    {
+        "_id": "PB-TM1-P3",
+        "Enunciado": "¿Qué otro grupo se menciona en el índice de la clasificación de vehículos además de sin motor y con motor?",
+        "Opciones": [
+            "A) Vehículos de tracción animal únicamente.",
+            "B) Vehículos de movilidad personal eléctricos.",
+            "C) Otro tipo de vehículos con motor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario incluye un tercer apartado denominado 'Otro tipo de vehículos con motor' dentro de las definiciones de vehículos."
+    },
+    {
+        "_id": "PB-TM1-P4",
+        "Enunciado": "¿Cuáles son los tipos de vehículos sin motor listados?",
+        "Opciones": [
+            "A) Bicicletas, patines eléctricos y sillas de ruedas.",
+            "B) Ciclomotores, ciclos y tranvías.",
+            "C) Vehículo arrastrado por animales, ciclo y bicicleta, remolque y semirremolque."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Según el temario, los vehículos sin motor son: vehículo arrastrado por animales, ciclo y bicicleta, remolque y semirremolque."
+    },
+    {
+        "_id": "PB-TM1-P5",
+        "Enunciado": "¿Qué ejemplo de vehículo arrastrado por animales se proporciona?",
+        "Opciones": [
+            "A) Arado agrícola tradicional.",
+            "B) Coche de caballos.",
+            "C) Carro de bueyes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El documento cita el coche de caballos como ejemplo de vehículo arrastrado por animales."
+    },
+    {
+        "_id": "PB-TM1-P6",
+        "Enunciado": "¿Qué es un ciclo?",
+        "Opciones": [
+            "A) Vehículo de dos o más ruedas con pedales que se mueve por la energía e impulso de la persona que lo conduce.",
+            "B) Cualquier aparato de transporte individual que no supere los 25 km/h.",
+            "C) Un vehículo de dos ruedas con motor de baja potencia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se define ciclo como un vehículo de dos o más ruedas que lleva pedales y se mueve por la energía y el impulso de quien lo conduce."
+    },
+    {
+        "_id": "PB-TM1-P7",
+        "Enunciado": "¿Cómo se define la bicicleta?",
+        "Opciones": [
+            "A) Como un ciclo de dos ruedas.",
+            "B) Como un vehículo de movilidad personal con pedales.",
+            "C) Como un vehículo sin motor de tracción humana exclusivamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario especifica que la bicicleta es un ciclo de dos ruedas."
+    },
+    {
+        "_id": "PB-TM1-P8",
+        "Enunciado": "¿Qué es un remolque?",
+        "Opciones": [
+            "A) Un vehículo sin motor que se apoya en el vehículo tractor repartiendo su peso.",
+            "B) Un vehículo motorizado que se utiliza para empujar a otros vehículos.",
+            "C) Plataforma con ruedas que se engancha a un vehículo con motor, por medio de un eje, para transportar cargas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un remolque es una plataforma con ruedas que se engancha a un vehículo con motor mediante un eje para transportar cargas."
+    },
+    {
+        "_id": "PB-TM1-P9",
+        "Enunciado": "¿Qué es un eje?",
+        "Opciones": [
+            "A) El sistema de frenado automático de los remolques.",
+            "B) Barra que atraviesa un objeto y le ayuda a moverse y a girar.",
+            "C) La pieza de seguridad que une el enganche al chasis."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El eje se define como una barra que atraviesa un objeto y le ayuda a moverse y a girar."
+    },
+    {
+        "_id": "PB-TM1-P10",
+        "Enunciado": "¿Qué función cumple el eje en un remolque?",
+        "Opciones": [
+            "A) Sirve para conectar el sistema eléctrico entre vehículos.",
+            "B) Hace que la carga se reparta y que se pueda conducir mejor.",
+            "C) Permite alcanzar mayores velocidades en carretera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En un remolque, el eje hace que la carga se reparta y que se pueda conducir mejor."
+    },
+    {
+        "_id": "PB-TM1-P11",
+        "Enunciado": "¿Cuál es el peso máximo de un remolque ligero con carga?",
+        "Opciones": [
+            "A) 750 kilos.",
+            "B) 500 kilos.",
+            "C) 350 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El remolque ligero pesa con carga como máximo 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P12",
+        "Enunciado": "¿Cuándo se considera que un remolque es pesado?",
+        "Opciones": [
+            "A) Cuando requiere una matrícula específica.",
+            "B) Cuando su peso sin carga supera los 750 kilos.",
+            "C) Cuando con carga puede pesar más de 750 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un remolque es pesado cuando con carga puede pesar más de 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P13",
+        "Enunciado": "¿Qué es un semirremolque?",
+        "Opciones": [
+            "A) Remolque que se une de forma directa a un vehículo con motor, sin eje.",
+            "B) Un remolque de dimensiones reducidas para equipaje.",
+            "C) Un remolque que posee su propio sistema de propulsión."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se define semirremolque como el remolque que se une de forma directa a un vehículo con motor, sin eje."
+    },
+    {
+        "_id": "PB-TM1-P14",
+        "Enunciado": "¿Cuál es el peso máximo con carga de un semirremolque ligero?",
+        "Opciones": [
+            "A) 450 kilos.",
+            "B) 750 kilos.",
+            "C) 1.000 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El semirremolque ligero pesa con carga como máximo 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P15",
+        "Enunciado": "¿Qué caracteriza a un semirremolque no ligero?",
+        "Opciones": [
+            "A) Que requiere un tractor de obras para ser desplazado.",
+            "B) Que con carga puede pesar más de 750 kilos.",
+            "C) Que tiene más de dos ejes de apoyo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El semirremolque no ligero es aquel que con carga puede pesar más de 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P16",
+        "Enunciado": "¿En qué grupos se clasifican los vehículos a motor?",
+        "Opciones": [
+            "A) En vehículos de pasajeros y de carga.",
+            "B) En vehículos urbanos e interurbanos.",
+            "C) Automóviles y vehículos especiales."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos que necesitan motor para funcionar se clasifican en automóviles y vehículos especiales."
+    },
+    {
+        "_id": "PB-TM1-P17",
+        "Enunciado": "¿Para qué sirven los automóviles?",
+        "Opciones": [
+            "A) Para transportar a personas y cosas, y para mover o arrastrar otros vehículos.",
+            "B) Únicamente para realizar trabajos agrícolas y de construcción.",
+            "C) Exclusivamente para el transporte de mercancías peligrosas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los automóviles sirven para transportar a personas y cosas, y también para mover o arrastrar otros vehículos."
+    },
+    {
+        "_id": "PB-TM1-P18",
+        "Enunciado": "¿Cuál es la función de los vehículos especiales?",
+        "Opciones": [
+            "A) Hacer trabajos o servicios determinados.",
+            "B) El transporte urgente de personas heridas.",
+            "C) El traslado de cargas de grandes dimensiones."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos especiales sirven para hacer trabajos o servicios determinados."
+    },
+    {
+        "_id": "PB-TM1-P19",
+        "Enunciado": "¿Cómo pueden ser los vehículos especiales en cuanto a su tracción?",
+        "Opciones": [
+            "A) Deben ser siempre remolcados por automóviles.",
+            "B) Algunos tienen motor propio y otros son remolcados.",
+            "C) Solo pueden tener motor propio."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario indica que algunos vehículos especiales tienen motor propio y otros son remolcados."
+    },
+    {
+        "_id": "PB-TM1-P20",
+        "Enunciado": "¿Qué ejemplos de vehículos especiales se mencionan?",
+        "Opciones": [
+            "A) Furgonetas y camiones de transporte.",
+            "B) Turismos adaptados y ambulancias.",
+            "C) Excavadoras para mover la tierra y tractores para trabajar en el campo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Como ejemplos de vehículos especiales se citan las excavadoras y los tractores."
+    },
+    {
+        "_id": "PB-TM1-P21",
+        "Enunciado": "¿Cuáles de los siguientes se listan como tipos de automóviles?",
+        "Opciones": [
+            "A) Quad - ATV y motocultores.",
+            "B) Motocicletas de dos ruedas, con sidecar, vehículos de tres ruedas y cuatriciclo pesado.",
+            "C) Ciclomotores y tranvías."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Entre los automóviles se incluyen las motocicletas (dos ruedas y sidecar), vehículos de tres ruedas y cuatriciclos pesados."
+    },
+    {
+        "_id": "PB-TM1-P22",
+        "Enunciado": "Además de las motocicletas, ¿qué otros automóviles se enumeran?",
+        "Opciones": [
+            "A) Tractor agrícola y máquina automotriz.",
+            "B) Remolque agrícola y máquina remolcada.",
+            "C) Turismo, pick-up, derivado de turismo y mixto adaptable."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La lista de automóviles continúa con turismo, pick-up, derivado de turismo y mixto adaptable."
+    },
+    {
+        "_id": "PB-TM1-P23",
+        "Enunciado": "¿Qué otros vehículos completan la lista de automóviles?",
+        "Opciones": [
+            "A) Patines eléctricos y bicicletas con motor.",
+            "B) Autobús/Autocar, trolebús, camión, furgoneta, tractocamión, vehículo articulado y tren de carretera.",
+            "C) Excavadoras y máquinas de obras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La lista completa de automóviles incluye autobús, trolebús, camión, furgoneta, tractocamión, vehículo articulado y tren de carretera."
+    },
+    {
+        "_id": "PB-TM1-P24",
+        "Enunciado": "¿Qué vehículos especiales se clasifican como 'a motor'?",
+        "Opciones": [
+            "A) Remolque agrícola y máquina remocada.",
+            "B) Camión, furgón y vehículo articulado.",
+            "C) Quad - ATV, tractor, motocultor y máquina automotriz."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos especiales a motor son: Quad - ATV, tractor, motocultor y máquina automotriz."
+    },
+    {
+        "_id": "PB-TM1-P25",
+        "Enunciado": "¿Qué tipos de vehículos especiales remolcados existen?",
+        "Opciones": [
+            "A) Semirremolque ligero y pesado.",
+            "B) Remolque agrícola y máquina remolcada.",
+            "C) Caravana y plataforma móvil."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vehículos especiales remolcados son el remolque agrícola y la máquina remolcada."
+    },
+    {
+        "_id": "PB-TM1-P26",
+        "Enunciado": "Si una motocicleta de dos ruedas es de gasolina, ¿qué cilindrada debe tener su motor?",
+        "Opciones": [
+            "A) Una cilindrada mayor de 50 centímetros cúbicos (0,05 litros).",
+            "B) Exactamente 50 centímetros cúbicos.",
+            "C) Menor de 50 centímetros cúbicos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una de las características de las motocicletas de gasolina es tener un motor con una cilindrada mayor de 50 centímetros cúbicos."
+    },
+    {
+        "_id": "PB-TM1-P27",
+        "Enunciado": "¿Qué velocidad debe alcanzar un vehículo de dos ruedas para ser considerado motocicleta?",
+        "Opciones": [
+            "A) Una velocidad máxima de 45 kilómetros por hora.",
+            "B) Una velocidad mayor de 45 kilómetros por hora.",
+            "C) Cualquier velocidad siempre que supere los 25 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para ser una motocicleta, el vehículo debe alcanzar una velocidad mayor de 45 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM1-P28",
+        "Enunciado": "¿Qué es la cilindrada?",
+        "Opciones": [
+            "A) Medida para calcular la potencia de un motor.",
+            "B) El volumen total del depósito de combustible.",
+            "C) La distancia total que recorren los pistones."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La cilindrada es la medida para calcular la potencia de un motor."
+    },
+    {
+        "_id": "PB-TM1-P29",
+        "Enunciado": "¿En qué unidades se mide la cilindrada?",
+        "Opciones": [
+            "A) En metros cúbicos o mililitros.",
+            "B) En kilovatios o caballos de potencia.",
+            "C) En litros o en centímetros cúbicos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La cilindrada se mide en litros o en centímetros cúbicos."
+    },
+    {
+        "_id": "PB-TM1-P30",
+        "Enunciado": "¿Qué es una motocicleta con sidecar?",
+        "Opciones": [
+            "A) Un conjunto formado por motocicleta y remolque ligero.",
+            "B) Un vehículo de cuatro ruedas con manillar de moto.",
+            "C) Motocicletas de tres ruedas que tienen un asiento al lado para otra persona."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las motocicletas con sidecar son motocicletas de tres ruedas que tienen un asiento lateral para un pasajero."
+    }
+]

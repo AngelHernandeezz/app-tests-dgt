@@ -1,0 +1,68 @@
+[
+    {
+        "_id": "PB-TM1-P211",
+        "Enunciado": "¿Quién es responsable en los casos en que los pasajeros no llevan casco en vehículos donde su uso es obligatorio?",
+        "Opciones": [
+            "A) Únicamente el pasajero que no lleva el casco puesto.",
+            "B) Los conductores.",
+            "C) El titular del vehículo exclusivamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario indica que los conductores son responsables cuando los pasajeros no llevan casco en vehículos en los que es obligatorio llevarlo."
+    },
+    {
+        "_id": "PB-TM1-P212",
+        "Enunciado": "¿Qué responsabilidad tiene el conductor respecto al transporte de menores de edad?",
+        "Opciones": [
+            "A) No tiene responsabilidad si el menor viaja acompañado por otro adulto en el asiento trasero.",
+            "B) Es responsable únicamente si el menor no lleva puesto el cinturón de seguridad.",
+            "C) Es responsable de llevar a menores en vehículos en los que no está permitido que viajen niños de esa edad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El conductor es responsable de llevar a menores de edad en vehículos en los que no está permitido que viajen niños de esa edad, aunque no haya provocado un accidente."
+    },
+    {
+        "_id": "PB-TM1-P213",
+        "Enunciado": "Cuando una falta de tráfico la comete una persona menor de 18 años, ¿quién tiene la obligación de pagar la multa?",
+        "Opciones": [
+            "A) Su padre, madre o tutor.",
+            "B) El titular del vehículo de forma subsidiaria.",
+            "C) El propio menor cuando alcance la mayoría de edad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el documento, cuando las faltas las comete un menor de 18 años, la multa la debe pagar su padre, madre o tutor."
+    },
+    {
+        "_id": "PB-TM1-P214",
+        "Enunciado": "¿De qué tipo de infracciones es responsable la persona que sea titular de un vehículo?",
+        "Opciones": [
+            "A) De las faltas o infracciones relacionadas con la documentación del vehículo.",
+            "B) Únicamente de las multas de estacionamiento en zona regulada.",
+            "C) De las infracciones de velocidad cometidas por el conductor habitual."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El titular del vehículo es responsable de las faltas o infracciones relacionadas con la documentación del vehículo."
+    },
+    {
+        "_id": "PB-TM1-P215",
+        "Enunciado": "Además de la documentación, ¿qué otra responsabilidad recae sobre el titular del vehículo?",
+        "Opciones": [
+            "A) El pago de los peajes en autopistas de uso privado.",
+            "B) No cumplir con las revisiones del vehículo.",
+            "C) La limpieza exterior periódica del vehículo por motivos de visibilidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El titular es el responsable de no cumplir con las revisiones del vehículo (inspecciones técnicas)."
+    },
+    {
+        "_id": "PB-TM1-P216",
+        "Enunciado": "¿Quién es el responsable de las infracciones relacionadas con el estado en el que esté el vehículo?",
+        "Opciones": [
+            "A) El conductor que lo maneja en el momento de la inspección.",
+            "B) El taller mecánico que realizó la última revisión oficial.",
+            "C) La persona que sea titular del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La responsabilidad de las faltas relacionadas con el estado en el que esté el vehículo corresponde al titular del mismo."
+    }
+]

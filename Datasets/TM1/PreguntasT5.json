@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P121",
+        "Enunciado": "¿Cómo se pueden recuperar los puntos del permiso de conducir tras haberlos perdido?",
+        "Opciones": [
+            "A) Haciendo un curso de reeducación para conducir.",
+            "B) Pagando una tasa especial de rehabilitación en la Jefatura de Tráfico.",
+            "C) Únicamente esperando un periodo de cinco años sin cometer infracciones."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario indica que se pueden recuperar los puntos después de un tiempo haciendo un curso de reeducación para conducir."
+    },
+    {
+        "_id": "PB-TM1-P122",
+        "Enunciado": "¿Cuánto tiempo dura el curso de reeducación para recuperar los puntos?",
+        "Opciones": [
+            "A) 12 horas.",
+            "B) 24 horas.",
+            "C) 8 horas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el documento, este curso de reeducación dura 12 horas."
+    },
+    {
+        "_id": "PB-TM1-P123",
+        "Enunciado": "¿Durante cuánto tiempo se considera 'conductor novel' a la persona que consigue el permiso?",
+        "Opciones": [
+            "A) Durante los primeros seis meses.",
+            "B) Durante los dos primeros años.",
+            "C) Durante el primer año."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A la persona que consigue el permiso de conducir se le llama conductor novel durante el primer año."
+    },
+    {
+        "_id": "PB-TM1-P124",
+        "Enunciado": "¿Qué señal deben llevar los conductores noveles en su vehículo?",
+        "Opciones": [
+            "A) Una placa verde rectangular con una letra L de color blanco.",
+            "B) Una placa amarilla redonda con una letra N.",
+            "C) Un adhesivo reflectante en el parachoques delantero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los conductores noveles deben llevar una placa verde rectangular con una letra L de color blanco."
+    },
+    {
+        "_id": "PB-TM1-P125",
+        "Enunciado": "¿Dónde se debe colocar la placa de conductor novel (L)?",
+        "Opciones": [
+            "A) En el cristal delantero, en el lado del pasajero.",
+            "B) En el cristal de la parte de atrás del coche.",
+            "C) En la matrícula trasera, sin tapar los números."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Esta placa se coloca en el cristal de la parte de atrás del coche."
+    },
+    {
+        "_id": "PB-TM1-P126",
+        "Enunciado": "¿Para qué sirve que la placa L se vea bien en el vehículo?",
+        "Opciones": [
+            "A) Para que los agentes de tráfico no le impongan multas por velocidad.",
+            "B) Para permitir al conductor circular por carriles exclusivos de aprendizaje.",
+            "C) Para que los demás conductores sepan que ese coche lo conduce una persona novel."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se tiene que ver bien para que los demás conductores sepan que ese coche lo conduce una persona novel."
+    },
+    {
+        "_id": "PB-TM1-P127",
+        "Enunciado": "¿Cada cuánto tiempo debe renovar el permiso tipo B un conductor menor de 65 años?",
+        "Opciones": [
+            "A) Cada 5 años.",
+            "B) Cada 10 años.",
+            "C) Cada 15 años."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso tipo B se renueva cada 10 años si tienes menos de 65 años."
+    },
+    {
+        "_id": "PB-TM1-P128",
+        "Enunciado": "¿Cuál es el periodo de renovación del permiso B para conductores de más de 65 años?",
+        "Opciones": [
+            "A) Cada 2 años.",
+            "B) Cada 10 años.",
+            "C) Cada 5 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El permiso B se renueva cada 5 años si tienes más de 65 años."
+    },
+    {
+        "_id": "PB-TM1-P129",
+        "Enunciado": "¿Cuándo se debe pedir la renovación del permiso de conducir?",
+        "Opciones": [
+            "A) Antes de que caduque.",
+            "B) En el mes siguiente a su vencimiento.",
+            "C) El mismo día en que caduca obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Hay que pedir la renovación del permiso antes de que caduque."
+    },
+    {
+        "_id": "PB-TM1-P130",
+        "Enunciado": "Además de por caducidad, ¿en qué otro caso se debe pedir de nuevo el permiso?",
+        "Opciones": [
+            "A) Si se cambia de vehículo habitual.",
+            "B) Cada vez que se pase la inspección técnica del vehículo.",
+            "C) Si lo pierdes o te lo roban."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "También deberás pedir de nuevo el permiso de conducir si lo pierdes o te lo roban."
+    },
+    {
+        "_id": "PB-TM1-P131",
+        "Enunciado": "¿Qué cambio de datos personales obliga a pedir de nuevo el permiso de conducir?",
+        "Opciones": [
+            "A) El cambio de número de teléfono móvil.",
+            "B) El cambio de domicilio.",
+            "C) El cambio de estado civil."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario pone como ejemplo de cambio de datos personales que obliga a pedir de nuevo el permiso el cambio de domicilio."
+    },
+    {
+        "_id": "PB-TM1-P132",
+        "Enunciado": "¿Qué es el permiso de circulación?",
+        "Opciones": [
+            "A) La tarjeta que registra las inspecciones técnicas periódicas.",
+            "B) Documento que confirma que un vehículo tiene matrícula y está autorizado a circular.",
+            "C) El recibo del pago del seguro obligatorio de responsabilidad civil."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso de circulación es el documento que confirma que un vehículo tiene matrícula y está autorizado a circular."
+    },
+    {
+        "_id": "PB-TM1-P133",
+        "Enunciado": "¿Qué vehículos deben tener obligatoriamente permiso de circulación?",
+        "Opciones": [
+            "A) Solo los automóviles que superen los 3.500 kilos.",
+            "B) Únicamente los vehículos de transporte de viajeros.",
+            "C) Todos los vehículos con motor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Deben tener permiso de circulación todos los vehículos con motor."
+    },
+    {
+        "_id": "PB-TM1-P134",
+        "Enunciado": "¿Deben tener permiso de circulación los ciclomotores?",
+        "Opciones": [
+            "A) Solo si circulan por vías interurbanas.",
+            "B) Sí, los ciclomotores también deben tenerlo.",
+            "C) No, por no ser considerados vehículos a motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El documento especifica que los ciclomotores deben tener permiso de circulación."
+    },
+    {
+        "_id": "PB-TM1-P135",
+        "Enunciado": "¿Qué remolques y semirremolques deben poseer permiso de circulación?",
+        "Opciones": [
+            "A) Los que pueden transportar más de 750 kilos.",
+            "B) Ningún remolque lo necesita, usan el del vehículo tractor.",
+            "C) Todos los remolques, incluidos los ligeros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Deben tenerlo los remolques y semirremolques que pueden transportar más de 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P136",
+        "Enunciado": "¿Qué es la matrícula?",
+        "Opciones": [
+            "A) Conjunto de letras y números que identifican a los vehículos.",
+            "B) El nombre del fabricante del chasis del vehículo.",
+            "C) El código de barras que identifica el motor del automóvil."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La matrícula se define como el conjunto de letras y números que identifican a los vehículos."
+    },
+    {
+        "_id": "PB-TM1-P137",
+        "Enunciado": "¿Dónde se graba y coloca la matrícula en el vehículo?",
+        "Opciones": [
+            "A) En el cristal del parabrisas delantero.",
+            "B) En una pegatina adhesiva transparente.",
+            "C) En una placa de metal."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La matrícula se graba en una placa de metal y se coloca en el vehículo."
+    },
+    {
+        "_id": "PB-TM1-P138",
+        "Enunciado": "¿Qué datos del titular aparecen en el permiso de circulación?",
+        "Opciones": [
+            "A) Su historial de infracciones de los últimos dos años.",
+            "B) Nombre, apellidos y domicilio del titular del vehículo.",
+            "C) Únicamente el nombre y el número de DNI."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En el permiso de circulación aparecen el nombre, apellidos y domicilio del titular."
+    },
+    {
+        "_id": "PB-TM1-P139",
+        "Enunciado": "¿Qué información identifica al vehículo en el permiso de circulación?",
+        "Opciones": [
+            "A) El color de la carrocería y el tipo de neumáticos.",
+            "B) Número de matrícula del vehículo y fecha en la que se matriculó.",
+            "C) El nombre del conductor habitual y su permiso de conducir."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso incluye el número de matrícula y la fecha en la que se matriculó."
+    },
+    {
+        "_id": "PB-TM1-P140",
+        "Enunciado": "¿Qué dato sobre la capacidad del vehículo figura en el permiso de circulación?",
+        "Opciones": [
+            "A) El volumen total del maletero en litros.",
+            "B) El número máximo de maletas permitidas.",
+            "C) Número de plazas que tiene el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En el permiso aparece el número de plazas que tiene el vehículo."
+    },
+    {
+        "_id": "PB-TM1-P141",
+        "Enunciado": "¿Qué se indica en el permiso de circulación respecto al uso del vehículo?",
+        "Opciones": [
+            "A) El horario permitido de circulación para ese modelo.",
+            "B) Si sirve para transportar personas o mercancías.",
+            "C) Si el vehículo es para uso privado o compartido."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aparece el uso que se le da al vehículo, es decir, si sirve para transportar personas o mercancías."
+    },
+    {
+        "_id": "PB-TM1-P142",
+        "Enunciado": "¿Qué dato sobre el peso aparece en el permiso de circulación?",
+        "Opciones": [
+            "A) Peso máximo que puede cargar el vehículo.",
+            "B) El peso medio de los pasajeros previstos.",
+            "C) El peso del vehículo sin combustible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El permiso muestra el peso máximo que puede cargar el vehículo."
+    },
+    {
+        "_id": "PB-TM1-P143",
+        "Enunciado": "¿Qué debe hacer el titular si cambian sus datos personales respecto al vehículo?",
+        "Opciones": [
+            "A) No es necesario hacer nada si el vehículo sigue siendo el mismo.",
+            "B) Esperar a la siguiente renovación del permiso de conducir.",
+            "C) Comunicar cualquier cambio en sus datos a la Jefatura de Tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El titular de un vehículo debe comunicar cualquier cambio en sus datos a la Jefatura de Tráfico."
+    },
+    {
+        "_id": "PB-TM1-P144",
+        "Enunciado": "¿Cuál es el plazo máximo para comunicar un cambio de datos personales a Tráfico?",
+        "Opciones": [
+            "A) 15 días después del cambio.",
+            "B) 30 días después del cambio.",
+            "C) 10 días antes del cambio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Lo debe hacer como muy tarde 15 días después del cambio."
+    },
+    {
+        "_id": "PB-TM1-P145",
+        "Enunciado": "¿Qué debe comunicar el titular si se desprende de su vehículo?",
+        "Opciones": [
+            "A) Únicamente la baja temporal en su ayuntamiento.",
+            "B) Debe comunicar si vende o entrega el vehículo a otra persona.",
+            "C) Debe informar a la empresa fabricante del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "También debe comunicar si vende o entrega el vehículo a otra persona."
+    },
+    {
+        "_id": "PB-TM1-P146",
+        "Enunciado": "¿Qué plazo tiene el titular para comunicar la venta o entrega de un vehículo?",
+        "Opciones": [
+            "A) Tiene un mes para comunicarlo.",
+            "B) Tiene 15 días para comunicarlo.",
+            "C) Tiene 10 días para comunicarlo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En caso de venta o entrega, el titular tiene 10 días para comunicarlo."
+    },
+    {
+        "_id": "PB-TM1-P147",
+        "Enunciado": "¿Qué trámite debe realizar la persona que compra o recibe un vehículo?",
+        "Opciones": [
+            "A) Pedir que se renueve el permiso de circulación a su nombre.",
+            "B) Avisar a la policía local de su nuevo domicilio.",
+            "C) Solicitar una nueva placa de matrícula metálica."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La persona que compra o recibe el vehículo debe pedir que se renueve el permiso de circulación a su nombre."
+    },
+    {
+        "_id": "PB-TM1-P148",
+        "Enunciado": "¿Qué es la tarjeta de inspección técnica (ITV)?",
+        "Opciones": [
+            "A) Un documento que autoriza al titular a realizar reparaciones mecánicas.",
+            "B) La factura detallada de la última revisión en el taller oficial.",
+            "C) Documento que demuestra que un vehículo no tiene averías y está en buenas condiciones para funcionar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La tarjeta de inspección técnica es el documento que demuestra que un vehículo no tiene averías y está en buenas condiciones."
+    },
+    {
+        "_id": "PB-TM1-P149",
+        "Enunciado": "¿Qué vehículos con motor deben tener la tarjeta de inspección técnica?",
+        "Opciones": [
+            "A) Todos los vehículos con motor.",
+            "B) Únicamente los vehículos de más de 10 años.",
+            "C) Solo los que se utilicen para transporte público."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Deben tener la tarjeta de inspección técnica todos los vehículos con motor."
+    },
+    {
+        "_id": "PB-TM1-P150",
+        "Enunciado": "Además de los vehículos con motor, ¿qué otros vehículos deben tener la tarjeta de inspección técnica?",
+        "Opciones": [
+            "A) Ninguno más, el resto están exentos.",
+            "B) Todos los ciclomotores y todos los remolques y semirremolques.",
+            "C) Solo las bicicletas eléctricas y los patines de motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "También deben tenerla todos los ciclomotores y todos los remolques y semirremolques."
+    }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM1-P247",
+    "Enunciado": "Un remolque tiene una masa máxima con carga de 750 kilos. ¿Está obligado a poseer su propio permiso de circulación?",
+    "Opciones": [
+      "A) Sí, todos los remolques sin excepción deben estar matriculados.",
+      "B) Solo si se engancha a un camión o furgoneta.",
+      "C) No, solo los remolques que pueden transportar más de 750 kilos deben tenerlo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Deben tener permiso de circulación los remolques y semirremolques que pueden transportar más de 750 kilos. Al ser de 750 kg exactos, no lo requiere."
+  },
+  {
+    "_id": "PB-TM1-P248",
+    "Enunciado": "¿Qué vehículos de la categoría O están obligados a contratar el seguro de responsabilidad civil?",
+    "Opciones": [
+      "A) Todos, independientemente de su capacidad de carga.",
+      "B) Los que pueden cargar más de 750 kilos.",
+      "C) Únicamente las caravanas remolcadas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "No necesitan seguro los remolques, semirremolques y máquinas remolcadas que no puedan cargar más de 750 kilos. Por tanto, los que cargan más de esa cifra, sí deben tenerlo."
+  },
+  {
+    "_id": "PB-TM1-P249",
+    "Enunciado": "Un derivado de turismo se define como un automóvil que...",
+    "Opciones": [
+      "A) Sirve para transportar mercancías y tiene una única fila de asientos.",
+      "B) Tiene más de nueve asientos para transporte de personal de obra.",
+      "C) Puede transportar personas y mercancías de forma alternativa."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El derivado de turismo tiene carrocería de turismo pero solo tiene una fila de asientos y sirve para transportar mercancías."
+  },
+  {
+    "_id": "PB-TM1-P250",
+    "Enunciado": "¿Cuál es la velocidad máxima permitida para los vehículos especiales no agrícolas si se conducen con el permiso B?",
+    "Opciones": [
+      "A) 40 kilómetros por hora.",
+      "B) 45 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El permiso B autoriza vehículos especiales no agrícolas que alcancen una velocidad máxima de 40 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM1-P251",
+    "Enunciado": "En un vehículo mixto adaptable, ¿qué característica técnica permite variar su uso?",
+    "Opciones": [
+      "A) Que dispone de una cabina de conducción independiente de la carga.",
+      "B) Que la potencia del motor se adapta automáticamente a la carga.",
+      "C) Que los asientos se pueden poner o quitar dependiendo del uso."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En el mixto adaptable, los asientos se pueden poner o quitar según se transporte a personas o mercancías."
+  },
+  {
+    "_id": "PB-TM1-P252",
+    "Enunciado": "¿Qué masa máxima puede tener un vehículo para personas de movilidad reducida?",
+    "Opciones": [
+      "A) 450 kilos.",
+      "B) 350 kilos.",
+      "C) 750 kilos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Como máximo, un vehículo para personas de movilidad reducida pesa 350 kilos."
+  },
+  {
+    "_id": "PB-TM1-P253",
+    "Enunciado": "Un conductor de 18 años acaba de obtener el permiso B. ¿Qué placa debe llevar en su vehículo?",
+    "Opciones": [
+      "A) Una placa verde rectangular con una letra L blanca.",
+      "B) Un distintivo circular con el número 80.",
+      "C) Una placa azul con una letra N blanca."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los conductores noveles deben llevar una placa verde rectangular con una letra L de color blanco durante el primer año."
+  },
+  {
+    "_id": "PB-TM1-P254",
+    "Enunciado": "¿En qué caso es obligatorio someter al vehículo a una inspección ITV antes de la fecha que le corresponde?",
+    "Opciones": [
+      "A) Cuando se reforma el vehículo o su estructura se daña en un accidente.",
+      "B) Al realizar el cambio de titularidad por venta.",
+      "C) Al renovar la póliza del seguro obligatorio."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Hay que pasar una ITV adicional cuando se reforma el vehículo o tras un accidente con daños estructurales."
+  },
+  {
+    "_id": "PB-TM1-P255",
+    "Enunciado": "¿Qué documentos del vehículo pueden presentarse mediante fotocopia compulsada?",
+    "Opciones": [
+      "A) Únicamente el justificante del seguro y el informe de la ITV.",
+      "B) Ninguno; las autoridades solo aceptan documentos originales.",
+      "C) Cualquiera de los documentos obligatorios (Permiso Conducir, Circulación e ITV)."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se pueden presentar fotocopias de los documentos obligatorios siempre que estén compulsadas por un organismo público oficial."
+  },
+  {
+    "_id": "PB-TM1-P256",
+    "Enunciado": "Un automóvil tiene 10 plazas en total contando la del conductor. ¿Cómo se clasifica?",
+    "Opciones": [
+      "A) Como turismo.",
+      "B) Como autobús o autocar.",
+      "C) Como vehículo mixto adaptable."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El turismo y el mixto adaptable tienen un máximo de 9 asientos. El autobús o autocar es el vehículo con más de nueve asientos."
+  },
+  {
+    "_id": "PB-TM1-P257",
+    "Enunciado": "Usted circula con un Quad-ATV. ¿Qué característica de conducción le define?",
+    "Opciones": [
+      "A) Se maneja mediante palancas de dirección laterales.",
+      "B) Se conduce con manillar, igual que una motocicleta.",
+      "C) Utiliza un volante circular y pedales de pie."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El Quad-ATV se conduce con manillar, de la misma forma que una motocicleta."
+  },
+  {
+    "_id": "PB-TM1-P258",
+    "Enunciado": "Según el temario, ¿cuál es el peso máximo de un semirremolque ligero?",
+    "Opciones": [
+      "A) 750 kilos.",
+      "B) 350 kilos.",
+      "C) 450 kilos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El semirremolque ligero pesa con carga como máximo 750 kilos."
+  },
+  {
+    "_id": "PB-TM1-P259",
+    "Enunciado": "Si un vehículo no supera la inspección ITV por presentar fallos graves, ¿está permitido circular con él?",
+    "Opciones": [
+      "A) No; el temario indica que no puedes seguir circulando.",
+      "B) Sí, exclusivamente para ir al taller y volver a la estación ITV.",
+      "C) Sí, durante un periodo máximo de 15 días."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cuando el vehículo tiene algún fallo o problema grave, no puedes seguir circulando y debes llevarlo a un taller."
+  },
+  {
+    "_id": "PB-TM1-P260",
+    "Enunciado": "¿Qué cubre específicamente el seguro obligatorio de responsabilidad civil?",
+    "Opciones": [
+      "A) Los daños materiales del vehículo propio tras una colisión.",
+      "B) Los daños causados a otra persona, como un peatón atropellado.",
+      "C) El robo de accesorios instalados en el exterior del coche."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El seguro obligatorio cubre los daños causados a otra persona y a objetos ajenos."
+  },
+  {
+    "_id": "PB-TM1-P261",
+    "Enunciado": "Un conductor novel pierde todos sus puntos. ¿Qué debe hacer para recuperarlos?",
+    "Opciones": [
+      "A) Solicitar una prórroga extraordinaria a la Jefatura de Tráfico.",
+      "B) Esperar un periodo de 5 años sin conducir.",
+      "C) Superar un curso de reeducación de 12 horas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se pueden recuperar los puntos haciendo un curso de reeducación para conducir que dura 12 horas."
+  },
+  {
+    "_id": "PB-TM1-P262",
+    "Enunciado": "¿Quién es el responsable de que no conduzcan un vehículo personas que carecen de permiso de conducir?",
+    "Opciones": [
+      "A) La compañía aseguradora.",
+      "B) El conductor habitual únicamente.",
+      "C) El titular del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El titular del vehículo es el responsable de que no conduzcan ese vehículo personas sin permiso de conducir."
+  },
+  {
+    "_id": "PB-TM1-P263",
+    "Enunciado": "¿Qué vehículos están excluidos de la obligación de tener seguro de responsabilidad civil?",
+    "Opciones": [
+      "A) Motocultores y máquinas automotrices de construcción.",
+      "B) Trenes, tranvías, sillas de ruedas y juguetes con motor.",
+      "C) Vehículos de transporte de mercancías con carga menor de 3,5 toneladas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Están exceptuados del seguro: trenes, tranvías, sillas de ruedas y juguetes con motor."
+  },
+  {
+    "_id": "PB-TM1-P264",
+    "Enunciado": "Un peatón se lanza deliberadamente contra un coche para ser atropellado. ¿Cubrirá el seguro los daños de este peatón?",
+    "Opciones": [
+      "A) Solo si el conductor no llevaba puesta la placa L.",
+      "B) No, el seguro no cubre daños si la persona afectada tiene un mal comportamiento deliberado.",
+      "C) Sí, el seguro obligatorio cubre siempre a los peatones independientemente de su conducta."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El seguro no cubre daños a otra persona si es ella la que tiene un mal comportamiento, como lanzarse contra el coche."
+  },
+  {
+    "_id": "PB-TM1-P265",
+    "Enunciado": "El permiso B autoriza a conducir vehículos especiales agrícolas. ¿Existe algún límite de peso?",
+    "Opciones": [
+      "A) No, el temario no especifica límite de peso para los agrícolas con este permiso.",
+      "B) El límite es de 1.500 kilos con carga.",
+      "C) Sí, no pueden pesar más de 3.500 kilos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para los vehículos especiales agrícolas, el permiso B no establece límite de masa, a diferencia de los no agrícolas."
+  },
+  {
+    "_id": "PB-TM1-P266",
+    "Enunciado": "¿Cuál es la edad mínima exigida para obtener el permiso B+E?",
+    "Opciones": [
+      "A) 18 años.",
+      "B) 20 años.",
+      "C) 21 años."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La edad mínima exigida para obtener el permiso B+E es de 18 años."
+  },
+  {
+    "_id": "PB-TM1-P267",
+    "Enunciado": "Un vehículo articulado se diferencia de un tren de carretera en que...",
+    "Opciones": [
+      "A) Dispone de al menos 8 ejes de apoyo en sus ruedas.",
+      "B) No puede transportar mercancías peligrosas.",
+      "C) El semirremolque está unido al vehículo motor sin eje."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En el vehículo articulado el semirremolque está unido sin eje; en el tren de carretera el remolque lleva eje."
+  },
+  {
+    "_id": "PB-TM1-P268",
+    "Enunciado": "Usted circula con un ciclomotor de dos ruedas. ¿Cuántos pasajeros pueden viajar como máximo?",
+    "Opciones": [
+      "A) Únicamente el conductor.",
+      "B) Hasta tres personas si dispone de sidecar.",
+      "C) Dos personas como máximo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los ciclomotores pueden viajar dos personas como máximo."
+  },
+  {
+    "_id": "PB-TM1-P269",
+    "Enunciado": "Para el permiso A2, ¿cuál es la potencia máxima permitida en las motocicletas?",
+    "Opciones": [
+      "A) 35 kilovatios.",
+      "B) 15 kilovatios.",
+      "C) 11 kilovatios."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El permiso A2 autoriza motocicletas con una potencia máxima de 35 kilovatios."
+  },
+  {
+    "_id": "PB-TM1-P270",
+    "Enunciado": "El informe entregado por los técnicos de la ITV tras la inspección...",
+    "Opciones": [
+      "A) Debe enviarse a la aseguradora antes de 7 días.",
+      "B) Lo debes llevar siempre en el vehículo.",
+      "C) Se puede dejar en casa una vez colocada la pegatina."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es obligatorio llevar siempre en el vehículo el informe entregado tras la inspección técnica."
+  },
+  {
+    "_id": "PB-TM1-P271",
+    "Enunciado": "¿Qué documento contiene los datos de las plazas autorizadas y el uso del vehículo (personas o mercancías)?",
+    "Opciones": [
+      "A) La Tarjeta de Inspección Técnica (ITV).",
+      "B) El contrato de seguro de responsabilidad civil.",
+      "C) El Permiso de Circulación."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En el permiso de circulación aparecen, entre otros, el número de plazas y el uso que se le da al vehículo."
+  },
+  {
+    "_id": "PB-TM1-P272",
+    "Enunciado": "Usted circula con un camión de más de 3,5 toneladas que tiene 12 años. ¿Con qué frecuencia pasa la ITV?",
+    "Opciones": [
+      "A) Cada 6 meses.",
+      "B) Cada 2 años.",
+      "C) Cada año."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos de mercancías con más de 10 años pasan la revisión cada 6 meses (el texto menciona hasta 3,5t pero el principio es aplicable por analogía de datos)."
+  },
+  {
+    "_id": "PB-TM1-P273",
+    "Enunciado": "¿Quién es responsable si un pasajero no lleva casco en una motocicleta?",
+    "Opciones": [
+      "A) El titular del vehículo de forma subsidiaria.",
+      "B) El conductor de la motocicleta.",
+      "C) Únicamente el pasajero por su propia imprudencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los conductores son responsables cuando los pasajeros no llevan casco en vehículos obligatorios."
+  },
+  {
+    "_id": "PB-TM1-P274",
+    "Enunciado": "El seguro obligatorio de responsabilidad civil no cubrirá los accidentes producidos...",
+    "Opciones": [
+      "A) Por conductores con menos de un año de antigüedad.",
+      "B) En un vehículo que ha sido robado.",
+      "C) Durante la noche en vías insuficientemente iluminadas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El seguro no cubre los accidentes y daños que se produzcan en un vehículo robado."
+  },
+  {
+    "_id": "PB-TM1-P275",
+    "Enunciado": "¿Qué sanción adicional recibe el propietario de un vehículo no asegurado además de la multa?",
+    "Opciones": [
+      "A) La prohibición de contratar un nuevo seguro en un año.",
+      "B) La pérdida automática de 4 puntos del permiso.",
+      "C) La inmovilización inmediata del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Si el vehículo no tiene seguro, será inmovilizado en ese mismo momento."
+  },
+  {
+    "_id": "PB-TM1-P276",
+    "Enunciado": "Un motocultor se caracteriza por ser conducido por una persona que...",
+    "Opciones": [
+      "A) Va sentada sobre un eje motriz trasero.",
+      "B) Lo maneja desde una cabina integrada de tres ruedas.",
+      "C) Va andando y lo mueve mediante una pieza larga o manillar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En el motocultor, la persona va andando y lo mueve por medio de una pieza larga que es parte del vehículo."
+  }
+]

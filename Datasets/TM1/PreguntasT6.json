@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P151",
+        "Enunciado": "¿Qué datos aparecen en la tarjeta de inspección técnica?",
+        "Opciones": [
+            "A) El nombre de los conductores habituales autorizados.",
+            "B) Las características del vehículo.",
+            "C) El historial detallado de multas de aparcamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En la tarjeta de inspección técnica aparecen los datos relativos a las características del vehículo."
+    },
+    {
+        "_id": "PB-TM1-P152",
+        "Enunciado": "¿Qué otro registro se incluye obligatoriamente en la tarjeta de inspección técnica?",
+        "Opciones": [
+            "A) Registro de las inspecciones que ha pasado el vehículo.",
+            "B) El contrato de compraventa del vehículo original.",
+            "C) La póliza completa del seguro de responsabilidad civil."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La tarjeta de inspección técnica debe incluir el registro de todas las inspecciones que ha pasado el vehículo."
+    },
+    {
+        "_id": "PB-TM1-P153",
+        "Enunciado": "¿Cuándo deben pasar los ciclomotores de dos ruedas su primera revisión ITV?",
+        "Opciones": [
+            "A) Al cumplirse los 4 años desde la compra.",
+            "B) Primera revisión a los 3 años.",
+            "C) A los 2 años de su matriculación."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los ciclomotores de dos ruedas deben pasar su primera revisión a los 3 años."
+    },
+    {
+        "_id": "PB-TM1-P154",
+        "Enunciado": "¿Con qué frecuencia pasan la revisión los ciclomotores de dos ruedas después de los 3 años?",
+        "Opciones": [
+            "A) Después de 3 años, revisión cada 2 años.",
+            "B) Cada año de forma obligatoria.",
+            "C) Cada 6 meses una vez superada la primera inspección."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Después de la primera revisión a los 3 años, los ciclomotores de dos ruedas pasan la revisión cada 2 años."
+    },
+    {
+        "_id": "PB-TM1-P155",
+        "Enunciado": "¿Cuándo pasan su primera revisión ITV los ciclomotores de tres ruedas y los cuadriciclos ligeros?",
+        "Opciones": [
+            "A) A los 3 años desde la fecha de matriculación.",
+            "B) Al cumplirse el segundo año de antigüedad.",
+            "C) Primera revisión a los 4 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los ciclomotores de tres ruedas y cuadriciclos ligeros pasan su primera revisión a los 4 años."
+    },
+    {
+        "_id": "PB-TM1-P156",
+        "Enunciado": "Tras la primera revisión a los 4 años, ¿cada cuánto deben pasar la ITV los ciclomotores de tres ruedas?",
+        "Opciones": [
+            "A) Después de 4 años, revisión cada 2 años.",
+            "B) Cada 6 meses por motivos de seguridad vial.",
+            "C) Cada año de forma ininterrumpida."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Después de los primeros 4 años, la revisión para estos vehículos es cada 2 años."
+    },
+    {
+        "_id": "PB-TM1-P157",
+        "Enunciado": "¿Cuándo deben pasar la primera revisión las motocicletas y vehículos de tres ruedas?",
+        "Opciones": [
+            "A) A los 2 años desde su puesta en circulación.",
+            "B) A los 3 años, igual que los ciclomotores.",
+            "C) Primera revisión a los 4 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las motocicletas y vehículos de tres ruedas pasan su primera revisión a los 4 años."
+    },
+    {
+        "_id": "PB-TM1-P158",
+        "Enunciado": "¿Cuál es la frecuencia de revisión para los Quads después de haber pasado la primera a los 4 años?",
+        "Opciones": [
+            "A) Deben pasarla cada año obligatoriamente.",
+            "B) Después de 4 años, revisión cada 2 años.",
+            "C) Cada 6 meses debido a su uso por terrenos difíciles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los Quads, tras la primera revisión a los 4 años, deben pasarla cada 2 años."
+    },
+    {
+        "_id": "PB-TM1-P159",
+        "Enunciado": "¿Cuándo pasan la primera revisión los vehículos de motor que pueden transportar hasta nueve pasajeros?",
+        "Opciones": [
+            "A) A los 2 años de antigüedad.",
+            "B) Cada año desde su matriculación.",
+            "C) Primera revisión a los 4 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos de motor para hasta nueve pasajeros pasan su primera revisión a los 4 años."
+    },
+    {
+        "_id": "PB-TM1-P160",
+        "Enunciado": "Para un vehículo de hasta nueve pasajeros, ¿cada cuánto es la revisión después de los 4 años y hasta los 10 años?",
+        "Opciones": [
+            "A) Después de 4 años, revisión cada 2 años.",
+            "B) La revisión debe ser cada 6 meses.",
+            "C) Se debe realizar una revisión cada año."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Entre los 4 y los 10 años de antigüedad, estos vehículos deben pasar la revisión cada 2 años."
+    },
+    {
+        "_id": "PB-TM1-P161",
+        "Enunciado": "¿Cada cuánto debe pasar la ITV un vehículo de pasajeros (hasta 9 plazas) que tiene más de 10 años?",
+        "Opciones": [
+            "A) Se mantiene la revisión cada 2 años.",
+            "B) Se incrementa la frecuencia a una vez cada 6 meses.",
+            "C) Después de 10 años, revisión cada año."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A partir de los 10 años de antigüedad, los vehículos de pasajeros deben pasar la revisión anualmente."
+    },
+    {
+        "_id": "PB-TM1-P162",
+        "Enunciado": "¿Cuándo pasan la primera revisión los vehículos de motor que transportan mercancías de hasta 3,5 toneladas?",
+        "Opciones": [
+            "A) Primera revisión a los 2 años.",
+            "B) Al cumplirse el cuarto año de antigüedad.",
+            "C) Al año de su puesta en servicio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos de transporte de mercancías de hasta 3,5 toneladas pasan su primera revisión a los 2 años."
+    },
+    {
+        "_id": "PB-TM1-P163",
+        "Enunciado": "Para vehículos de mercancías de hasta 3,5 toneladas, ¿cada cuánto es la revisión después de 2 años y hasta los 6 años?",
+        "Opciones": [
+            "A) Cada 6 meses sin excepción.",
+            "B) Cada año de forma obligatoria.",
+            "C) Después de 2 años, revisión cada 2 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Entre los 2 y los 6 años de antigüedad, estos vehículos pasan la revisión cada 2 años."
+    },
+    {
+        "_id": "PB-TM1-P164",
+        "Enunciado": "Después de 6 años y hasta los 10 años, ¿con qué frecuencia revisan los vehículos de mercancías de hasta 3,5 toneladas?",
+        "Opciones": [
+            "A) Cada 2 años igual que en el periodo anterior.",
+            "B) Después de 6 años, revisión cada año.",
+            "C) Cada 6 meses de manera preventiva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Entre los 6 y los 10 años de antigüedad, la revisión para estos vehículos es anual."
+    },
+    {
+        "_id": "PB-TM1-P165",
+        "Enunciado": "¿Cada cuánto revisan los vehículos de mercancías (hasta 3,5t) si tienen más de 10 años?",
+        "Opciones": [
+            "A) Se realiza una revisión cada 2 años.",
+            "B) Se mantiene la revisión cada año.",
+            "C) Después de 10 años, revisión cada 6 meses."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A partir de los 10 años, los vehículos de mercancías de hasta 3,5 toneladas deben revisarse cada 6 meses."
+    },
+    {
+        "_id": "PB-TM1-P166",
+        "Enunciado": "¿Cuándo pasan la primera ITV los remolques para transportar mercancías o personas (excepto caravanas)?",
+        "Opciones": [
+            "A) Primera revisión al año.",
+            "B) A los 2 años de su matriculación.",
+            "C) A los 4 años, como los turismos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los remolques de transporte (excepto caravanas) pasan su primera revisión al cumplirse el primer año."
+    },
+    {
+        "_id": "PB-TM1-P167",
+        "Enunciado": "¿Con qué frecuencia se revisan los remolques de transporte desde el primer año hasta los 10 años?",
+        "Opciones": [
+            "A) Cada 2 años de forma periódica.",
+            "B) Cada 6 meses desde el primer momento.",
+            "C) Hasta los 10 años revisión cada año."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Hasta los 10 años, estos remolques deben pasar la inspección anualmente."
+    },
+    {
+        "_id": "PB-TM1-P168",
+        "Enunciado": "Para los remolques de transporte (excepto caravanas), ¿con qué frecuencia se revisan después de 10 años?",
+        "Opciones": [
+            "A) Se mantiene la revisión cada año.",
+            "B) Después de 10 años, una vez cada 6 meses.",
+            "C) Cada 2 años obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Superados los 10 años, la revisión para estos remolques pasa a ser cada 6 meses."
+    },
+    {
+        "_id": "PB-TM1-P169",
+        "Enunciado": "¿Cuándo pasa su primera revisión una caravana remolcada?",
+        "Opciones": [
+            "A) A los 10 años de antigüedad.",
+            "B) Primera revisión a los 6 años.",
+            "C) Al año de su puesta en circulación."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las caravanas remolcadas pasan su primera revisión a los 6 años."
+    },
+    {
+        "_id": "PB-TM1-P170",
+        "Enunciado": "¿Cada cuánto debe pasar la revisión una caravana remolcada después de haber cumplido los 6 años?",
+        "Opciones": [
+            "A) Después de 6 años, cada 2 años.",
+            "B) Cada año de forma continua.",
+            "C) Cada 5 años para asegurar su estado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "A partir de los 6 años, las caravanas remolcadas se revisan cada 2 años."
+    },
+    {
+        "_id": "PB-TM1-P171",
+        "Enunciado": "¿En qué otro caso, según el documento, es obligatorio pasar una inspección técnica adicional?",
+        "Opciones": [
+            "A) Al contratar una nueva póliza de seguro obligatorio.",
+            "B) Al cambiar el titular del vehículo por motivos de herencia.",
+            "C) También hay que pasar una inspección técnica cuando se reforma el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es obligatorio pasar la ITV cuando se realiza una reforma en el vehículo."
+    },
+    {
+        "_id": "PB-TM1-P172",
+        "Enunciado": "¿Es obligatorio pasar la ITV si el vehículo sufre un accidente?",
+        "Opciones": [
+            "A) Sí, si ha sufrido un accidente y la estructura se ha dañado.",
+            "B) No, siempre que el motor no haya resultado afectado.",
+            "C) Solo si el vehículo tiene más de 10 años de antigüedad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tras un accidente con daños estructurales, es obligatorio pasar una inspección técnica."
+    },
+    {
+        "_id": "PB-TM1-P173",
+        "Enunciado": "¿Quién es la persona encargada de controlar que se pasan las inspecciones técnicas?",
+        "Opciones": [
+            "A) El conductor habitual exclusivamente.",
+            "B) El titular del vehículo.",
+            "C) El fabricante o concesionario de venta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El titular del vehículo es el responsable de controlar que se pasen las inspecciones técnicas."
+    },
+    {
+        "_id": "PB-TM1-P174",
+        "Enunciado": "¿Qué entregan los técnicos de la ITV cuando el vehículo está en buenas condiciones además de escribir en la tarjeta?",
+        "Opciones": [
+            "A) Entregan una pegatina.",
+            "B) Una placa de matrícula de repuesto.",
+            "C) Un certificado de exención de impuestos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cuando el vehículo supera la inspección, se entrega una pegatina al titular."
+    },
+    {
+        "_id": "PB-TM1-P175",
+        "Enunciado": "¿Dónde se debe colocar la pegatina de la ITV en el vehículo?",
+        "Opciones": [
+            "A) En el centro del parabrisas delantero por la parte exterior.",
+            "B) Debes colocarla en el interior del vehículo, en el lado derecho del parabrisas.",
+            "C) En la parte trasera del vehículo junto a la matrícula."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La pegatina debe ir en el interior del vehículo, en el lado derecho del parabrisas."
+    },
+    {
+        "_id": "PB-TM1-P176",
+        "Enunciado": "¿Qué otro documento de la ITV se debe llevar siempre en el vehículo?",
+        "Opciones": [
+            "A) Entregan un informe. Lo debes llevar siempre en el vehículo.",
+            "B) La acreditación del taller que realizó la reforma.",
+            "C) El recibo original de pago de la inspección."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es obligatorio llevar siempre en el vehículo el informe entregado por la ITV."
+    },
+    {
+        "_id": "PB-TM1-P177",
+        "Enunciado": "¿Qué sucede si el vehículo tiene algún fallo o problema grave tras la inspección?",
+        "Opciones": [
+            "A) Puedes seguir circulando pero solo por vías urbanas.",
+            "B) Solo puedes circular durante las horas de luz solar.",
+            "C) No puedes seguir circulando."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si el vehículo presenta fallos graves, tiene prohibido seguir circulando."
+    },
+    {
+        "_id": "PB-TM1-P178",
+        "Enunciado": "Una vez arreglado un fallo grave en el taller, ¿cuál es el siguiente paso?",
+        "Opciones": [
+            "A) Comunicar el arreglo telefónicamente a la Jefatura de Tráfico.",
+            "B) Sellar el informe de la ITV en el ayuntamiento correspondiente.",
+            "C) Lo debes llevar a hacer una nueva inspección."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Tras la reparación, el vehículo debe someterse a una nueva inspección para comprobar que puede circular."
+    },
+    {
+        "_id": "PB-TM1-P179",
+        "Enunciado": "¿Qué obligación tienen las personas que poseen un vehículo con motor respecto a su protección?",
+        "Opciones": [
+            "A) Disponer de un extintor de incendios homologado en el maletero.",
+            "B) Tienen la obligación de contratar y pagar un seguro.",
+            "C) Realizar una revisión mecánica general cada seis meses."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los poseedores de vehículos con motor tienen la obligación de contratar y pagar un seguro."
+    },
+    {
+        "_id": "PB-TM1-P180",
+        "Enunciado": "¿Para qué sirve el seguro de responsabilidad civil?",
+        "Opciones": [
+            "A) Para garantizar la asistencia mecánica gratuita en cualquier vía pública.",
+            "B) Sirve para proteger a las demás personas, objetos o vehículos si tienes un accidente.",
+            "C) Para cubrir exclusivamente los daños propios del conductor asegurado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El seguro de responsabilidad civil protege a las demás personas, objetos o vehículos en caso de accidente."
+    }
+]

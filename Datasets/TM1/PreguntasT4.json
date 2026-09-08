@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM1-P91",
+        "Enunciado": "¿Qué tipo de vehículos se incluyen en la categoría N?",
+        "Opciones": [
+            "A) Remolques creados para transportar a personas y mercancías.",
+            "B) Vehículos a motor creados para transportar a personas y sus equipajes.",
+            "C) Vehículos a motor creados para transportar mercancías, como furgonetas y camiones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La categoría N corresponde a vehículos a motor creados para transportar mercancías, citando como ejemplos furgonetas y camiones."
+    },
+    {
+        "_id": "PB-TM1-P92",
+        "Enunciado": "¿Cuál es el uso de los vehículos pertenecientes a la categoría O?",
+        "Opciones": [
+            "A) Remolques creados para transportar a personas y mercancías.",
+            "B) Automóviles destinados al transporte público de viajeros.",
+            "C) Vehículos especiales agrícolas que no superan los 3.500 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La categoría O se define como remolques creados para transportar a personas y mercancías."
+    },
+    {
+        "_id": "PB-TM1-P93",
+        "Enunciado": "¿Cuáles son los 4 documentos necesarios que debe tener un conductor?",
+        "Opciones": [
+            "A) DNI, ficha técnica del vehículo, contrato de compraventa y recibo del impuesto de circulación.",
+            "B) Licencia de aprendizaje, certificado de empadronamiento, ITV y justificante de pago del seguro.",
+            "C) Permiso de conducir, permiso de circulación, tarjeta de inspección técnica y seguro de responsabilidad civil."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario lista como documentos necesarios: el permiso de conducir, el permiso de circulación, la tarjeta de inspección técnica y el seguro de responsabilidad civil."
+    },
+    {
+        "_id": "PB-TM1-P94",
+        "Enunciado": "¿Qué debe hacer el conductor con los documentos obligatorios del vehículo?",
+        "Opciones": [
+            "A) Llevarlos siempre en el vehículo cuando conduce para enseñarlos a las autoridades.",
+            "B) Mantenerlos custodiados en su domicilio para evitar robos o pérdidas.",
+            "C) Depositarlos en la Jefatura de Tráfico mientras el vehículo esté en uso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se debe llevar siempre estos documentos en el vehículo cuando se conduce para enseñarlos a las autoridades que vigilan el tráfico."
+    },
+    {
+        "_id": "PB-TM1-P95",
+        "Enunciado": "¿Se pueden presentar fotocopias de los documentos obligatorios?",
+        "Opciones": [
+            "A) No, las autoridades solo aceptan los documentos originales bajo cualquier circunstancia.",
+            "B) Solo si se ha interpuesto una denuncia por robo o pérdida de los originales.",
+            "C) Sí, siempre que sea una fotocopia compulsada por un organismo público oficial."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se pueden presentar fotocopias siempre que estén compulsadas por un organismo público oficial como el ayuntamiento, la policía o un notario."
+    },
+    {
+        "_id": "PB-TM1-P96",
+        "Enunciado": "¿Qué significa compulsar un documento?",
+        "Opciones": [
+            "A) Certificar un organismo oficial que la copia del documento es auténtica.",
+            "B) Traducir un documento oficial a otros idiomas para circular por el extranjero.",
+            "C) Renovar la validez de un documento oficial que ha caducado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Compulsar se define como certificar un organismo oficial que la copia del documento es auténtica."
+    },
+    {
+        "_id": "PB-TM1-P97",
+        "Enunciado": "¿Qué debe hacer un conductor que necesita adaptar su vehículo por una discapacidad física?",
+        "Opciones": [
+            "A) Comprar un vehículo nuevo que ya venga adaptado de fábrica.",
+            "B) Solicitar un permiso especial y hacer los cambios necesarios en el vehículo.",
+            "C) Realizar los cambios libremente siempre que no afecten al motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cuando se necesita adaptar el vehículo, se debe pedir un permiso especial y realizar los cambios necesarios."
+    },
+    {
+        "_id": "PB-TM1-P98",
+        "Enunciado": "¿Qué ejemplo de adaptación de vehículo se menciona para personas con discapacidad en las piernas?",
+        "Opciones": [
+            "A) Uso de asientos giratorios con memoria de posición.",
+            "B) Colocar mandos en el volante para no tener que usar los pedales.",
+            "C) Instalación de rampas hidráulicas en la parte trasera del coche."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El documento cita como ejemplo colocar mandos en el volante para personas con dificultad para usar los pedales."
+    },
+    {
+        "_id": "PB-TM1-P99",
+        "Enunciado": "¿Cómo se define el permiso de conducir?",
+        "Opciones": [
+            "A) Certificado médico que demuestra que el conductor está sano.",
+            "B) Documento que acredita la propiedad de un vehículo a motor.",
+            "C) Documento que autoriza a una persona a conducir y asegura que cumple los requisitos para hacerlo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El permiso de conducir es el documento que autoriza a conducir y asegura que se cumplen los requisitos para ello."
+    },
+    {
+        "_id": "PB-TM1-P100",
+        "Enunciado": "¿Qué vehículos autoriza a conducir el permiso de la clase AM?",
+        "Opciones": [
+            "A) Ciclomotores de dos o tres ruedas, cuadriciclos ligeros y vehículos para personas con movilidad reducida.",
+            "B) Únicamente bicicletas de pedales con motor eléctrico.",
+            "C) Motocicletas ligeras de hasta 125 centímetros cúbicos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El permiso AM autoriza a conducir ciclomotores (2 o 3 ruedas), cuadriciclos ligeros y vehículos para personas con movilidad reducida."
+    },
+    {
+        "_id": "PB-TM1-P101",
+        "Enunciado": "¿Cuál es la edad mínima para obtener el permiso AM?",
+        "Opciones": [
+            "A) 14 años.",
+            "B) 16 años.",
+            "C) 15 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La edad mínima exigida para el permiso AM es de 15 años."
+    },
+    {
+        "_id": "PB-TM1-P102",
+        "Enunciado": "¿Qué cilindrada máxima pueden tener las motocicletas que se conducen con el permiso A1?",
+        "Opciones": [
+            "A) 125 centímetros cúbicos.",
+            "B) 250 centímetros cúbicos.",
+            "C) 50 centímetros cúbicos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El permiso A1 permite conducir motocicletas con una cilindrada máxima de 125 centímetros cúbicos."
+    },
+    {
+        "_id": "PB-TM1-P103",
+        "Enunciado": "¿Cuál es la potencia máxima permitida para las motocicletas con el permiso A1?",
+        "Opciones": [
+            "A) 35 kilovatios.",
+            "B) 15 kilovatios.",
+            "C) 11 kilovatios."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La potencia máxima para motocicletas bajo el permiso A1 es de 11 kilovatios."
+    },
+    {
+        "_id": "PB-TM1-P104",
+        "Enunciado": "¿Qué potencia máxima pueden tener los triciclos de motor que autoriza el permiso A1?",
+        "Opciones": [
+            "A) 11 kilovatios.",
+            "B) 15 kilovatios.",
+            "C) 20 kilovatios."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Con el permiso A1 se pueden conducir triciclos de motor con una potencia máxima de 15 kilovatios."
+    },
+    {
+        "_id": "PB-TM1-P105",
+        "Enunciado": "¿A partir de qué edad se puede obtener el permiso A1?",
+        "Opciones": [
+            "A) 18 años.",
+            "B) 15 años.",
+            "C) 16 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La edad mínima para obtener el permiso A1 es de 16 años."
+    },
+    {
+        "_id": "PB-TM1-P106",
+        "Enunciado": "¿Qué potencia máxima pueden tener las motocicletas autorizadas por el permiso A2?",
+        "Opciones": [
+            "A) Cualquier potencia sin límite.",
+            "B) 35 kilovatios.",
+            "C) 11 kilovatios."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso A2 autoriza a conducir motocicletas con una potencia máxima de 35 kilovatios."
+    },
+    {
+        "_id": "PB-TM1-P107",
+        "Enunciado": "¿Cuál es la edad mínima para el permiso A2?",
+        "Opciones": [
+            "A) 18 años.",
+            "B) 16 años.",
+            "C) 20 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La edad mínima para obtener el permiso A2 es de 18 años."
+    },
+    {
+        "_id": "PB-TM1-P108",
+        "Enunciado": "¿Qué vehículos se pueden conducir con el permiso de la clase A?",
+        "Opciones": [
+            "A) Solo motocicletas que superen los 500 centímetros cúbicos.",
+            "B) Motocicletas y triciclos con cualquier tipo de motor y de potencia.",
+            "C) Únicamente motocicletas de dos ruedas con sidecar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso A autoriza la conducción de motocicletas y triciclos con cualquier tipo de motor y de potencia."
+    },
+    {
+        "_id": "PB-TM1-P109",
+        "Enunciado": "¿Cuál es la edad mínima exigida para obtener el permiso de la clase A?",
+        "Opciones": [
+            "A) 20 años.",
+            "B) 18 años.",
+            "C) 21 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para obtener el permiso A la edad mínima es de 20 años."
+    },
+    {
+        "_id": "PB-TM1-P110",
+        "Enunciado": "Además de automóviles, ciclomotores y vehículos de movilidad reducida, ¿a cuántos pasajeros pueden llevar los automóviles autorizados por el permiso B?",
+        "Opciones": [
+            "A) Sin límite de pasajeros mientras no se exceda el peso.",
+            "B) Hasta nueve pasajeros.",
+            "C) Hasta cinco pasajeros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso B permite conducir automóviles que pueden llevar hasta nueve pasajeros."
+    },
+    {
+        "_id": "PB-TM1-P111",
+        "Enunciado": "¿Qué tipo de vehículos especiales autoriza a conducir el permiso B?",
+        "Opciones": [
+            "A) Vehículos especiales agrícolas.",
+            "B) Solo vehículos especiales destinados a la limpieza viaria.",
+            "C) Ningún tipo de vehículo especial, requiere el permiso C."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El permiso B autoriza a conducir vehículos especiales agrícolas."
+    },
+    {
+        "_id": "PB-TM1-P112",
+        "Enunciado": "¿Cuál es la velocidad máxima de los vehículos especiales no agrícolas autorizados por el permiso B?",
+        "Opciones": [
+            "A) 25 kilómetros por hora.",
+            "B) 40 kilómetros por hora.",
+            "C) 45 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso B autoriza vehículos especiales no agrícolas con una velocidad máxima de 40 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM1-P113",
+        "Enunciado": "¿Qué peso máximo pueden tener los vehículos especiales no agrícolas para ser conducidos con el permiso B?",
+        "Opciones": [
+            "A) Pueden pesar hasta 7.500 kilos si son de uso privado.",
+            "B) No hay límite de peso si no transportan mercancías.",
+            "C) No deben pesar más de 3.500 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos especiales no agrícolas autorizados por el permiso B no deben pesar más de 3.500 kilos."
+    },
+    {
+        "_id": "PB-TM1-P114",
+        "Enunciado": "Con el permiso B, ¿qué peso máximo puede tener el remolque de un conjunto de vehículos?",
+        "Opciones": [
+            "A) Más de 750 kilos si el conjunto no supera los 3.500 kilos.",
+            "B) Un peso no mayor de 750 kilos.",
+            "C) Hasta 1.000 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El permiso B permite conducir un conjunto de vehículos cuando el remolque no lleve un peso mayor de 750 kilos."
+    },
+    {
+        "_id": "PB-TM1-P115",
+        "Enunciado": "¿Cuál es la edad mínima para el permiso B?",
+        "Opciones": [
+            "A) 18 años.",
+            "B) 21 años.",
+            "C) 16 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La edad mínima para obtener el permiso B es de 18 años."
+    },
+    {
+        "_id": "PB-TM1-P116",
+        "Enunciado": "¿Qué carga máxima puede llevar el remolque en un conjunto autorizado por el permiso B+E?",
+        "Opciones": [
+            "A) Hasta 750 kilos únicamente.",
+            "B) Una carga de hasta 3.500 kilos.",
+            "C) Sin límite de peso mientras el tractor sea un turismo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En el permiso B+E, el remolque puede llevar una carga de hasta 3.500 kilos."
+    },
+    {
+        "_id": "PB-TM1-P117",
+        "Enunciado": "¿Cuál es la edad mínima para obtener el permiso B+E?",
+        "Opciones": [
+            "A) 18 años.",
+            "B) 20 años.",
+            "C) 21 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La edad mínima exigida para el permiso B+E es de 18 años."
+    },
+    {
+        "_id": "PB-TM1-P118",
+        "Enunciado": "¿Con cuántos puntos se empieza cuando consigues el permiso de conducir?",
+        "Opciones": [
+            "A) Empiezas con 0 y vas sumando por buena conducta.",
+            "B) Te dan 8 puntos.",
+            "C) Te dan 12 puntos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario especifica que cuando consigues el permiso de conducir te dan 8 puntos."
+    },
+    {
+        "_id": "PB-TM1-P119",
+        "Enunciado": "¿En qué casos se pierden puntos del permiso de conducir?",
+        "Opciones": [
+            "A) Solo si causas un accidente con víctimas.",
+            "B) Por cualquier infracción de tráfico, incluso leve.",
+            "C) Si cometes alguna falta grave o muy grave."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se pierden puntos si se comete alguna falta grave o muy grave."
+    },
+    {
+        "_id": "PB-TM1-P120",
+        "Enunciado": "¿Qué ejemplo de falta grave o muy grave se cita para la pérdida de puntos?",
+        "Opciones": [
+            "A) Estacionar en zona de carga y descarga.",
+            "B) No llevar el chaleco reflectante en el maletero.",
+            "C) Usar el móvil mientras conduces."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El documento menciona el uso del móvil mientras se conduce como ejemplo de falta para perder puntos."
+    }
+]

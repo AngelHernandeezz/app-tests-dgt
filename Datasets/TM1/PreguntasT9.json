@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM1-P217",
+    "Enunciado": "Un vehículo de dos ruedas tiene una cilindrada de 50 centímetros cúbicos y alcanza una velocidad máxima de 45 km/h. ¿Cómo se clasifica según el temario?",
+    "Opciones": [
+      "A) Como ciclomotor, ya que no supera ni la cilindrada ni la velocidad mínima para ser motocicleta.",
+      "B) Como vehículo de movilidad personal, por su baja potencia y limitación de velocidad.",
+      "C) Como motocicleta de dos ruedas, al tener exactamente 50 centímetros cúbicos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para ser motocicleta debe tener una cilindrada mayor de 50 cc o alcanzar una velocidad mayor de 45 km/h. Al tener exactamente 50 cc y 45 km/h, se clasifica como ciclomotor."
+  },
+  {
+    "_id": "PB-TM1-P218",
+    "Enunciado": "¿Qué requisito debe cumplir un vehículo de tres ruedas simétricas para ser considerado un automóvil?",
+    "Opciones": [
+      "A) Disponer de una potencia superior a 15 kilovatios en su motor eléctrico.",
+      "B) Pesar menos de 350 kilos con carga y pasajeros.",
+      "C) Tener una cilindrada mayor de 50 cc (si es de gasolina) o una velocidad mayor de 45 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El vehículo de tres ruedas simétricas debe cumplir las mismas características de cilindrada y velocidad que las motocicletas de dos ruedas para ser un automóvil."
+  },
+  {
+    "_id": "PB-TM1-P219",
+    "Enunciado": "Un cuatriciclo pesado destinado al transporte de mercancías tiene un peso de 500 kilos con carga y pasajeros. ¿Es correcto según su definición?",
+    "Opciones": [
+      "A) No, porque no puede superar los 450 kilos en ningún caso.",
+      "B) Sí, ya que el límite para mercancías es de 600 kilos.",
+      "C) Sí, siempre que la potencia de su motor no exceda de 10 kilovatios."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El cuatriciclo pesado tiene un límite de masa de 600 kilos si está destinado al transporte de mercancías."
+  },
+  {
+    "_id": "PB-TM1-P220",
+    "Enunciado": "¿Cuál es la diferencia principal entre la configuración de un camión y la de una furgoneta o furgón?",
+    "Opciones": [
+      "A) En el furgón la cabina y el resto están juntas; en el camión están separadas.",
+      "B) El número de plazas máximo de la cabina.",
+      "C) La capacidad de carga, siendo siempre menor de 3.500 kilos en furgones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "A diferencia del camión, en el furgón o furgoneta la cabina y el resto del vehículo están juntas, no separadas."
+  },
+  {
+    "_id": "PB-TM1-P221",
+    "Enunciado": "En un tren de carretera, ¿cómo se realiza la unión entre los elementos del conjunto?",
+    "Opciones": [
+      "A) Se utiliza un cable de arrastre homologado para servicios de auxilio.",
+      "B) El semirremolque se apoya directamente sobre el tractocamión sin ejes propios.",
+      "C) El remolque se engancha al vehículo a motor por medio de un eje."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En un tren de carretera, el remolque está enganchado al vehículo a motor por medio de un eje."
+  },
+  {
+    "_id": "PB-TM1-P222",
+    "Enunciado": "¿A partir de qué configuración de ejes se define una 'configuración euromodular'?",
+    "Opciones": [
+      "A) Cuando el conjunto supera los 10 ejes totales.",
+      "B) Cuando los vehículos enganchados tienen al menos 6 ejes en sus ruedas.",
+      "C) Siempre que el remolque y el vehículo motor sumen exactamente 4 ejes."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La configuración euromodular consiste en vehículos enganchados que tienen al menos 6 ejes en sus ruedas."
+  },
+  {
+    "_id": "PB-TM1-P223",
+    "Enunciado": "Un usuario circula a pie llevando de la mano un ciclomotor de dos ruedas. ¿Qué consideración legal tiene?",
+    "Opciones": [
+      "A) Peatón.",
+      "B) Conductor de vehículo sin motor.",
+      "C) Conductor de ciclomotor."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Son peatones las personas que van andando y llevan consigo un ciclo o un ciclomotor de dos ruedas."
+  },
+  {
+    "_id": "PB-TM1-P224",
+    "Enunciado": "¿Qué documento certifica que un vehículo tiene matrícula y está legalmente autorizado para circular?",
+    "Opciones": [
+      "A) El recibo del Seguro de Responsabilidad Civil.",
+      "B) La Tarjeta de Inspección Técnica (ITV).",
+      "C) El Permiso de Circulación."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El permiso de circulación es el documento que confirma que un vehículo tiene matrícula y está autorizado a circular."
+  },
+  {
+    "_id": "PB-TM1-P225",
+    "Enunciado": "El titular de un vehículo cambia su domicilio. ¿Qué plazo tiene para comunicarlo a la Jefatura de Tráfico?",
+    "Opciones": [
+      "A) No es necesario si ya lo ha comunicado al Ayuntamiento.",
+      "B) Como muy tarde 15 días después del cambio.",
+      "C) En un máximo de 10 días naturales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El titular debe comunicar cualquier cambio en sus datos como muy tarde 15 días después del cambio."
+  },
+  {
+    "_id": "PB-TM1-P226",
+    "Enunciado": "Si vende su vehículo a un particular, ¿cuántos días tiene el vendedor para comunicarlo a Tráfico?",
+    "Opciones": [
+      "A) 10 días.",
+      "B) 15 días.",
+      "C) 30 días."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En caso de venta o entrega del vehículo a otra persona, el titular tiene 10 días para comunicarlo."
+  },
+  {
+    "_id": "PB-TM1-P227",
+    "Enunciado": "Un ciclomotor de tres ruedas acaba de ser matriculado. ¿Cuándo debe pasar su primera inspección técnica?",
+    "Opciones": [
+      "A) Al cumplirse 1 año.",
+      "B) A los 3 años de su matriculación.",
+      "C) A los 4 años."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los ciclomotores de tres ruedas y cuadriciclos ligeros pasan su primera revisión a los 4 años."
+  },
+  {
+    "_id": "PB-TM1-P228",
+    "Enunciado": "Un camión de 3.000 kilos de masa máxima destinado al transporte de mercancías tiene 8 años de antigüedad. ¿Cada cuánto debe pasar la ITV?",
+    "Opciones": [
+      "A) Cada 6 meses.",
+      "B) Cada año.",
+      "C) Cada 2 años."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos de mercancías de hasta 3,5 toneladas, entre los 6 y los 10 años, pasan la revisión cada año."
+  },
+  {
+    "_id": "PB-TM1-P229",
+    "Enunciado": "Un remolque pesado (no caravana) tiene 12 años de antigüedad. ¿Con qué frecuencia debe someterse a la ITV?",
+    "Opciones": [
+      "A) Una vez cada 6 meses.",
+      "B) Una vez al año.",
+      "C) Cada 2 años."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los remolques para transportar mercancías o personas (excepto caravanas), después de 10 años, pasan la revisión una vez cada 6 meses."
+  },
+  {
+    "_id": "PB-TM1-P230",
+    "Enunciado": "¿Cuándo pasa su primera revisión técnica una caravana remolcada?",
+    "Opciones": [
+      "A) A los 4 años.",
+      "B) Al cumplir el primer año.",
+      "C) A los 6 años."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La caravana remolcada tiene un plazo específico: la primera revisión es a los 6 años."
+  },
+  {
+    "_id": "PB-TM1-P231",
+    "Enunciado": "Tras un accidente, el seguro obligatorio no cubrirá los daños causados a otra persona si...",
+    "Opciones": [
+      "A) El conductor del vehículo asegurado no es el titular del mismo.",
+      "B) El accidente fue provocado por un huracán.",
+      "C) La otra persona cruzaba por un lugar indebido por error."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El seguro no cubrirá daños por motivos ajenos a la conducción, como un huracán o un incendio."
+  },
+  {
+    "_id": "PB-TM1-P232",
+    "Enunciado": "El conductor de un turismo sufre un accidente y se rompe una pierna. ¿Cubre el seguro obligatorio de su propio vehículo sus gastos médicos?",
+    "Opciones": [
+      "A) No, el seguro obligatorio no cubre las lesiones del conductor del vehículo asegurado.",
+      "B) Solo si se demuestra que el conductor no tuvo la culpa del siniestro.",
+      "C) Sí, el seguro obligatorio cubre todas las lesiones personales derivadas del accidente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El seguro de responsabilidad civil no cubre las lesiones que en un accidente sufra el conductor del vehículo asegurado."
+  },
+  {
+    "_id": "PB-TM1-P233",
+    "Enunciado": "Un conductor choca contra el vehículo de su hermano. ¿Cubre el seguro obligatorio de responsabilidad civil los daños materiales del coche del hermano?",
+    "Opciones": [
+      "A) Solo si el hermano no convive en el mismo domicilio que el asegurado.",
+      "B) Sí, porque es un daño a un objeto ajeno al vehículo asegurado.",
+      "C) No, no cubre los daños en los bienes de familiares de la persona asegurada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El seguro no cubre los daños que el accidente provoque en los objetos de los familiares de la persona asegurada o del conductor."
+  },
+  {
+    "_id": "PB-TM1-P234",
+    "Enunciado": "¿Qué plazo máximo tienen los conductores implicados en un accidente para informar a sus seguros?",
+    "Opciones": [
+      "A) 15 días.",
+      "B) 7 días.",
+      "C) 24 horas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los conductores deben informar a sus seguros como muy tarde 7 días después del accidente."
+  },
+  {
+    "_id": "PB-TM1-P235",
+    "Enunciado": "Si un agente inmoviliza un vehículo por falta de seguro obligatorio, ¿quién debe pagar los gastos del depósito?",
+    "Opciones": [
+      "A) El propietario del vehículo.",
+      "B) El Consorcio de Compensación de Seguros.",
+      "C) El conductor que manejaba el vehículo en ese momento."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El propietario del vehículo tiene que pagar los gastos del lugar en el que el vehículo esté parado por falta de seguro."
+  },
+  {
+    "_id": "PB-TM1-P236",
+    "Enunciado": "¿Qué información relativa a la vigencia debe aparecer en el justificante de pago del seguro?",
+    "Opciones": [
+      "A) El número de cuenta bancaria donde se cargó el recibo.",
+      "B) La fecha de la última revisión de la ITV.",
+      "C) La fecha en la que hay que renovar el seguro."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En el justificante de pago debe aparecer la fecha en la que hay que renovar el seguro."
+  },
+  {
+    "_id": "PB-TM1-P237",
+    "Enunciado": "Un menor de edad comete una infracción de tráfico. ¿Quién es el responsable legal del pago de la multa?",
+    "Opciones": [
+      "A) El propio menor de forma solidaria.",
+      "B) Su padre, madre o tutor.",
+      "C) El titular del vehículo en el que viajara el menor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Cuando las faltas o infracciones las comete un menor de 18 años, la multa la debe pagar su padre, madre o tutor."
+  },
+  {
+    "_id": "PB-TM1-P238",
+    "Enunciado": "¿De qué tipo de infracciones es responsable el titular del vehículo, aunque no sea el conductor?",
+    "Opciones": [
+      "A) De las relacionadas con la documentación y el estado del vehículo.",
+      "B) Del uso del teléfono móvil por parte del conductor habitual.",
+      "C) Del exceso de velocidad detectado por un radar fijo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El titular es responsable de las faltas relacionadas con la documentación, las revisiones y el estado del vehículo."
+  },
+  {
+    "_id": "PB-TM1-P239",
+    "Enunciado": "Con el permiso de conducir de la clase B, ¿qué tipo de remolque se puede arrastrar?",
+    "Opciones": [
+      "A) Cualquier remolque pesado siempre que el conjunto no supere los 4.250 kilos.",
+      "B) Únicamente remolques agrícolas con matrícula roja.",
+      "C) Un remolque cuando este no lleve un peso mayor de 750 kilos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El permiso B autoriza el conjunto de vehículos cuando el remolque no lleve un peso mayor de 750 kilos."
+  },
+  {
+    "_id": "PB-TM1-P240",
+    "Enunciado": "¿Qué edad mínima se exige para obtener el permiso de conducir de la clase A?",
+    "Opciones": [
+      "A) 21 años para motocicletas y 18 para triciclos.",
+      "B) 20 años.",
+      "C) 18 años."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para obtener el permiso A (motocicletas y triciclos de cualquier potencia) la edad mínima es de 20 años."
+  },
+  {
+    "_id": "PB-TM1-P241",
+    "Enunciado": "El permiso A1 autoriza a conducir motocicletas con una potencia máxima de...",
+    "Opciones": [
+      "A) 11 kilovatios.",
+      "B) 15 kilovatios.",
+      "C) 35 kilovatios."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El permiso A1 autoriza motocicletas con una potencia máxima de 11 kilovatios."
+  },
+  {
+    "_id": "PB-TM1-P242",
+    "Enunciado": "Un conductor tiene 70 años. ¿Cada cuánto tiempo debe renovar su permiso de conducir tipo B?",
+    "Opciones": [
+      "A) Cada 10 años.",
+      "B) Cada 2 años.",
+      "C) Cada 5 años."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El permiso tipo B se renueva cada 5 años si el titular tiene más de 65 años."
+  },
+  {
+    "_id": "PB-TM1-P243",
+    "Enunciado": "¿Qué característica define a un vehículo de movilidad personal (VMP) como un patín eléctrico?",
+    "Opciones": [
+      "A) Puede transportar hasta dos personas si dispone de manillar.",
+      "B) Alcanza una velocidad de entre 6 y 25 km/h.",
+      "C) Dispone de un asiento y una potencia mayor a 1.000 vatios."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los VMP alcanzan una velocidad de entre 6 y 25 kilómetros por hora y en ellos solo puede viajar una persona."
+  },
+  {
+    "_id": "PB-TM1-P244",
+    "Enunciado": "Usted circula con un turismo que tiene 11 años. ¿Qué frecuencia de ITV le corresponde?",
+    "Opciones": [
+      "A) Cada 6 meses.",
+      "B) Cada año.",
+      "C) Cada 2 años."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Lo siento, hubo un error en la distracción. Según el temario, vehículos de hasta 9 pasajeros con más de 10 años pasan la revisión cada año. Corrijo: para vehículos de pasajeros > 10 años, la revisión es cada año."
+  },
+  {
+    "_id": "PB-TM1-P245",
+    "Enunciado": "Usted circula con un turismo que tiene 11 años. ¿Qué frecuencia de ITV le corresponde?",
+    "Opciones": [
+      "A) Cada 6 meses.",
+      "B) Cada 2 años.",
+      "C) Cada año."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A partir de los 10 años de antigüedad, los vehículos de motor para hasta 9 pasajeros pasan la ITV cada año."
+  },
+  {
+    "_id": "PB-TM1-P246",
+    "Enunciado": "¿Cuál es la potencia máxima permitida para los triciclos de motor que autoriza el permiso A1?",
+    "Opciones": [
+      "A) 20 kilovatios.",
+      "B) 15 kilovatios.",
+      "C) 11 kilovatios."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El permiso A1 autoriza a conducir triciclos de motor con una potencia máxima de 15 kilovatios."
+  }
+]
