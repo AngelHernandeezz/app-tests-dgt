@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P361",
+        "Enunciado": "Respecto a la clasificación de seguridad, ¿cuál es la diferencia fundamental en el funcionamiento de la seguridad activa y la pasiva?",
+        "Opciones": [
+            "A) La activa protege solo a los peatones y la pasiva solo a los ocupantes del vehículo.",
+            "B) La activa requiere la intervención del conductor, mientras que la pasiva es automática.",
+            "C) La activa funciona tras el accidente y la pasiva antes de que ocurra."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La seguridad activa requiere que el conductor utilice los elementos (frenos, luces), mientras que la pasiva actúa sola (airbag, cinturón)."
+    },
+    {
+        "_id": "PB-TM9-P362",
+        "Enunciado": "Para evitar lesiones graves en las cervicales, ¿cómo debe regularse exactamente la altura del reposacabezas?",
+        "Opciones": [
+            "A) Debe situarse diez centímetros por debajo de la nuca para permitir el movimiento.",
+            "B) La parte de arriba del dispositivo debe coincidir con la parte superior de la cabeza.",
+            "C) El borde superior debe quedar justo a la altura de los ojos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual indica que la parte de arriba del reposacabezas debe estar a la misma altura que la parte de arriba de tu cabeza."
+    },
+    {
+        "_id": "PB-TM9-P363",
+        "Enunciado": "¿Qué obligación de retrovisores tiene una motocicleta capaz de circular a 110 kilómetros por hora?",
+        "Opciones": [
+            "A) Tiene la obligación de llevar dos retrovisores, uno a cada lado.",
+            "B) Es obligatorio un único espejo situado en el lado izquierdo.",
+            "C) Es recomendable llevar dos, pero la ley solo exige el del lado derecho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las motocicletas que circulan a más de 100 km/h deben llevar obligatoriamente dos retrovisores."
+    },
+    {
+        "_id": "PB-TM9-P364",
+        "Enunciado": "Sobre el sistema de frenado ABS, ¿qué factor facilita que las ruedas de una motocicleta no se bloqueen?",
+        "Opciones": [
+            "A) Que el conductor utilice exclusivamente el freno de la rueda trasera.",
+            "B) Que el neumático tenga una presión de inflado superior a la recomendada.",
+            "C) Que el vehículo circule con un pasajero adicional (mayor peso)."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuanto más peso hay en el vehículo, más difícil es que las ruedas se bloqueen al frenar."
+    },
+    {
+        "_id": "PB-TM9-P365",
+        "Enunciado": "¿Cuál es la diferencia técnica entre los sistemas de seguridad ADAS denominados LDW y LKA?",
+        "Opciones": [
+            "A) El LDW solo avisa de la salida y el LKA ayuda activamente a guiar el coche.",
+            "B) El LDW asiste en la dirección y el LKA solo emite una señal sonora.",
+            "C) El LDW detecta peatones y el LKA detecta las señales de velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El LDW es un aviso de salida de carril, mientras que el LKA es una asistencia que guía el coche dentro de las líneas."
+    },
+    {
+        "_id": "PB-TM9-P366",
+        "Enunciado": "Para que el cinturón de seguridad no provoque lesiones internas en un choque, ¿dónde se debe apoyar la cinta inferior?",
+        "Opciones": [
+            "A) Sobre el abdomen para amortiguar el impacto con las partes blandas.",
+            "B) A la altura de la cintura, coincidiendo con el ombligo del pasajero.",
+            "C) Sobre los huesos de la cadera, siempre por debajo del estómago."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La cinta abdominal debe estar colocada sobre los huesos de la cadera para evitar daños internos graves."
+    },
+    {
+        "_id": "PB-TM9-P367",
+        "Enunciado": "El sistema de luces de carretera automáticas requiere, para su encendido inicial, que el vehículo supere:",
+        "Opciones": [
+            "A) Los 60 kilómetros por hora.",
+            "B) Los 80 kilómetros por hora.",
+            "C) Los 45 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El vehículo debe ir a una velocidad mayor de 45 km/h para que estas luces se activen automáticamente."
+    },
+    {
+        "_id": "PB-TM9-P368",
+        "Enunciado": "¿Qué ventaja específica de seguridad pasiva ofrece el casco de modelo integral?",
+        "Opciones": [
+            "A) Protege también la parte de debajo de la cara y la mandíbula.",
+            "B) Permite una mayor ventilación al tener la mandíbula al aire.",
+            "C) Es el único modelo que incluye obligatoriamente pantalla antivaho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El casco integral se define por proteger también la mandíbula y la zona inferior de la cara."
+    },
+    {
+        "_id": "PB-TM9-P369",
+        "Enunciado": "Si durante la marcha detecta que los retrovisores no están bien regulados, ¿cómo debe proceder?",
+        "Opciones": [
+            "A) Debe esperar a llegar a su destino para no interrumpir el tráfico.",
+            "B) Puede ajustarlos en movimiento si el mando es eléctrico.",
+            "C) Debe parar el vehículo, preferiblemente en un lugar llano y recto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si los espejos están mal puestos, hay que parar el vehículo en un lugar adecuado para ajustarlos."
+    },
+    {
+        "_id": "PB-TM9-P370",
+        "Enunciado": "¿Qué tecnología utiliza el sistema de frenado autónomo de emergencia (AEB) para medir la distancia?",
+        "Opciones": [
+            "A) Un radar.",
+            "B) El sensor de ultrasonidos del asistente de aparcamiento.",
+            "C) Una conexión GPS de alta precisión."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema AEB calcula la distancia necesaria a través de un radar."
+    },
+    {
+        "_id": "PB-TM9-P371",
+        "Enunciado": "Bajando una cuesta muy inclinada fallan los frenos. Si no puede reducir marchas, ¿cómo debe usar el freno de mano?",
+        "Opciones": [
+            "A) No debe usarse bajo ninguna circunstancia por riesgo de vuelco.",
+            "B) Tirando de la palanca de forma suave.",
+            "C) De forma brusca y rápida para bloquear las ruedas traseras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En caso de fallo en bajada y sin posibilidad de reducir marchas, se debe tirar del freno de mano suavemente."
+    },
+    {
+        "_id": "PB-TM9-P372",
+        "Enunciado": "Además de iluminar mejor, ¿qué beneficio aportan los faros de xenón a la seguridad de otros usuarios?",
+        "Opciones": [
+            "A) Tienen un alcance de luz infinito que no necesita regulación.",
+            "B) Deslumbran menos al resto de conductores que otras luces.",
+            "C) Cambian de color según la velocidad para avisar de peligros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las lámparas de xenón, además de mejorar la visión, deslumbran menos a los demás."
+    },
+    {
+        "_id": "PB-TM9-P373",
+        "Enunciado": "¿Qué elemento técnico del vehículo sufre un mayor deterioro si se circula con un exceso de presión de inflado?",
+        "Opciones": [
+            "A) Los discos de freno del eje delantero.",
+            "B) Los amortiguadores.",
+            "C) El sistema de activación automática de luces."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Con presión mayor a la recomendada, los amortiguadores se estropean más al no absorber las irregularidades."
+    },
+    {
+        "_id": "PB-TM9-P374",
+        "Enunciado": "¿En qué condición puede un profesor de autoescuela circular sin cinturón de seguridad?",
+        "Opciones": [
+            "A) En cualquier vía, siempre que esté impartiendo una clase práctica.",
+            "B) Dentro de poblado, si está a cargo de los mandos adicionales.",
+            "C) Únicamente en carreteras convencionales si el alumno tiene experiencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La excepción para profesores solo se aplica en ciudad y mientras usan los mandos adicionales."
+    },
+    {
+        "_id": "PB-TM9-P375",
+        "Enunciado": "¿Qué circunstancia detecta el sistema de control de tracción para entrar en funcionamiento?",
+        "Opciones": [
+            "A) Que una rueda está girando más rápido que las demás.",
+            "B) Que el conductor ha soltado el acelerador en una curva cerrada.",
+            "C) Que el vehículo se está desviando de la trayectoria del volante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El control de tracción identifica si una rueda gira más rápido (patina) y la frena."
+    },
+    {
+        "_id": "PB-TM9-P376",
+        "Enunciado": "En turismos, ¿cuándo se permite que un menor ocupe legalmente el asiento delantero?",
+        "Opciones": [
+            "A) Únicamente si el trayecto es por una autopista de peaje.",
+            "B) Siempre que el niño utilice un cinturón de tres puntos de anclaje.",
+            "C) Cuando todas las plazas traseras ya están ocupadas por otros niños."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se permite ir delante si el vehículo no tiene asientos traseros, están ocupados por niños o no se pueden instalar SRI allí."
+    },
+    {
+        "_id": "PB-TM9-P377",
+        "Enunciado": "Respecto a la denominada rueda de galleta, ¿cuál es su limitación de uso?",
+        "Opciones": [
+            "A) No puede usarse por más de 50 kilómetros de distancia.",
+            "B) Permite recorrer unos 200 kilómetros a un máximo de 80 km/h.",
+            "C) Solo puede utilizarse en el eje delantero del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Con la rueda de galleta se pueden recorrer unos 200 km a 80 km/h como máximo."
+    },
+    {
+        "_id": "PB-TM9-P378",
+        "Enunciado": "¿Qué señal visual emite un vehículo equipado con EBD ante una frenada de emergencia?",
+        "Opciones": [
+            "A) Se activan automáticamente las luces de largo alcance.",
+            "B) Las luces de frenado parpadean de forma firme y rápida.",
+            "C) Se enciende la luz de posición delantera de forma fija."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema EBD hace que las luces de frenado parpadeen para avisar al conductor de atrás."
+    },
+    {
+        "_id": "PB-TM9-P379",
+        "Enunciado": "Para evitar que el despliegue del airbag sea peligroso, ¿qué separación mínima debe mantener el pecho del volante?",
+        "Opciones": [
+            "A) Un máximo de 10 centímetros.",
+            "B) No existe una distancia mínima si se lleva el cinturón puesto.",
+            "C) Al menos 25 centímetros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe colocar el pecho a una distancia de al menos 25 centímetros del volante."
+    },
+    {
+        "_id": "PB-TM9-P380",
+        "Enunciado": "Respecto al mantenimiento de la visibilidad, ¿por qué no debe usarse el limpiaparabrisas con el cristal seco?",
+        "Opciones": [
+            "A) Porque se corre el riesgo de rayar el cristal.",
+            "B) Porque el motor del sistema podría quemarse por la fricción.",
+            "C) Porque las escobillas se quedarían pegadas permanentemente al vidrio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Usar el limpiaparabrisas en seco puede rayar la superficie del cristal."
+    },
+    {
+        "_id": "PB-TM9-P381",
+        "Enunciado": "En la conducción de una motocicleta, ¿qué debe hacer el motorista con sus pies durante la marcha?",
+        "Opciones": [
+            "A) Dejarlos colgando para facilitar la refrigeración del motor.",
+            "B) Colocarlos en los apoyapiés en cuanto el vehículo empiece a rodar.",
+            "C) Mantenerlos cerca del suelo para equilibrar el peso en las curvas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una vez que la motocicleta rueda, los pies deben ir siempre en los apoyapiés."
+    },
+    {
+        "_id": "PB-TM9-P382",
+        "Enunciado": "¿Qué práctica está expresamente prohibida por ley en relación con los cristales del vehículo?",
+        "Opciones": [
+            "A) Pegar pegatinas que hagan que se vea peor una zona.",
+            "B) Utilizar líquidos lavaparabrisas que contengan detergente.",
+            "C) Limpiar la luneta trasera con el vehículo en movimiento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Está prohibido colocar láminas o pegatinas que dificulten la visión del conductor."
+    },
+    {
+        "_id": "PB-TM9-P383",
+        "Enunciado": "En caso de accidente, ¿cuál es la función del diseño deformable del chasis y la carrocería?",
+        "Opciones": [
+            "A) Desprenderse del habitáculo rígido para aligerar el impacto.",
+            "B) Evitar que el vehículo sufra daños mecánicos irreparables.",
+            "C) Absorber energía para que los pasajeros sufran menos daños."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El chasis y la carrocería se deforman para proteger a los pasajeros absorbiendo el impacto."
+    },
+    {
+        "_id": "PB-TM9-P384",
+        "Enunciado": "Para garantizar una conducción segura, ¿qué requisito deben cumplir todos los cristales del vehículo?",
+        "Opciones": [
+            "A) Todos los cristales tienen que estar limpios.",
+            "B) Deben ser obligatoriamente de color azulado para evitar fatiga.",
+            "C) Tienen que estar cubiertos por una lámina protectora de bixenón."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La visibilidad adecuada exige que todos los cristales del vehículo estén limpios."
+    },
+    {
+        "_id": "PB-TM9-P385",
+        "Enunciado": "¿Qué información muestra prioritariamente el sistema TSR en el cuadro de instrumentos?",
+        "Opciones": [
+            "A) La presión de los neumáticos en tiempo real.",
+            "B) El número que corresponde a la velocidad máxima permitida.",
+            "C) La distancia en metros hasta la siguiente señal de stop."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema de reconocimiento de señales detecta y muestra los límites de velocidad."
+    },
+    {
+        "_id": "PB-TM9-P386",
+        "Enunciado": "¿Qué efecto mecánico se produce cuando el conductor pisa a fondo el pedal de embrague?",
+        "Opciones": [
+            "A) Se activa el sistema de frenado automático de emergencia.",
+            "B) Se conecta el movimiento del motor con las ruedas motrices.",
+            "C) El movimiento del motor no se transmite a la caja de cambios ni a las ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al pisar el embrague, se interrumpe la transmisión de potencia a las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P387",
+        "Enunciado": "¿Cuál es la finalidad de las líneas visibles en el cristal trasero de muchos automóviles?",
+        "Opciones": [
+            "A) Quitar el hielo y los vapores que se forman en la luneta.",
+            "B) Reforzar el cristal frente a impactos de piedras del camino.",
+            "C) Actuar como una antena de radio de alta ganancia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Esas líneas forman la luneta térmica, que desempaña y descongela el cristal trasero."
+    },
+    {
+        "_id": "PB-TM9-P388",
+        "Enunciado": "Circular con una presión de inflado muy inferior a la recomendada aumenta el riesgo de:",
+        "Opciones": [
+            "A) Que el vehículo vibre en exceso por la dureza de la goma.",
+            "B) Que los amortiguadores se vuelvan demasiado rígidos.",
+            "C) Que la rueda se reviente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una presión muy baja conlleva un riesgo elevado de reventón de la rueda."
+    },
+    {
+        "_id": "PB-TM9-P389",
+        "Enunciado": "¿Cuál de estas situaciones puede provocar que una rueda pierda su equilibrado?",
+        "Opciones": [
+            "A) El uso de las luces adaptativas angulares en curvas.",
+            "B) Circular con el depósito de lavaparabrisas vacío.",
+            "C) Que las llantas se abollen o pierdan los contrapesos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Abolladuras o pérdida de contrapesos son causas directas de desequilibrio en las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P390",
+        "Enunciado": "¿Qué partes del cuerpo protege específicamente un casco de tipo integral?",
+        "Opciones": [
+            "A) Toda la cabeza, incluyendo la mandíbula y la parte baja de la cara.",
+            "B) Los ojos, las orejas y la parte trasera del cuello.",
+            "C) Únicamente la parte superior del cráneo y la nuca."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El modelo integral protege la cabeza completa y la zona de la mandíbula."
+    }
+]

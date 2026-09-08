@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P31",
+        "Enunciado": "Aunque no es lo habitual, ¿qué consecuencia puede tener un fallo en los frenos de un vehículo?",
+        "Opciones": [
+            "A) Únicamente provoca un desgaste irregular de las llantas.",
+            "B) Obliga a sustituir el motor de forma inmediata.",
+            "C) Puede causar un accidente grave."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aunque los frenos no suelen fallar, en ocasiones ocurre y esto puede causar un accidente grave."
+    },
+    {
+        "_id": "PB-TM9-P32",
+        "Enunciado": "¿Cuáles de estos sistemas forman parte de la seguridad de los frenos?",
+        "Opciones": [
+            "A) Únicamente el sistema de activación automática de luces.",
+            "B) Freno motor, ABS, AEB y EBD.",
+            "C) Solo el limitador de velocidad y el regulador adaptativo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los sistemas mencionados son el freno motor, el ABS, el frenado autónomo de emergencia (AEB) y el aviso de frenada de emergencia (EBD)."
+    },
+    {
+        "_id": "PB-TM9-P33",
+        "Enunciado": "¿Qué es el freno motor?",
+        "Opciones": [
+            "A) Un sistema para reducir la velocidad sin usar el freno de las ruedas.",
+            "B) El pedal derecho que detiene el vehículo de forma brusca.",
+            "C) Un dispositivo mecánico que bloquea las ruedas traseras al aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El freno motor es el sistema que sirve para reducir la velocidad a la que circula un vehículo sin usar el freno de las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P34",
+        "Enunciado": "¿Cuándo entra en funcionamiento el freno motor?",
+        "Opciones": [
+            "A) Cuando el conductor deja de acelerar.",
+            "B) Automáticamente al detectar una señal de stop.",
+            "C) Solo cuando se pisa el pedal de embrague a fondo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El freno motor funciona cuando dejas de acelerar y, de esta forma, es el motor el que retiene el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P35",
+        "Enunciado": "Para que el motor frene más el vehículo, ¿qué tipo de marchas se deben utilizar?",
+        "Opciones": [
+            "A) Las marchas cortas (1ª o 2ª).",
+            "B) Las marchas más largas (5ª o 6ª).",
+            "C) Es indiferente la marcha que esté seleccionada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si se circula en marchas cortas, como la primera o la segunda, el motor frena más el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P36",
+        "Enunciado": "¿En qué situación específica se recomienda usar el freno motor?",
+        "Opciones": [
+            "A) Únicamente al circular por el centro de una ciudad.",
+            "B) Al realizar maniobras de estacionamiento en batería.",
+            "C) Al bajar cuestas largas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual recomienda usar el freno motor especialmente al bajar cuestas largas."
+    },
+    {
+        "_id": "PB-TM9-P37",
+        "Enunciado": "¿Cuál es la función del sistema ABS?",
+        "Opciones": [
+            "A) Aumentar la potencia del motor durante un adelantamiento.",
+            "B) Mantener la velocidad constante sin pisar el acelerador.",
+            "C) Evitar que las ruedas se bloqueen al frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema antibloqueo de frenos (ABS) es un dispositivo que evita que las ruedas se bloqueen al frenar."
+    },
+    {
+        "_id": "PB-TM9-P38",
+        "Enunciado": "¿Por qué es muy importante el sistema ABS para el conductor?",
+        "Opciones": [
+            "A) Porque avisa de la presencia de radares en la carretera.",
+            "B) Porque ayuda a mantener el control del vehículo y frenar en menos espacio.",
+            "C) Porque permite ahorrar hasta un 20% de combustible."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El ABS es fundamental porque ayuda a mantener el control del vehículo y a frenar en menos espacio."
+    },
+    {
+        "_id": "PB-TM9-P39",
+        "Enunciado": "Respecto al bloqueo de las ruedas al frenar, ¿cómo influye el peso?",
+        "Opciones": [
+            "A) El peso no influye en absoluto en el bloqueo de las ruedas.",
+            "B) Cuanto más peso hay, más difícil es que se bloqueen las ruedas.",
+            "C) Cuanto más peso hay, más fácil es que las ruedas se bloqueen."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El texto indica que cuanto más peso hay en el vehículo más difícil es que se bloqueen las ruedas al frenar."
+    },
+    {
+        "_id": "PB-TM9-P40",
+        "Enunciado": "¿Cómo calcula el sistema de frenado autónomo de emergencia (AEB) la distancia con el vehículo delantero?",
+        "Opciones": [
+            "A) Mediante sensores de peso en los amortiguadores.",
+            "B) Utilizando la conexión GPS del vehículo.",
+            "C) A través de un radar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema AEB calcula la distancia que hay y debe haber entre los vehículos a través de un radar."
+    },
+    {
+        "_id": "PB-TM9-P41",
+        "Enunciado": "Si el AEB detecta que hay muy poca distancia entre los vehículos, ¿cómo avisa al conductor?",
+        "Opciones": [
+            "A) Encendiendo la luz interior del habitáculo.",
+            "B) Haciendo que el volante gire solo hacia la derecha.",
+            "C) Por medio de una voz y un sonido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema avisará al conductor por medio de una voz y un sonido en caso de que haya muy poca distancia."
+    },
+    {
+        "_id": "PB-TM9-P42",
+        "Enunciado": "¿Qué hace el sistema AEB si el conductor no hace caso a los avisos y hay peligro de accidente?",
+        "Opciones": [
+            "A) Llama automáticamente a los servicios de emergencia.",
+            "B) Realizará un frenado de emergencia.",
+            "C) Apaga el motor del vehículo inmediatamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si el conductor no reacciona ante las señales y hay peligro de accidente, el sistema hará un frenado de emergencia."
+    },
+    {
+        "_id": "PB-TM9-P43",
+        "Enunciado": "¿Qué es un radar según la definición del temario?",
+        "Opciones": [
+            "A) Sistema que puede detectar dónde está un objeto.",
+            "B) El sistema que mide la presión de aire de las ruedas.",
+            "C) Un tipo de freno de mano electrónico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Un radar es un sistema capaz de detectar la ubicación de un objeto."
+    },
+    {
+        "_id": "PB-TM9-P44",
+        "Enunciado": "¿Cuál es la función del aviso de frenada de emergencia (EBD)?",
+        "Opciones": [
+            "A) Avisar de que el vehículo de delante tiene que hacer una frenada de emergencia.",
+            "B) Frenar el vehículo automáticamente si el conductor se duerme.",
+            "C) Aumentar la presión de los neumáticos antes de un choque."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema EBD avisa al conductor de que el vehículo de delante tiene que realizar una frenada de emergencia."
+    },
+    {
+        "_id": "PB-TM9-P45",
+        "Enunciado": "¿Qué señal emite el vehículo de delante cuando el EBD detecta una frenada firme y rápida?",
+        "Opciones": [
+            "A) Las luces de frenado de su vehículo parpadean.",
+            "B) Se enciende la luz de posición trasera de forma fija.",
+            "C) Se activa el claxon de forma intermitente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cuando el conductor de delante pisa el freno de manera firme y rápida, sus luces de frenado parpadean."
+    },
+    {
+        "_id": "PB-TM9-P46",
+        "Enunciado": "¿Cuál es el objetivo principal del parpadeo de luces en el sistema EBD?",
+        "Opciones": [
+            "A) Que el conductor de atrás tenga más tiempo de frenar.",
+            "B) Indicar que el vehículo delantero va a realizar un giro.",
+            "C) Avisar a los peatones de que el coche va a estacionar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este sistema avisa al conductor de atrás para que tenga más tiempo de frenar e intentar no chocar."
+    },
+    {
+        "_id": "PB-TM9-P47",
+        "Enunciado": "Para frenar de forma segura y controlada, ¿cómo debe ser la presión sobre el pedal?",
+        "Opciones": [
+            "A) De forma suave, poco a poco y con tiempo suficiente.",
+            "B) Se debe pisar el freno y el acelerador a la vez.",
+            "C) Siempre brusca y rápida para asegurar la detención."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es necesario frenar de forma suave, poco a poco y con el tiempo suficiente para que sea seguro."
+    },
+    {
+        "_id": "PB-TM9-P48",
+        "Enunciado": "¿Qué hay que tener en cuenta al frenar cuando la carretera no está en buen estado?",
+        "Opciones": [
+            "A) Hay que frenar más suave y con más tiempo.",
+            "B) No se deben usar los frenos en absoluto.",
+            "C) Hay que frenar con más fuerza para compensar el mal estado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cuando la carretera no está bien, hay que frenar de manera más suave y con más tiempo de antelación."
+    },
+    {
+        "_id": "PB-TM9-P49",
+        "Enunciado": "¿Qué consecuencia tiene usar el freno de forma excesiva?",
+        "Opciones": [
+            "A) Provocará que el neumático gane presión de inflado.",
+            "B) Se activará el sistema AEB de forma permanente.",
+            "C) Se calentará y frenará peor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "No hay que usar el freno demasiado porque se calentará y, como consecuencia, frenará peor."
+    },
+    {
+        "_id": "PB-TM9-P50",
+        "Enunciado": "Para frenar de emergencia en un vehículo SIN ABS, ¿cómo se debe actuar inicialmente?",
+        "Opciones": [
+            "A) Pisar únicamente el freno de mano de forma brusca.",
+            "B) Pisar el pedal de freno de forma intermitente desde el principio.",
+            "C) Pisar fuerte y a fondo hasta notar que la rueda se empieza a bloquear."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Sin ABS, debes pisar fuerte y a fondo el pedal hasta notar que la rueda se empieza a bloquear."
+    },
+    {
+        "_id": "PB-TM9-P51",
+        "Enunciado": "En un vehículo sin ABS, una vez que notas que las ruedas se bloquean, ¿qué debes hacer?",
+        "Opciones": [
+            "A) Pisar el embrague y tirar del volante hacia un lado.",
+            "B) Levantar un poco el pie del freno sin dejar de frenar.",
+            "C) Soltar el freno por completo y acelerar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debes levantar un poco el pie para evitar el bloqueo, pero sin dejar de frenar en ningún momento."
+    },
+    {
+        "_id": "PB-TM9-P52",
+        "Enunciado": "¿Cómo se realiza un frenado de emergencia en un vehículo CON ABS?",
+        "Opciones": [
+            "A) Pisar el pedal de freno suavemente y tirar del freno de mano.",
+            "B) Pisar y soltar el pedal varias veces rápidamente.",
+            "C) Pisar fuerte y a fondo el pedal de freno hasta que el vehículo se pare."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En un vehículo con ABS, se debe pisar fuerte y a fondo el pedal de freno hasta que el vehículo se detenga del todo."
+    },
+    {
+        "_id": "PB-TM9-P53",
+        "Enunciado": "Si los frenos se calientan mucho por un uso excesivo en poco tiempo, ¿cuál es la solución?",
+        "Opciones": [
+            "A) Soltar el pedal de freno para que se enfríen.",
+            "B) Pisar el freno con más fuerza para enfriarlo con el aire.",
+            "C) Detener el vehículo y echar agua fría sobre las llantas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La solución cuando los frenos se calientan mucho es soltar el pedal de freno para permitir que se enfríen."
+    },
+    {
+        "_id": "PB-TM9-P54",
+        "Enunciado": "Si los frenos fallan mientras el vehículo baja una cuesta larga y muy inclinada, ¿qué es lo primero que no se debe hacer?",
+        "Opciones": [
+            "A) No se debe mirar por los retrovisores.",
+            "B) No se debe acelerar.",
+            "C) No se debe usar el freno de mano."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ante un fallo de frenos en una cuesta abajo larga y muy inclinada, la primera instrucción es no acelerar."
+    },
+    {
+        "_id": "PB-TM9-P55",
+        "Enunciado": "¿Qué acción mecánica ayuda a que el motor actúe como freno ante un fallo de frenada?",
+        "Opciones": [
+            "A) Apagar el motor mientras el coche está en movimiento.",
+            "B) Reducir marchas.",
+            "C) Poner el vehículo en punto muerto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se deben reducir marchas para que el motor actúe como freno y retenga el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P56",
+        "Enunciado": "Si no se pueden reducir marchas ante un fallo de frenos, ¿cómo se debe usar el freno de mano?",
+        "Opciones": [
+            "A) El freno de mano no debe usarse nunca en movimiento.",
+            "B) Tirando de la palanca de forma suave.",
+            "C) Tirando de la palanca de forma brusca y total."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si no es posible reducir marchas, se debe tirar de la palanca del freno de mano de forma suave."
+    },
+    {
+        "_id": "PB-TM9-P57",
+        "Enunciado": "En otras ocasiones generales en las que fallan los frenos, ¿qué técnica se recomienda?",
+        "Opciones": [
+            "A) Mantener el pedal de freno pisado a fondo sin soltarlo.",
+            "B) Pisar y soltar el pedal varias veces.",
+            "C) Girar el volante de izquierda a derecha rápidamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En otras situaciones de fallo, pisar y soltar el pedal varias veces ayudará a reducir la velocidad del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P58",
+        "Enunciado": "¿De qué dos partes están formadas las ruedas de un vehículo?",
+        "Opciones": [
+            "A) Llanta y tapacubos decorativo.",
+            "B) Neumático y cámara de aire interna.",
+            "C) Llanta y neumático."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las ruedas de un vehículo están formadas por dos partes principales: la llanta y el neumático."
+    },
+    {
+        "_id": "PB-TM9-P59",
+        "Enunciado": "¿Qué es la llanta?",
+        "Opciones": [
+            "A) La parte exterior de goma que toca el suelo.",
+            "B) Pieza de metal con forma de círculo que es la parte interior de la rueda.",
+            "C) Un sensor que mide la temperatura de los frenos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La llanta es la pieza de metal con forma de círculo que constituye la parte interior de la rueda."
+    },
+    {
+        "_id": "PB-TM9-P60",
+        "Enunciado": "¿Cómo se define el neumático en el temario?",
+        "Opciones": [
+            "A) Un plástico duro que recubre los tornillos de la rueda.",
+            "B) Una estructura rígida de acero para proteger la llanta.",
+            "C) Pieza de goma elástica que se coloca alrededor de la llanta."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El neumático es la pieza de goma elástica que se coloca alrededor de la llanta."
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P271",
+        "Enunciado": "¿Qué función tiene el sistema de reconocimiento de señales de tráfico (TSR)?",
+        "Opciones": [
+            "A) Detecta las señales de límite de velocidad que hay en la carretera.",
+            "B) Lee los nombres de las calles para guiar al conductor por voz.",
+            "C) Identifica el color de los semáforos para frenar automáticamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema TSR se encarga específicamente de detectar las señales de límite de velocidad para informar al conductor."
+    },
+    {
+        "_id": "PB-TM9-P272",
+        "Enunciado": "¿Cuál es el objetivo principal de que el sistema TSR detecte los límites de velocidad?",
+        "Opciones": [
+            "A) Mantener encendidas las luces de carretera de forma permanente.",
+            "B) Avisar a los pasajeros de que se ha entrado en una zona urbana.",
+            "C) Que el conductor pueda reducir la velocidad del vehículo si es necesario."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al detectar el límite, el sistema permite que la persona que conduce ajuste la velocidad a lo que marca la vía."
+    },
+    {
+        "_id": "PB-TM9-P273",
+        "Enunciado": "¿En qué parte del vehículo muestra el TSR el número que corresponde a la velocidad máxima permitida?",
+        "Opciones": [
+            "A) En el cuadro de instrumentos.",
+            "B) Directamente proyectado sobre el cristal delantero.",
+            "C) En el espejo retrovisor interior central."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El número captado por el sistema aparece reflejado en el cuadro de instrumentos del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P274",
+        "Enunciado": "En algunos vehículos avanzados, ¿qué acción realiza el sistema TSR si el conductor va más rápido de lo debido?",
+        "Opciones": [
+            "A) Reduce la velocidad por sí solo.",
+            "B) Apaga el motor para obligar a detenerse.",
+            "C) Activa el claxon para avisar a otros usuarios."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Además de avisar, algunos sistemas TSR tienen la capacidad de intervenir reduciendo la velocidad de forma automática."
+    },
+    {
+        "_id": "PB-TM9-P275",
+        "Enunciado": "¿Qué es el cuadro de instrumentos según la definición del temario?",
+        "Opciones": [
+            "A) El lugar donde se guardan los documentos del seguro del coche.",
+            "B) La estructura de metal que protege los pedales del conductor.",
+            "C) Conjunto de indicadores que informan sobre el estado y funcionamiento del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cuadro de instrumentos es la zona frente al conductor con relojes e indicadores sobre el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P276",
+        "Enunciado": "¿Cuál es la utilidad del sistema de aviso de salida de carril (LDW)?",
+        "Opciones": [
+            "A) Mide la distancia lateral con los vehículos aparcados.",
+            "B) Avisa al conductor cuando hace un cambio de carril imprevisto.",
+            "C) Indica al conductor cuándo puede realizar un adelantamiento seguro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema LDW está pensado para alertar si el vehículo abandona el carril sin que el conductor lo haya planeado."
+    },
+    {
+        "_id": "PB-TM9-P277",
+        "Enunciado": "¿Por qué motivos puede producirse una salida de carril imprevista que active el LDW?",
+        "Opciones": [
+            "A) Porque el conductor va distraído o porque se ha dormido.",
+            "B) Únicamente por un fallo mecánico en la dirección asistida.",
+            "C) Por circular a una velocidad excesivamente lenta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema ayuda a corregir situaciones de riesgo por sueño o falta de atención del conductor."
+    },
+    {
+        "_id": "PB-TM9-P278",
+        "Enunciado": "¿De qué formas puede el sistema LDW avisar al conductor de que se está saliendo del carril?",
+        "Opciones": [
+            "A) Bloqueando el pedal del acelerador de forma inmediata.",
+            "B) Por una luz, un sonido o vibración en el asiento o volante.",
+            "C) Mediante un cambio en el color de las luces de cruce."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El aviso puede ser visual (cuadro), sonoro o táctil (vibraciones)."
+    },
+    {
+        "_id": "PB-TM9-P279",
+        "Enunciado": "¿Qué sistema ayuda activamente al conductor a guiar su coche para no salirse de su carril?",
+        "Opciones": [
+            "A) El sistema de reconocimiento de señales de tráfico.",
+            "B) El regulador de velocidad adaptativo con radar.",
+            "C) Asistencia de mantenimiento de carril (LKA)."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El LKA es el sistema que ayuda a mantener la trayectoria dentro de las líneas del carril."
+    },
+    {
+        "_id": "PB-TM9-P280",
+        "Enunciado": "¿Qué elemento de la vía utiliza el sistema LKA para detectar la posición del vehículo?",
+        "Opciones": [
+            "A) El borde metálico de los quitamiedos o barreras.",
+            "B) La posición de las señales verticales de stop.",
+            "C) Las líneas blancas de la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema se guía detectando mediante cámaras las líneas blancas que delimitan los carriles."
+    },
+    {
+        "_id": "PB-TM9-P281",
+        "Enunciado": "Además de ayudar a guiar el coche, ¿qué hace el sistema LKA si el conductor llega a salirse del carril?",
+        "Opciones": [
+            "A) Llama a los servicios de emergencia de forma preventiva.",
+            "B) Activa automáticamente los frenos de las cuatro ruedas.",
+            "C) Avisa al conductor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El LKA tiene una doble función: asistencia en el guiado y alerta en caso de salida efectiva."
+    },
+    {
+        "_id": "PB-TM9-P282",
+        "Enunciado": "¿Dónde se encuentra situada habitualmente la cámara de marcha atrás?",
+        "Opciones": [
+            "A) En la parte de atrás del vehículo.",
+            "B) En los laterales, encima de las ruedas delanteras.",
+            "C) En el interior del habitáculo, junto al retrovisor central."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Como su nombre indica, se sitúa en la parte trasera para ver lo que queda por detrás del coche."
+    },
+    {
+        "_id": "PB-TM9-P283",
+        "Enunciado": "¿Cuál es la función específica de la cámara de marcha atrás?",
+        "Opciones": [
+            "A) Grabar el recorrido para el seguro en caso de accidente.",
+            "B) Mostrar al conductor los obstáculos que hay detrás del coche.",
+            "C) Detectar la velocidad de los vehículos que vienen por detrás."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Sirve para que el conductor vea si hay algo que impida el movimiento hacia atrás."
+    },
+    {
+        "_id": "PB-TM9-P284",
+        "Enunciado": "¿En qué situación resulta especialmente útil la cámara de marcha atrás?",
+        "Opciones": [
+            "A) Al circular por autopista a alta velocidad.",
+            "B) Para aparcar el vehículo.",
+            "C) Al realizar un adelantamiento en carretera convencional."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es de gran ayuda en maniobras de estacionamiento para evitar golpes con objetos o vehículos."
+    },
+    {
+        "_id": "PB-TM9-P285",
+        "Enunciado": "¿En qué lugar puede ver el conductor la imagen de la cámara de marcha atrás?",
+        "Opciones": [
+            "A) Aparece en el cristal lateral del lado derecho.",
+            "B) En la pantalla que está en la parte de adelante del vehículo.",
+            "C) Se proyecta en el suelo al abrir la puerta del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La imagen se visualiza en la pantalla multimedia o central del salpicadero."
+    },
+    {
+        "_id": "PB-TM9-P286",
+        "Enunciado": "¿Qué ventaja principal ofrece la cámara de 360 grados respecto a la cámara trasera simple?",
+        "Opciones": [
+            "A) Permite ver el interior del motor en tiempo real.",
+            "B) Muestra la presión de los neumáticos en la misma imagen.",
+            "C) Capta todo lo que hay alrededor del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La cámara 360 grados ofrece una visión periférica total del entorno del coche."
+    },
+    {
+        "_id": "PB-TM9-P287",
+        "Enunciado": "Respecto al uso de las cámaras de 360 grados, el manual indica que:",
+        "Opciones": [
+            "A) Son obligatorias para conductores con poca experiencia.",
+            "B) Son muy útiles para aparcar el vehículo.",
+            "C) Deben desconectarse al circular por zonas con mucha luz."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Su proyección en pantalla facilita enormemente las maniobras de aparcamiento precisas."
+    },
+    {
+        "_id": "PB-TM9-P288",
+        "Enunciado": "¿Cuál es la finalidad de un asistente de aparcamiento?",
+        "Opciones": [
+            "A) Conducir el vehículo por ciudad buscando plazas libres de pago.",
+            "B) Impedir que el vehículo sea robado mientras está estacionado.",
+            "C) Ayudar al conductor a aparcar o a salir de la plaza de aparcamiento."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Está diseñado para facilitar la entrada y salida de los huecos de estacionamiento."
+    },
+    {
+        "_id": "PB-TM9-P289",
+        "Enunciado": "¿Cuál de estas es una función que pueden realizar los distintos asistentes de aparcamiento?",
+        "Opciones": [
+            "A) Lavar los cristales mientras el coche está parado.",
+            "B) Pagar automáticamente el ticket del estacionamiento regulado.",
+            "C) Buscar el sitio para aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema es capaz de escanear el entorno para localizar huecos donde quepa el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P290",
+        "Enunciado": "Algunos asistentes de aparcamiento pueden llegar a:",
+        "Opciones": [
+            "A) Girar el volante sin ayuda del conductor mientras el vehículo se aparca.",
+            "B) Cambiar los neumáticos de posición para evitar el desgaste.",
+            "C) Seleccionar la música adecuada para la maniobra."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los sistemas automáticos toman el control de la dirección para ejecutar la maniobra de aparcar."
+    },
+    {
+        "_id": "PB-TM9-P291",
+        "Enunciado": "¿Qué debe hacer el conductor mientras el vehículo utiliza el asistente de aparcamiento?",
+        "Opciones": [
+            "A) Debe soltar los pedales y cerrar los ojos para no distraer al sensor.",
+            "B) Puede aprovechar para leer documentos o mirar el móvil.",
+            "C) Prestar mucha atención para asegurar que los movimientos son seguros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La responsabilidad de la seguridad sigue siendo del conductor, que debe supervisar todo el proceso."
+    },
+    {
+        "_id": "PB-TM9-P292",
+        "Enunciado": "Respecto a la maniobra del asistente de aparcamiento, el conductor:",
+        "Opciones": [
+            "A) Puede parar la maniobra en cualquier momento.",
+            "B) Debe esperar a que el coche se apague solo tras aparcar.",
+            "C) No puede intervenir una vez que el sistema ha empezado a girar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor mantiene el control final y puede detener el proceso si detecta un peligro."
+    },
+    {
+        "_id": "PB-TM9-P293",
+        "Enunciado": "¿Cómo ayuda el sistema de ayuda de salida en pendiente al conductor?",
+        "Opciones": [
+            "A) Bloqueando las puertas para que no se abran en la cuesta.",
+            "B) Ayuda a que el vehículo no se vaya para atrás al arrancar.",
+            "C) Aumentando la potencia del motor un 50% al subir."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Evita el retroceso involuntario del coche cuando se inicia la marcha en una inclinación."
+    },
+    {
+        "_id": "PB-TM9-P294",
+        "Enunciado": "¿En qué momento específico actúa el sistema de ayuda en pendiente?",
+        "Opciones": [
+            "A) Cuando el conductor cambia el pie del freno al acelerador.",
+            "B) Únicamente cuando el coche está bajando un puerto de montaña.",
+            "C) Solo cuando el vehículo circula a más de 50 km/h en subida."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Mantiene el freno aplicado unos segundos para dar tiempo al conductor a acelerar sin que el coche caiga."
+    },
+    {
+        "_id": "PB-TM9-P295",
+        "Enunciado": "¿Qué detecta el sistema de alerta de tráfico cruzado (RCTA)?",
+        "Opciones": [
+            "A) El estado del asfalto en los cruces de carreteras principales.",
+            "B) Si hay otros vehículos detrás cuando vas marcha atrás.",
+            "C) Si el conductor tiene sueño al llegar a una intersección."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Detecta vehículos que se aproximan lateralmente por la parte trasera cuando el coche retrocede."
+    },
+    {
+        "_id": "PB-TM9-P296",
+        "Enunciado": "¿Cuál es un ejemplo típico de uso del sistema RCTA?",
+        "Opciones": [
+            "A) Al entrar en una rotonda de varios carriles.",
+            "B) Cuando estás saliendo de una plaza de aparcamiento.",
+            "C) Al circular por el carril izquierdo de una autovía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es vital al salir de aparcamientos en batería donde la visibilidad lateral es nula."
+    },
+    {
+        "_id": "PB-TM9-P297",
+        "Enunciado": "¿De qué manera avisa el sistema RCTA al conductor cuando detecta un vehículo?",
+        "Opciones": [
+            "A) Haciendo que el pedal del freno se ponga muy rígido.",
+            "B) Apagando las luces del habitáculo.",
+            "C) El sistema producirá un sonido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La alerta acústica informa al conductor de que hay un tráfico que no está viendo."
+    },
+    {
+        "_id": "PB-TM9-P298",
+        "Enunciado": "¿Cuándo emite el aviso acústico el sistema RCTA exactamente?",
+        "Opciones": [
+            "A) Cuando un vehículo detrás está demasiado cerca y puede haber peligro.",
+            "B) Siempre que el conductor pone la palanca de cambios en punto muerto.",
+            "C) Únicamente si el coche de atrás toca el claxon primero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El aviso salta cuando hay un riesgo real de choque por la cercanía de otro vehículo."
+    },
+    {
+        "_id": "PB-TM9-P299",
+        "Enunciado": "Dentro de los sistemas ADAS, ¿qué siglas corresponden al reconocimiento de señales?",
+        "Opciones": [
+            "A) TSR.",
+            "B) LKA.",
+            "C) LDW."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "TSR son las siglas del sistema de reconocimiento de señales de tráfico mencionadas en el texto."
+    },
+    {
+        "_id": "PB-TM9-P300",
+        "Enunciado": "¿Cuál es el objetivo final de todos estos sistemas que ayudan a conducir?",
+        "Opciones": [
+            "A) Permitir que el conductor no tenga que mirar nunca a la carretera.",
+            "B) Conducir con seguridad.",
+            "C) Reducir el gasto de mantenimiento mecánico de las ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Todos estos elementos están diseñados para aumentar la seguridad vial y prevenir accidentes."
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P61",
+        "Enunciado": "Según el temario, ¿cuándo se considera que una pieza de goma es elástica?",
+        "Opciones": [
+            "A) Cuando es tan rígida que no cambia de forma bajo presión.",
+            "B) Cuando puede derretirse y adaptarse a la forma de la llanta de metal.",
+            "C) Cuando se puede estirar y, al dejar de hacerlo, vuelve a su tamaño inicial."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una pieza de goma es elástica cuando se puede estirar y, cuando dejas de estirarla, vuelve a su tamaño inicial."
+    },
+    {
+        "_id": "PB-TM9-P62",
+        "Enunciado": "¿Qué condición debe cumplirse entre la llanta y el neumático de una rueda?",
+        "Opciones": [
+            "A) La llanta debe ser siempre de un diámetro mayor que el neumático.",
+            "B) Deben ser de materiales de fabricación idénticos.",
+            "C) Tienen que ser compatibles entre sí para que el neumático encaje bien."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La llanta y el neumático de una rueda tienen que ser compatibles entre sí para que el neumático encaje bien en la llanta."
+    },
+    {
+        "_id": "PB-TM9-P63",
+        "Enunciado": "¿Qué importancia tienen los fallos de los neumáticos en la seguridad vial?",
+        "Opciones": [
+            "A) Solo influyen en la comodidad, pero nunca causan accidentes.",
+            "B) Son la única causa de accidentes en vehículos de dos ruedas.",
+            "C) Son una causa común de accidentes de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los fallos de los neumáticos son una causa común de accidentes de tráfico."
+    },
+    {
+        "_id": "PB-TM9-P64",
+        "Enunciado": "¿Dónde se pueden leer las características de un neumático nuevo que está en buenas condiciones?",
+        "Opciones": [
+            "A) En un lateral del propio neumático.",
+            "B) En la parte metálica de la llanta.",
+            "C) Únicamente en el libro de mantenimiento del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En los neumáticos nuevos y que están en buenas condiciones se puede leer en un lateral cuáles son sus características."
+    },
+    {
+        "_id": "PB-TM9-P65",
+        "Enunciado": "Para que un neumático sea seguro, ¿qué defectos visuales NO debe presentar?",
+        "Opciones": [
+            "A) Marcas de tiza del fabricante en los laterales.",
+            "B) Ampollas, deformaciones o roturas.",
+            "C) Suciedad o restos de barro acumulados."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los neumáticos no deben tener ampollas, deformaciones o roturas."
+    },
+    {
+        "_id": "PB-TM9-P66",
+        "Enunciado": "Respecto a la estructura interna del neumático, ¿qué no debe estar nunca a la vista?",
+        "Opciones": [
+            "A) El aire que hay en el interior de la goma.",
+            "B) El sensor de temperatura de la banda de rodadura.",
+            "C) Los cables al descubierto o capas despegadas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "No debe estar despegada alguna de sus capas ni tener cables al descubierto."
+    },
+    {
+        "_id": "PB-TM9-P67",
+        "Enunciado": "Además de ampollas y roturas, ¿qué otro defecto superficial invalida el uso del neumático?",
+        "Opciones": [
+            "A) La presencia de grietas.",
+            "B) El desgaste de las letras de la marca comercial.",
+            "C) Pequeñas manchas de aceite de motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El neumático tampoco debe presentar grietas para ser considerado seguro."
+    },
+    {
+        "_id": "PB-TM9-P68",
+        "Enunciado": "¿Cómo se llama la parte del neumático que está en contacto directo con la carretera?",
+        "Opciones": [
+            "A) Banda de rodamiento.",
+            "B) Llanta de rozamiento.",
+            "C) Perfil de adherencia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La parte del neumático que está en contacto con la carretera se llama banda de rodamiento."
+    },
+    {
+        "_id": "PB-TM9-P69",
+        "Enunciado": "¿Cuál es la profundidad mínima legal que deben tener las ranuras de los neumáticos de los turismos?",
+        "Opciones": [
+            "A) Exactamente 2,5 milímetros.",
+            "B) Al menos 1,6 milímetros.",
+            "C) Como máximo 1,6 milímetros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La banda de rodamiento de los turismos debe tener unas ranuras con al menos 1,6 milímetros de profundidad."
+    },
+    {
+        "_id": "PB-TM9-P70",
+        "Enunciado": "¿Cuál es una de las funciones de las ranuras del neumático respecto a la temperatura?",
+        "Opciones": [
+            "A) Mantener la temperatura de los frenos estable.",
+            "B) Ayudar a que el neumático alcance calor rápidamente.",
+            "C) Sirven para que el neumático no se caliente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estas ranuras sirven para que el neumático no se caliente."
+    },
+    {
+        "_id": "PB-TM9-P71",
+        "Enunciado": "¿Qué efecto tienen las ranuras en el movimiento del neumático por la vía?",
+        "Opciones": [
+            "A) Hacen que sea más flexible y ruede mejor.",
+            "B) Hacen que el neumático sea más rígido y duro.",
+            "C) Frenan el vehículo por el rozamiento excesivo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las ranuras sirven para que el neumático sea más flexible y ruede mejor por la carretera."
+    },
+    {
+        "_id": "PB-TM9-P72",
+        "Enunciado": "Respecto a la seguridad en la conducción, ¿para qué sirven las ranuras de la banda de rodamiento?",
+        "Opciones": [
+            "A) Para avisar al conductor mediante vibraciones si va muy rápido.",
+            "B) Para que el neumático se agarre mejor a la carretera.",
+            "C) Para reducir el ruido del motor dentro del habitáculo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las ranuras sirven para que el neumático se agarre mejor a la carretera."
+    },
+    {
+        "_id": "PB-TM9-P73",
+        "Enunciado": "¿Qué función cumplen las ranuras del neumático en días de lluvia?",
+        "Opciones": [
+            "A) Eliminar el agua que coge de la carretera.",
+            "B) Evitar que el agua toque la goma elástica.",
+            "C) Almacenar el agua para refrigerar la llanta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las ranuras sirven para eliminar el agua que el neumático coge de la carretera cuando llueve."
+    },
+    {
+        "_id": "PB-TM9-P74",
+        "Enunciado": "¿Para qué se inflan los neumáticos con aire?",
+        "Opciones": [
+            "A) Para que el vehículo sea más ligero al circular.",
+            "B) Para que sean más resistentes y soporten mejor la carga y el peso.",
+            "C) Para que el neumático pueda estirarse más en las curvas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los neumáticos se inflan para que sean más resistentes y soporten mejor la carga y el peso del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P75",
+        "Enunciado": "¿Quién es el encargado de marcar la cantidad de aire o presión de inflado de los neumáticos?",
+        "Opciones": [
+            "A) El fabricante de cada vehículo.",
+            "B) El operario de la estación de servicio más cercana.",
+            "C) El conductor según la carga que lleve cada día."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El fabricante de cada vehículo es quién marca qué cantidad de aire deben llevar los neumáticos."
+    },
+    {
+        "_id": "PB-TM9-P76",
+        "Enunciado": "¿Qué le ocurre al neumático si la presión de inflado es menor a la recomendada?",
+        "Opciones": [
+            "A) Se calienta, se deforma y se desgasta antes.",
+            "B) Se enfría y se vuelve más rígido.",
+            "C) Se agarra mejor al suelo y consume menos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Con una presión menor a la recomendada, el neumático se calienta, se deforma y se desgasta antes."
+    },
+    {
+        "_id": "PB-TM9-P77",
+        "Enunciado": "Respecto al ahorro, ¿qué consecuencia tiene llevar una presión de inflado baja?",
+        "Opciones": [
+            "A) Se gasta más combustible.",
+            "B) El vehículo necesita menos mantenimiento mecánico.",
+            "C) Se reduce el gasto de aceite del motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si la presión de inflado es menor a la recomendada, se gasta más combustible."
+    },
+    {
+        "_id": "PB-TM9-P78",
+        "Enunciado": "¿Cómo afecta al control del vehículo una presión de inflado insuficiente?",
+        "Opciones": [
+            "A) El vehículo mantiene mejor la trayectoria en las curvas.",
+            "B) El vehículo frena en una distancia mucho menor.",
+            "C) El vehículo es menos estable."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con una presión de inflado menor a la recomendada el vehículo es menos estable."
+    },
+    {
+        "_id": "PB-TM9-P79",
+        "Enunciado": "Si el suelo está mojado, ¿qué riesgo aumenta por llevar los neumáticos poco inflados?",
+        "Opciones": [
+            "A) El riesgo de patinar.",
+            "B) El riesgo de que las ranuras se llenen de barro.",
+            "C) El riesgo de que el agua se evapore por el calor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El vehículo tiene más riesgo de patinar cuando el suelo está mojado si la presión es menor a la recomendada."
+    },
+    {
+        "_id": "PB-TM9-P80",
+        "Enunciado": "¿Qué peligro grave existe por circular con una presión de inflado muy baja?",
+        "Opciones": [
+            "A) Que el neumático se desprenda de la llanta al aparcar.",
+            "B) Que la rueda se reviente.",
+            "C) Que el aire se vuelva tóxico por el calentamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Hay más posibilidad de que la rueda se reviente cuando la presión es menor a la recomendada."
+    },
+    {
+        "_id": "PB-TM9-P81",
+        "Enunciado": "¿Qué sucede con el agarre si la presión de inflado es mayor a la recomendada?",
+        "Opciones": [
+            "A) El neumático se clava en el asfalto y el agarre es máximo.",
+            "B) El agarre no varía, solo cambia el ruido al rodar.",
+            "C) El neumático tiene menos contacto con el suelo y se agarra menos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con presión mayor, el neumático tiene menos contacto con el suelo y se agarra menos a la carretera."
+    },
+    {
+        "_id": "PB-TM9-P82",
+        "Enunciado": "¿Cómo se desgasta un neumático que lleva una presión de inflado excesiva?",
+        "Opciones": [
+            "A) El desgaste es uniforme por toda la banda de rodamiento.",
+            "B) Se desgasta más el centro del neumático que los lados.",
+            "C) Se desgastan más los bordes laterales del neumático."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si la presión es mayor a la recomendada, se desgasta más el centro del neumático que los lados."
+    },
+    {
+        "_id": "PB-TM9-P83",
+        "Enunciado": "¿Qué nota el conductor cuando los neumáticos tienen demasiada presión de aire?",
+        "Opciones": [
+            "A) Que el volante se vuelve mucho más pesado al girar.",
+            "B) Que el vehículo vibra más.",
+            "C) Que el vehículo flota sobre el agua de forma segura."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El vehículo vibra más porque los neumáticos con exceso de presión no pueden absorber las piedrecillas o baches."
+    },
+    {
+        "_id": "PB-TM9-P84",
+        "Enunciado": "¿Qué elemento técnico del vehículo sufre daños si los neumáticos van demasiado inflados?",
+        "Opciones": [
+            "A) El pedal de freno se vuelve más esponjoso.",
+            "B) El sistema de activación automática de luces.",
+            "C) Los amortiguadores se estropean más."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuando la presión es mayor a la recomendada, los amortiguadores se estropean más."
+    },
+    {
+        "_id": "PB-TM9-P85",
+        "Enunciado": "¿Con qué frecuencia se debe controlar la presión de los neumáticos del vehículo?",
+        "Opciones": [
+            "A) Únicamente antes de pasar la revisión obligatoria anual.",
+            "B) Una vez a la semana como mínimo.",
+            "C) Por lo menos una vez al mes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Debes controlar la presión de los neumáticos de tu vehículo por lo menos una vez al mes."
+    },
+    {
+        "_id": "PB-TM9-P86",
+        "Enunciado": "Además de las ruedas instaladas, ¿qué se debe llevar siempre en el vehículo?",
+        "Opciones": [
+            "A) Una rueda de repuesto con la presión de inflado correcta.",
+            "B) Un juego de neumáticos de invierno en el maletero.",
+            "C) Un manómetro de mano para medir la presión en cada parada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "También debes llevar siempre una rueda de repuesto con la presión de inflado correcta."
+    },
+    {
+        "_id": "PB-TM9-P87",
+        "Enunciado": "¿Por qué se desgasta normalmente la goma de los neumáticos?",
+        "Opciones": [
+            "A) Por la presión que ejerce la llanta de metal desde el interior.",
+            "B) Por el contacto con el aire y el oxígeno exterior.",
+            "C) Por el roce con la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La goma de los neumáticos se puede desgastar por el roce con la carretera."
+    },
+    {
+        "_id": "PB-TM9-P88",
+        "Enunciado": "Independientemente de su estado visual, ¿cada cuánto tiempo se recomienda cambiar los neumáticos?",
+        "Opciones": [
+            "A) Cada diez años para evitar el endurecimiento de la goma.",
+            "B) Cada cinco años.",
+            "C) Solo cuando la profundidad de las ranuras sea menor de 1,6 milímetros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debes cambiar los neumáticos de tu vehículo cada cinco años, aunque estén en buen estado."
+    },
+    {
+        "_id": "PB-TM9-P89",
+        "Enunciado": "¿Qué tipo de conducción provoca que los neumáticos se desgasten antes de tiempo?",
+        "Opciones": [
+            "A) Conducir manteniendo siempre la distancia de seguridad.",
+            "B) Conducir de forma brusca o agresiva.",
+            "C) Conducir utilizando el regulador de velocidad adaptativo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Conducir de forma brusca o agresiva es uno de los motivos por los que las gomas se desgastan antes."
+    },
+    {
+        "_id": "PB-TM9-P90",
+        "Enunciado": "¿Cómo influye la rapidez en el desgaste de los neumáticos?",
+        "Opciones": [
+            "A) Conducir rápido ayuda a limpiar las ranuras y evita el desgaste.",
+            "B) Conducir muy rápido hace que se desgasten antes.",
+            "C) La velocidad solo influye en el desgaste si la carretera está mojada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Uno de los motivos por los que los neumáticos se desgastan antes es conducir muy rápido."
+    }
+]

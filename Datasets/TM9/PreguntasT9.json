@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P241",
+        "Enunciado": "Para una motocicleta que circula a una velocidad de 120 kilómetros por hora, ¿qué espejos retrovisores son obligatorios?",
+        "Opciones": [
+            "A) Únicamente el retrovisor situado en el lado izquierdo.",
+            "B) Ningún retrovisor es obligatorio si el conductor usa casco integral.",
+            "C) Dos retrovisores, uno en el lado izquierdo y otro en el derecho."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las motocicletas que circulan a más de 100 kilómetros por hora tienen la obligación de llevar dos retrovisores (izquierdo y derecho)."
+    },
+    {
+        "_id": "PB-TM9-P242",
+        "Enunciado": "Respecto a los ciclomotores de dos ruedas, ¿cuál es la norma sobre los espejos retrovisores?",
+        "Opciones": [
+            "A) El retrovisor izquierdo es obligatorio y el derecho es optativo.",
+            "B) Deben llevar obligatoriamente dos retrovisores exteriores.",
+            "C) El uso de retrovisores es recomendable pero no obligatorio en ciudad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los ciclomotores de dos ruedas deben llevar un retrovisor obligatorio en el lado izquierdo, mientras que el derecho es opcional."
+    },
+    {
+        "_id": "PB-TM9-P243",
+        "Enunciado": "¿Qué beneficio principal aporta mantener una buena postura al conducir según el temario?",
+        "Opciones": [
+            "A) Facilita la activación automática del sistema de alumbrado.",
+            "B) Ayuda a evitar la fatiga y hace la conducción más segura.",
+            "C) Permite reducir el consumo de combustible del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Tener una buena postura al conducir ayuda a evitar la fatiga y a que la conducción sea más segura."
+    },
+    {
+        "_id": "PB-TM9-P244",
+        "Enunciado": "¿Cómo influye la postura frente al volante en la capacidad de reacción del conductor?",
+        "Opciones": [
+            "A) Permite que el tiempo de reacción se reduzca a cero absoluto.",
+            "B) Ayuda a responder mejor y de forma más rápida ante imprevistos.",
+            "C) No influye en la reacción, solo en la comodidad física."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Colocarte en buena postura te ayuda a responder mejor y más rápido ante imprevistos."
+    },
+    {
+        "_id": "PB-TM9-P245",
+        "Enunciado": "¿Qué problema físico produce conducir demasiado cerca del volante?",
+        "Opciones": [
+            "A) Produce fatiga porque se debe forzar más el cuerpo.",
+            "B) Una mejora en la visión de los retrovisores laterales.",
+            "C) Aumenta la eficacia del airbag frontal en caso de choque."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Conducir demasiado cerca produce fatiga al tener que forzar el cuerpo para realizar los movimientos necesarios."
+    },
+    {
+        "_id": "PB-TM9-P246",
+        "Enunciado": "¿Qué riesgo conlleva conducir demasiado lejos del volante?",
+        "Opciones": [
+            "A) Obliga a despegar la espalda del respaldo, lo cual puede ser peligroso.",
+            "B) Facilita que el conductor se duerma por la excesiva relajación.",
+            "C) Obliga a llevar los brazos excesivamente doblados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Conducir lejos obliga a inclinarse hacia adelante y despegar la espalda del respaldo, lo cual es peligroso y fatigado."
+    },
+    {
+        "_id": "PB-TM9-P247",
+        "Enunciado": "Respecto a la altura del conductor, ¿cómo debe quedar la cabeza en relación con el volante?",
+        "Opciones": [
+            "A) Es indiferente siempre que se vea a través de los radios del volante.",
+            "B) La línea de los ojos debe coincidir exactamente con el borde superior del aro.",
+            "C) Tu cabeza debe quedar por encima del volante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La norma indica que tu cabeza debe quedar por encima del volante para tener una visibilidad adecuada."
+    },
+    {
+        "_id": "PB-TM9-P248",
+        "Enunciado": "Si un conductor no tiene altura suficiente para ver por encima del volante, ¿qué debe usar?",
+        "Opciones": [
+            "A) Un cojín mullido para ganar los centímetros necesarios.",
+            "B) Un complemento adecuado perfectamente sujeto al asiento.",
+            "C) Nada, debe conducir un vehículo adaptado de menor tamaño."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se puede usar un complemento adecuado sujeto al asiento, pero el manual aclara que no puede ser un cojín o similar."
+    },
+    {
+        "_id": "PB-TM9-P249",
+        "Enunciado": "¿Qué tres elementos deben comprobarse obligatoriamente antes de empezar a conducir?",
+        "Opciones": [
+            "A) Luces de carretera, claxon y sistema de navegación.",
+            "B) Ajuste del asiento, colocación de retrovisores y cinturón abrochado.",
+            "C) Nivel de aceite, presión de neumáticos y carga de batería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Antes de arrancar hay que comprobar el asiento/respaldo, los retrovisores y el cinturón de seguridad."
+    },
+    {
+        "_id": "PB-TM9-P250",
+        "Enunciado": "¿Cómo se sabe que el asiento está bien ajustado respecto a los pedales?",
+        "Opciones": [
+            "A) Cuando llegas bien a los pedales y puedes pisarlos a fondo sin forzar los tobillos.",
+            "B) Cuando el pedal de freno toca el suelo antes de estirar la pierna.",
+            "C) Cuando las piernas quedan completamente rectas al pisar a fondo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El asiento está bien ajustado si llegas a los pedales y los pisas a fondo sin forzar los tobillos."
+    },
+    {
+        "_id": "PB-TM9-P251",
+        "Enunciado": "Al estar sentado correctamente, ¿qué posición deben mantener las piernas?",
+        "Opciones": [
+            "A) Deben estar estiradas al máximo para mejorar la circulación.",
+            "B) Deben estar pegadas a la parte inferior de la columna de dirección.",
+            "C) Están ligeramente dobladas y no rozan con elementos del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las piernas no deben estar extendidas del todo; deben estar ligeramente dobladas y libres de roces."
+    },
+    {
+        "_id": "PB-TM9-P252",
+        "Enunciado": "¿Cuál es la finalidad de que la cabeza esté por encima del volante al ajustar el asiento?",
+        "Opciones": [
+            "A) Que puedas ver por encima del volante y no a través de él.",
+            "B) Que el airbag frontal no impacte directamente en la cara.",
+            "C) Facilitar la lectura de los indicadores del cuadro de instrumentos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La altura correcta permite ver la carretera por encima del volante y no tener obstáculos visuales."
+    },
+    {
+        "_id": "PB-TM9-P253",
+        "Enunciado": "¿Qué prueba permite comprobar si la distancia del respaldo al volante es correcta?",
+        "Opciones": [
+            "A) Comprobar que los codos tocan las costillas al sujetar el volante.",
+            "B) Estirar los dedos y comprobar que tocan el cristal delantero.",
+            "C) Apoyar la espalda, estirar los brazos y apoyar las muñecas sobre la parte de arriba del volante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La prueba de las muñecas sobre la parte superior del volante con la espalda apoyada confirma la distancia adecuada."
+    },
+    {
+        "_id": "PB-TM9-P254",
+        "Enunciado": "La posición correcta del respaldo del asiento debe permitir al conductor:",
+        "Opciones": [
+            "A) Llegar a todos los mandos del vehículo.",
+            "B) Mantener una distancia de 50 centímetros con el retrovisor interior.",
+            "C) Dormir cómodamente durante las paradas en áreas de descanso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El respaldo debe estar ajustado de modo que el conductor alcance todos los mandos necesarios para la conducción."
+    },
+    {
+        "_id": "PB-TM9-P255",
+        "Enunciado": "Dentro de los ajustes previos al viaje, ¿dónde debe situarse el reposacabezas?",
+        "Opciones": [
+            "A) En contacto directo y firme con la parte posterior del cuello.",
+            "B) Lo más bajo posible para no molestar la visión trasera.",
+            "C) A la altura de tu cabeza."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El reposacabezas debe estar ajustado para que quede exactamente a la altura de la cabeza del ocupante."
+    },
+    {
+        "_id": "PB-TM9-P256",
+        "Enunciado": "¿Cuándo se considera que el espejo retrovisor interior está bien colocado?",
+        "Opciones": [
+            "A) Cuando puedes ver los cuatro bordes de la ventanilla de atrás.",
+            "B) Cuando el reflejo muestra principalmente el techo del vehículo.",
+            "C) Cuando permite ver el rostro del pasajero que viaja justo detrás."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La posición ideal del espejo interior es aquella que permite visualizar todo el marco de la luneta trasera."
+    },
+    {
+        "_id": "PB-TM9-P257",
+        "Enunciado": "¿Qué información deben proporcionar los retrovisores laterales bien regulados?",
+        "Opciones": [
+            "A) La carretera y los vehículos que vienen por detrás y por los lados.",
+            "B) Una visión panorámica del paisaje para reducir el estrés del conductor.",
+            "C) Exclusivamente la matrícula del vehículo que circula detrás."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los espejos laterales sirven para controlar la vía y la posición de los vehículos que nos rodean por detrás y los costados."
+    },
+    {
+        "_id": "PB-TM9-P258",
+        "Enunciado": "Para completar la visión de los laterales y ver un trozo de la parte izquierda de atrás, ¿qué debe hacer el conductor?",
+        "Opciones": [
+            "A) Instalar un retrovisor adicional de gran ángulo.",
+            "B) Girar un poco el cuello.",
+            "C) Abrir la ventanilla y asomar la cabeza."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual indica que girando un poco el cuello se puede ver un trozo de la parte izquierda trasera para mejorar la seguridad."
+    },
+    {
+        "_id": "PB-TM9-P259",
+        "Enunciado": "Si nota que los retrovisores están mal posicionados mientras está circulando, ¿cómo debe actuar?",
+        "Opciones": [
+            "A) Debe esperar a la siguiente parada obligatoria por descanso.",
+            "B) Puede ajustarlos con cuidado si el vehículo dispone de mando eléctrico.",
+            "C) Debe parar el vehículo para ponerlos bien."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si descubre que están mal puestos durante la marcha, la instrucción es detener el vehículo para ajustarlos con seguridad."
+    },
+    {
+        "_id": "PB-TM9-P260",
+        "Enunciado": "Para ajustar los retrovisores con seguridad, ¿qué tipo de lugar se recomienda para parar?",
+        "Opciones": [
+            "A) Cualquier zona de estacionamiento en pendiente descendente.",
+            "B) En el arcén de una curva con buena visibilidad.",
+            "C) Un lugar llano y recto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se recomienda buscar un terreno llano y una trayectoria recta para realizar el ajuste de los espejos."
+    },
+    {
+        "_id": "PB-TM9-P261",
+        "Enunciado": "¿Cuál es el paso final indicado tras ajustar asiento y espejos, antes de empezar a conducir?",
+        "Opciones": [
+            "A) Encender la radio y el sistema de navegación.",
+            "B) Abrocharse bien el cinturón de seguridad.",
+            "C) Comprobar la presión de los neumáticos de nuevo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Tras realizar las comprobaciones y ajustes de postura, el último paso es abrocharse el cinturón de seguridad."
+    },
+    {
+        "_id": "PB-TM9-P262",
+        "Enunciado": "En la conducción de motocicletas, ¿qué recomendación general se da sobre la posición del cuerpo?",
+        "Opciones": [
+            "A) Debes mantener el cuerpo lo más rígido posible para evitar oscilaciones.",
+            "B) Mantén una posición natural sin forzar las posturas.",
+            "C) La espalda debe formar un ángulo de 90 grados exactos con el asiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El motorista debe mantener una posición natural y evitar posturas forzadas que generen fatiga."
+    },
+    {
+        "_id": "PB-TM9-P263",
+        "Enunciado": "¿Cuánto debe inclinarse el cuerpo del motorista hacia adelante?",
+        "Opciones": [
+            "A) Lo justo para llegar al manillar.",
+            "B) Nunca debe inclinarse; el tronco debe permanecer siempre vertical.",
+            "C) Hasta que el pecho toque casi el depósito de combustible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La inclinación del tronco debe ser la mínima necesaria para alcanzar cómodamente el manillar."
+    },
+    {
+        "_id": "PB-TM9-P264",
+        "Enunciado": "Para evitar el cansancio al conducir una motocicleta, ¿cómo deben estar los brazos y las manos?",
+        "Opciones": [
+            "A) Tensos para transmitir mejor las irregularidades del asfalto.",
+            "B) Relajados.",
+            "C) Estirados al máximo para alejarse de la fuente de calor del motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Mantener brazos y manos relajados es esencial para evitar el cansancio prematuro en moto."
+    },
+    {
+        "_id": "PB-TM9-P265",
+        "Enunciado": "¿Qué debe hacer el motorista con los pies una vez que la motocicleta empieza a rodar?",
+        "Opciones": [
+            "A) Dejarlos colgando para facilitar la refrigeración de las piernas.",
+            "B) Mantenerlos cerca del suelo por si hay que equilibrar el peso.",
+            "C) Colocarlos en los apoyapiés."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los pies deben situarse siempre en los apoyapiés del vehículo y nunca dejarlos colgando."
+    },
+    {
+        "_id": "PB-TM9-P266",
+        "Enunciado": "Al tomar curvas con una motocicleta, ¿qué consejo sobre la inclinación del cuerpo ofrece el manual?",
+        "Opciones": [
+            "A) No se debe inclinar el cuerpo en absoluto; la moto gira sola.",
+            "B) Inclina un poco el cuerpo, pero no demasiado.",
+            "C) Se debe inclinar el cuerpo hacia el lado contrario al de la curva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se debe inclinar un poco el cuerpo para acompañar el giro, pero sin llegar a excesos de competición."
+    },
+    {
+        "_id": "PB-TM9-P267",
+        "Enunciado": "¿Qué posición de los codos se considera no adecuada para conducir una motocicleta?",
+        "Opciones": [
+            "A) Llevar los codos metidos hacia adentro.",
+            "B) Llevarlos alineados con el eje del manillar.",
+            "C) Mantener los codos ligeramente flexionados hacia afuera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Llevar los codos metidos hacia adentro es una de las posturas no adecuadas citadas en el temario."
+    },
+    {
+        "_id": "PB-TM9-P268",
+        "Enunciado": "De las siguientes posturas en motocicleta, ¿cuál se califica como incorrecta?",
+        "Opciones": [
+            "A) Mantener las rodillas pegadas al depósito.",
+            "B) Sujetar el manillar con ambas manos de forma suave.",
+            "C) Tener los brazos completamente estirados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Tener los brazos completamente estirados es una postura incorrecta que dificulta el manejo."
+    },
+    {
+        "_id": "PB-TM9-P269",
+        "Enunciado": "¿Cuál es otra de las posturas que el manual desaconseja por no ser adecuada en moto?",
+        "Opciones": [
+            "A) Llevar los pies apoyados en la parte central de los apoyapiés.",
+            "B) Inclinar el cuerpo demasiado.",
+            "C) Mantener el cuello recto mirando al frente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Inclinar el cuerpo en exceso es una postura inadecuada para la conducción normal."
+    },
+    {
+        "_id": "PB-TM9-P270",
+        "Enunciado": "¿Qué efectos negativos producen las malas posturas al conducir una motocicleta?",
+        "Opciones": [
+            "A) Una reducción significativa en el consumo de aceite.",
+            "B) Únicamente un mayor desgaste de los neumáticos traseros.",
+            "C) Provocan fatiga y dificultan la reacción."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las posturas inadecuadas provocan fatiga y pueden hacer que al conductor le cueste más reaccionar ante cualquier situación."
+    }
+]

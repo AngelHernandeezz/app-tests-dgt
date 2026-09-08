@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM10-P1",
+        "Enunciado": "¿Qué son los sistemas de un vehículo?",
+        "Opciones": [
+            "A) Los elementos externos que protegen la carrocería de impactos.",
+            "B) Todos los mecanismos y elementos que hacen que funcione y sea seguro.",
+            "C) El conjunto de piezas electrónicas encargadas de la seguridad pasiva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los sistemas comprenden todos los mecanismos y elementos que permiten el funcionamiento y garantizan la seguridad del vehículo."
+    },
+    {
+        "_id": "PB-TM10-P2",
+        "Enunciado": "¿Cuántos sistemas principales tiene un vehículo?",
+        "Opciones": [
+            "A) Ocho sistemas principales.",
+            "B) Diez mecanismos de funcionamiento integral.",
+            "C) Seis sistemas básicos interconectados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Existen ocho sistemas principales que permiten el desplazamiento y control del vehículo."
+    },
+    {
+        "_id": "PB-TM10-P3",
+        "Enunciado": "¿Cuál de los siguientes es un sistema principal del vehículo?",
+        "Opciones": [
+            "A) Sistema de alimentación.",
+            "B) Sistema de navegación.",
+            "C) Sistema de climatización."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema de alimentación es uno de los ocho sistemas fundamentales enumerados."
+    },
+    {
+        "_id": "PB-TM10-P4",
+        "Enunciado": "¿Cuál es la función del sistema de alimentación?",
+        "Opciones": [
+            "A) Llevar el aire y el combustible al motor para que el vehículo pueda funcionar.",
+            "B) Regular la salida de gases tóxicos a través del tubo de escape.",
+            "C) Proporcionar energía eléctrica a las bujías para iniciar la combustión."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La función primordial de este sistema es suministrar aire y combustible al motor."
+    },
+    {
+        "_id": "PB-TM10-P5",
+        "Enunciado": "¿De qué se encarga el filtro del sistema de alimentación?",
+        "Opciones": [
+            "A) De mezclar el aire con el aceite del motor para lubricar las piezas.",
+            "B) De evitar que el combustible se evapore en el depósito.",
+            "C) De limpiar el aire de la calle para que llegue en buen estado al motor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El filtro limpia el aire exterior de suciedad antes de que entre en contacto con el motor."
+    },
+    {
+        "_id": "PB-TM10-P6",
+        "Enunciado": "¿Qué mantenimiento requiere el filtro de aire?",
+        "Opciones": [
+            "A) No requiere limpieza si se circula exclusivamente por vías urbanas.",
+            "B) Debe sustituirse únicamente cada 50.000 kilómetros.",
+            "C) Se debe limpiar de vez en cuando."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es necesario limpiar este componente periódicamente para asegurar su eficacia."
+    },
+    {
+        "_id": "PB-TM10-P7",
+        "Enunciado": "¿Qué ocurre si el filtro de aire está sucio?",
+        "Opciones": [
+            "A) El combustible pierde sus propiedades lubricantes de forma inmediata.",
+            "B) El combustible pasa peor por él.",
+            "C) El combustible se quema más rápido aumentando la potencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La suciedad en el filtro dificulta el flujo adecuado del combustible."
+    },
+    {
+        "_id": "PB-TM10-P8",
+        "Enunciado": "¿Cómo afecta el filtro de aire sucio al consumo?",
+        "Opciones": [
+            "A) Reduce el gasto de combustible al entrar menos aire a la mezcla.",
+            "B) No afecta al consumo, solo a la temperatura del motor.",
+            "C) Hace que gastes más combustible que cuando está limpio."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un filtro sucio provoca un aumento innecesario en el consumo de combustible del vehículo."
+    },
+    {
+        "_id": "PB-TM10-P9",
+        "Enunciado": "Si sale humo negro por el tubo de escape, ¿cuál puede ser el motivo?",
+        "Opciones": [
+            "A) Que el nivel de aceite en el sistema es insuficiente.",
+            "B) Que el motor ha alcanzado una temperatura de fusión crítica.",
+            "C) Que el filtro de aire está muy sucio o roto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El humo negro es un síntoma directo de que el filtro de aire está en mal estado o excesivamente sucio."
+    },
+    {
+        "_id": "PB-TM10-P10",
+        "Enunciado": "¿Cuál es la utilidad del tubo de escape?",
+        "Opciones": [
+            "A) Filtrar el monóxido de carbono mediante impulsos eléctricos.",
+            "B) Expulsar los gases que se crean en el motor.",
+            "C) Aspirar aire limpio de la calle para la combustión."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El tubo de escape permite la salida de los gases generados durante el funcionamiento del motor."
+    },
+    {
+        "_id": "PB-TM10-P11",
+        "Enunciado": "¿En qué época del año se debe revisar más veces el filtro de aire?",
+        "Opciones": [
+            "A) Se debe revisar más veces en verano que en invierno.",
+            "B) Se revisa más en invierno para evitar la congelación de residuos.",
+            "C) El desgaste es el mismo en todas las estaciones del año."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las condiciones de verano exigen una mayor frecuencia de revisión del filtro de aire."
+    },
+    {
+        "_id": "PB-TM10-P12",
+        "Enunciado": "¿Cuándo es necesario revisar el filtro de aire con mayor frecuencia?",
+        "Opciones": [
+            "A) Cuando conduces por caminos con mucho polvo.",
+            "B) Cuando se transporta carga máxima en el maletero.",
+            "C) Al circular por autopistas a alta velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Circular por entornos polvorientos satura el filtro más rápido, requiriendo revisiones frecuentes."
+    },
+    {
+        "_id": "PB-TM10-P13",
+        "Enunciado": "¿Cuál es la función del sistema eléctrico?",
+        "Opciones": [
+            "A) Transformar el combustible en impulsos eléctricos para mover las ruedas.",
+            "B) Dar energía al coche para que se encienda, el motor arranque y funcionen otros elementos.",
+            "C) Enfriar las piezas del motor mediante impulsos electromagnéticos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este sistema proporciona la energía necesaria para el encendido, el arranque y elementos como luces o claxon."
+    },
+    {
+        "_id": "PB-TM10-P14",
+        "Enunciado": "Además de para el encendido y el arranque, ¿para qué sirve el sistema eléctrico?",
+        "Opciones": [
+            "A) Para el funcionamiento de la suspensión y los frenos.",
+            "B) Para que funcionen las luces o el claxon.",
+            "C) Para que los neumáticos mantengan la presión constante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema eléctrico alimenta dispositivos de señalización y aviso como el alumbrado y la bocina."
+    },
+    {
+        "_id": "PB-TM10-P15",
+        "Enunciado": "¿Qué partes componen el sistema eléctrico?",
+        "Opciones": [
+            "A) Alternador, correa, bomba de agua y cigüeñal.",
+            "B) Batería, circuito de encendido, circuito de carga y circuito de iluminación.",
+            "C) Batería, alternador, bobina y bujías."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema eléctrico se divide en estos cuatro circuitos fundamentales."
+    },
+    {
+        "_id": "PB-TM10-P16",
+        "Enunciado": "¿Qué elemento proporciona la energía para arrancar el motor?",
+        "Opciones": [
+            "A) El alternador.",
+            "B) Las bujías.",
+            "C) La batería."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La batería es la fuente de energía necesaria para realizar el proceso de arranque del motor."
+    },
+    {
+        "_id": "PB-TM10-P17",
+        "Enunciado": "¿Cuándo lleva energía la batería al resto del vehículo?",
+        "Opciones": [
+            "A) Cuando es necesario.",
+            "B) Solo cuando el alternador detecta una sobrecarga.",
+            "C) Únicamente con el motor parado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La batería suministra energía al vehículo siempre que el sistema lo requiere."
+    },
+    {
+        "_id": "PB-TM10-P18",
+        "Enunciado": "¿Cómo se debe mantener la batería?",
+        "Opciones": [
+            "A) Limpia, seca y bien encajada en su lugar.",
+            "B) Húmeda para mejorar la conductividad de los bornes.",
+            "C) Cubierta con grasa para evitar la oxidación."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El mantenimiento básico exige que esté limpia, seca y correctamente fijada al vehículo."
+    },
+    {
+        "_id": "PB-TM10-P19",
+        "Enunciado": "¿De qué se encarga el circuito de encendido?",
+        "Opciones": [
+            "A) De mantener la batería cargada mientras el motor está parado.",
+            "B) De enviar corriente eléctrica a las luces automáticas.",
+            "C) De que se encienda la chispa de electricidad necesaria."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Este circuito genera la chispa eléctrica para que el aire y combustible se conviertan en energía."
+    },
+    {
+        "_id": "PB-TM10-P20",
+        "Enunciado": "¿En qué pieza del motor se enciende la chispa eléctrica?",
+        "Opciones": [
+            "A) En el alternador.",
+            "B) En el cigüeñal.",
+            "C) En la bujía."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La bujía es el componente específico donde se produce la ignición de la mezcla."
+    },
+    {
+        "_id": "PB-TM10-P21",
+        "Enunciado": "Para conservar el buen estado del circuito de encendido, ¿qué se debe hacer?",
+        "Opciones": [
+            "A) Comprobar la tensión de los cables de carga.",
+            "B) Engrasar los bornes de las bujías mensualmente.",
+            "C) Revisar el estado de las bujías y cambiarlas cuando sea necesario."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El mantenimiento del encendido implica la revisión periódica y sustitución de las bujías."
+    },
+    {
+        "_id": "PB-TM10-P22",
+        "Enunciado": "Además de las bujías, ¿qué otra comprobación es necesaria en el sistema de encendido?",
+        "Opciones": [
+            "A) Verificar que el escape no expulsa vapor de agua.",
+            "B) Comprobar que el motor está en buen estado.",
+            "C) Asegurar que el claxon tiene la potencia mínima exigida."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "También es necesario verificar el estado general del motor para asegurar un encendido correcto."
+    },
+    {
+        "_id": "PB-TM10-P23",
+        "Enunciado": "¿Cuál es la función del circuito de carga?",
+        "Opciones": [
+            "A) Cargar los cilindros con mezcla de aire y aceite mineral.",
+            "B) Llevar la corriente a la batería y sistemas mientras el motor está en marcha.",
+            "C) Llevar el combustible desde el depósito al motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este circuito gestiona la energía eléctrica del vehículo mientras este se encuentra circulando."
+    },
+    {
+        "_id": "PB-TM10-P24",
+        "Enunciado": "¿Cómo se llama la pieza que produce electricidad y la guarda en la batería?",
+        "Opciones": [
+            "A) Alternador.",
+            "B) Manómetro.",
+            "C) Radiador."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El alternador es la pieza clave para la producción y almacenamiento de electricidad."
+    },
+    {
+        "_id": "PB-TM10-P25",
+        "Enunciado": "¿A través de qué elemento se mueve el alternador?",
+        "Opciones": [
+            "A) Mediante un eje de tracción trasera.",
+            "B) Por impulsos magnéticos del cárter.",
+            "C) Por medio de una correa."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El alternador recibe su movimiento mecánico gracias a una correa conectada al motor."
+    },
+    {
+        "_id": "PB-TM10-P26",
+        "Enunciado": "¿Qué mantenimiento requiere la correa del alternador?",
+        "Opciones": [
+            "A) Se cambia únicamente si el alumbrado falla por completo.",
+            "B) Engrasarla mensualmente para evitar ruidos.",
+            "C) Comprobar de vez en cuando que está en buen estado y cambiarla si es necesario."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es fundamental revisar su integridad física y sustituirla si presenta signos de desgaste."
+    },
+    {
+        "_id": "PB-TM10-P27",
+        "Enunciado": "¿Qué elementos forman el circuito de iluminación?",
+        "Opciones": [
+            "A) Todos los elementos que permiten que se puedan encender las luces.",
+            "B) Únicamente los faros de largo alcance.",
+            "C) Solo los testigos luminosos del cuadro."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este circuito engloba todos los componentes necesarios para la activación del alumbrado del vehículo."
+    },
+    {
+        "_id": "PB-TM10-P28",
+        "Enunciado": "¿Cuándo hay que cambiar las lámparas del sistema de alumbrado?",
+        "Opciones": [
+            "A) Únicamente cuando se fundan.",
+            "B) Cuando alumbren menos.",
+            "C) Cada dos años obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las lámparas deben sustituirse al perder intensidad para garantizar una visibilidad óptima."
+    },
+    {
+        "_id": "PB-TM10-P29",
+        "Enunciado": "¿Cuál es la función del sistema de lubricación?",
+        "Opciones": [
+            "A) Limpiar las impurezas del combustible antes de la bujía.",
+            "B) Repartir el aceite a todas las partes del motor.",
+            "C) Enfriar las piezas metálicas mediante aceite frío."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Su objetivo es distribuir el lubricante por todo el motor para proteger sus componentes."
+    },
+    {
+        "_id": "PB-TM10-P30",
+        "Enunciado": "¿Para qué sirve la capa de aceite que cubre las piezas del motor?",
+        "Opciones": [
+            "A) Para protegerlas y evitar que se rocen unas con otras.",
+            "B) Para filtrar el aire que entra por la alimentación.",
+            "C) Para aumentar la temperatura en invierno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El aceite crea una película protectora que evita el desgaste por fricción directa entre las piezas."
+    }
+]

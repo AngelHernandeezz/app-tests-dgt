@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM10-P61",
+        "Enunciado": "¿En qué momento es importante comprobar que el líquido refrigerante está en buen estado y no se va a congelar?",
+        "Opciones": [
+            "A) Al principio del invierno.",
+            "B) Únicamente cuando el testigo de presión de aceite se encienda en naranja.",
+            "C) Durante los meses de verano con temperaturas extremas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es fundamental realizar esta comprobación al inicio de la época fría para asegurar que el motor esté protegido ante heladas."
+    },
+    {
+        "_id": "PB-TM10-P62",
+        "Enunciado": "¿Qué riesgo existe si un vehículo permanece en un lugar muy frío durante el invierno?",
+        "Opciones": [
+            "A) Que el alternador deje de producir electricidad de forma permanente.",
+            "B) Que el líquido refrigerante se pueda congelar.",
+            "C) Que el combustible se evapore por falta de presión atmosférica."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las temperaturas bajo cero pueden solidificar el líquido si este no tiene las propiedades anticongelantes adecuadas."
+    },
+    {
+        "_id": "PB-TM10-P63",
+        "Enunciado": "¿Qué consecuencia grave tiene la congelación del líquido refrigerante?",
+        "Opciones": [
+            "A) El aumento inmediato del consumo de combustible y aceite.",
+            "B) Romper el motor o el sistema de refrigeración.",
+            "C) El desgaste prematuro de las pastillas y zapatas de freno."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La congelación del líquido expande su volumen, lo que puede provocar grietas y roturas críticas en el bloque motor o los conductos."
+    },
+    {
+        "_id": "PB-TM10-P64",
+        "Enunciado": "¿Cuál es la función del sistema de transmisión?",
+        "Opciones": [
+            "A) Reducir la temperatura de las piezas móviles mediante el uso de aceite sintético.",
+            "B) Transformar el movimiento del volante en energía eléctrica para el alternador.",
+            "C) Llevar la fuerza del motor a las ruedas para que el vehículo se pueda mover."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema de transmisión es el encargado de transferir el impulso generado por el motor hacia los ejes de las ruedas."
+    },
+    {
+        "_id": "PB-TM10-P65",
+        "Enunciado": "¿Cómo se define un vehículo de tracción?",
+        "Opciones": [
+            "A) Es aquel donde el impulso del motor llega exclusivamente a las ruedas de atrás.",
+            "B) Es aquel que tiene capacidad para repartir la fuerza a todas las ruedas simultáneamente.",
+            "C) Es aquel donde el impulso del motor llega a las ruedas de delante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En los vehículos de tracción, el movimiento motriz se ejerce sobre el eje delantero."
+    },
+    {
+        "_id": "PB-TM10-P66",
+        "Enunciado": "¿Qué nombre recibe el vehículo si el impulso del motor llega a las ruedas de atrás?",
+        "Opciones": [
+            "A) Vehículo de tracción integral progresiva.",
+            "B) Vehículo de arrastre por correa.",
+            "C) Vehículo de propulsión."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se denomina propulsión cuando la fuerza del motor se transmite al eje trasero del automóvil."
+    },
+    {
+        "_id": "PB-TM10-P67",
+        "Enunciado": "¿A qué ruedas llega el impulso en un vehículo de tracción total?",
+        "Opciones": [
+            "A) A todas las ruedas.",
+            "B) Únicamente a la rueda de repuesto si está instalada en el eje motriz.",
+            "C) Solo a las ruedas delanteras en línea recta y a las traseras en curva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La tracción total significa que el motor envía fuerza a los dos ejes (delantero y trasero) al mismo tiempo."
+    },
+    {
+        "_id": "PB-TM10-P68",
+        "Enunciado": "¿Qué característica define a la primera velocidad de la caja de cambios?",
+        "Opciones": [
+            "A) Permite que el alternador cargue la batería con mayor intensidad eléctrica.",
+            "B) Es la que manda más fuerza a las ruedas, pero es la más lenta.",
+            "C) Es la velocidad más rápida del vehículo pero la que menos fuerza tiene."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La primera marcha está diseñada para iniciar el movimiento o superar pendientes, priorizando la fuerza sobre la velocidad."
+    },
+    {
+        "_id": "PB-TM10-P69",
+        "Enunciado": "¿Cuál es la función del sistema de dirección?",
+        "Opciones": [
+            "A) Transmitir el movimiento del volante a las ruedas de delante.",
+            "B) Mantener el contacto permanente entre los neumáticos y la carretera.",
+            "C) Regular la presión de inflado de las ruedas según la velocidad del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La dirección permite al conductor orientar las ruedas delanteras para guiar el vehículo."
+    },
+    {
+        "_id": "PB-TM10-P70",
+        "Enunciado": "Si cuesta mucho esfuerzo mover el volante, ¿cuál puede ser el motivo?",
+        "Opciones": [
+            "A) Que el nivel de líquido refrigerante sea superior al máximo permitido.",
+            "B) Que el alternador esté enviando demasiada energía al circuito de carga.",
+            "C) Que los neumáticos tengan poca presión y haya que inflarlos más."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una presión de inflado baja aumenta el rozamiento de los neumáticos, haciendo que la dirección se sienta más pesada."
+    },
+    {
+        "_id": "PB-TM10-P71",
+        "Enunciado": "¿Qué síntoma indica que el sistema de dirección está fallando?",
+        "Opciones": [
+            "A) El motor se apaga automáticamente al intentar girar a la izquierda.",
+            "B) Las luces de frenado parpadean al soltar el acelerador.",
+            "C) El vehículo se desvía hacia un lado cuando sueltas el volante en terreno recto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La deriva lateral en un terreno llano y recto es una señal clara de problemas en la dirección o en la presión de los neumáticos."
+    },
+    {
+        "_id": "PB-TM10-P72",
+        "Enunciado": "Si el volante vibra mientras conduces, ¿qué puede estar ocurriendo?",
+        "Opciones": [
+            "A) Que el nivel de líquido de frenos está por debajo del mínimo.",
+            "B) Puede que las ruedas no estén bien equilibradas.",
+            "C) Que el sistema de lubricación ha perdido la presión de aceite necesaria."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las vibraciones en el volante suelen estar relacionadas con un desequilibrio en las masas de las ruedas."
+    },
+    {
+        "_id": "PB-TM10-P73",
+        "Enunciado": "¿Qué es la dirección asistida?",
+        "Opciones": [
+            "A) El circuito que permite que las ruedas traseras giren en el mismo sentido que las delanteras.",
+            "B) Un sistema que ayuda a que el conductor tenga que hacer menos fuerza para girar.",
+            "C) Un mecanismo que gira el volante solo al detectar un obstáculo lateral."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La dirección asistida reduce el esfuerzo físico necesario para maniobrar el volante."
+    },
+    {
+        "_id": "PB-TM10-P74",
+        "Enunciado": "¿Cómo funciona la dirección asistida progresiva cuando el vehículo circula despacio?",
+        "Opciones": [
+            "A) Desconecta la asistencia para que el conductor sienta más el asfalto.",
+            "B) Hace que el volante se bloquee para evitar giros bruscos por error.",
+            "C) Ayuda a girar muy fácil el volante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A bajas velocidades, el sistema maximiza la asistencia para facilitar maniobras como el aparcamiento."
+    },
+    {
+        "_id": "PB-TM10-P75",
+        "Enunciado": "¿Qué efecto tiene la dirección asistida progresiva cuando el vehículo circula a más velocidad?",
+        "Opciones": [
+            "A) Hace que cueste un poco más mover el volante.",
+            "B) Mantiene el mismo nivel de suavidad que cuando el coche está parado.",
+            "C) Multiplica la fuerza de giro para permitir reacciones más rápidas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al aumentar la velocidad, la dirección se endurece ligeramente para proporcionar un control más preciso y seguro."
+    },
+    {
+        "_id": "PB-TM10-P76",
+        "Enunciado": "¿Cuál es la ventaja de utilizar una dirección asistida progresiva?",
+        "Opciones": [
+            "A) Permite que el motor funcione a menos revoluciones por minuto.",
+            "B) Así será más fácil controlar el vehículo.",
+            "C) Reduce el desgaste de las pastillas de freno en un cincuenta por ciento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este sistema adapta la dureza del volante a la velocidad para mejorar el control dinámico del coche."
+    },
+    {
+        "_id": "PB-TM10-P77",
+        "Enunciado": "¿Cuál es la función del sistema de suspensión?",
+        "Opciones": [
+            "A) Mantener el contacto entre los neumáticos y la carretera en todo momento.",
+            "B) Filtrar el aire de la calle para que llegue limpio a los cilindros.",
+            "C) Unir el movimiento del cigüeñal con la bomba de agua y el alternador."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La suspensión asegura que las ruedas no pierdan el contacto con el suelo, garantizando agarre y estabilidad."
+    },
+    {
+        "_id": "PB-TM10-P78",
+        "Enunciado": "Además de la estabilidad del vehículo, ¿qué permite el sistema de suspensión?",
+        "Opciones": [
+            "A) Que el líquido de frenos no se caliente en exceso durante la marcha.",
+            "B) Que el dibujo del neumático se mantenga siempre con una profundidad de 1,6 mm.",
+            "C) Que los pasajeros viajen más cómodos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La suspensión absorbe las irregularidades del terreno, mejorando el confort de los ocupantes."
+    },
+    {
+        "_id": "PB-TM10-P79",
+        "Enunciado": "¿Qué sucede al frenar si el sistema de suspensión está fallando?",
+        "Opciones": [
+            "A) El vehículo se inclina hacia adelante o se levanta mucho la parte de atrás.",
+            "B) El alternador deja de cargar la batería de forma automática.",
+            "C) El pedal del freno se hunde hasta el fondo sin oponer resistencia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Unos amortiguadores en mal estado no contienen el cabeceo del vehículo durante las deceleraciones."
+    },
+    {
+        "_id": "PB-TM10-P80",
+        "Enunciado": "¿Qué síntoma de fallo de suspensión se percibe al tomar una curva?",
+        "Opciones": [
+            "A) El motor pierde potencia y expulsa humo blanco por el tubo de escape.",
+            "B) El vehículo se balancea hacia los lados o se inclina mucho.",
+            "C) El volante vibra de forma constante debido al mal equilibrado de las masas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La falta de estabilidad lateral provoca que el coche se balancee excesivamente en los giros."
+    },
+    {
+        "_id": "PB-TM10-P81",
+        "Enunciado": "Si las luces del vehículo se mueven hacia arriba y hacia abajo al conducir, ¿cuál puede ser el motivo?",
+        "Opciones": [
+            "A) Que el circuito de encendido tiene las bujías en mal estado.",
+            "B) Que hay un exceso de aceite en el motor y sale humo por el escape.",
+            "C) Que el sistema de suspensión está fallando."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las oscilaciones de la carrocería por una mala suspensión se reflejan en el movimiento inestable del haz de luz de los faros."
+    },
+    {
+        "_id": "PB-TM10-P82",
+        "Enunciado": "¿Qué consecuencia tiene un sistema de suspensión en malas condiciones respecto a la estabilidad?",
+        "Opciones": [
+            "A) El vehículo pierde estabilidad, en especial en las curvas y cuando hay viento.",
+            "B) No afecta a la estabilidad, solo al desgaste del filtro de aire.",
+            "C) El vehículo mantiene mejor la trayectoria recta pero vibra más el volante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La inseguridad en curvas y la sensibilidad al viento lateral aumentan peligrosamente si la suspensión está deteriorada."
+    },
+    {
+        "_id": "PB-TM10-P83",
+        "Enunciado": "Con la suspensión en mal estado, ¿qué riesgo aumenta al circular sobre agua?",
+        "Opciones": [
+            "A) El riesgo de que se congele el líquido refrigerante en el radiador.",
+            "B) Ninguno, el agua ayuda a refrigerar los amortiguadores defectuosos.",
+            "C) Hay más riesgo de hacer aquaplaning."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al no mantener una presión constante sobre el suelo, las ruedas flotan más fácilmente sobre el agua."
+    },
+    {
+        "_id": "PB-TM10-P84",
+        "Enunciado": "¿Cómo afecta una mala suspensión a la frenada con el suelo mojado?",
+        "Opciones": [
+            "A) El sistema ABS actúa con mayor precisión para compensar el fallo.",
+            "B) El vehículo necesita más espacio para frenar.",
+            "C) El vehículo necesita menos espacio para frenar al rozar más la carrocería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La distancia de frenado aumenta porque las ruedas no se mantienen pegadas al asfalto de manera eficiente."
+    },
+    {
+        "_id": "PB-TM10-P85",
+        "Enunciado": "Si el sistema de suspensión está defectuoso, ¿qué ocurre con el sistema de antibloqueo de frenos?",
+        "Opciones": [
+            "A) El sistema se desconecta automáticamente por seguridad eléctrica.",
+            "B) El sistema para que no se bloqueen los frenos funciona peor.",
+            "C) El sistema se activa más tarde para proteger los neumáticos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los rebotes de la rueda confunden a los sensores del ABS, reduciendo su eficacia de frenado."
+    },
+    {
+        "_id": "PB-TM10-P86",
+        "Enunciado": "¿Qué efecto físico tiene para el conductor circular con la suspensión en malas condiciones?",
+        "Opciones": [
+            "A) El conductor puede sentir cansancio con más facilidad.",
+            "B) Se reduce el tiempo de reacción al estar más alerta por los baches.",
+            "C) Puede sufrir deslumbramientos por la luz de su propio cuadro de instrumentos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las constantes vibraciones y la inestabilidad del vehículo agotan físicamente al conductor."
+    },
+    {
+        "_id": "PB-TM10-P87",
+        "Enunciado": "¿Cuál es la función del sistema de frenado?",
+        "Opciones": [
+            "A) Reducir la velocidad o parar el vehículo y evitar que se mueva solo.",
+            "B) Aumentar la fuerza del motor para superar obstáculos en la carretera.",
+            "C) Transmitir la energía de la batería a las bujías del circuito de encendido."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema de frenos gestiona la deceleración y la inmovilización segura del coche."
+    },
+    {
+        "_id": "PB-TM10-P88",
+        "Enunciado": "¿A través de qué elemento se transmite la fuerza desde el pedal hasta las ruedas?",
+        "Opciones": [
+            "A) A través de un líquido llamado líquido de frenos.",
+            "B) Mediante una correa de goma conectada al cigüeñal.",
+            "C) Por medio de impulsos eléctricos generados en el alternador."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema de frenado hidráulico utiliza el líquido de frenos como transmisor de la presión."
+    },
+    {
+        "_id": "PB-TM10-P89",
+        "Enunciado": "¿Cómo se llaman las piezas que reciben la fuerza del líquido para frenar las ruedas?",
+        "Opciones": [
+            "A) Bujías de fricción.",
+            "B) Filtros de presión dinámica.",
+            "C) Pastillas o zapatas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las pastillas (en frenos de disco) o zapatas (en frenos de tambor) son los elementos de fricción."
+    },
+    {
+        "_id": "PB-TM10-P90",
+        "Enunciado": "¿Cómo consiguen detenerse las ruedas del vehículo durante la frenada?",
+        "Opciones": [
+            "A) Al bloquearse el flujo de aire en el filtro de alimentación.",
+            "B) Las pastillas y las zapatas se rozan con otros elementos de las ruedas.",
+            "C) Mediante un sistema magnético controlado por la batería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La fricción o roce entre los elementos fijos y los móviles de la rueda genera la fuerza de frenado."
+    }
+]

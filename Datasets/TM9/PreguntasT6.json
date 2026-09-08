@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P151",
+        "Enunciado": "Respecto a los airbags frontales, ¿cuál es una recomendación de seguridad para colocar una sillita infantil?",
+        "Opciones": [
+            "A) En el asiento delantero con el airbag activado para mayor amortiguación.",
+            "B) No instalar la sillita en un asiento que tenga airbag enfrente.",
+            "C) Únicamente en los asientos que tienen airbag de cortina lateral."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual recomienda no instalar nunca una sillita infantil en un asiento que tenga un airbag frontal activo frente a ella."
+    },
+    {
+        "_id": "PB-TM9-P152",
+        "Enunciado": "¿En qué dirección se debe colocar la sillita para los niños más pequeños por seguridad?",
+        "Opciones": [
+            "A) Siempre en el sentido de la marcha para que vean la carretera.",
+            "B) En el sentido contrario a la marcha del vehículo.",
+            "C) Mirando lateralmente hacia la ventanilla derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Colocar la sillita mirando hacia atrás (sentido contrario a la marcha) es más seguro para los niños pequeños."
+    },
+    {
+        "_id": "PB-TM9-P153",
+        "Enunciado": "¿Por qué se recomienda colocar la sillita infantil en el asiento trasero central?",
+        "Opciones": [
+            "A) Para que el niño pueda estirar las piernas sin tocar los respaldos.",
+            "B) Porque es el único asiento que permite la visión directa del conductor.",
+            "C) Para ir más protegido en caso de accidente por cualquiera de los dos lados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El asiento central trasero es el más seguro ante impactos laterales provenientes de cualquier lado del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P154",
+        "Enunciado": "Para que los sistemas de retención infantil sean considerados seguros, ¿qué requisito deben cumplir?",
+        "Opciones": [
+            "A) Deben haber superado todas las pruebas de calidad.",
+            "B) Es obligatorio que tengan un color llamativo por seguridad activa.",
+            "C) Deben pesar menos de cinco kilos para no dañar el chasis."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es fundamental que estos sistemas hayan superado todas las pruebas de calidad para garantizar su seguridad."
+    },
+    {
+        "_id": "PB-TM9-P155",
+        "Enunciado": "En vehículos de nueve plazas o menos, ¿dónde deben viajar generalmente los niños?",
+        "Opciones": [
+            "A) De pie en el pasillo central si hay poco espacio.",
+            "B) En el asiento del copiloto con el cinturón original.",
+            "C) En el asiento de atrás y llevar bien sujeto el SRI."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En estos vehículos, la norma general es que los niños viajen en el asiento de atrás con su sistema de retención infantil bien sujeto."
+    },
+    {
+        "_id": "PB-TM9-P156",
+        "Enunciado": "¿En qué caso se permite excepcionalmente que un niño viaje en el asiento de delante?",
+        "Opciones": [
+            "A) Cuando el vehículo no tenga asientos traseros.",
+            "B) Siempre que el niño mide más de 120 centímetros.",
+            "C) Solo si el trayecto es inferior a dos kilómetros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si el vehículo carece de asientos traseros, el niño podrá ocupar la plaza delantera con su sistema de protección."
+    },
+    {
+        "_id": "PB-TM9-P157",
+        "Enunciado": "Además de la falta de asientos traseros, ¿qué otra situación permite a un niño ir delante?",
+        "Opciones": [
+            "A) Siempre que el padre o la madre conduzcan el vehículo.",
+            "B) Únicamente si el niño padece mareos en las plazas traseras.",
+            "C) Cuando todos los asientos traseros estén ocupados por otros niños."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se permite el uso del asiento delantero si las plazas traseras ya están todas ocupadas por otros menores con sus correspondientes sillitas."
+    },
+    {
+        "_id": "PB-TM9-P158",
+        "Enunciado": "¿Cuál es el tercer motivo que autoriza a un menor a viajar en el asiento del copiloto?",
+        "Opciones": [
+            "A) Cuando no se puedan instalar los SRI en los asientos de atrás.",
+            "B) Únicamente en vehículos con menos de cinco años de antigüedad.",
+            "C) Solo cuando el airbag delantero es del tipo bixenón."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si por diseño del vehículo o del sistema no es posible instalar el SRI atrás, el niño podrá ir en el asiento delantero."
+    },
+    {
+        "_id": "PB-TM9-P159",
+        "Enunciado": "En los autobuses, ¿qué niños tienen la obligación de utilizar sistemas de retención infantil?",
+        "Opciones": [
+            "A) Solo los niños de menos de un año de edad.",
+            "B) Los niños que miden menos de 135 centímetros y tienen tres años o más.",
+            "C) Únicamente los menores que viajen sin un adulto acompañante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En los autobuses, esta obligación afecta a los niños de tres años o más que midan menos de 135 centímetros."
+    },
+    {
+        "_id": "PB-TM9-P160",
+        "Enunciado": "Si en un autobús no hay sistemas de retención infantil disponibles, ¿qué deben hacer los menores?",
+        "Opciones": [
+            "A) Deberán viajar obligatoriamente en el regazo de un adulto.",
+            "B) Tendrán que abrocharse el cinturón de seguridad que haya en el asiento.",
+            "C) No pueden viajar en autobús bajo ninguna circunstancia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "A falta de SRI en el autobús, deberán utilizar el cinturón de seguridad del asiento si es adecuado a su talla y peso."
+    },
+    {
+        "_id": "PB-TM9-P161",
+        "Enunciado": "¿Cómo debe quedar el cinturón de seguridad una vez abrochado?",
+        "Opciones": [
+            "A) No debe quedar ni muy flojo ni muy apretado.",
+            "B) Debe quedar lo más suelto posible para evitar roces en la piel.",
+            "C) Es obligatorio que quede tan apretado que impida cualquier movimiento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El cinturón debe estar bien ajustado al cuerpo, permitiendo el movimiento con facilidad pero sin holguras peligrosas."
+    },
+    {
+        "_id": "PB-TM9-P162",
+        "Enunciado": "¿Cuál es el recorrido correcto que debe seguir la cinta torácica del cinturón?",
+        "Opciones": [
+            "A) Por debajo del brazo para permitir una mejor maniobrabilidad.",
+            "B) Por la clavícula, entre el hombro y el cuello, y por el centro del pecho.",
+            "C) Directamente sobre el cuello para asegurar que la cabeza no se mueva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La cinta torácica debe pasar por la clavícula y bajar por el centro del pecho para proteger eficazmente."
+    },
+    {
+        "_id": "PB-TM9-P163",
+        "Enunciado": "¿Qué riesgo existe al colocar la cinta torácica sobre el cuello o sobre un pecho?",
+        "Opciones": [
+            "A) Que el cinturón se desenganche de la carrocería automáticamente.",
+            "B) Un aumento de la temperatura corporal del pasajero.",
+            "C) Puede provocar lesiones graves en caso de accidente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una mala colocación de la cinta sobre zonas blandas o el cuello puede causar heridas internas graves en un choque."
+    },
+    {
+        "_id": "PB-TM9-P164",
+        "Enunciado": "¿Qué ocurre si la cinta torácica se coloca sobre el hombro en lugar de por la clavícula?",
+        "Opciones": [
+            "A) Que el cinturón se bloquee y no permita salir del vehículo.",
+            "B) La activación involuntaria del airbag lateral.",
+            "C) Que el cinturón se resbale y proteja menos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si se apoya en el hombro, el cinturón puede resbalar hacia afuera y dejar de retener el cuerpo correctamente."
+    },
+    {
+        "_id": "PB-TM9-P165",
+        "Enunciado": "¿Dónde debe ir situada la cinta abdominal del cinturón de seguridad?",
+        "Opciones": [
+            "A) Alrededor del pecho para complementar a la cinta torácica.",
+            "B) Sobre los huesos de la cadera y por debajo del estómago.",
+            "C) Justo encima del ombligo para proteger los órganos blandos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La cinta abdominal debe colocarse sobre la cadera, siempre por debajo del estómago."
+    },
+    {
+        "_id": "PB-TM9-P166",
+        "Enunciado": "¿Qué peligro conlleva colocar la cinta abdominal por encima del estómago?",
+        "Opciones": [
+            "A) Un desgaste prematuro de la tela del cinturón.",
+            "B) Que el vehículo pierda estabilidad en las curvas cerradas.",
+            "C) Puede provocar lesiones graves dentro del cuerpo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si se coloca sobre el estómago, la presión del cinturón en un impacto dañará los órganos internos."
+    },
+    {
+        "_id": "PB-TM9-P167",
+        "Enunciado": "¿Qué comprobaciones finales se deben hacer tras abrocharse el cinturón?",
+        "Opciones": [
+            "A) Tirar de él hacia arriba para ajustarlo y ver que no está retorcido.",
+            "B) Comprobar que el cinturón tiene un color brillante y limpio.",
+            "C) Desconectar el sistema de aviso acústico del cuadro."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se debe tirar ligeramente hacia arriba para asegurar el ajuste y verificar que las cintas no estén enganchadas ni dobladas."
+    },
+    {
+        "_id": "PB-TM9-P168",
+        "Enunciado": "¿En qué consiste el denominado 'efecto submarino'?",
+        "Opciones": [
+            "A) El hundimiento de la calzada por el peso de los neumáticos.",
+            "B) La pérdida de visión periférica al conducir bajo la lluvia.",
+            "C) Cuando el cuerpo se desliza hacia abajo, por debajo del cinturón."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El efecto submarino sucede cuando el pasajero se desliza por debajo del cinturón durante un accidente."
+    },
+    {
+        "_id": "PB-TM9-P169",
+        "Enunciado": "¿Cuál es uno de los motivos principales por los que se produce el efecto submarino?",
+        "Opciones": [
+            "A) Únicamente por llevar el depósito de combustible por debajo del mínimo.",
+            "B) Por circular a una velocidad superior a los 120 km/h.",
+            "C) Porque el asiento está inclinado hacia atrás y el cinturón mal colocado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un asiento muy inclinado o un cinturón mal ajustado facilitan que el cuerpo se deslice por debajo de la cinta abdominal."
+    },
+    {
+        "_id": "PB-TM9-P170",
+        "Enunciado": "Para evitar el efecto submarino, ¿qué NO se debe poner sobre el asiento?",
+        "Opciones": [
+            "A) Circular siempre por el carril central de las autopistas.",
+            "B) No colocar toallas, cojines o fundas sobre el asiento.",
+            "C) Utilizar un cinturón de seguridad de tres puntos de anclaje."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los complementos como toallas o cojines pueden hacer que el cuerpo resbale más fácilmente, favoreciendo este peligro."
+    },
+    {
+        "_id": "PB-TM9-P171",
+        "Enunciado": "¿Qué postura ayuda a prevenir que el cuerpo se deslice bajo el cinturón en un choque?",
+        "Opciones": [
+            "A) Desactivar los airbags frontales antes de iniciar la marcha.",
+            "B) Tener una postura adecuada, sin inclinar mucho el asiento hacia atrás.",
+            "C) Llevar el respaldo del asiento a una distancia de 50 cm del volante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Mantener el respaldo en una posición vertical y correcta es vital para evitar el efecto submarino."
+    },
+    {
+        "_id": "PB-TM9-P172",
+        "Enunciado": "¿Cómo define el temario los airbags?",
+        "Opciones": [
+            "A) Dispositivo de seguridad consistente en una bolsa con aire que se infla.",
+            "B) Sistema de ventilación que refresca el habitáculo tras un choque.",
+            "C) Un neumático de repuesto que se infla solo al detectar un pinchazo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El airbag es una bolsa que se llena de aire rápidamente en caso de accidente para proteger a los ocupantes."
+    },
+    {
+        "_id": "PB-TM9-P173",
+        "Enunciado": "¿En qué zonas del vehículo suelen estar colocados los airbags?",
+        "Opciones": [
+            "A) Únicamente en el centro del volante y en la guantera.",
+            "B) Debajo de los asientos de todos los pasajeros.",
+            "C) En la parte de delante del vehículo y en los laterales."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los airbags se sitúan estratégicamente en la parte frontal y en los laterales de la carrocería."
+    },
+    {
+        "_id": "PB-TM9-P174",
+        "Enunciado": "¿Cuál es una de las funciones principales del airbag en caso de impacto?",
+        "Opciones": [
+            "A) Frenar el movimiento brusco del cuerpo.",
+            "B) Mantener la presión de inflado de las ruedas traseras.",
+            "C) Acelerar la salida de los ocupantes por las ventanillas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La bolsa de aire sirve para amortiguar y frenar el desplazamiento violento del cuerpo de los pasajeros."
+    },
+    {
+        "_id": "PB-TM9-P175",
+        "Enunciado": "Además de frenar el cuerpo, ¿qué otra utilidad tiene el airbag?",
+        "Opciones": [
+            "A) Bloquear las puertas para evitar que se abran durante el vuelco.",
+            "B) Avisar a los servicios de emergencia mediante un código de colores.",
+            "C) Evitar que las personas choquen violentamente contra el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El airbag impide que la cabeza o el torso golpeen directamente estructuras rígidas como el volante o el salpicadero."
+    },
+    {
+        "_id": "PB-TM9-P176",
+        "Enunciado": "¿De qué protege el airbag específicamente a la cara y los ojos?",
+        "Opciones": [
+            "A) Proteger la cara y los ojos de cristales rotos y otros elementos.",
+            "B) Limpiar automáticamente los restos de aceite de la calzada.",
+            "C) Aumentar la visibilidad exterior reduciendo el vaho de los cristales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Actúa como barrera frente a cristales u otros objetos que puedan desprenderse durante el accidente."
+    },
+    {
+        "_id": "PB-TM9-P177",
+        "Enunciado": "¿Qué norma es fundamental para que el airbag sea eficaz y no cause daños?",
+        "Opciones": [
+            "A) No usar el cinturón nunca para que el cuerpo llegue antes a la bolsa de aire.",
+            "B) Usarlo siempre junto al cinturón para que el impacto contra la bolsa sea menor.",
+            "C) Utilizarlo solo si el vehículo no dispone de airbags laterales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El cinturón de seguridad es el complemento necesario para que el airbag cumpla su función sin golpear al pasajero con excesiva fuerza."
+    },
+    {
+        "_id": "PB-TM9-P178",
+        "Enunciado": "¿A qué distancia mínima del volante debe colocarse el pecho del conductor?",
+        "Opciones": [
+            "A) De al menos 25 centímetros para que el airbag no te golpee al inflarse.",
+            "B) De exactamente 50 centímetros para evitar quemaduras por gas.",
+            "C) De al menos 10 centímetros para que el inflado sea efectivo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se requiere una separación mínima de 25 cm para permitir que la bolsa se despliegue sin impactar violentamente contra la persona."
+    },
+    {
+        "_id": "PB-TM9-P179",
+        "Enunciado": "¿Cuándo se debe desconectar obligatoriamente el airbag del copiloto?",
+        "Opciones": [
+            "A) Siempre que el pasajero delantero mida más de 190 centímetros.",
+            "B) Si vas a colocar en ese asiento una sillita infantil.",
+            "C) Cuando el vehículo transporte mercancías peligrosas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si se instala un SRI en el asiento del pasajero delantero, es imperativo desactivar el airbag frontal de esa plaza."
+    },
+    {
+        "_id": "PB-TM9-P180",
+        "Enunciado": "¿Qué es el reposacabezas según el manual?",
+        "Opciones": [
+            "A) Dispositivo que protege el cuello y las cervicales.",
+            "B) Un soporte ergonómico para evitar el sueño del conductor.",
+            "C) El mecanismo que ajusta la altura del cinturón de seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El reposacabezas es un elemento de seguridad pasiva diseñado para evitar lesiones en el cuello y las cervicales ante frenazos o choques."
+    }
+]

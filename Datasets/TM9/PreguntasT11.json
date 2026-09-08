@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P301",
+        "Enunciado": "Si circula con una presión de inflado menor a la recomendada por el fabricante, ¿cómo afecta esto a la conducción?",
+        "Opciones": [
+            "A) Se gasta menos combustible al aumentar la superficie de contacto.",
+            "B) Únicamente se produce un desgaste mayor en la zona central del neumático.",
+            "C) El vehículo es menos estable y aumenta el riesgo de patinar en suelo mojado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con una presión de inflado insuficiente, el neumático se deforma, el vehículo pierde estabilidad y existe un mayor riesgo de sufrir aquaplaning o patinar."
+    },
+    {
+        "_id": "PB-TM9-P302",
+        "Enunciado": "¿A partir de qué velocidad se encienden habitualmente las luces de carretera automáticas si no se detectan otros usuarios?",
+        "Opciones": [
+            "A) Funcionan siempre que el sensor de luminosidad detecte oscuridad, sin límite de velocidad.",
+            "B) A partir de los 60 kilómetros por hora.",
+            "C) A más de 45 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para que el sistema de luces de carretera automáticas se active, el vehículo debe circular a una velocidad superior a los 45 km/h."
+    },
+    {
+        "_id": "PB-TM9-P303",
+        "Enunciado": "En una frenada de emergencia con un vehículo que no tiene sistema ABS, ¿qué debe hacer el conductor si nota que las ruedas se bloquean?",
+        "Opciones": [
+            "A) Soltar el freno y realizar un giro brusco del volante para recuperar la trayectoria.",
+            "B) Pisar el pedal de freno con más fuerza para desbloquear el sistema mecánico.",
+            "C) Levantar un poco el pie del freno sin dejar de frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Sin ABS, si las ruedas se bloquean, se debe aliviar la presión sobre el pedal ligeramente para recuperar el giro, pero manteniendo la acción de frenado."
+    },
+    {
+        "_id": "PB-TM9-P304",
+        "Enunciado": "¿Qué utilidad tiene el sistema de asistencia de mantenimiento de carril LKA?",
+        "Opciones": [
+            "A) Detecta las líneas de la carretera para ayudar al conductor a guiar el coche.",
+            "B) Únicamente hace que el volante vibre cuando el conductor pisa una línea blanca.",
+            "C) Cambia automáticamente de carril cuando detecta un vehículo lento delante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema LKA utiliza cámaras para detectar las líneas blancas y asiste activamente al conductor para mantener el vehículo dentro de su carril."
+    },
+    {
+        "_id": "PB-TM9-P305",
+        "Enunciado": "Si decide colocar una sillita infantil en el asiento del copiloto, ¿qué precaución es obligatoria respecto a la seguridad pasiva?",
+        "Opciones": [
+            "A) Desconectar el airbag del asiento del copiloto.",
+            "B) Solo es obligatorio desactivar el airbag si el niño viaja mirando hacia adelante.",
+            "C) Colocar el asiento en su posición más adelantada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es imperativo desactivar el airbag frontal del pasajero siempre que se instale un sistema de retención infantil en esa plaza."
+    },
+    {
+        "_id": "PB-TM9-P306",
+        "Enunciado": "Llevar el cinturón de seguridad correctamente abrochado, ¿en cuánto aumenta las posibilidades de sobrevivir a un accidente?",
+        "Opciones": [
+            "A) Las aumenta en un treinta por ciento respecto a no llevarlo.",
+            "B) Solo garantiza la supervivencia en choques a menos de cincuenta kilómetros por hora.",
+            "C) Hace que una persona tenga el doble de posibilidades de sobrevivir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso correcto del cinturón de seguridad duplica las probabilidades de supervivencia tras sufrir un accidente de tráfico."
+    },
+    {
+        "_id": "PB-TM9-P307",
+        "Enunciado": "En una motocicleta con mandos estándar, ¿qué acción se realiza habitualmente con el pie izquierdo?",
+        "Opciones": [
+            "A) Accionar el pedal del cambio de velocidades.",
+            "B) Activar el freno de la rueda trasera.",
+            "C) Mantener el equilibrio apoyándolo en el suelo durante las curvas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El pedal situado en la parte izquierda de la motocicleta se utiliza para realizar el cambio de marchas."
+    },
+    {
+        "_id": "PB-TM9-P308",
+        "Enunciado": "¿Cuál de estos síntomas es una señal clara de que las ruedas han perdido su equilibrado?",
+        "Opciones": [
+            "A) El vehículo hace ruidos y vibra.",
+            "B) Se enciende una luz roja fija en el cuadro de instrumentos.",
+            "C) El pedal del freno se siente más blando de lo habitual."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falta de un equilibrado correcto en las ruedas se manifiesta a través de vibraciones y ruidos durante la marcha."
+    },
+    {
+        "_id": "PB-TM9-P309",
+        "Enunciado": "¿A qué distancia máxima se recomienda que esté el reposacabezas de la nuca del pasajero?",
+        "Opciones": [
+            "A) A una distancia de unos diez centímetros para evitar la fatiga.",
+            "B) Debe estar en contacto permanente para ser efectivo.",
+            "C) A cuatro centímetros o menos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para proteger correctamente el cuello, el espacio entre la cabeza y el reposacabezas no debe superar los cuatro centímetros."
+    },
+    {
+        "_id": "PB-TM9-P310",
+        "Enunciado": "¿Cómo actúa el sistema de control de tracción para evitar que el vehículo patine?",
+        "Opciones": [
+            "A) Aumenta la presión de inflado de las ruedas de forma inmediata.",
+            "B) Desconecta el motor automáticamente si detecta lluvia intensa.",
+            "C) Identifica si una rueda gira más rápido que las demás y la frena."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El control de tracción detecta el exceso de giro en una rueda (pérdida de adherencia) y aplica el freno en esa rueda para estabilizar el coche."
+    },
+    {
+        "_id": "PB-TM9-P311",
+        "Enunciado": "En un taxi que circula por ciudad y no dispone de sistema de retención infantil, ¿cómo deben viajar los niños de menos de 135 cm?",
+        "Opciones": [
+            "A) En brazos de un adulto en las plazas traseras.",
+            "B) En el asiento del copiloto con el cinturón del vehículo.",
+            "C) En los asientos de atrás con el cinturón de seguridad que haya en el asiento."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En el caso excepcional de taxis en ciudad sin SRI, los niños deben usar el cinturón disponible en las plazas de atrás."
+    },
+    {
+        "_id": "PB-TM9-P312",
+        "Enunciado": "Para comprobar que la distancia al volante es la correcta, ¿qué prueba debe realizar el conductor?",
+        "Opciones": [
+            "A) Apoyar la espalda en el respaldo y comprobar que las muñecas llegan a la parte de arriba del volante.",
+            "B) Estirar los brazos y tocar con las puntas de los dedos el salpicadero.",
+            "C) Asegurarse de que los codos queden totalmente estirados al sujetar el volante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La distancia es adecuada si, con la espalda apoyada, las muñecas pueden descansar sobre la parte superior del aro del volante."
+    },
+    {
+        "_id": "PB-TM9-P313",
+        "Enunciado": "¿Qué sistema avisa al conductor si se aproxima un vehículo lateralmente cuando circula marcha atrás para salir de un aparcamiento?",
+        "Opciones": [
+            "A) El sistema de mantenimiento de carril LKA.",
+            "B) El sistema de alerta de tráfico cruzado RCTA.",
+            "C) El sistema de reconocimiento de señales TSR."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El RCTA detecta vehículos que vienen por los lados cuando el conductor realiza una maniobra de marcha atrás con poca visibilidad."
+    },
+    {
+        "_id": "PB-TM9-P314",
+        "Enunciado": "Respecto a la visibilidad y los cristales del vehículo, ¿qué acción está terminantemente prohibida?",
+        "Opciones": [
+            "A) Usar una mezcla de agua y detergente en el depósito del lavaparabrisas.",
+            "B) Utilizar el limpialunetas trasero en condiciones de niebla seca.",
+            "C) Pegar pegatinas sobre los cristales que hagan que se vea peor una zona."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Está prohibido colocar cualquier lámina o adhesivo que reduzca el campo de visión del conductor en zonas críticas."
+    },
+    {
+        "_id": "PB-TM9-P315",
+        "Enunciado": "¿Qué define a un casco de protección del tipo integral?",
+        "Opciones": [
+            "A) Que tiene una etiqueta de homologación europea de alta resistencia.",
+            "B) Que protege también la parte de debajo de la cara y la mandíbula.",
+            "C) Que está fabricado con una visera de bixenón antivaho."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El casco integral es aquel que cubre toda la cabeza, incluyendo la barbilla y la mandíbula."
+    },
+    {
+        "_id": "PB-TM9-P316",
+        "Enunciado": "¿En qué circunstancia un repartidor de mercancías está exento de utilizar el cinturón de seguridad?",
+        "Opciones": [
+            "A) Únicamente si conduce un vehículo de más de tres mil quinientos kilos.",
+            "B) Solo dentro de poblado si tiene que bajar continuamente para entregar pedidos.",
+            "C) En cualquier tipo de vía si el trayecto entre paradas es menor de un kilómetro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La exención para repartidores por carga y descarga frecuente solo se aplica en vías urbanas."
+    },
+    {
+        "_id": "PB-TM9-P317",
+        "Enunciado": "Si los frenos se calientan en exceso debido a un uso prolongado en poco tiempo, ¿cuál es la solución correcta?",
+        "Opciones": [
+            "A) Aplicar agua fría directamente sobre las llantas.",
+            "B) Soltar el pedal de freno para permitir que se enfríen.",
+            "C) Pisar el freno con firmeza para evacuar el calor por presión."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ante el sobrecalentamiento de los frenos (fading), la medida inmediata es dejar de usarlos para que recuperen su temperatura normal."
+    },
+    {
+        "_id": "PB-TM9-P318",
+        "Enunciado": "En un ciclomotor de dos ruedas, ¿qué retrovisor es exigido por la normativa?",
+        "Opciones": [
+            "A) Un retrovisor obligatorio en el lado izquierdo.",
+            "B) Deben llevar obligatoriamente los dos retrovisores exteriores.",
+            "C) Únicamente el retrovisor del lado derecho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los ciclomotores de dos ruedas tienen la obligación legal de contar con el espejo izquierdo."
+    },
+    {
+        "_id": "PB-TM9-P319",
+        "Enunciado": "¿Qué sucede mecánicamente cuando el conductor pisa a fondo el pedal de embrague?",
+        "Opciones": [
+            "A) La potencia del motor se multiplica para facilitar el cambio de marcha.",
+            "B) Se activa el sistema de frenado autónomo de emergencia.",
+            "C) El movimiento del motor no se transmite a las ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al pisar el embrague se desconecta el motor de la transmisión, impidiendo que el giro llegue a la caja de cambios y a las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P320",
+        "Enunciado": "Para prevenir el riesgo de sufrir el efecto submarino en caso de accidente, ¿qué debe evitar el conductor?",
+        "Opciones": [
+            "A) Abrocharse el cinturón de seguridad con una tensión excesiva.",
+            "B) Colocar toallas, cojines o fundas sobre el asiento.",
+            "C) Llevar el respaldo del asiento en posición totalmente vertical."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cualquier objeto entre el cuerpo y el asiento favorece que el pasajero se deslice por debajo del cinturón en un impacto."
+    },
+    {
+        "_id": "PB-TM9-P321",
+        "Enunciado": "¿Qué información muestra el sistema de reconocimiento de señales TSR en el cuadro de instrumentos?",
+        "Opciones": [
+            "A) La distancia de seguridad recomendada con el vehículo precedente.",
+            "B) El número que corresponde a la velocidad máxima permitida.",
+            "C) Una alerta sonora si el conductor muestra signos de fatiga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El TSR lee las señales viales e informa al conductor de los límites de velocidad vigentes en el tramo."
+    },
+    {
+        "_id": "PB-TM9-P322",
+        "Enunciado": "¿A qué altura debe quedar situada la parte superior del reposacabezas?",
+        "Opciones": [
+            "A) A la misma altura que la parte de arriba de su cabeza.",
+            "B) A la altura de los ojos para no restar visibilidad lateral.",
+            "C) Justo en la base del cráneo para sujetar las cervicales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El borde superior del reposacabezas debe alinearse con la parte más alta de la cabeza del usuario."
+    },
+    {
+        "_id": "PB-TM9-P323",
+        "Enunciado": "¿Cuál es la profundidad mínima legal permitida para las ranuras de la banda de rodamiento en turismos?",
+        "Opciones": [
+            "A) Al menos 1,6 milímetros.",
+            "B) Como máximo 1,6 milímetros.",
+            "C) Una profundidad exacta de 2,5 milímetros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La ley establece que los neumáticos de los turismos deben tener un dibujo de al menos 1,6 mm de profundidad."
+    },
+    {
+        "_id": "PB-TM9-P324",
+        "Enunciado": "Al circular con una rueda de uso temporal, conocida como rueda de galleta, ¿qué limitaciones existen?",
+        "Opciones": [
+            "A) Se pueden recorrer unos 200 kilómetros a un máximo de 80 km/h.",
+            "B) No permite circular por autopistas bajo ninguna circunstancia.",
+            "C) Está prohibido superar los 50 km/h y solo sirve para diez kilómetros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Esta rueda es de uso limitado: permite circular hasta el taller más cercano con un tope de 200 km y 80 km/h."
+    },
+    {
+        "_id": "PB-TM9-P325",
+        "Enunciado": "En el manillar de una motocicleta, ¿qué mando se acciona con la mano derecha?",
+        "Opciones": [
+            "A) La palanca que acciona el embrague.",
+            "B) El interruptor para activar el claxon.",
+            "C) La palanca para frenar la rueda delantera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con la mano derecha se controlan tanto el acelerador (puño) como el freno delantero (palanca)."
+    },
+    {
+        "_id": "PB-TM9-P326",
+        "Enunciado": "¿En qué momento interviene el sistema de ayuda de salida en pendiente?",
+        "Opciones": [
+            "A) Al circular a más de cien kilómetros por hora en bajadas pronunciadas.",
+            "B) Cuando el conductor cambia el pie del freno al acelerador en una cuesta.",
+            "C) Únicamente cuando el vehículo está estacionado con el freno de mano puesto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este asistente retiene el vehículo unos segundos para evitar que retroceda al arrancar en inclinación."
+    },
+    {
+        "_id": "PB-TM9-P327",
+        "Enunciado": "Respecto al mantenimiento del casco, ¿qué acción puede provocar que pierda sus propiedades protectoras?",
+        "Opciones": [
+            "A) Lavar la pantalla exterior con agua y jabón neutro.",
+            "B) Pintarlo o colocar pegatinas en él.",
+            "C) Guardarlo en el maletero del vehículo durante la noche."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El uso de adhesivos o pinturas no autorizadas puede reaccionar con el material del casco y debilitar su estructura."
+    },
+    {
+        "_id": "PB-TM9-P328",
+        "Enunciado": "¿Cada cuánto tiempo se recomienda cambiar los neumáticos, aunque visualmente parezcan estar en buen estado?",
+        "Opciones": [
+            "A) Cada diez años para asegurar la elasticidad de la goma.",
+            "B) Cada cinco años.",
+            "C) Solo cuando el dibujo sea inferior a un milímetro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Incluso si el dibujo es profundo, la goma caduca y se recomienda su sustitución cada cinco años."
+    },
+    {
+        "_id": "PB-TM9-P329",
+        "Enunciado": "¿Cuál es la posición correcta para colocar la cinta abdominal del cinturón de seguridad?",
+        "Opciones": [
+            "A) Justo sobre el ombligo para que proteja el estómago.",
+            "B) Sobre los huesos de la cadera.",
+            "C) Por debajo del pecho para evitar lesiones pulmonares."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La cinta abdominal debe apoyarse siempre sobre la estructura ósea de la cadera, nunca sobre el abdomen."
+    },
+    {
+        "_id": "PB-TM9-P330",
+        "Enunciado": "En un vehículo de nueve plazas, ¿cuándo se permite excepcionalmente que un menor viaje en el asiento delantero?",
+        "Opciones": [
+            "A) Cuando todos los asientos traseros estén ocupados por otros niños.",
+            "B) Siempre que el trayecto se realice por vías urbanas.",
+            "C) Cuando el niño mida más de 120 centímetros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una de las excepciones para que un menor ocupe la plaza delantera es que los asientos traseros estén ya ocupados por otros menores con SRI."
+    }
+]

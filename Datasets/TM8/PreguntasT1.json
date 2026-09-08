@@ -1,0 +1,331 @@
+[
+  {
+    "_id": "PB-TM8-P1",
+    "Enunciado": "Respecto al peso que puede transportar un vehículo, ¿qué norma general debe cumplirse?",
+    "Opciones": [
+      "A) Todos los vehículos pueden cargar el peso que el conductor considere seguro.",
+      "B) El peso máximo depende únicamente del número de pasajeros que viajen.",
+      "C) Todos los vehículos tienen marcado un número de kilos máximos según sus características."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Cada vehículo tiene especificado un límite de kilos máximos que puede transportar, el cual viene determinado por sus características técnicas y es llamado masa máxima autorizada."
+  },
+  {
+    "_id": "PB-TM8-P2",
+    "Enunciado": "Al calcular el peso máximo que transporta un vehículo, ¿qué elementos deben tenerse en cuenta?",
+    "Opciones": [
+      "A) Únicamente el peso del combustible y del conductor.",
+      "B) Solo la mercancía o carga comercial.",
+      "C) El peso de la carga, de los pasajeros, los equipajes y otros materiales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Está prohibido superar la capacidad del vehículo sumando el peso de la propia carga, el de todos los pasajeros y sus equipajes, es decir, todo."
+  },
+  {
+    "_id": "PB-TM8-P3",
+    "Enunciado": "¿Qué elementos del vehículo pueden estropearse si se circula con un exceso de peso?",
+    "Opciones": [
+      "A) Únicamente la tapicería y los elementos estéticos interiores.",
+      "B) Los neumáticos, los sistemas de aceleración y los de freno.",
+      "C) únicamente el sistema de suspensión y los bajos del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Cargar un vehículo por encima de sus posibilidades afecta negativamente a componentes críticos como las ruedas y los sistemas para frenar y acelerar."
+  },
+  {
+    "_id": "PB-TM8-P4",
+    "Enunciado": "Cuando se transportan animales en un vehículo, ¿cuál es el lugar adecuado para ellos?",
+    "Opciones": [
+      "A) En el suelo de las plazas delanteras.",
+      "B) En la parte de atrás del vehículo e ir sujetos al asiento.",
+      "C) En el asiento del copiloto con el cinturón de seguridad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los animales deben viajar siempre en la zona trasera del habitáculo y deben ir debidamente asegurados al asiento, nunca podrán ir sueltos."
+  },
+  {
+    "_id": "PB-TM8-P5",
+    "Enunciado": "¿Qué dispositivo se recomienda instalar para separar al conductor de los animales transportados?",
+    "Opciones": [
+      "A) No es necesario ningún dispositivo ya que no distrae.",
+      "B) Un cristal blindado que aísle completamente el ruido.",
+      "C) Una malla de separación u otro dispositivo similar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Siempre que sea posible, se debe colocar una red o malla de separación para evitar que los animales interfieran con el conductor."
+  },
+  {
+    "_id": "PB-TM8-P6",
+    "Enunciado": "¿Está permitido que un perro viaje suelto por el interior del vehículo?",
+    "Opciones": [
+      "A) Sí, siempre que se trate de un trayecto corto por ciudad.",
+      "B) No, los animales nunca pueden viajar sueltos.",
+      "C) Solo si viaja en el regazo de un pasajero en el asiento de atrás."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La normativa prohíbe terminantemente que los animales viajen libres por el vehículo para evitar distracciones o daños en caso de frenazo."
+  },
+  {
+    "_id": "PB-TM8-P7",
+    "Enunciado": "¿De qué depende el número máximo de personas que pueden viajar en un vehículo?",
+    "Opciones": [
+      "A) Del peso total de los pasajeros.",
+      "B) Del número de asientos que tiene ese vehículo.",
+      "C) De la voluntad del conductor y el espacio disponible."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La ocupación de un vehículo está limitada por su número de asientos autorizados; por ejemplo, si tiene cinco asientos, no pueden viajar seis personas."
+  },
+  {
+    "_id": "PB-TM8-P8",
+    "Enunciado": "Durante el viaje, ¿cómo deben comportarse los pasajeros respecto a su ubicación?",
+    "Opciones": [
+      "A) Cada persona debe viajar en su asiento sin moverse hacia otros espacios.",
+      "B) Pueden cambiarse de asiento si el vehículo es amplio.",
+      "C) Los niños pueden sentarse en el suelo si hay espacio suficiente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Por seguridad, cada ocupante debe permanecer en su asiento correspondiente durante todo el trayecto."
+  },
+  {
+    "_id": "PB-TM8-P9",
+    "Enunciado": "¿Pueden viajar personas en la zona del vehículo destinada a la carga?",
+    "Opciones": [
+      "A) Solo si se trata de trabajadores en horario laboral.",
+      "B) Sí, cuando el vehículo tenga la autorización necesaria para ello.",
+      "C) Nunca, las zonas de carga son exclusivamente para objetos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Excepcionalmente, se permite el transporte de personas en zonas de carga si el vehículo cuenta con la autorización oficial pertinente."
+  },
+  {
+    "_id": "PB-TM8-P10",
+    "Enunciado": "Al colocar a los pasajeros y la carga, ¿qué debe asegurar el conductor?",
+    "Opciones": [
+      "A) Que todos los objetos pesados estén en el centro.",
+      "B) Que el vehículo esté lo más bajo posible para ganar estabilidad.",
+      "C) Que tenga espacio para conducir y vea bien la carretera por todos lados."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El reparto de ocupantes y objetos debe permitir al conductor manejar el vehículo con libertad de movimientos y mantener una visibilidad total."
+  },
+  {
+    "_id": "PB-TM8-P11",
+    "Enunciado": "¿A qué aspecto personal debe prestar especial atención el conductor antes de iniciar la marcha?",
+    "Opciones": [
+      "A) A llevar ropa de colores llamativos.",
+      "B) A estar cómodo en su asiento.",
+      "C) A que la radio esté sintonizada en una emisora de noticias."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para una conducción segura, es fundamental que el conductor se asegure de estar sentado de forma cómoda y ergonómica."
+  },
+  {
+    "_id": "PB-TM8-P12",
+    "Enunciado": "¿Cuál es la forma correcta de subir o bajar de un vehículo?",
+    "Opciones": [
+      "A) Con el vehículo parado y por el lado más cercano a la acera o arcén.",
+      "B) Por cualquier lado, siempre que el vehículo circule a menos de 5 km/h.",
+      "C) Siempre por el lado del conductor para que este controle la maniobra."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se debe esperar a que el vehículo esté totalmente detenido y utilizar la puerta que dé hacia la acera o el lateral de la vía."
+  },
+  {
+    "_id": "PB-TM8-P13",
+    "Enunciado": "Como norma general, en las bicicletas preparadas para una persona, ¿quién puede viajar?",
+    "Opciones": [
+      "A) El conductor y un pasajero sentado en el manillar.",
+      "B) El conductor y un adulto de pie en los ejes de las ruedas.",
+      "C) Solo el conductor, salvo excepciones específicas por edad."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En bicicletas individuales solo puede ir el conductor, a menos que se cumplan los requisitos para llevar a un menor."
+  },
+  {
+    "_id": "PB-TM8-P14",
+    "Enunciado": "Si un conductor de bicicleta es mayor de edad, ¿a quién puede llevar como pasajero?",
+    "Opciones": [
+      "A) A un niño menor de siete años en un asiento adicional permitido.",
+      "B) A otro adulto, siempre que este también sepa montar en bicicleta.",
+      "C) A cualquier persona que pese menos de 50 kilos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Un ciclista adulto puede transportar a un niño de menos de siete años si utiliza un asiento homologado colocado detrás de él."
+  },
+  {
+    "_id": "PB-TM8-P15",
+    "Enunciado": "¿Qué requisitos debe cumplir un pasajero para viajar en una motocicleta?",
+    "Opciones": [
+      "A) No hay edad mínima si el pasajero llega a los reposapiés laterales.",
+      "B) Ser mayor de 12 años, ir detrás del conductor, con pies en reposapiés y casco.",
+      "C) Tener al menos 14 años y llevar guantes de protección además de casco reglamentario."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La norma general exige que el pasajero tenga más de 12 años, viaje sentado a horcajadas detrás del conductor y use casco."
+  },
+  {
+    "_id": "PB-TM8-P16",
+    "Enunciado": "¿Cuándo puede un niño mayor de siete años viajar en motocicleta o ciclomotor?",
+    "Opciones": [
+      "A) Si viaja con sus padres o una persona mayor de edad autorizado.",
+      "B) Solo si la motocicleta tiene sidecar.",
+      "C) Nunca, debe esperar siempre a cumplir los 12 años."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Excepcionalmente, los niños de entre 7 y 12 años pueden ser pasajeros si el conductor es su padre, madre, tutor o una persona autorizada y siguen todas las normas de seguridad."
+  },
+  {
+    "_id": "PB-TM8-P17",
+    "Enunciado": "Cuando un conductor de bicicleta lleva a un niño menor de siete años, ¿dónde debe ir colocado el asiento adicional?",
+    "Opciones": [
+      "A) Detrás del asiento del adulto que conduce.",
+      "B) Delante del conductor, sobre el cuadro de la bicicleta.",
+      "C) En un lateral, acoplado como un sidecar."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La normativa exige que, en caso de llevar a un menor de siete años, el asiento adicional permitido se coloque detrás del asiento del conductor."
+  },
+  {
+    "_id": "PB-TM8-P18",
+    "Enunciado": "¿Cuál es la posición correcta que debe ocupar un pasajero en una motocicleta o ciclomotor?",
+    "Opciones": [
+      "A) Entre el conductor y el manillar si hay espacio suficiente.",
+      "B) Delante del conductor para que este pueda vigilarlo.",
+      "C) Sentado detrás del conductor."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El pasajero de una motocicleta o ciclomotor tiene la obligación de viajar sentado siempre detrás de la persona que conduce el vehículo."
+  },
+  {
+    "_id": "PB-TM8-P19",
+    "Enunciado": "Para viajar de manera correcta en una motocicleta, ¿dónde debe colocar los pies el pasajero?",
+    "Opciones": [
+      "A) Apoyados en los ejes de las ruedas para mayor estabilidad.",
+      "B) Manteniéndolos en el aire para no quemarse con el tubo de escape.",
+      "C) En los reposapiés que hay a los lados del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es obligatorio que el pasajero de una motocicleta coloque correctamente los pies en los reposapiés laterales destinados a tal fin."
+  },
+  {
+    "_id": "PB-TM8-P20",
+    "Enunciado": "Respecto al uso del casco en motocicletas y ciclomotores, ¿qué debe cumplir el pasajero?",
+    "Opciones": [
+      "A) Solo es obligatorio para el conductor.",
+      "B) Debe llevar el casco bien colocado siempre..",
+      "C) Solo es necesario llevar casco si se circula por carretera."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Tanto el conductor como el pasajero tienen la obligación de llevar el casco de protección correctamente colocado y abrochado."
+  },
+  {
+    "_id": "PB-TM8-P21",
+    "Enunciado": "¿Qué se considera 'carga' en un vehículo?",
+    "Opciones": [
+      "A) Solamente los objetos que sobresalen por la parte trasera.",
+      "B) Únicamente los materiales pesados destinados a la venta.",
+      "C) Cualquier objeto que se transporta, como equipaje o mercancía."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La carga abarca todo objeto transportado en el vehículo, incluyendo maletas, mercancías o cualquier otro enser."
+  },
+  {
+    "_id": "PB-TM8-P22",
+    "Enunciado": "¿Cómo debe ir colocada la carga para no comprometer la estabilidad del vehículo?",
+    "Opciones": [
+      "A) Toda acumulada en la parte más trasera para evitar ruidos.",
+      "B) Bien repartida y sujeta.",
+      "C) Concentrada en un solo lado para facilitar las maniobras de giro."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es vital repartir el peso de forma equilibrada y fijar los objetos para que no se desplacen y afecten al control del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P23",
+    "Enunciado": "Respecto a la visibilidad y señalización, ¿qué requisito debe cumplir la carga?",
+    "Opciones": [
+      "A) Solo puede tapar las luces de freno si es por una emergencia.",
+      "B) No debe tapar las luces ni las señales de aviso del vehículo.",
+      "C) Puede tapar la matrícula si se coloca un cartel sustitutorio."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La carga nunca debe obstaculizar la visión de los faros, de la matrícula, intermitentes o cualquier señalización que haga el conductor."
+  },{
+    "_id": "PB-TM8-P24",
+    "Enunciado": "Como norma general, ¿dónde deben colocarse los objetos transportados?",
+    "Opciones": [
+      "A) En los asientos traseros para tenerlos a mano.",
+      "B) En el portamaletas.",
+      "C) Encima de la bandeja trasera del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El lugar destinado y más seguro para el transporte de objetos es el maletero del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P25",
+    "Enunciado": "Si coloca un objeto fuera del maletero, ¿qué precaución adicional debe tomar?",
+    "Opciones": [
+      "A) Asegurar que el objeto no se moverá en caso de choque o frenazo.",
+      "B) Llevar las luces de emergencia encendidas durante todo el trayecto.",
+      "C) Sujetarlo únicamente con el cinturón de seguridad del pasajero."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cualquier objeto fuera del maletero debe estar fijado para evitar que se convierta en un proyectil en caso de incidente."
+  },
+  {
+    "_id": "PB-TM8-P26",
+    "Enunciado": "¿Qué efectos molestos está prohibido que produzca la carga de un vehículo?",
+    "Opciones": [
+      "A) No puede superar los 20 kilos de peso total.",
+      "B) No puede ser de colores que distraigan a otros conductores.",
+      "C) No puede producir ruido, ni soltar polvo o humo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La carga debe estar acondicionada de forma que no genere ruidos molestos, no se arrastre ni desprenda sustancias volátiles."
+  },
+  {
+    "_id": "PB-TM8-P27",
+    "Enunciado": "Para transportar cargas que puedan caerse o suelten polvo, ¿qué tipo de vehículo debe usarse?",
+    "Opciones": [
+      "A) Vehículos especiales preparados para transportar estos materiales.",
+      "B) Un turismo convencional con lonas protectoras.",
+      "C) Cualquier furgoneta, siempre que circule por debajo de 30 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los materiales que puedan derramarse o generar polvo deben transportarse en vehículos diseñados específicamente para ello."
+  },
+  {
+    "_id": "PB-TM8-P28",
+    "Enunciado": "En un vehículo preparado para personas, ¿qué requisito debe cumplir la carga respecto a su peso?",
+    "Opciones": [
+      "A) No debe superar el peso máximo que puede llevar ese vehículo.",
+      "B) El peso es libre siempre que la carga sea adecuada a las dimensiones.",
+      "C) Puede superar el peso máximo si se circula a baja velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Uno de los requisitos fundamentales es que la carga sea adecuada a las características técnicas del vehículo y no exceda su peso máximo autorizado."
+  },
+  {
+    "_id": "PB-TM8-P29",
+    "Enunciado": "¿Tiene el conductor la obligación de señalizar la carga que transporta?",
+    "Opciones": [
+      "A) Nunca, si el vehículo es de uso particular.",
+      "B) Solo si la carga es de materiales peligrosos.",
+      "C) Sí, debe señalarla cuando sea necesario según la normativa."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es responsabilidad del conductor señalizar debidamente la carga transportada en aquellos casos en que la ley lo exija."
+  },
+  {
+    "_id": "PB-TM8-P30",
+    "Enunciado": "Respecto a la visión de la carretera, ¿Debe señalizar esa carga?",
+    "Opciones": [
+      "A) Solo de noche.",
+      "B) Sí, siempre.",
+      "C) Solo cuando sea necesario."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El conductor debe garantizar que la carga esté debidamente señalizada cuando sea necesario, para no confundir a los demás vehículos"
+  }
+]

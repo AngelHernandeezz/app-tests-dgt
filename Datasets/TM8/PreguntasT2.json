@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM8-P31",
+    "Enunciado": "¿Está permitido que la carga transportada se mueva por el interior del vehículo?",
+    "Opciones": [
+      "A) Solo si se trata de animales domésticos pequeños.",
+      "B) No, está prohibido que las cargas se muevan por el vehículo.",
+      "C) Sí, siempre que no moleste al conductor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para evitar riesgos y desestabilización del vehículo, está terminantemente prohibido que la carga se desplace o se mueva durante la marcha."
+  },
+  {
+    "_id": "PB-TM8-P32",
+    "Enunciado": "Respecto a la caída de objetos a la vía, ¿qué prohíbe la normativa sobre las cargas?",
+    "Opciones": [
+      "A) Prohíbe que las cargas se caigan del vehículo.",
+      "B) Permite la caída fortuita si se recoge el objeto inmediatamente.",
+      "C) Solo prohíbe la caída si los objetos son de cristal."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Está prohibido que cualquier parte de la carga transportada se desprenda o se caiga del vehículo a la calzada, se hacerlo, hay que ir a recogerlo cuando sea posible."
+  },
+  {
+    "_id": "PB-TM8-P33",
+    "Enunciado": "¿Se puede transportar un objeto que arrastre por la carretera?",
+    "Opciones": [
+      "A) Únicamente en trayectos de menos de un kilómetro.",
+      "B) No, está prohibido que las cargas se arrastren por la carretera.",
+      "C) Sí, si el objeto tiene protecciones para no dañar el asfalto."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La carga debe ir siempre totalmente suspendida o apoyada en el vehículo; está prohibido que cualquier elemento sea arrastrado por el suelo."
+  },
+  {
+    "_id": "PB-TM8-P34",
+    "Enunciado": "En motocicletas o bicicletas, ¿cuánto puede pesar el remolque que transportan?",
+    "Opciones": [
+      "A) El mismo peso que el vehículo tractor.",
+      "B) No existe un límite de peso establecido.",
+      "C) Como máximo la mitad de lo que pesa el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Por seguridad, el remolque o semirremolque no puede exceder el 50% del peso en vacío del vehículo que lo arrastra."
+  },
+  {
+    "_id": "PB-TM8-P35",
+    "Enunciado": "¿En qué condiciones de visibilidad pueden las motocicletas o ciclos llevar un remolque?",
+    "Opciones": [
+      "A) En cualquier momento, siempre que lleven luces de posición.",
+      "B) Únicamente durante la noche en vías bien iluminadas.",
+      "C) Solo cuando circulan de día y se ve bien."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El uso de remolques en vehículos de dos ruedas está limitado a la circulación diurna y bajo condiciones de buena visibilidad."
+  },
+  {
+    "_id": "PB-TM8-P36",
+    "Enunciado": "Cuando una bicicleta o motocicleta lleva un remolque, ¿a qué velocidad debe circular?",
+    "Opciones": [
+      "A) Un 10% más despacio de la velocidad máxima.",
+      "B) A la velocidad máxima permitida para esa vía.",
+      "C) 10 km/h por encima de la velocidad del resto de vehículos para compensar."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Al llevar un remolque, estos vehículos deben reducir su velocidad por debajo de su límite máximo habitual en un 10%."
+  },
+  {
+    "_id": "PB-TM8-P37",
+    "Enunciado": "¿Está permitido transportar personas dentro de un remolque arrastrado por una bicicleta?",
+    "Opciones": [
+      "A) Sí, si el remolque está homologado para ello.",
+      "B) No, no pueden viajar personas en el remolque.",
+      "C) Solo menores de tres años con sistema de retención."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La normativa prohíbe expresamente que viajen pasajeros en los remolques o semirremolques de estos vehículos."
+  },
+  {
+    "_id": "PB-TM8-P38",
+    "Enunciado": "¿Cuál es la anchura máxima permitida para un vehículo, incluyendo su carga?",
+    "Opciones": [
+      "A) 3 metros.",
+      "B) 2,80 metros.",
+      "C) 2,55 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Con carácter general, la medida máxima de ancho permitida para cualquier vehículo y su carga es de 2,55 metros."
+  },
+  {
+    "_id": "PB-TM8-P39",
+    "Enunciado": "Como norma general, ¿cuál es la altura máxima permitida para los vehículos incluida la carga?",
+    "Opciones": [
+      "A) 4 metros.",
+      "B) 4,50 metros.",
+      "C) 4,20 metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La altura máxima autorizada para los vehículos en general, sumando la carga que transporten, es de 4 metros."
+  },
+  {
+    "_id": "PB-TM8-P40",
+    "Enunciado": "¿Qué altura máxima pueden alcanzar los autobuses?",
+    "Opciones": [
+      "A) 4,50 metros.",
+      "B) 4 metros, igual que el resto de vehículos.",
+      "C) 4,20 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Excepcionalmente, los autobuses tienen permitida una altura máxima específica de 4,20 metros."
+  },
+  {
+    "_id": "PB-TM8-P41",
+    "Enunciado": "¿Cuál es la altura máxima permitida para las grúas que retiran vehículos?",
+    "Opciones": [
+      "A) 4,80 metros.",
+      "B) 4 metros.",
+      "C) 4,50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Excepcionalmente, las grúas destinadas a la retirada de vehículos pueden alcanzar una altura máxima permitida de 4,50 metros."
+  },
+  {
+    "_id": "PB-TM8-P42",
+    "Enunciado": "¿Cuál es la largura máxima permitida para los vehículos a motor que no son autobuses?",
+    "Opciones": [
+      "A) 10 metros.",
+      "B) 15 metros.",
+      "C) 12 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los vehículos a motor, a excepción de los autobuses, tienen una longitud máxima permitida de 12 metros incluyendo la carga."
+  },
+  {
+    "_id": "PB-TM8-P43",
+    "Enunciado": "¿Qué longitud máxima tiene un conjunto de vehículos en configuración euromodular?",
+    "Opciones": [
+      "A) 20 metros.",
+      "B) 25,25 metros.",
+      "C) 18,75 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los conjuntos de vehículos en configuración euromodular pueden llegar a medir hasta 25,25 metros de largo."
+  },
+  {
+    "_id": "PB-TM8-P44",
+    "Enunciado": "¿Cuál es la largura máxima permitida para un remolque solo?",
+    "Opciones": [
+      "A) 15 metros.",
+      "B) 12 metros.",
+      "C) 10 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques tienen establecida una largura máxima permitida de 12 metros."
+  },
+  {
+    "_id": "PB-TM8-P45",
+    "Enunciado": "Un conjunto de vehículos formado por un vehículo de motor y un remolque, ¿cuánto puede medir de largo como máximo?",
+    "Opciones": [
+      "A) 16,50 metros.",
+      "B) 25,25 metros.",
+      "C) 18,75 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La medida máxima para los vehículos que circulan con un remolque enganchado es de 18,75 metros."
+  },
+  {
+    "_id": "PB-TM8-P46",
+    "Enunciado": "¿Qué largura máxima tienen permitida los vehículos articulados que llevan un semirremolque?",
+    "Opciones": [
+      "A) 12 metros.",
+      "B) 16,50 metros.",
+      "C) 18,75 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos articulados compuestos por un tractor y un semirremolque no pueden superar los 16,50 metros de longitud total."
+  },
+  {
+    "_id": "PB-TM8-P47",
+    "Enunciado": "Como norma general, ¿qué relación debe haber entre la carga y las dimensiones del vehículo?",
+    "Opciones": [
+      "A) La carga puede sobresalir siempre que no tape la matrícula.",
+      "B) La carga puede sobresalir hasta 2 metros por la parte delantera.",
+      "C) La carga no puede ser más ancha, alta o larga que el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La norma general indica que la carga no debe sobresalir del vehículo, es decir, no debe ser más grande que este en ninguna de sus dimensiones."
+  },
+  {
+    "_id": "PB-TM8-P48",
+    "Enunciado": "A pesar de la norma general, ¿en qué parte del vehículo sí está permitido que sobresalga la carga?",
+    "Opciones": [
+      "A) Por los laterales si el vehículo es de pasajeros.",
+      "B) Únicamente por el portamaletas trasero.",
+      "C) En la parte de arriba del vehículo o baca."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Aunque la norma general prohíbe que sobresalga, se permite que la carga lo haga si se coloca en la baca del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P49",
+    "Enunciado": "¿Qué es la 'baca' de un vehículo?",
+    "Opciones": [
+      "A) El compartimento estanco situado en la parte inferior del chasis.",
+      "B) La parte de arriba del vehículo donde se colocan equipajes y objetos.",
+      "C) El dispositivo de enganche para remolques ligeros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La baca es la estructura superior del vehículo diseñada específicamente para transportar equipaje u otros objetos de forma segura."
+  },
+  {
+    "_id": "PB-TM8-P50",
+    "Enunciado": "En los vehículos destinados exclusivamente al transporte de carga, ¿qué tipo de objetos pueden sobresalir bajo ciertos requisitos?",
+    "Opciones": [
+      "A) Cargas que no se pueden doblar ni dividir, como vigas o postes.",
+      "B) Objetos flexibles que puedan doblarse para ajustarse al giro.",
+      "C) Cualquier objeto de uso doméstico siempre que se sujete con pulpos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos de mercancías pueden llevar cargas que sobresalgan si se trata de objetos indivisibles como tubos, vigas o postes."
+  },
+  {
+    "_id": "PB-TM8-P51",
+    "Enunciado": "¿Qué debe hacer siempre que la carga sobresalga del vehículo?",
+    "Opciones": [
+      "A) Circular exclusivamente por el carril derecho de la vía.",
+      "B) Avisar por radio a la Jefatura de Tráfico antes del viaje.",
+      "C) Tomar todas las medidas necesarias para evitar accidentes o daños."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es obligatorio adoptar todas las precauciones de seguridad para garantizar que la carga que sobresale no cause daños a personas u otros vehículos."
+  },
+  {
+    "_id": "PB-TM8-P52",
+    "Enunciado": "En los casos en que la carga deba sobresalir de un vehículo porque no hay otra forma de transportarla, ¿de qué dependen las condiciones que se deben cumplir?",
+    "Opciones": [
+      "A) Únicamente de si el transporte se realiza por autopista o por carretera convencional.",
+      "B) Del tipo de vehículo, distinguiendo entre los que transportan cargas y los que transportan pasajeros.",
+      "C) Exclusivamente del peso total de la carga y del conductor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Cuando es necesario que la carga sobresalga del vehículo por falta de otra alternativa para el transporte, las normas y límites varían en función de si el vehículo está destinado al transporte de mercancías (cargas) o de personas (pasajeros)."
+  },
+  {
+    "_id": "PB-TM8-P53",
+    "Enunciado": "En un vehículo de transporte de mercancías de 3 metros de largo, ¿cuánto puede sobresalir la carga?",
+    "Opciones": [
+      "A) No puede sobresalir nada por ser un vehículo corto.",
+      "B) 2 metros por delante y 3 por detrás.",
+      "C) Un tercio de la medida del vehículo por delante y por detrás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En vehículos de 5 metros o menos, la carga puede sobresalir una tercera parte de la largura del vehículo tanto por delante como por detrás."
+  },
+  {
+    "_id": "PB-TM8-P54",
+    "Enunciado": "Si un vehículo de carga mide más de 5 metros, ¿cuánto puede sobresalir la carga por la parte delantera?",
+    "Opciones": [
+      "A) 1,5 metros.",
+      "B) 2 metros.",
+      "C) 3 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para vehículos de mercancías de más de 5 metros de largo, la carga puede sobresalir hasta un máximo de 2 metros por delante."
+  },
+  {
+    "_id": "PB-TM8-P55",
+    "Enunciado": "En un vehículo de carga de más de 5 metros, ¿cuál es el máximo que puede sobresalir la carga por detrás?",
+    "Opciones": [
+      "A) Una tercera parte de la longitud total.",
+      "B) 2 metros.",
+      "C) 3 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los vehículos de más de 5 metros destinados exclusivamente al transporte de carga, esta puede sobresalir hasta 3 metros por la parte trasera."
+  },
+  {
+    "_id": "PB-TM8-P56",
+    "Enunciado": "Cuando la carga sobresale lateralmente en un vehículo de 2,55 metros de ancho, ¿cuánto puede hacerlo por cada lado?",
+    "Opciones": [
+      "A) 0,40 metros.",
+      "B) No puede sobresalir nada por los lados.",
+      "C) 0,50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La normativa permite que la carga sobresalga hasta 0,40 metros por cada lateral del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P57",
+    "Enunciado": "En los vehículos que también transportan pasajeros, ¿por dónde tiene prohibido sobresalir la carga?",
+    "Opciones": [
+      "A) Únicamente por la parte trasera.",
+      "B) Por la parte de arriba (baca).",
+      "C) Por delante y por los lados."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los vehículos de transporte de personas, la carga nunca puede sobresalir ni por la parte delantera ni por los laterales."
+  },
+  {
+    "_id": "PB-TM8-P58",
+    "Enunciado": "Si lleva una carga divisible detrás de su turismo, ¿cuánto pueden sobresalir como máximo?",
+    "Opciones": [
+      "A) Un 15 por ciento de lo que mide el vehículo.",
+      "B) Exactamente 50 centímetros.",
+      "C) Un 10 por ciento de lo que mide el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las cargas divisibles (que se pueden separar en partes más pequeñas) pueden sobresalir por detrás un máximo del 10% de la longitud del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P59",
+    "Enunciado": "En un turismo, ¿cuánto puede sobresalir por detrás una carga que no se puede dividir (como una tabla)?",
+    "Opciones": [
+      "A) Un 15 por ciento de la largura del vehículo.",
+      "B) No puede sobresalir nada por tratarse de un objeto indivisible.",
+      "C) Un 10 por ciento de la largura del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si la carga no se puede dividir en partes más pequeñas, se permite que sobresalga por detrás hasta un 15% de la longitud del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P60",
+    "Enunciado": "En vehículos de menos de un metro de ancho como una motocicleta, ¿cuánto puede sobresalir la carga por delante?",
+    "Opciones": [
+      "A) 0,25 metros.",
+      "B) 0,50 metros.",
+      "C) No puede sobresalir nada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En motocicletas y vehículos similares de menos de un metro de ancho, está prohibido que la carga sobresalga por la parte delantera."
+  }
+]

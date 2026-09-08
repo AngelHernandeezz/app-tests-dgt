@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P181",
+        "Enunciado": "Respecto a los asientos, ¿dónde es muy importante colocar el reposacabezas según el manual?",
+        "Opciones": [
+            "A) Solo en los asientos delanteros para evitar el latigazo cervical.",
+            "B) Únicamente en el asiento del conductor por ser quien tiene el volante.",
+            "C) Tanto en los asientos de delante como en los de atrás."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es muy importante colocar el reposacabezas a la altura de la cabeza de los pasajeros del vehículo, tanto en los asientos de delante como en los de atrás."
+    },
+    {
+        "_id": "PB-TM9-P182",
+        "Enunciado": "¿Qué son las cervicales según la definición proporcionada en el temario?",
+        "Opciones": [
+            "A) Nervios que transmiten las órdenes del cerebro a las manos durante el frenado.",
+            "B) Huesos que están en la parte alta de la columna vertebral.",
+            "C) Músculos situados en la base del cráneo que controlan el giro del cuello."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las cervicales se definen como los huesos que están en la parte alta de la columna vertebral."
+    },
+    {
+        "_id": "PB-TM9-P183",
+        "Enunciado": "¿A qué altura exacta debe situarse la parte de arriba del reposacabezas?",
+        "Opciones": [
+            "A) Debe estar al menos diez centímetros por encima del borde de las orejas.",
+            "B) Debe quedar siempre por debajo de la línea de los ojos para no restar visibilidad.",
+            "C) A la misma altura que la parte de arriba de tu cabeza."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La parte de arriba del reposacabezas debe estar a la misma altura que la parte de arriba de tu cabeza."
+    },
+    {
+        "_id": "PB-TM9-P184",
+        "Enunciado": "¿Cuál es la distancia recomendada que debe haber entre tu cabeza y el reposacabezas?",
+        "Opciones": [
+            "A) Cuatro centímetros o menos.",
+            "B) Exactamente diez centímetros para permitir la ventilación del cuello.",
+            "C) Debe estar en contacto permanente con la nuca sin dejar ningún espacio libre."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Debes intentar que la distancia entre tu cabeza y el reposacabezas sea de cuatro centímetros o menos."
+    },
+    {
+        "_id": "PB-TM9-P185",
+        "Enunciado": "En los accidentes de vehículos de dos ruedas, ¿cuál es la causa principal de muerte?",
+        "Opciones": [
+            "A) Las lesiones internas producidas por la presión del manillar contra el abdomen.",
+            "B) Las hemorragias externas por falta de ropa técnica en las extremidades.",
+            "C) Los golpes en la cabeza."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los golpes en la cabeza son la causa principal de muerte en accidentes en vehículos de dos ruedas."
+    },
+    {
+        "_id": "PB-TM9-P186",
+        "Enunciado": "Según los datos del manual, ¿cuántas personas salvan la vida por llevar casco tras sufrir un accidente en un vehículo de dos ruedas?",
+        "Opciones": [
+            "A) Una de cada diez personas.",
+            "B) Siete de cada diez personas.",
+            "C) Tres de cada diez personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Tres de cada diez personas que sufren un accidente en un vehículo de dos ruedas salvan la vida por llevar casco."
+    },
+    {
+        "_id": "PB-TM9-P187",
+        "Enunciado": "Una de las funciones del casco en caso de accidente es proteger la cabeza contra:",
+        "Opciones": [
+            "A) Las picaduras de insectos y la fuerza del viento racheado.",
+            "B) Los golpes contra el suelo, otros vehículos o elementos de la carretera.",
+            "C) Únicamente el impacto directo contra el propio cuadro de instrumentos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El casco protege la cabeza de los golpes contra el suelo, otros vehículos o elementos de la carretera."
+    },
+    {
+        "_id": "PB-TM9-P188",
+        "Enunciado": "¿Qué evita el casco respecto a elementos punzantes o externos de la vía?",
+        "Opciones": [
+            "A) Que el sudor entre en los ojos y dificulte la visión del conductor.",
+            "B) Que piedras, hierros u otros objetos cortantes entren en la cabeza.",
+            "C) Que el ruido del aire impida oír las señales acústicas de otros vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El casco evita que piedras, hierros u otros objetos cortantes entren en la cabeza."
+    },
+    {
+        "_id": "PB-TM9-P189",
+        "Enunciado": "¿Cómo actúa técnicamente el casco ante la fuerza de un impacto?",
+        "Opciones": [
+            "A) Concentra la fuerza en la zona de la mandíbula por ser la parte más resistente.",
+            "B) Reparte la fuerza del golpe por todo el casco para que no se concentre en un punto.",
+            "C) Absorbe el 100% de la energía evitando cualquier tipo de daño craneal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El casco reparte la fuerza del golpe por todo el casco para que no se concentre solo en un punto de la cabeza, evitando lesiones graves."
+    },
+    {
+        "_id": "PB-TM9-P190",
+        "Enunciado": "¿Qué beneficio ofrece el casco cuando el motorista se arrastra por el suelo tras una caída?",
+        "Opciones": [
+            "A) Ayuda a que la cara y la cabeza no se quemen.",
+            "B) Evita que el cuerpo rote sobre su propio eje durante el arrastre.",
+            "C) Permite deslizarse más metros para alejarse del flujo de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El casco ayuda a que la cara y la cabeza no se quemen al arrastrarse por el suelo después de la caída."
+    },
+    {
+        "_id": "PB-TM9-P191",
+        "Enunciado": "¿Cómo se denomina el modelo de casco que protege también la mandíbula y la parte de debajo de la cara?",
+        "Opciones": [
+            "A) Modelo integral.",
+            "B) Casco de visera reforzada aerodinámica.",
+            "C) Casco modular de apertura vertical rápida."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El modelo integral es aquel que protege también la parte de debajo de la cara y la mandíbula."
+    },
+    {
+        "_id": "PB-TM9-P192",
+        "Enunciado": "Sobre el mantenimiento del casco, ¿qué acción indica el texto que puede hacerle perder propiedades?",
+        "Opciones": [
+            "A) Guardarlo habitualmente en el compartimento bajo el asiento.",
+            "B) Lavarlo con agua y detergente neutro de forma periódica.",
+            "C) Pintarlo o colocar pegatinas en él."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Algunos cascos pueden perder propiedades si se pintan o se colocan pegatinas en ellos."
+    },
+    {
+        "_id": "PB-TM9-P193",
+        "Enunciado": "¿Cómo debe ajustarse la talla del casco a la cabeza del usuario?",
+        "Opciones": [
+            "A) Debe quedar bien ajustado a la cabeza.",
+            "B) Lo más holgado posible para permitir la correcta circulación del aire.",
+            "C) Debe ser siempre una talla superior a la real por comodidad del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La talla del casco debe quedar bien ajustada a la cabeza."
+    },
+    {
+        "_id": "PB-TM9-P194",
+        "Enunciado": "¿Qué comprobación de seguridad debe hacerse respecto al cierre de las correas del casco?",
+        "Opciones": [
+            "A) Que la correa permita girar el cuello 180 grados sin ninguna resistencia.",
+            "B) Que el color de la correa coincida con el color principal del casco.",
+            "C) Que el casco no salga aunque tires con fuerza."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es necesario comprobar que el casco queda bien abrochado y no sale aunque tires con fuerza."
+    },
+    {
+        "_id": "PB-TM9-P195",
+        "Enunciado": "Respecto a la seguridad vial, ¿qué tipo de colores se recomiendan para los cascos?",
+        "Opciones": [
+            "A) Colores camuflados que se integren con el entorno de la carretera.",
+            "B) Colores oscuros y mates para no provocar reflejos a otros conductores.",
+            "C) Los cascos claros y brillantes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual señala que los cascos claros y brillantes son más seguros."
+    },
+    {
+        "_id": "PB-TM9-P196",
+        "Enunciado": "Para que la ventilación del casco sea correcta, ¿qué requisito debe cumplir el diseño?",
+        "Opciones": [
+            "A) La pantalla delantera debe permanecer abierta al menos un centímetro.",
+            "B) El interior debe estar fabricado exclusivamente con materiales porosos.",
+            "C) Debe tener suficientes agujeros para que entre y salga el aire."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El casco debe tener suficientes agujeros para que entre y salga el aire."
+    },
+    {
+        "_id": "PB-TM9-P197",
+        "Enunciado": "¿Cómo se llaman las pantallas recomendables para el casco que no se empañan?",
+        "Opciones": [
+            "A) Pantallas antivaho.",
+            "B) Pantallas de bixenón polarizadas de alta visibilidad.",
+            "C) Viseras de cristal templado irrompible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las pantallas que no se empañan y permiten ver bien se llaman antivaho."
+    },
+    {
+        "_id": "PB-TM9-P198",
+        "Enunciado": "¿Qué garantiza la presencia de una etiqueta de homologación en el casco?",
+        "Opciones": [
+            "A) La fecha exacta en la que los materiales del casco dejan de ser útiles.",
+            "B) Que ha superado las pruebas de calidad y es un casco seguro.",
+            "C) El listado de países donde está prohibido circular con ese modelo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La etiqueta de homologación explica que el casco ha superado las pruebas de calidad y es seguro."
+    },
+    {
+        "_id": "PB-TM9-P199",
+        "Enunciado": "¿Cómo se clasifican los mandos del vehículo según la parte del cuerpo con la que se accionan?",
+        "Opciones": [
+            "A) Se clasifican exclusivamente por su ubicación a la izquierda o derecha.",
+            "B) Se dividen en mandos de visión directa y mandos de tracción indirecta.",
+            "C) Algunos se usan con los pies y otros con las manos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Algunos mandos del vehículo se usan con los pies y otros con las manos."
+    },
+    {
+        "_id": "PB-TM9-P200",
+        "Enunciado": "¿Cuál es la función principal del pedal del acelerador?",
+        "Opciones": [
+            "A) Aumentar la presión de aire de los neumáticos durante la marcha.",
+            "B) Regular la cantidad de combustible que entra en el motor del vehículo.",
+            "C) Conectar el movimiento del motor con el eje de la caja de cambios."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El acelerador sirve para regular la cantidad de combustible que entra en el motor."
+    },
+    {
+        "_id": "PB-TM9-P201",
+        "Enunciado": "¿Qué relación existe entre la presión sobre el acelerador y el combustible?",
+        "Opciones": [
+            "A) Cuanto más fuerte pisas el acelerador más combustible entrará en el motor.",
+            "B) La cantidad de combustible es siempre fija independientemente del pedal.",
+            "C) A menor presión sobre el pedal, mayor es la entrada de combustible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cuanto más fuerte pisas el acelerador más combustible entrará en el motor y más correrá el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P202",
+        "Enunciado": "¿Con qué pie debe accionarse el pedal del acelerador?",
+        "Opciones": [
+            "A) Con cualquier pie, dependiendo de si el conductor es zurdo o diestro.",
+            "B) Con el pie derecho.",
+            "C) Con el pie izquierdo para dejar el derecho libre para el freno."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El pedal del acelerador se pisa con el pie derecho."
+    },
+    {
+        "_id": "PB-TM9-P203",
+        "Enunciado": "Si el conductor no pisa el pedal del acelerador, ¿qué sucede con el suministro de combustible?",
+        "Opciones": [
+            "A) Recibe la cantidad justa para mantenerse en marcha y no pararse.",
+            "B) El suministro se corta por completo y el motor se apaga de inmediato.",
+            "C) El motor recibe el doble de combustible para facilitar el arranque."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si no pisas el acelerador, el vehículo recibe la cantidad justa de combustible para mantenerse en marcha."
+    },
+    {
+        "_id": "PB-TM9-P204",
+        "Enunciado": "¿Sobre qué ruedas del vehículo actúa el pedal de freno al ser accionado?",
+        "Opciones": [
+            "A) Únicamente sobre las dos ruedas delanteras por seguridad.",
+            "B) El pedal de freno actúa sobre todas las ruedas del coche.",
+            "C) Solo sobre las ruedas traseras para evitar el bloqueo del volante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El pedal de freno actúa sobre todas las ruedas del coche."
+    },
+    {
+        "_id": "PB-TM9-P205",
+        "Enunciado": "¿Qué pie debe usarse para el freno y qué intensidad se recomienda?",
+        "Opciones": [
+            "A) Se pisa con el pie derecho y hay que pisarlo de forma suave.",
+            "B) Se debe usar el pie izquierdo y pisar siempre de forma brusca.",
+            "C) Es indiferente el pie, pero es obligatorio pisarlo siempre a fondo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El pedal del freno se pisa con el pie derecho y hay que hacerlo de forma suave."
+    },
+    {
+        "_id": "PB-TM9-P206",
+        "Enunciado": "¿Qué función cumple el mecanismo del pedal de embrague?",
+        "Opciones": [
+            "A) Acciona el sistema de frenado automático de las ruedas de atrás.",
+            "B) Permite a la caja de cambios escoger la velocidad deseada y conectarla con el motor.",
+            "C) Permite aumentar la visibilidad de los retrovisores laterales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El embrague permite a la caja de cambios escoger la velocidad y conectarla con el motor."
+    },
+    {
+        "_id": "PB-TM9-P207",
+        "Enunciado": "Además de servir para cambiar de velocidad, ¿qué otra función tiene el embrague?",
+        "Opciones": [
+            "A) Permite que el vehículo vaya hacia adelante o hacia atrás.",
+            "B) Regula la intensidad de las luces de carretera automáticas.",
+            "C) Activa el chorro de líquido del sistema lavaparabrisas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El pedal de embrague sirve para cambiar de velocidad y para permitir que el vehículo vaya hacia adelante o hacia atrás."
+    },
+    {
+        "_id": "PB-TM9-P208",
+        "Enunciado": "¿Qué sucede con el movimiento del motor cuando se pisa a fondo el pedal de embrague?",
+        "Opciones": [
+            "A) El vehículo frena de forma automática mediante el sistema ABS.",
+            "B) La potencia se multiplica por dos para realizar un adelantamiento.",
+            "C) El movimiento del motor no se transmite a la caja de cambios ni a las ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuando pisas a fondo el embrague, el movimiento del motor no se transmite a la caja de cambios ni a las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P209",
+        "Enunciado": "Al soltar el pedal de embrague tras realizar un cambio, ¿qué ocurre mecánicamente?",
+        "Opciones": [
+            "A) La potencia del motor vuelve a funcionar por sí sola.",
+            "B) El volante se bloquea automáticamente por razones de seguridad activa.",
+            "C) Se activan los sensores del sistema de reconocimiento de señales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cuando sueltas el pedal de embrague la potencia del motor vuelve a funcionar por sí sola para que sigas conduciendo."
+    },
+    {
+        "_id": "PB-TM9-P210",
+        "Enunciado": "¿Cuál es la función fundamental del volante en un vehículo?",
+        "Opciones": [
+            "A) Ajustar electrónicamente la altura del asiento del conductor.",
+            "B) Permitir el control de la dirección y el movimiento de las ruedas.",
+            "C) Medir la presión de inflado de los neumáticos delanteros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El volante es la parte del vehículo que te permite controlar hacia qué dirección vas y hacia dónde se mueven las ruedas."
+    }
+]

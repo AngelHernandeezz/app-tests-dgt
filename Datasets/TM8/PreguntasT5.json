@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM8-P111",
+    "Enunciado": "Un turismo de 5 metros de largo transporta una carga indivisible que sobresale por detrás. ¿Cuál es la medida máxima permitida?",
+    "Opciones": [
+      "A) 1 metro.",
+      "B) 0,75 metros.",
+      "C) 0,50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En los vehículos destinados al transporte de personas, las cargas que no se pueden dividir pueden sobresalir por la parte posterior hasta un 15 por ciento de la longitud del vehículo. El 15 por ciento de 5 metros es 0,75 metros."
+  },
+  {
+    "_id": "PB-TM8-P112",
+    "Enunciado": "Un camión de 4 metros de longitud transporta unos postes de madera (carga indivisible). ¿Cuánto pueden sobresalir por la parte delantera?",
+    "Opciones": [
+      "A) Una tercera parte de la longitud del vehículo.",
+      "B) 1 metro.",
+      "C) No puede sobresalir nada por delante en vehículos de menos de 5 metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los vehículos destinados al transporte de mercancías que miden 5 metros o menos, la carga indivisible puede sobresalir hasta un tercio de la longitud del vehículo tanto por delante como por detrás."
+  },
+  {
+    "_id": "PB-TM8-P113",
+    "Enunciado": "¿Puede un niño de 8 años viajar como pasajero en una motocicleta si el conductor es su hermano mayor de edad?",
+    "Opciones": [
+      "A) No, la edad mínima general son los 12 años.",
+      "B) Sí, excepcionalmente a partir de los 7 años si el conductor es una persona autorizada.",
+      "C) Solo si la motocicleta dispone de sidecar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque la norma general exige 12 años, los niños mayores de 7 años pueden viajar en moto si el conductor es su padre, madre, tutor o una persona mayor de edad autorizada por ellos."
+  },
+  {
+    "_id": "PB-TM8-P114",
+    "Enunciado": "En un turismo, ¿cuánto puede sobresalir por la parte posterior una carga que sí se puede dividir (divisible)?",
+    "Opciones": [
+      "A) Un 10 por ciento de la longitud del vehículo.",
+      "B) Un 15 por ciento de la longitud del vehículo.",
+      "C) Nada, solo pueden sobresalir cargas indivisibles."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los vehículos de transporte de pasajeros, la carga puede sobresalir por detrás un 10 por ciento si es divisible y un 15 por ciento si es indivisible."
+  },
+  {
+    "_id": "PB-TM8-P115",
+    "Enunciado": "Si la carga de un camión sobresale por delante, ¿cómo debe señalizarse si circula de noche?",
+    "Opciones": [
+      "A) Con una placa V-20.",
+      "B) Con una luz roja.",
+      "C) Con una luz blanca."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "De noche o en condiciones de poca visibilidad, cualquier carga que sobresalga por la parte delantera del vehículo debe señalizarse con una luz de color blanco."
+  },
+  {
+    "_id": "PB-TM8-P116",
+    "Enunciado": "En una motocicleta de 80 cm de anchura, ¿cuánto puede sobresalir la carga lateralmente?",
+    "Opciones": [
+      "A) 0,50 metros medidos desde el eje central del vehículo.",
+      "B) 0,40 metros medidos desde el borde exterior del vehículo.",
+      "C) No puede sobresalir nada por los lados al medir menos de 1 metro."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En vehículos de anchura inferior a un metro, como las motocicletas, la carga puede sobresalir hasta 0,50 metros por cada lado desde el eje central del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P117",
+    "Enunciado": "Usted circula con una motocicleta que arrastra un remolque. ¿Le está permitido circular de noche?",
+    "Opciones": [
+      "A) Sí, siempre que el remolque lleve las luces reglamentarias.",
+      "B) No, este tipo de vehículos con remolque solo pueden circular de día.",
+      "C) Sí, siempre que no supere los 40 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques o semirremolques enganchados a motocicletas, ciclomotores o bicicletas tienen prohibido circular de noche o en condiciones de visibilidad reducida."
+  },
+  {
+    "_id": "PB-TM8-P118",
+    "Enunciado": "En una motocicleta, ¿cuál es el peso máximo permitido para un remolque?",
+    "Opciones": [
+      "A) El 75% de la tara de la motocicleta.",
+      "B) El 50% de la masa en vacío del vehículo que lo arrastra.",
+      "C) 750 kilogramos en cualquier caso."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques para motocicletas, ciclomotores o bicicletas no pueden superar el 50 por ciento del peso del vehículo motor que los arrastra."
+  },
+  {
+    "_id": "PB-TM8-P119",
+    "Enunciado": "Con carácter general, ¿cuál es la altura máxima permitida para un vehículo incluida su carga?",
+    "Opciones": [
+      "A) 4 metros.",
+      "B) 4,20 metros.",
+      "C) 4,50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La altura máxima permitida para los vehículos en general, contando la carga que transportan, es de 4 metros."
+  },
+  {
+    "_id": "PB-TM8-P120",
+    "Enunciado": "En un turismo de 4 metros de largo, ¿cuánto puede sobresalir una carga indivisible por la parte trasera?",
+    "Opciones": [
+      "A) 40 centímetros.",
+      "B) 1 metro.",
+      "C) 60 centímetros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los vehículos destinados al transporte de personas, las cargas indivisibles pueden sobresalir hasta un 15% de la longitud del vehículo por detrás. El 15% de 4 metros son 60 centímetros."
+  },
+  {
+    "_id": "PB-TM8-P121",
+    "Enunciado": "Un remolque cuya masa máxima autorizada es de 500 kg, ¿qué placa de matrícula debe llevar en su parte posterior?",
+    "Opciones": [
+      "A) Una propia del remolque y otra del vehículo tractor.",
+      "B) Solo la del vehículo que lo remolca.",
+      "C) Una de color rojo con su propia numeración."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques ligeros (aquellos que pueden cargar menos de 750 kg) solo están obligados a llevar la placa de matrícula del vehículo tractor."
+  },
+  {
+    "_id": "PB-TM8-P122",
+    "Enunciado": "Si es necesario realizar una operación de carga y descarga en la vía pública, ¿puede colocarse la carga en la acera?",
+    "Opciones": [
+      "A) No, se ha de transportar directamente al local.",
+      "B) Sí, siempre que no entorpezca ni moleste.",
+      "C) Sí, siempre que no se pierda de vista."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La carga y descarga de mercancías debe realizarse directamente desde el vehículo al local o establecimiento, sin ocupar la acera ni entorpecer el paso de peatones."
+  },
+  {
+    "_id": "PB-TM8-P123",
+    "Enunciado": "Cuando la carga sobresale por detrás en un vehículo, ¿cuándo es obligatorio colocar dos placas V-20?",
+    "Opciones": [
+      "A) Cuando la carga ocupa todo el ancho del vehículo.",
+      "B) Siempre que la carga sea indivisible.",
+      "C) Solo cuando circulamos por autopistas o autovías."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si la carga sobresaliente es tan ancha como el propio vehículo, se deben colocar dos placas de franjas diagonales, una en cada extremo."
+  },
+  {
+    "_id": "PB-TM8-P124",
+    "Enunciado": "¿Qué edad debe tener un niño para poder viajar como pasajero en un asiento adicional en una bicicleta?",
+    "Opciones": [
+      "A) Menos de siete años.",
+      "B) Menos de doce años.",
+      "C) Entre cinco y diez años."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El conductor de una bicicleta, siempre que sea mayor de edad, puede llevar a un niño menor de siete años en un asiento adicional homologado."
+  },
+  {
+    "_id": "PB-TM8-P125",
+    "Enunciado": "¿Cuál es la anchura máxima permitida para un camión, incluyendo los espejos y la carga si la lleva?",
+    "Opciones": [
+      "A) 2,50 metros.",
+      "B) 2,55 metros.",
+      "C) 2,60 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La anchura máxima autorizada para cualquier vehículo y su carga es de 2,55 metros."
+  },
+  {
+    "_id": "PB-TM8-P126",
+    "Enunciado": "¿Cuántas placas de matrícula debe llevar obligatoriamente una motocicleta?",
+    "Opciones": [
+      "A) Dos: una delante y otra detrás.",
+      "B) Una en el lateral derecho del vehículo.",
+      "C) Una sola placa en la parte de atrás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A diferencia de los turismos, las motocicletas y ciclomotores solo deben portar una matrícula en la parte posterior."
+  },
+  {
+    "_id": "PB-TM8-P127",
+    "Enunciado": "La placa de vehículo largo indica que el vehículo mide más de 12 metros. ¿De qué colores es?",
+    "Opciones": [
+      "A) Blanca con bordes rojos.",
+      "B) Amarilla con bordes rojos.",
+      "C) Azul con letras blancas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Esta placa es rectangular, de color amarillo y tiene los bordes rojos, indicando una longitud superior a los 12 metros."
+  },
+  {
+    "_id": "PB-TM8-P128",
+    "Enunciado": "Un camión de 10 metros de largo transporta una viga (carga indivisible). ¿Cuánto puede sobresalir por delante?",
+    "Opciones": [
+      "A) 3 metros.",
+      "B) Una tercera parte de su longitud.",
+      "C) 2 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En vehículos de mercancías de más de 5 metros de largo, la carga indivisible puede sobresalir un máximo de 2 metros por delante y 3 metros por detrás."
+  },
+  {
+    "_id": "PB-TM8-P129",
+    "Enunciado": "En una motocicleta de 80 cm de ancho, ¿cuánto puede sobresalir la carga lateralmente desde su eje central?",
+    "Opciones": [
+      "A) 0,40 metros.",
+      "B) 0,50 metros.",
+      "C) No puede sobresalir nada por los lados."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En vehículos de menos de un metro de ancho, la carga puede sobresalir hasta 0,50 metros por cada lado medidos desde el eje central o medio del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P130",
+    "Enunciado": "¿Cuánto puede sobresalir la carga por la parte delantera de un ciclomotor?",
+    "Opciones": [
+      "A) 0,25 metros.",
+      "B) Un 10% de su longitud.",
+      "C) Nada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En vehículos de menos de un metro de ancho, como los ciclomotores, la carga no puede sobresalir por la parte delantera."
+  },
+  {
+    "_id": "PB-TM8-P131",
+    "Enunciado": "En una motocicleta, ¿cuánto puede sobresalir la carga por la parte posterior?",
+    "Opciones": [
+      "A) 0,25 metros.",
+      "B) 0,50 metros.",
+      "C) Nada, solo puede sobresalir por los lados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los vehículos de anchura inferior a un metro, la carga puede sobresalir por la parte trasera un máximo de 0,25 metros."
+  },
+  {
+    "_id": "PB-TM8-P132",
+    "Enunciado": "¿Está permitido que en un turismo la carga sobresalga por los laterales del vehículo?",
+    "Opciones": [
+      "A) Sí, hasta 40 cm por cada lado.",
+      "B) No, no puede sobresalir por los lados.",
+      "C) Solo si se trata de una carga indivisible y se circula de día."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Como norma general para vehículos de transporte de personas, la carga nunca puede sobresalir de la anchura del vehículo."
+  },
+  {
+    "_id": "PB-TM8-P133",
+    "Enunciado": "¿Dónde se debe instalar la placa de límite de velocidad en el vehículo?",
+    "Opciones": [
+      "A) En el parabrisas delantero.",
+      "B) En el lateral derecho.",
+      "C) En la parte de atrás del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las placas que indican una limitación de velocidad específica para el vehículo deben colocarse siempre en su parte posterior."
+  },
+  {
+    "_id": "PB-TM8-P134",
+    "Enunciado": "En un camión de 10 metros de largo, ¿cuánto puede sobresalir por detrás una carga indivisible?",
+    "Opciones": [
+      "A) 3 metros.",
+      "B) 2 metros.",
+      "C) El 15% de la longitud del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para vehículos de mercancías de más de 5 metros de largo, la carga puede sobresalir 3 metros por la parte posterior."
+  },
+  {
+    "_id": "PB-TM8-P135",
+    "Enunciado": "En un turismo con 5 asientos autorizados, ¿pueden viajar 6 personas si una de ellas es un niño pequeño?",
+    "Opciones": [
+      "A) No, el número de personas no puede superar el número de asientos.",
+      "B) Sí, si el niño va sujeto en un sistema de retención homologado.",
+      "C) Solo si el trayecto es urbano y a velocidad reducida."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El número de pasajeros está estrictamente limitado por el número de asientos o plazas autorizadas en la tarjeta de inspección técnica."
+  },
+  {
+    "_id": "PB-TM8-P136",
+    "Enunciado": "¿Cuál es la forma correcta de transportar animales en un vehículo?",
+    "Opciones": [
+      "A) En el asiento del copiloto con un arnés corto.",
+      "B) Sueltos en el maletero si este no tiene bandeja.",
+      "C) En la parte de atrás, sujetos y preferiblemente con malla de separación."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los animales deben viajar sujetos en la parte posterior y se recomienda una separación física para evitar que interfieran con el conductor."
+  },
+  {
+    "_id": "PB-TM8-P137",
+    "Enunciado": "Si circula de noche con un camión cuya carga sobresale por detrás, ¿qué señalización luminosa debe llevar?",
+    "Opciones": [
+      "A) Una luz blanca.",
+      "B) Una luz amarilla auto.",
+      "C) Una luz roja."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Además de la placa V-20, cuando se circula de noche o con poca visibilidad, la carga que sobresale por detrás debe llevar una luz roja."
+  },
+  {
+    "_id": "PB-TM8-P138",
+    "Enunciado": "En un turismo, ¿cuánto puede sobresalir por la parte delantera una carga divisible?",
+    "Opciones": [
+      "A) Un 10 por ciento de la longitud del vehículo.",
+      "B) Una tercera parte de la longitud del vehículo.",
+      "C) Nada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los vehículos destinados exclusivamente al transporte de personas, como los turismos, la carga solo puede sobresalir por la parte posterior, nunca por la delantera ni por los laterales."
+  },
+  {
+    "_id": "PB-TM8-P139",
+    "Enunciado": "Como norma general, ¿puede sobresalir la carga por la parte delantera de un turismo?",
+    "Opciones": [
+      "A) Sí, un 10 por ciento de su longitud.",
+      "B) Sí, un 15 por ciento si es carga indivisible.",
+      "C) No, en los turismos la carga no puede sobresalir por delante."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los vehículos destinados al transporte de personas, la carga solo puede sobresalir por la parte posterior, nunca por la delantera ni por los laterales."
+  },
+  {
+    "_id": "PB-TM8-P140",
+    "Enunciado": "Si lleva una carga que sobresale por detrás en un turismo de día, ¿con qué señal debe marcarse?",
+    "Opciones": [
+      "A) Con un pañuelo rojo.",
+      "B) Con una o dos placas V-20 de franjas rojas y blancas.",
+      "C) No es obligatorio señalizarla si es de día."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Toda carga que sobresalga por la parte posterior del vehículo debe señalizarse mediante la placa de señalización de carga sobresaliente V-20."
+  }
+]

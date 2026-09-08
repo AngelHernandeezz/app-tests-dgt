@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM10-P31",
+    "Enunciado": "¿Cuál es la utilidad de los aceites que se usan en los vehículos?",
+    "Opciones": [
+      "A) Sirven para aumentar la temperatura del motor durante el arranque en frío.",
+      "B) Ayudan a filtrar las impurezas del aire antes de que entren en los cilindros.",
+      "C) Son sustancias especiales que evitan que las piezas del vehículo se desgasten más."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El aceite crea una película protectora entre las piezas móviles para reducir la fricción y el desgaste prematuro."
+  },
+  {
+    "_id": "PB-TM10-P32",
+    "Enunciado": "¿Qué instrumento se utiliza para conocer la cantidad de aceite que hay en el motor?",
+    "Opciones": [
+      "A) El sensor de viscosidad dinámica.",
+      "B) El manómetro de presión constante.",
+      "C) La varilla indicadora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La varilla indicadora permite verificar visualmente el nivel de lubricante almacenado en el cárter del motor."
+  },
+  {
+    "_id": "PB-TM10-P33",
+    "Enunciado": "¿De qué se encarga el manómetro o el testigo luminoso del sistema de lubricación?",
+    "Opciones": [
+      "A) De filtrar las partículas metálicas desprendidas por el roce.",
+      "B) De controlar la presión del aceite en el motor.",
+      "C) De medir la temperatura exacta del aceite en grados centígrados."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Estos instrumentos supervisan que el aceite circule con la presión necesaria para llegar a todos los puntos del motor."
+  },
+  {
+    "_id": "PB-TM10-P34",
+    "Enunciado": "¿Por qué es fundamental que el aceite mantenga la presión adecuada?",
+    "Opciones": [
+      "A) Para repartirse bien por todo el motor y cubrir todas sus piezas.",
+      "B) Para permitir que el filtro de aire trabaje a una temperatura constante.",
+      "C) Para evitar que el lubricante se vuelva excesivamente líquido al calentarse."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Sin la presión correcta, el aceite no podría fluir por los canales internos y cubrir las superficies metálicas."
+  },
+  {
+    "_id": "PB-TM10-P35",
+    "Enunciado": "Si el testigo luminoso del aceite se enciende durante la marcha, ¿qué indica?",
+    "Opciones": [
+      "A) Que hay poco aceite o que no tiene la presión que necesita.",
+      "B) Que el motor ha alcanzado la temperatura óptima de funcionamiento.",
+      "C) Que es necesario realizar el cambio del filtro de aire de forma inmediata."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El encendido del testigo rojo de la aceitera alerta de una falta crítica de nivel o presión en el sistema."
+  },
+  {
+    "_id": "PB-TM10-P36",
+    "Enunciado": "¿Cómo debe realizarse la comprobación del nivel de aceite con la varilla?",
+    "Opciones": [
+      "A) Con el motor en marcha y a su temperatura normal de trabajo.",
+      "B) Con el vehículo en una pendiente para que el aceite se acumule en un lado.",
+      "C) Con el motor parado y frío."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para obtener una lectura real, el aceite debe estar reposado en el fondo del motor, lo cual requiere que esté apagado y frío."
+  },
+  {
+    "_id": "PB-TM10-P37",
+    "Enunciado": "¿Dónde debe situarse la marca de aceite en la varilla indicadora?",
+    "Opciones": [
+      "A) Siempre por encima de la marca de máximo para garantizar la reserva.",
+      "B) Entre las marcas de mínimo y máximo.",
+      "C) Justo en el borde inferior de la varilla para evitar sobrepresiones."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El nivel correcto debe estar comprendido siempre entre los dos límites marcados en la varilla."
+  },
+  {
+    "_id": "PB-TM10-P38",
+    "Enunciado": "¿De dónde procede el aceite mineral?",
+    "Opciones": [
+      "A) De la mezcla de sustancias vegetales procesadas en laboratorio.",
+      "B) Del petróleo.",
+      "C) De la destilación de gases del tubo de escape."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El aceite mineral tiene un origen natural directo del petróleo crudo, aunque actualmente se usa muy poco."
+  },
+  {
+    "_id": "PB-TM10-P39",
+    "Enunciado": "¿Cómo se obtiene el aceite sintético?",
+    "Opciones": [
+      "A) En un laboratorio mezclando sustancias del petróleo y de otras materias.",
+      "B) Mediante la filtración directa de aceites minerales usados.",
+      "C) Por la mezcla de agua destilada y componentes del petróleo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los aceites sintéticos son productos diseñados químicamente para ofrecer mejores prestaciones que los naturales."
+  },
+  {
+    "_id": "PB-TM10-P40",
+    "Enunciado": "¿Qué ventaja principal ofrecen los aceites sintéticos respecto a la temperatura?",
+    "Opciones": [
+      "A) Resisten mejor el frío y el calor.",
+      "B) Evitan que el líquido refrigerante se congele en invierno.",
+      "C) Mantienen el motor siempre a una temperatura inferior a los 50 grados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La estabilidad térmica de los aceites sintéticos es superior, manteniendo sus propiedades en climas extremos."
+  },
+  {
+    "_id": "PB-TM10-P41",
+    "Enunciado": "¿De qué manera ayudan los aceites sintéticos al arranque del vehículo?",
+    "Opciones": [
+      "A) Aumentando la carga eléctrica de la batería durante el primer giro.",
+      "B) Permiten que el vehículo arranque mejor cuando hace mucho frío.",
+      "C) Reduciendo la chispa necesaria en las bujías para la combustión."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Gracias a su composición, fluyen mejor a bajas temperaturas, facilitando el movimiento inicial de las piezas."
+  },
+  {
+    "_id": "PB-TM10-P42",
+    "Enunciado": "Respecto a la protección del motor, ¿qué característica hace mejores a los aceites sintéticos?",
+    "Opciones": [
+      "A) Que son mucho más líquidos y volátiles que los minerales.",
+      "B) Son más espesos y menos líquidos que los aceites minerales.",
+      "C) Que contienen partículas metálicas que refuerzan los cilindros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Su mayor viscosidad controlada permite una mejor protección de las piezas frente a la fricción."
+  },
+  {
+    "_id": "PB-TM10-P43",
+    "Enunciado": "¿Cómo influye el uso de aceite sintético en el mantenimiento del vehículo?",
+    "Opciones": [
+      "A) Se necesita menos cantidad de aceite y dura más tiempo.",
+      "B) Obliga a cambiar el filtro de aceite con el doble de frecuencia.",
+      "C) Permite que el motor funcione sin necesidad de sistema de refrigeración."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La durabilidad de los sintéticos es mayor, lo que espacia los intervalos de cambio y requiere menos volumen."
+  },
+  {
+    "_id": "PB-TM10-P44",
+    "Enunciado": "¿Qué ocurre con el espesor del aceite cuando varía la temperatura del motor?",
+    "Opciones": [
+      "A) Es más líquido cuando se calienta y más espeso cuando está frío.",
+      "B) Se vuelve más espeso al calentarse y más líquido al enfriarse.",
+      "C) Mantiene la misma densidad independientemente de la temperatura."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El calor diluye el aceite (baja viscosidad) y el frío lo condensa (alta viscosidad)."
+  },
+  {
+    "_id": "PB-TM10-P45",
+    "Enunciado": "Para un arranque con temperaturas muy bajas, ¿qué tipo de aceite es preferible utilizar?",
+    "Opciones": [
+      "A) El aceite mineral más antiguo por su resistencia al hielo.",
+      "B) Un aceite con viscosidad máxima para que no se escurra.",
+      "C) Un aceite más líquido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Un aceite fluido circula con mayor rapidez por el motor frío, protegiendo las piezas desde el primer segundo."
+  },
+  {
+    "_id": "PB-TM10-P46",
+    "Enunciado": "Cuando el motor ya está caliente, ¿por qué es mejor que el aceite sea más espeso?",
+    "Opciones": [
+      "A) Para facilitar la expulsión de gases negros por el tubo de escape.",
+      "B) Para reducir la presión dentro del sistema de lubricación central.",
+      "C) Porque si queda demasiado líquido no cubrirá bien las piezas del motor."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La viscosidad adecuada asegura que el aceite permanezca adherido a las piezas sometidas a altas temperaturas."
+  },
+  {
+    "_id": "PB-TM10-P47",
+    "Enunciado": "En la etiqueta de un aceite '10W/40', ¿qué indica el término '10W'?",
+    "Opciones": [
+      "A) Indica el porcentaje de agua mineral que contiene la mezcla.",
+      "B) Que el aceite debe cambiarse cada diez semanas obligatoriamente.",
+      "C) Indica que este aceite se reparte bien por el motor aunque haya poca temperatura."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La letra 'W' (Winter) junto al número indica la capacidad de fluidez del aceite en frío."
+  },
+  {
+    "_id": "PB-TM10-P48",
+    "Enunciado": "En la etiqueta '10W/40', ¿cuál es el significado del número '40'?",
+    "Opciones": [
+      "A) Indica la cantidad de litros que soporta el cárter del motor.",
+      "B) Indica que puede soportar temperaturas muy altas sin estropearse.",
+      "C) Indica que el aceite caduca a los cuarenta meses de su fabricación."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Este número representa el grado de viscosidad del aceite cuando el motor alcanza su temperatura de régimen."
+  },
+  {
+    "_id": "PB-TM10-P49",
+    "Enunciado": "¿Por dónde se debe verter el aceite para rellenar el motor?",
+    "Opciones": [
+      "A) Por el tapón que hay al levantar la tapa del motor.",
+      "B) Directamente a través del vaso de expansión del radiador.",
+      "C) Por el orificio de la varilla indicadora de nivel."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El motor dispone de un tapón superior de llenado específico para añadir lubricante."
+  },
+  {
+    "_id": "PB-TM10-P50",
+    "Enunciado": "Además de cambiar el aceite cada cierto tiempo, ¿qué otra tarea es necesaria?",
+    "Opciones": [
+      "A) Cambiar el filtro.",
+      "B) Engrasar la correa del alternador para que no patine.",
+      "C) Limpiar los bornes de la batería con el aceite usado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es imprescindible sustituir el filtro de aceite junto con el lubricante para eliminar las impurezas retenidas."
+  },
+  {
+    "_id": "PB-TM10-P51",
+    "Enunciado": "¿En qué condiciones debe encontrarse el vehículo para realizar el cambio de aceite?",
+    "Opciones": [
+      "A) El motor debe estar frío y el vehículo sobre un terreno llano.",
+      "B) El vehículo debe estar inclinado y el motor en marcha.",
+      "C) El vehículo debe estar recto y el motor debe estar parado y caliente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El aceite caliente fluye mejor para el vaciado, y la posición recta asegura que salga todo el líquido del cárter."
+  },
+  {
+    "_id": "PB-TM10-P52",
+    "Enunciado": "¿Qué precaución ambiental se debe tener al rellenar aceite?",
+    "Opciones": [
+      "A) Realizarlo siempre en días de lluvia para diluir los posibles restos.",
+      "B) Evitar que caiga al suelo porque es muy contaminante.",
+      "C) Usar guantes de algodón para que absorban las gotas que puedan caer."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El aceite de motor es un residuo peligroso que debe gestionarse adecuadamente para no dañar el medio ambiente."
+  },
+  {
+    "_id": "PB-TM10-P53",
+    "Enunciado": "¿Qué síntoma indica que el vehículo lleva demasiado aceite?",
+    "Opciones": [
+      "A) Que el motor no arranca en frío por exceso de peso en los cilindros.",
+      "B) Sale un humo blanco azulado a través del tubo de escape.",
+      "C) El pedal del acelerador se vuelve mucho más rígido de lo normal."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El exceso de aceite pasa a la cámara de combustión y al quemarse genera ese color de humo característico."
+  },
+  {
+    "_id": "PB-TM10-P54",
+    "Enunciado": "¿Cuál es la función del sistema de refrigeración?",
+    "Opciones": [
+      "A) Conseguir que el motor se mantenga a buena temperatura para seguir funcionando.",
+      "B) Mantener la batería a baja temperatura para que no pierda carga.",
+      "C) Enfriar el aire del habitáculo para la comodidad de los pasajeros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Evita que el calor generado por la combustión y el rozamiento funda o rompa las piezas del motor."
+  },
+  {
+    "_id": "PB-TM10-P55",
+    "Enunciado": "¿Qué elemento absorbe el calor directamente de las piezas del motor?",
+    "Opciones": [
+      "A) El aceite multigrado al pasar por el radiador.",
+      "B) Un líquido llamado líquido refrigerante.",
+      "C) El aire que entra a través del filtro de alimentación."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El líquido refrigerante circula por el interior del bloque motor absorbiendo el exceso de temperatura."
+  },
+  {
+    "_id": "PB-TM10-P56",
+    "Enunciado": "¿A qué pieza va el líquido refrigerante para enfriarse de nuevo?",
+    "Opciones": [
+      "A) A la bomba de agua.",
+      "B) Al depósito de la batería.",
+      "C) Al radiador."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En el radiador, el líquido cede el calor al aire exterior antes de volver a entrar al motor."
+  },
+  {
+    "_id": "PB-TM10-P57",
+    "Enunciado": "¿A través de qué componente vuelve el líquido ya frío hacia el motor?",
+    "Opciones": [
+      "A) Impulsado por el alternador.",
+      "B) Impulsado por una bomba de agua.",
+      "C) Por gravedad a través del tubo de escape."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La bomba de agua asegura la circulación constante del líquido por todo el circuito."
+  },
+  {
+    "_id": "PB-TM10-P58",
+    "Enunciado": "¿Entre qué marcas debe mantenerse el nivel del líquido refrigerante?",
+    "Opciones": [
+      "A) Siempre por encima del máximo para evitar el calentamiento.",
+      "B) Por debajo del mínimo para dejar espacio al vapor de agua.",
+      "C) Entre las marcas de mínimo y máximo cuando el motor está frío."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El nivel óptimo se verifica con el motor en frío y debe estar dentro del rango marcado en el vaso de expansión."
+  },
+  {
+    "_id": "PB-TM10-P59",
+    "Enunciado": "¿Cuándo es normal que salga humo blanco (vapor de agua) por el escape?",
+    "Opciones": [
+      "A) Solo cuando el vehículo circula a más de 120 kilómetros por hora.",
+      "B) Únicamente durante los meses de verano por la humedad ambiental.",
+      "C) Al arrancar, sobre todo cuando hace frío."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es un proceso normal de evaporación de la condensación acumulada en el tubo al encender el vehículo frío."
+  },
+  {
+    "_id": "PB-TM10-P60",
+    "Enunciado": "Si el humo blanco sale cuando el vehículo ya está caliente y en funcionamiento, ¿qué indica?",
+    "Opciones": [
+      "A) Que hay alguna pieza rota o una avería.",
+      "B) Que el sistema de lubricación tiene un exceso de presión de aceite.",
+      "C) Que el filtro de aire está recién cambiado y en perfecto estado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si persiste con el motor caliente, indica que el refrigerante está entrando en los cilindros, señal de una avería grave."
+  }
+]

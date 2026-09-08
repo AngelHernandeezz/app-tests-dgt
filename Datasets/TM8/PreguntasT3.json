@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM8-P61",
+        "Enunciado": "¿Cuánto puede sobresalir la carga por la parte de atrás en una motocicleta?",
+        "Opciones": [
+            "A) 0,25 metros.",
+            "B) 0,50 metros.",
+            "C) Un 10 por ciento de la longitud de la moto."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La normativa permite que la carga sobresalga por detrás de la motocicleta hasta un máximo de 0,25 metros (25 centímetros)."
+    },
+    {
+        "_id": "PB-TM8-P62",
+        "Enunciado": "Respecto al centro del vehículo, ¿cuánto puede sobresalir la carga por cada lado en una motocicleta?",
+        "Opciones": [
+            "A) 0,50 metros.",
+            "B) 0,40 metros.",
+            "C) 0,25 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En vehículos de menos de un metro de ancho, la carga puede sobresalir hasta 0,50 metros por cada lado, contados desde el eje central del vehículo."
+    },
+    {
+        "_id": "PB-TM8-P63",
+        "Enunciado": "Si conduce un camión que mide 11 metros de largo, ¿cuánto puede sobresalir la carga por la parte de atrás?",
+        "Opciones": [
+            "A) 1,5 metros, que corresponde al 15% de su longitud.",
+            "B) 3 metros, como en todos los vehículos de más de 5 metros.",
+            "C) Solo 1 metro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aunque la norma para vehículos de más de 5 metros permite que sobresalga 3 metros, la largura total del camión con carga no puede superar los 12 metros permitidos para este tipo de vehículo por lo que si de base mide 11 metros, solo queda ese metro restante para llegar al límite de longitud."
+    },
+    {
+        "_id": "PB-TM8-P64",
+        "Enunciado": "¿Qué norma se aplica a la carga en los conjuntos de vehículos en configuración euromodular?",
+        "Opciones": [
+            "A) La carga puede sobresalir hasta un 15% por detrás.",
+            "B) La carga no puede medir más de largo que el vehículo.",
+            "C) Puede sobresalir 2 metros por delante y 3 metros por detrás."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En la configuración euromodular, la carga tiene prohibido superar la propia longitud del vehículo."
+    },
+    {
+        "_id": "PB-TM8-P65",
+        "Enunciado": "Si un vehículo articulado con semirremolque mide 16 metros, ¿cuánto puede sobresalir su carga indivisible por detrás?",
+        "Opciones": [
+            "A) 0,50 metros unicamente.",
+            "B) Nada, en los articulados la carga nunca puede sobresalir.",
+            "C) 3 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al ser la largura máxima permitida para vehículos articulados de 16,50 metros (incluida la carga), si el vehículo mide 16 solo le resta medio metro disponible para que la carga sobresalga hasta llegar al máximo permitido."
+    },
+    {
+        "_id": "PB-TM8-P66",
+        "Enunciado": "En los vehículos de carga que miden 5 metros o menos, ¿cuánto puede sobresalir la carga por cada extremo?",
+        "Opciones": [
+            "A) Una tercera parte de los metros que mide el vehículo.",
+            "B) Un 15 por ciento de la largura total del vehículo.",
+            "C) Un máximo de 2 metros por delante y 3 por detrás."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según las normas para vehículos que solo transportan cargas, si el vehículo mide 5 metros o menos, la carga puede sobresalir un tercio de su longitud por delante y otro tercio por detrás."
+    },
+    {
+        "_id": "PB-TM8-P67",
+        "Enunciado": "¿Por qué partes puede sobresalir la carga en un vehículo de mercancías de 5 metros o menos?",
+        "Opciones": [
+            "A) Por la parte de delante, por los lados y por la parte de detrás.",
+            "B) Solo por los laterales, si no superan los 0,40 metros.",
+            "C) Únicamente por la parte de atrás."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La normativa permite que en estos vehículos cortos la carga sobresalga por ambos extremos, anterior y posterior."
+    },
+    {
+        "_id": "PB-TM8-P68",
+        "Enunciado": "Si un vehículo de carga mide 3 metros de largo, ¿cuántos metros puede sobresalir la carga por cada extremo?",
+        "Opciones": [
+            "A) 0,30 metros.",
+            "B) 1,5 metros.",
+            "C) 1 metro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Como ejemplo, si el vehículo mide 3 metros, el tercio permitido equivale a 1 metro de saliente por cada lado."
+    },
+    {
+        "_id": "PB-TM8-P69",
+        "Enunciado": "¿Cómo debe señalizarse durante el día una carga que sobresale por la parte de delante del vehículo?",
+        "Opciones": [
+            "A) De día no es necesario señalizarla.",
+            "B) Con una luz blanca de baja intensidad.",
+            "C) Con un panel de franjas rojas y blancas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según la normativa, las cargas que sobresalen por la parte delantera del vehículo no requieren ningún tipo de señalización específica durante las horas de luz del día."
+    },
+    {
+        "_id": "PB-TM8-P70",
+        "Enunciado": "Si circula de noche o en un día con poca luz, ¿cómo debe señalar la carga que sobresale por delante?",
+        "Opciones": [
+            "A) Con una luz roja.",
+            "B) Con un panel reflectante amarillo.",
+            "C) Con una luz blanca."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En condiciones de baja visibilidad o nocturnidad, es obligatorio señalizar el saliente delantero de la carga con una luz de color blanco."
+    },
+    {
+        "_id": "PB-TM8-P71",
+        "Enunciado": "Respecto a la carga que sobresale por la parte de atrás, ¿cuándo debe señalizarse?",
+        "Opciones": [
+            "A) Únicamente durante la noche.",
+            "B) Solo si sobresale más de 2 metros.",
+            "C) Tanto de día como de noche."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A diferencia de la carga delantera, la carga que sobresale por la parte posterior debe ir siempre señalizada, independientemente de si es de día o de noche."
+    },
+    {
+        "_id": "PB-TM8-P72",
+        "Enunciado": "¿Qué elemento se utiliza para señalar de día la carga que sobresale por detrás?",
+        "Opciones": [
+            "A) Un pañuelo de color rojo vivo.",
+            "B) Una placa con líneas rojas y blancas en diagonal.",
+            "C) Una luz roja intermitente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para señalizar la carga trasera se debe utilizar obligatoriamente una placa específica con bandas diagonales alternas de color rojo y blanco."
+    },
+    {
+        "_id": "PB-TM8-P73",
+        "Enunciado": "Si la carga que transporta es tan ancha como el propio vehículo, ¿cuántas placas de señalización debe colocar atrás?",
+        "Opciones": [
+            "A) Tres placas: una en cada extremo y otra en el centro.",
+            "B) Una sola placa colocada en el centro de la carga.",
+            "C) Dos placas, una en cada extremo de la carga que sobresale."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuando la carga ocupa todo el ancho del vehículo, se deben colocar dos placas de franjas diagonales, situadas cada una en un extremo lateral de la carga."
+    },
+    {
+        "_id": "PB-TM8-P74",
+        "Enunciado": "Además de la placa, ¿qué otra señalización es obligatoria de noche o con poca luz para la carga que sobresale por detrás?",
+        "Opciones": [
+            "A) Una luz blanca.",
+            "B) Una luz roja.",
+            "C) Las luces de emergencia (warning) encendidas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "De noche o con poca luz, la carga trasera debe llevar, además del panel, una luz de color rojo para garantizar su visibilidad."
+    },
+    {
+        "_id": "PB-TM8-P75",
+        "Enunciado": "En caso de que la carga sobresalga por los lados más de 40 centímetros, ¿qué medida debe tomar de noche o con poca luz?",
+        "Opciones": [
+            "A) Llevar una luz encendida en los extremos de la carga.",
+            "B) No es necesaria señalización extra si no supera el ancho del vehículo.",
+            "C) Circular a una velocidad máxima de 20 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si la carga excede lateralmente más de 40 centímetros, es obligatorio señalizar los extremos de dicho saliente con luces cuando la visibilidad sea reducida."
+    },
+    {
+        "_id": "PB-TM8-P76",
+        "Enunciado": "¿De qué color deben ser las luces que señalan la carga lateral en la parte delantera?",
+        "Opciones": [
+            "A) De color rojo.",
+            "B) De color amarillo auto.",
+            "C) De color blanco."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cualquier luz utilizada para señalizar carga en la parte frontal del vehículo debe ser siempre de color blanco."
+    },
+    {
+        "_id": "PB-TM8-P77",
+        "Enunciado": "¿De qué color deben ser las luces que señalan la carga lateral en la parte de atrás?",
+        "Opciones": [
+            "A) De color blanco.",
+            "B) De color rojo.",
+            "C) De color amarillo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para la parte trasera del vehículo, las luces de señalización de la carga deben ser siempre de color rojo."
+    },
+    {
+        "_id": "PB-TM8-P78",
+        "Enunciado": "Como norma general, ¿dónde deben realizarse las operaciones de carga y descarga?",
+        "Opciones": [
+            "A) Fuera de la vía.",
+            "B) En el carril derecho de la calzada.",
+            "C) En el arcén de la carretera siempre que sea posible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La ley establece que las actividades de cargar y descargar objetos deben llevarse a cabo siempre fuera de la vía pública."
+    },
+    {
+        "_id": "PB-TM8-P79",
+        "Enunciado": "Si por circunstancias excepcionales debe cargar o descargar en la vía, ¿qué precaución es prioritaria?",
+        "Opciones": [
+            "A) Mantener el motor encendido para salir rápido.",
+            "B) Colocar triángulos de emergencia a 100 metros.",
+            "C) No causar daños a otros vehículos o peatones que circulen por la zona."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al realizar estas operaciones en la vía, lo principal es garantizar la seguridad de peatones y otros conductores, evitando cualquier daño."
+    },
+    {
+        "_id": "PB-TM8-P80",
+        "Enunciado": "Al descargar un vehículo en la vía, ¿en qué lado debe pararse?",
+        "Opciones": [
+            "A) Siempre en el lado izquierdo de la calzada.",
+            "B) En el lado más cercano a la acera o el arcén.",
+            "C) En el lado que más le convenga para la descarga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El vehículo debe detenerse en el lateral de la vía que esté más próximo a la acera o arcén para minimizar el riesgo y la obstrucción."
+    },
+    {
+        "_id": "PB-TM8-P81",
+        "Enunciado": "Respecto al tiempo empleado en la carga y descarga en la vía pública, ¿qué indica la norma?",
+        "Opciones": [
+            "A) Se dispone de un máximo de 30 minutos por operación.",
+            "B) No hay límite de tiempo si se han pagado las tasas municipales.",
+            "C) Se debe tardar el menor tiempo posible."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las operaciones en la vía pública deben ser breves, empleando el tiempo mínimo estrictamente necesario para completar la tarea."
+    },
+    {
+        "_id": "PB-TM8-P82",
+        "Enunciado": "¿Qué molestias debe evitar el conductor durante la carga y descarga?",
+        "Opciones": [
+            "A) Evitar ruidos y molestias que no sean necesarias.",
+            "B) No es necesario tomar medidas si es en horario comercial.",
+            "C) Evitar únicamente las molestias visuales a los vecinos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Durante la manipulación de la carga se debe procurar no generar ruidos excesivos ni molestias evitables a los demás ciudadanos."
+    },
+    {
+        "_id": "PB-TM8-P83",
+        "Enunciado": "¿Está permitido dejar las cargas depositadas en el arcén o en zonas peatonales?",
+        "Opciones": [
+            "A) Sí, siempre que se deje espacio para pasar.",
+            "B) No, está prohibido dejar las cargas en la carretera, el arcén o zonas peatonales.",
+            "C) Sí, si es por un tiempo inferior a 15 minutos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La normativa prohíbe el abandono o depósito temporal de mercancías y cargas en cualquier parte de la vía, incluyendo aceras y arcenes."
+    },
+    {
+    "_id": "PB-TM8-P84",
+    "Enunciado": "¿Cuántas placas de matrícula debe llevar un automóvil que no sea una motocicleta?",
+    "Opciones": [
+      "A) Una sola, en la parte de atrás.",
+      "B) Tres placas, incluyendo la del remolque.",
+      "C) Dos placas: una delante y otra detrás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Todos los automóviles, con excepción de las motocicletas, tienen la obligación de portar dos placas de matrícula, una frontal y otra posterior."
+  },
+  {
+    "_id": "PB-TM8-P85",
+    "Enunciado": "¿Dónde deben llevar la placa de matrícula las motocicletas y los ciclomotores?",
+    "Opciones": [
+      "A) Es opcional llevarla delante si hay espacio.",
+      "B) Solo en la parte de atrás.",
+      "C) Tanto delante como detrás."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A diferencia del resto de automóviles, las motocicletas y los ciclomotores solo están obligados a llevar una placa de matrícula en su parte trasera."
+  },
+  {
+    "_id": "PB-TM8-P86",
+    "Enunciado": "Un remolque que puede cargar más de 750 kilos, ¿qué matrículas debe llevar atrás?",
+    "Opciones": [
+      "A) Solo la placa del vehículo que lo remolca.",
+      "B) Su propia placa y también la del vehículo tractor.",
+      "C) Solo su propia placa de matrícula."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques pesados (de más de 750 kg) deben exhibir dos placas en la parte trasera: la suya propia y la del vehículo que los arrastra."
+  },
+  {
+    "_id": "PB-TM8-P87",
+    "Enunciado": "¿Qué matrícula debe llevar un remolque que carga menos de 750 kilos?",
+    "Opciones": [
+      "A) Solo la placa de matrícula del vehículo que lo remolca.",
+      "B) Una placa de color rojo específica para remolques pequeños.",
+      "C) Ninguna, no es obligatorio llevar matrícula en remolques ligeros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para remolques ligeros, basta con colocar en su parte trasera la placa de matrícula del vehículo tractor."
+  },
+  {
+    "_id": "PB-TM8-P88",
+    "Enunciado": "¿De qué color es la señal luminosa que identifica a los vehículos prioritarios (policía, bomberos, ambulancias)?",
+    "Opciones": [
+      "A) Azul.",
+      "B) Roja.",
+      "C) Amarilla."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos de servicios de urgencias, como policía o ambulancias, se identifican mediante una señal luminosa de color azul."
+  },
+  {
+    "_id": "PB-TM8-P89",
+    "Enunciado": "¿Qué dispositivos pueden usar los vehículos prioritarios simultáneamente en servicios de urgencia?",
+    "Opciones": [
+      "A) Únicamente la sirena de aire comprimido.",
+      "B) La señal luminosa y la sirena.",
+      "C) Solo las luces de largo alcance."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En situaciones de emergencia, estos vehículos están autorizados a combinar las señales lumínicas azules con señales acústicas (sirenas) aunque la que realmente les da prioridad es la acústica."
+  },
+  {
+    "_id": "PB-TM8-P90",
+    "Enunciado": "¿Dónde se coloca la señalización del vehículo?",
+    "Opciones": [
+      "A) En ambos laterales de la carrocería.",
+      "B) En la parte de atrás del vehículo.",
+      "C) En el cristal delantero, lado derecho."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Deben ir instalada siempre en su parte posterior."
+  }
+]

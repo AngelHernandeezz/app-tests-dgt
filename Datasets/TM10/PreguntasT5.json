@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM10-P203",
+    "Enunciado": "¿Qué efecto técnico tiene circular con un sistema de suspensióN en malas condiciones sobre los dispositivos de seguridad activa del vehículo?",
+    "Opciones": [
+      "A) Provoca que el sistema diseñado para evitar que se bloqueen los frenos funcione con menor eficacia.",
+      "B) El sistema de control de estabilidad se activa con mayor antelación para compensar el cabeceo de la carrocería.",
+      "C) No influye en los sistemas electrónicos, ya que el ABS solo depende de la presión del líquido de frenos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La función primordial del sistema de suspensión es asegurar que los neumáticos mantengan el contacto con la carretera en todo momento. Si este sistema falla, las ruedas pierden estabilidad y provocan que el dispositivo encargado de evitar el bloqueo de los frenos (ABS) funcione peor. Además, esta deficiencia incrementa el riesgo de sufrir aquaplaning y aumenta la distancia de frenado, especialmente si el pavimento está mojado."
+  },
+  {
+    "_id": "PB-TM10-P204",
+    "Enunciado": "Si durante la marcha observa que por el tubo de escape sale un humo de color blanco azulado, ¿cuál es la causa probable?",
+    "Opciones": [
+      "A) El vehículo lleva un exceso de aceite en el motor.",
+      "B) Una entrada de líquido refrigerante en la cámara de combustión.",
+      "C) Una obstrucción crítica en el filtro de aire del sistema de alimentación."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La tonalidad blanco azulada en el humo del escape es el síntoma característico de que se está quemando un exceso de aceite."
+  },
+  {
+    "_id": "PB-TM10-P205",
+    "Enunciado": "¿Qué síntoma es indicativo de que el filtro de aire se encuentra excesivamente sucio o incluso roto?",
+    "Opciones": [
+      "A) La expulsión de humo negro por el tubo de escape.",
+      "B) Una disminución drástica en la temperatura de funcionamiento del motor.",
+      "C) El encendido del testigo rojo del manómetro de presión de aceite."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Un filtro de aire en mal estado impide la mezcla correcta, provocando que el combustible pase peor y se genere humo negro."
+  },
+  {
+    "_id": "PB-TM10-P206",
+    "Enunciado": "Al circular con el motor ya caliente y tras un tiempo en funcionamiento, ¿qué indica la salida persistente de humo blanco por el escape?",
+    "Opciones": [
+      "A) Un proceso normal de evaporación de agua acumulada por condensación.",
+      "B) La existencia de una pieza rota o una avería interna.",
+      "C) Un nivel de presión de inflado insuficiente en los neumáticos delanteros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque al arrancar en frío es normal, si el humo blanco persiste con el motor caliente, indica una avería grave."
+  },
+  {
+    "_id": "PB-TM10-P207",
+    "Enunciado": "Para obtener una lectura fiable de la cantidad de lubricante mediante la varilla indicadora, ¿en qué condiciones debe realizarse?",
+    "Opciones": [
+      "A) Con el motor encendido a ralentí para asegurar la circulación del flujo.",
+      "B) Con el motor parado y frío.",
+      "C) Con el vehículo en una pendiente descendente para acumular el fluido en el cárter."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La comprobación del nivel de aceite requiere que el motor esté apagado y a baja temperatura para que todo el fluido repose en el fondo."
+  },
+  {
+    "_id": "PB-TM10-P208",
+    "Enunciado": "Respecto a la presión de inflado, ¿qué particularidad debe cumplir la rueda de repuesto?",
+    "Opciones": [
+      "A) Debe mantenerse a la presión mínima permitida por el fabricante para el eje motriz.",
+      "B) Debe estar totalmente desinflada para evitar la cristalización del caucho.",
+      "C) Irá un poco más inflada que las demás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se recomienda una presión algo superior en la rueda de repuesto para compensar la pérdida natural de aire durante su almacenamiento."
+  },
+  {
+    "_id": "PB-TM10-P209",
+    "Enunciado": "¿A través de qué medio se transmite la fuerza desde el pedal de accionamiento hasta los elementos que frenan las ruedas?",
+    "Opciones": [
+      "A) Por medio de una correa de transmisión conectada al cigüeñal.",
+      "B) A través de un líquido llamado líquido de frenos.",
+      "C) Mediante impulsos eléctricos generados por el alternador."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El sistema hidráulico de frenado utiliza el líquido de frenos para transferir la presión del pedal a las pastillas o zapatas."
+  },
+  {
+    "_id": "PB-TM10-P210",
+    "Enunciado": "¿Qué repercusión tiene un sistema de suspensión en mal estado sobre los dispositivos de seguridad activa como el ABS?",
+    "Opciones": [
+      "A) El sistema antibloqueo se desconecta para proteger los discos de freno.",
+      "B) El sistema para que no se bloqueen los frenos funciona peor.",
+      "C) Aumenta la precisión de los sensores al recibir más vibraciones del asfalto."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La inestabilidad y los rebotes de una mala suspensión interfieren en el correcto funcionamiento del sistema ABS."
+  },
+  {
+    "_id": "PB-TM10-P211",
+    "Enunciado": "Si percibe una vibración constante en el volante mientras conduce, ¿cuál es la causa técnica más probable?",
+    "Opciones": [
+      "A) Que las ruedas no estén bien equilibradas.",
+      "B) Un exceso de líquido en el circuito de la dirección asistida progresiva.",
+      "C) El desgaste irregular de las escobillas del alternador de carga."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las vibraciones en la dirección suelen deberse a un desequilibrio en las masas de las ruedas del vehículo."
+  },
+  {
+    "_id": "PB-TM10-P212",
+    "Enunciado": "Cuando el vehículo tiende a desviarse hacia un lado al soltar el volante en una trayectoria recta y llana, ¿qué debe comprobarse?",
+    "Opciones": [
+      "A) El estado de limpieza de las bujías del circuito de encendido.",
+      "B) La tensión de la correa que impulsa la bomba del líquido refrigerante.",
+      "C) Si unos neumáticos están más inflados que otros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Una diferencia de presión entre neumáticos de un mismo eje provoca que el vehículo tire hacia un lado."
+  },
+  {
+    "_id": "PB-TM10-P213",
+    "Enunciado": "Dentro del sistema de transmisión, ¿cuál es la característica principal de la primera velocidad?",
+    "Opciones": [
+      "A) Es la que alcanza mayor régimen de giro pero con menor torque.",
+      "B) Es la que manda más fuerza a las ruedas, pero es la más lenta.",
+      "C) Permite la recarga rápida de la batería a través del circuito de carga."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La primera marcha está diseñada para proporcionar el máximo impulso, sacrificando la velocidad de desplazamiento."
+  },
+  {
+    "_id": "PB-TM10-P214",
+    "Enunciado": "¿Qué requisitos de mantenimiento físico debe reunir la batería del vehículo?",
+    "Opciones": [
+      "A) Cubrir sus bornes con una capa gruesa de aceite mineral para favorecer el arranque.",
+      "B) Mantenerla limpia, seca y bien encajada en su lugar.",
+      "C) Mantenerla ligeramente húmeda para evitar el sobrecalentamiento de las celdas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para un funcionamiento seguro, la batería debe estar libre de suciedad y humedad, y correctamente fijada al chasis."
+  },
+  {
+    "_id": "PB-TM10-P215",
+    "Enunciado": "En la nomenclatura de un aceite multigrado, ¿qué indica específicamente la cifra acompañada de la letra W (por ejemplo, 10W)?",
+    "Opciones": [
+      "A) El porcentaje de aditivos sintéticos presentes en una base mineral.",
+      "B) El periodo de vida útil del lubricante expresado en semanas.",
+      "C) Que el aceite se reparte bien por el motor, aunque haya poca temperatura."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La letra W (Winter) indica la capacidad de fluidez y lubricación del aceite en condiciones de frío intenso."
+  },
+  {
+    "_id": "PB-TM10-P216",
+    "Enunciado": "¿Cuál es el significado del número 40 en la etiqueta de un lubricante 10W/40?",
+    "Opciones": [
+      "A) Indica que puede soportar temperaturas muy altas sin estropearse.",
+      "B) Que es apto para motores con una potencia superior a los 40 caballos.",
+      "C) Que el aceite debe sustituirse obligatoriamente cada cuarenta meses."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Esta cifra representa el grado de viscosidad y resistencia del aceite cuando el motor alcanza altas temperaturas."
+  },
+  {
+    "_id": "PB-TM10-P217",
+    "Enunciado": "¿Por qué el uso de aceites sintéticos supone una ventaja en el mantenimiento a largo plazo?",
+    "Opciones": [
+      "A) Permiten prescindir por completo del filtro de aceite convencional.",
+      "B) Aumentan el rozamiento interno facilitando el frenado del motor.",
+      "C) Se necesita menos cantidad de aceite y dura más tiempo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los aceites sintéticos ofrecen mayor durabilidad, lo que permite espaciar los cambios y reducir el volumen de residuo."
+  },
+  {
+    "_id": "PB-TM10-P218",
+    "Enunciado": "¿Cómo influye el aceite sintético en la fase de puesta en marcha del motor en climas extremos?",
+    "Opciones": [
+      "A) Evita la producción de chispas en las bujías hasta que el motor se lubrica.",
+      "B) Retarda el encendido para permitir que la batería recupere tensión.",
+      "C) Permite que el vehículo arranque mejor cuando hace mucho frío."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Su excelente fluidez en frío facilita el movimiento inicial de las piezas, protegiendo el motor desde el arranque."
+  },
+  {
+    "_id": "PB-TM10-P219",
+    "Enunciado": "Si al efectuar una frenada la parte posterior del vehículo se eleva de forma exagerada, ¿qué sistema está fallando?",
+    "Opciones": [
+      "A) El circuito de iluminación trasera.",
+      "B) El sistema de suspensión.",
+      "C) El sistema de transmisión integral."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Unos amortiguadores desgastados no controlan el cabeceo del vehículo, provocando elevaciones o inclinaciones excesivas al frenar."
+  },
+  {
+    "_id": "PB-TM10-P220",
+    "Enunciado": "¿A través de qué componente se transmite el movimiento mecánico necesario para accionar la bomba de agua?",
+    "Opciones": [
+      "A) A través del propio flujo de los gases de escape.",
+      "B) Mediante impulsos del circuito de encendido.",
+      "C) Por medio de una correa."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La bomba de agua recibe el impulso del motor mediante una correa que debe estar siempre en buen estado."
+  },
+  {
+    "_id": "PB-TM10-P221",
+    "Enunciado": "¿Qué riesgo crítico se asume al no verificar el estado del líquido refrigerante al inicio del invierno?",
+    "Opciones": [
+      "A) Una degradación inmediata de los bornes de la batería por frío extremo.",
+      "B) El líquido se puede congelar y romper el motor.",
+      "C) Un aumento de la presión de aceite que activará el manómetro."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Si el refrigerante se congela, su expansión de volumen puede fracturar el bloque motor o los conductos del sistema."
+  },
+  {
+    "_id": "PB-TM10-P222",
+    "Enunciado": "Cuando el conductor nota que debe realizar un esfuerzo físico inusual para mover el volante, ¿cuál puede ser el motivo?",
+    "Opciones": [
+      "A) Que los neumáticos tengan poca presión.",
+      "B) Que el alternador esté enviando demasiada carga eléctrica.",
+      "C) Un exceso de líquido refrigerante en el vaso de expansión."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La falta de aire en los neumáticos aumenta la superficie de contacto y el rozamiento, endureciendo la dirección."
+  },
+  {
+    "_id": "PB-TM10-P223",
+    "Enunciado": "¿Cómo se comporta una dirección asistida del tipo progresivo cuando el vehículo circula a altas velocidades?",
+    "Opciones": [
+      "A) Hace que cueste un poco más mover el volante.",
+      "B) Bloquea el movimiento de las ruedas delanteras para asegurar la trayectoria.",
+      "C) Elimina toda resistencia al giro para facilitar reacciones rápidas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para mejorar el control y la seguridad a alta velocidad, el sistema aumenta ligeramente la dureza del volante."
+  },
+  {
+    "_id": "PB-TM10-P224",
+    "Enunciado": "¿Cuál es el procedimiento correcto para añadir o rellenar aceite al motor?",
+    "Opciones": [
+      "A) Mediante la desconexión temporal del tubo de escape.",
+      "B) Por el tapón que hay al levantar la tapa del motor.",
+      "C) A través del orificio de inserción de la varilla de nivel."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El motor cuenta con un tapón específico en su parte superior diseñado para el llenado de lubricante."
+  },
+  {
+    "_id": "PB-TM10-P225",
+    "Enunciado": "Ante un vertido accidental de lubricante durante el mantenimiento del vehículo, ¿cuál es la conducta adecuada?",
+    "Opciones": [
+      "A) Debes recogerlo.",
+      "B) Dejar que el sol evapore el residuo de forma natural.",
+      "C) Diluirlo con abundante agua fría para que penetre en el asfalto."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El aceite es altamente contaminante y debe ser recogido y gestionado de forma responsable si cae al suelo."
+  },
+  {
+    "_id": "PB-TM10-P226",
+    "Enunciado": "¿Con qué periodicidad mínima debe realizarse la comprobación de la presión de inflado de los neumáticos?",
+    "Opciones": [
+      "A) Solo cuando se observe visualmente que el perfil de la rueda ha bajado.",
+      "B) Únicamente cada diez mil kilómetros de recorrido.",
+      "C) Al menos una vez al mes."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La seguridad vial requiere verificar la presión de los neumáticos de manera mensual como medida preventiva."
+  },
+  {
+    "_id": "PB-TM10-P227",
+    "Enunciado": "Respecto a la estacionalidad, ¿cuándo se requiere un mantenimiento más exhaustivo del filtro de aire?",
+    "Opciones": [
+      "A) Debes revisar el filtro más veces en verano que en invierno.",
+      "B) El mantenimiento es idéntico independientemente de las condiciones climáticas.",
+      "C) Durante los periodos de heladas invernales continuas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En verano, la mayor presencia de polvo y partículas obliga a revisar el filtro con mayor frecuencia."
+  },
+  {
+    "_id": "PB-TM10-P228",
+    "Enunciado": "¿En qué momento es imperativo proceder a la sustitución de las lámparas del sistema de iluminación?",
+    "Opciones": [
+      "A) Cada dos años, independientemente de su estado operativo.",
+      "B) Únicamente cuando se fundan por completo.",
+      "C) Cuando alumbren menos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La pérdida de intensidad luminosa es motivo suficiente para el cambio de lámparas para no comprometer la visibilidad."
+  },
+  {
+    "_id": "PB-TM10-P229",
+    "Enunciado": "¿Cómo se clasifica a un vehículo cuando el impulso generado por el motor llega exclusivamente a las ruedas del eje trasero?",
+    "Opciones": [
+      "A) Vehículo de tracción.",
+      "B) Vehículo de tracción integral progresiva.",
+      "C) Vehículo de propulsión."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se denomina propulsión cuando la fuerza motriz se ejerce sobre las ruedas traseras del vehículo."
+  },
+  {
+    "_id": "PB-TM10-P230",
+    "Enunciado": "¿Cuál es la función primordial del sistema de transmisión en el conjunto del vehículo?",
+    "Opciones": [
+      "A) Reducir la temperatura de las piezas móviles mediante la fricción.",
+      "B) Llevar la fuerza del motor a las ruedas para que el vehículo se pueda mover.",
+      "C) Filtrar las impurezas del combustible antes de que lleguen al motor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La transmisión es el puente mecánico que transfiere la energía del motor a los ejes de las ruedas para generar movimiento."
+  },
+  {
+    "_id": "PB-TM10-P231",
+    "Enunciado": "Además de la inestabilidad del coche, ¿qué otro efecto tiene sobre el conductor el mal estado de la suspensión?",
+    "Opciones": [
+      "A) El conductor puede sentir cansancio con más facilidad.",
+      "B) Reduce significativamente la sensibilidad auditiva del entorno.",
+      "C) Provoca deslumbramientos por la luz de su propio cuadro de mandos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las vibraciones constantes y el comportamiento errático del coche agotan físicamente a la persona que conduce."
+  },
+  {
+    "_id": "PB-TM10-P232",
+    "Enunciado": "¿Qué factor ajeno al propio sistema de frenos es determinante para asegurar una distancia de frenado óptima?",
+    "Opciones": [
+      "A) Que el alternador cargue la batería a la máxima tensión eléctrica.",
+      "B) El uso de un aceite sintético de alta viscosidad.",
+      "C) Que los neumáticos están bien inflados."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Sin la presión adecuada en las ruedas, la fuerza de los frenos no se transmite eficazmente al asfalto, aumentando la distancia de parada."
+  }
+]

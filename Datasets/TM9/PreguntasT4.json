@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P91",
+        "Enunciado": "Respecto a las estaciones del año, ¿cuándo sufren un mayor desgaste los neumáticos?",
+        "Opciones": [
+            "A) Los neumáticos se desgastan más en verano.",
+            "B) El desgaste es exactamente igual en todas las estaciones del año.",
+            "C) Se desgastan más durante los meses de invierno por el frío extremo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el manual, uno de los motivos de desgaste es el clima, especificando que los neumáticos se desgastan más en verano."
+    },
+    {
+        "_id": "PB-TM9-P92",
+        "Enunciado": "¿Cómo influye el peso transportado en la vida útil de las gomas de las ruedas?",
+        "Opciones": [
+            "A) Los vehículos con carga máxima desgastan menos los neumáticos delanteros.",
+            "B) Llevar mucha carga en el vehículo provoca que se desgasten antes.",
+            "C) El peso no afecta al desgaste, solo influye en el consumo de aceite."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Llevar mucha carga en el vehículo es uno de los motivos por los que las gomas de los neumáticos se pueden desgastar antes."
+    },
+    {
+        "_id": "PB-TM9-P93",
+        "Enunciado": "¿Qué tipo de vías aceleran el deterioro de los neumáticos?",
+        "Opciones": [
+            "A) Circular exclusivamente por autopistas con asfalto nuevo.",
+            "B) Los neumáticos solo sufren en las calles peatonales de los centros urbanos.",
+            "C) Conducir por carreteras en mal estado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Conducir por carreteras en mal estado es un factor que contribuye al desgaste prematuro de los neumáticos."
+    },
+    {
+        "_id": "PB-TM9-P94",
+        "Enunciado": "Además del estilo de conducción y la vía, ¿qué otros componentes pueden afectar a las ruedas?",
+        "Opciones": [
+            "A) Solo la falta de líquido limpiaparabrisas.",
+            "B) Problemas con los frenos o con otros elementos del vehículo.",
+            "C) El uso prolongado de las luces adaptativas angulares."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario indica que problemas con los frenos o con otros elementos del vehículo pueden afectar negativamente a las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P95",
+        "Enunciado": "Si sufre un pinchazo mientras conduce, ¿cuál es la forma correcta de actuar con los pedales?",
+        "Opciones": [
+            "A) Pisar el freno a fondo inmediatamente para detenerse en seco.",
+            "B) Acelerar un poco para mantener la trayectoria recta del vehículo.",
+            "C) Reducir la velocidad de forma lenta. No parar de forma brusca."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ante un pinchazo, el primer paso es reducir la velocidad de forma lenta hasta parar el vehículo, evitando frenadas bruscas."
+    },
+    {
+        "_id": "PB-TM9-P96",
+        "Enunciado": "¿Dónde se debe inmovilizar el vehículo tras sufrir el pinchazo de una rueda?",
+        "Opciones": [
+            "A) En el carril de la izquierda para tener más espacio para maniobrar.",
+            "B) Justo en el punto donde se ha producido el pinchazo, sin moverse.",
+            "C) En un lugar seguro, fuera de la carretera y del arcén si es posible."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es necesario inmovilizar el vehículo en un lugar seguro, preferiblemente fuera de la calzada y del arcén."
+    },
+    {
+        "_id": "PB-TM9-P97",
+        "Enunciado": "Una vez inmovilizado el coche de forma segura por un pinchazo, ¿qué debe hacerse?",
+        "Opciones": [
+            "A) Cambiar la rueda pinchada por la de repuesto.",
+            "B) Limpiar la llanta con agua y detergente antes de continuar.",
+            "C) Esperar a que el neumático se enfríe antes de tocarlo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tras inmovilizar el vehículo en un lugar seguro, el siguiente paso es sustituir la rueda pinchada por la de repuesto."
+    },
+    {
+        "_id": "PB-TM9-P98",
+        "Enunciado": "Además de la rueda de repuesto estándar, ¿qué otros sistemas menciona el texto para pinchazos?",
+        "Opciones": [
+            "A) Un parche elástico que se coloca por fuera del neumático.",
+            "B) Un inflador manual de pedal para pinchazos graves.",
+            "C) Otros sistemas para seguir circulando o la rueda de galleta."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual indica que algunos vehículos llevan otros sistemas o una rueda específica de uso limitado llamada de galleta."
+    },
+    {
+        "_id": "PB-TM9-P99",
+        "Enunciado": "¿Cuál es la finalidad principal de una rueda de galleta?",
+        "Opciones": [
+            "A) Solo sirve para llegar con ella al taller más cercano.",
+            "B) Sustituir definitivamente a la rueda convencional por su ligereza.",
+            "C) Permitir la conducción deportiva en condiciones de lluvia extrema."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La rueda de galleta es una rueda de uso temporal que solo tiene como objetivo permitir al conductor llegar al taller."
+    },
+    {
+        "_id": "PB-TM9-P100",
+        "Enunciado": "¿Qué distancia máxima se puede recorrer con una rueda de galleta?",
+        "Opciones": [
+            "A) Un máximo de 50 kilómetros.",
+            "B) No tiene límite de distancia siempre que no se pinche.",
+            "C) Unos 200 kilómetros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con la rueda de galleta se pueden recorrer unos 200 kilómetros."
+    },
+    {
+        "_id": "PB-TM9-P101",
+        "Enunciado": "¿A qué velocidad máxima está permitido circular con una rueda de galleta instalada?",
+        "Opciones": [
+            "A) 50 kilómetros por hora.",
+            "B) 80 kilómetros por hora.",
+            "C) 100 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La velocidad máxima permitida al circular con una rueda de galleta es de 80 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM9-P102",
+        "Enunciado": "¿En qué consiste el equilibrado de las ruedas?",
+        "Opciones": [
+            "A) En alinear la dirección para que el coche no se vaya hacia un lado.",
+            "B) En vaciar el aire de los neumáticos y rellenarlos con nitrógeno.",
+            "C) En poner peso en las llantas para que soporten el peso y la carga."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El equilibrado consiste en colocar pesos en las llantas para que la rueda soporte adecuadamente el peso del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P103",
+        "Enunciado": "¿Por qué es muy importante mantener el equilibrado de las ruedas?",
+        "Opciones": [
+            "A) Para que las ruedas giren bien.",
+            "B) Para evitar que el motor consuma aceite en exceso.",
+            "C) Para que el sistema de reconocimiento de señales funcione correctamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es fundamental que las ruedas estén equilibradas para asegurar que giren de forma correcta y suave."
+    },
+    {
+        "_id": "PB-TM9-P104",
+        "Enunciado": "¿Cuál es un motivo por el cual las ruedas pueden perder su equilibrio?",
+        "Opciones": [
+            "A) Cambio de neumático.",
+            "B) Usar las luces de carretera automáticas.",
+            "C) Circular con el depósito de combustible lleno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cambiar el neumático es una de las razones por las que las ruedas pueden perder su equilibrio inicial."
+    },
+    {
+        "_id": "PB-TM9-P105",
+        "Enunciado": "Respecto a las llantas, ¿qué puede provocar la pérdida de equilibrio de la rueda?",
+        "Opciones": [
+            "A) La acumulación de barro en la parte exterior de la llanta.",
+            "B) Que las llantas pierdan los contrapesos o se abollen.",
+            "C) Que la llanta sea de color oscuro o mate."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La pérdida de los contrapesos o las abolladuras en las llantas son causas de desequilibrio en las ruedas."
+    },
+    {
+        "_id": "PB-TM9-P106",
+        "Enunciado": "Además de las llantas, ¿qué estado del neumático influye en el equilibrio?",
+        "Opciones": [
+            "A) Si la rueda se desgasta o sufre cortes.",
+            "B) El hecho de haber pasado la revisión ITV recientemente.",
+            "C) Que el neumático sea de una marca extranjera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El desgaste irregular o los cortes en el neumático pueden provocar que la rueda pierda su equilibrio."
+    },
+    {
+        "_id": "PB-TM9-P107",
+        "Enunciado": "¿Cómo puede el conductor notar que una rueda ha perdido el equilibrio?",
+        "Opciones": [
+            "A) El vehículo hace ruidos y vibra.",
+            "B) Las luces del cuadro de instrumentos parpadean en color azul.",
+            "C) El pedal del acelerador se vuelve mucho más blando."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los síntomas de falta de equilibrio incluyen vibraciones y ruidos perceptibles durante la conducción."
+    },
+    {
+        "_id": "PB-TM9-P108",
+        "Enunciado": "Visualmente, ¿qué síntoma indica una falta de equilibrado en las ruedas?",
+        "Opciones": [
+            "A) Que el neumático recupera su forma elástica muy rápido.",
+            "B) Los neumáticos se desgastan más de lo normal.",
+            "C) Que las ranuras tienen una profundidad exacta de 1,6 mm."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un desgaste excesivo o anormal de los neumáticos es una señal de que las ruedas pueden haber perdido el equilibrio."
+    },
+    {
+        "_id": "PB-TM9-P109",
+        "Enunciado": "Respecto a la sujeción de la rueda, ¿qué se puede notar si pierde el equilibrio?",
+        "Opciones": [
+            "A) Que el freno de mano se activa solo al girar.",
+            "B) Que el volante se bloquea automáticamente al aparcar.",
+            "C) Los tornillos de la rueda están flojos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Notar que los tornillos de la rueda están flojos es uno de los síntomas mencionados relacionados con la pérdida de equilibrio."
+    },
+    {
+        "_id": "PB-TM9-P110",
+        "Enunciado": "¿Qué sistemas se incluyen en el apartado de 'Otros elementos de seguridad activa'?",
+        "Opciones": [
+            "A) El chasis, la carrocería y el sistema de airbags.",
+            "B) Control de tracción, de estabilidad y limitadores/reguladores de velocidad.",
+            "C) Solo el cinturón de seguridad y el reposacabezas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Dentro de otros elementos de seguridad activa se citan el control de tracción, el de estabilidad y los sistemas de control de velocidad."
+    },
+    {
+        "_id": "PB-TM9-P111",
+        "Enunciado": "¿Cómo identifica el control de tracción que debe intervenir?",
+        "Opciones": [
+            "A) Mide la temperatura de los discos de freno traseros.",
+            "B) Detecta si el conductor está fatigado por la postura.",
+            "C) Identifica si una rueda está girando más rápido que las demás."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El control de tracción funciona identificando si una rueda gira a mayor velocidad que el resto, lo que indicaría pérdida de adherencia."
+    },
+    {
+        "_id": "PB-TM9-P112",
+        "Enunciado": "¿Qué acción realiza el control de tracción cuando detecta que una rueda gira demasiado rápido?",
+        "Opciones": [
+            "A) Desconecta la batería para detener el vehículo.",
+            "B) Aumenta la potencia de esa rueda para superar el bache.",
+            "C) La frena para que no patine."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La función del control de tracción es frenar la rueda que gira en exceso para evitar que el vehículo patine."
+    },
+    {
+        "_id": "PB-TM9-P113",
+        "Enunciado": "¿En qué situaciones ayuda el control de tracción a conservar la estabilidad?",
+        "Opciones": [
+            "A) En las curvas, al subir una cuesta o cuando hay lluvia.",
+            "B) Únicamente cuando el vehículo está estacionado en bajada.",
+            "C) Solo cuando se circula por autopistas a más de 120 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este sistema es útil para mantener la estabilidad en curvas, subidas y con pavimento mojado."
+    },
+    {
+        "_id": "PB-TM9-P114",
+        "Enunciado": "¿Cuál es la función del control electrónico de estabilidad?",
+        "Opciones": [
+            "A) Ayudar al vehículo a seguir en el camino que marca el volante.",
+            "B) Mantener la temperatura del habitáculo constante.",
+            "C) Evitar que el conductor supere el límite de velocidad elegido."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El control de estabilidad ayuda a que el vehículo no se desvíe de la trayectoria marcada por el conductor con el volante."
+    },
+    {
+        "_id": "PB-TM9-P115",
+        "Enunciado": "¿Cuándo actúa el control electrónico de estabilidad respecto al giro del vehículo?",
+        "Opciones": [
+            "A) Cuando el conductor suelta las dos manos del volante.",
+            "B) Cuando no gira todo lo que pide el conductor o gira demasiado.",
+            "C) Solo cuando el vehículo circula en línea recta por más de 10 km."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este sistema interviene para corregir la trayectoria cuando el coche subvira (gira menos) o subvira (gira más) de lo deseado."
+    },
+    {
+        "_id": "PB-TM9-P116",
+        "Enunciado": "¿Qué ejemplo de situación de peligro menciona el texto para el control de estabilidad?",
+        "Opciones": [
+            "A) Al quedarse sin líquido en el depósito del lavaparabrisas.",
+            "B) Al esquivar un obstáculo o al tomar una curva.",
+            "C) Al encender las luces de carretera automáticas por error."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema ayuda a mantener el control en maniobras evasivas ante obstáculos o durante el trazado de curvas."
+    },
+    {
+        "_id": "PB-TM9-P117",
+        "Enunciado": "¿Qué permite hacer al conductor el sistema de limitador de velocidad?",
+        "Opciones": [
+            "A) Configurar el coche para que frene solo en los semáforos.",
+            "B) Aumentar la potencia del motor un 10% adicional.",
+            "C) Elegir la velocidad máxima que puede alcanzar su vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El limitador de velocidad permite al conductor establecer un tope máximo de velocidad para su vehículo."
+    },
+    {
+        "_id": "PB-TM9-P118",
+        "Enunciado": "¿Qué sucede una vez que se activa el limitador de velocidad?",
+        "Opciones": [
+            "A) Se activan automáticamente las luces de emergencia.",
+            "B) El vehículo no pasará de la velocidad elegida por el conductor.",
+            "C) El motor se apaga si el conductor intenta acelerar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al estar activo, el sistema impide físicamente que el vehículo sobrepase la velocidad máxima que se ha programado."
+    },
+    {
+        "_id": "PB-TM9-P119",
+        "Enunciado": "¿Cuál es la utilidad del regulador de velocidad?",
+        "Opciones": [
+            "A) Avisa mediante una voz si hay un radar cerca.",
+            "B) Ayuda a mantener la velocidad elegida sin necesidad de pisar los pedales.",
+            "C) Regula la presión de los neumáticos de forma automática."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El regulador de velocidad mantiene una velocidad constante sin que el conductor tenga que actuar sobre el acelerador o el freno."
+    },
+    {
+        "_id": "PB-TM9-P120",
+        "Enunciado": "¿Qué ejemplo realista podría ser sobre el uso del regulador de velocidad?",
+        "Opciones": [
+            "A) Circular todo el rato a 100 kilómetros por hora en la autopista.",
+            "B) Circular por una rotonda a 20 kilómetros por hora.",
+            "C) Realizar una maniobra de marcha atrás para aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Un ejemplo realista del mantenimiento de una velocidad constante (como 100 km/h) en autopista usando este sistema."
+    }
+]

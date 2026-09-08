@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P1",
+        "Enunciado": "Para que un vehículo sea seguro y tenga menos riesgo de sufrir accidentes, ¿cuál es el primer requisito que debe cumplir?",
+        "Opciones": [
+            "A) Contar con un seguro a todo riesgo que cubra cualquier avería.",
+            "B) Tener instalados sistemas de seguridad de última generación.",
+            "C) Seguir el programa de revisiones y mantenimiento obligatorio."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El primer requisito para que un vehículo sea seguro es seguir el programa de revisiones y mantenimiento obligatorio para cada vehículo."
+    },
+    {
+        "_id": "PB-TM9-P2",
+        "Enunciado": "Además de las revisiones, ¿qué otro requisito ayuda a que un vehículo sea más seguro y sufra menos accidentes?",
+        "Opciones": [
+            "A) Tener un buen sistema de seguridad.",
+            "B) Que el vehículo tenga menos de dos años de antigüedad.",
+            "C) Realizar una limpieza profunda de los sistemas de frenado mensualmente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tener un buen sistema de seguridad es el segundo requisito fundamental para la seguridad del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P3",
+        "Enunciado": "¿Qué indica el temario sobre el número de accidentes de los vehículos nuevos en comparación con los viejos?",
+        "Opciones": [
+            "A) Los vehículos nuevos sufren accidentes más graves pero en menor cantidad.",
+            "B) Los vehículos nuevos tienen la mitad de accidentes que los viejos.",
+            "C) Los vehículos nuevos tienen el mismo número de accidentes que los viejos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La realidad es que los vehículos nuevos tienen el mismo número de accidentes que los vehículos más viejos."
+    },
+    {
+        "_id": "PB-TM9-P4",
+        "Enunciado": "¿Cuál es uno de los motivos por los que los vehículos nuevos no reducen el número de accidentes?",
+        "Opciones": [
+            "A) Porque pocos conductores saben para qué sirven y cómo funcionan sus sistemas de seguridad.",
+            "B) Porque los sistemas de seguridad fallan más que las piezas mecánicas antiguas.",
+            "C) Porque los vehículos nuevos son fabricados con materiales menos resistentes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Uno de los motivos es que pocos conductores conocen el funcionamiento y utilidad de los sistemas de seguridad de su vehículo."
+    },
+    {
+        "_id": "PB-TM9-P5",
+        "Enunciado": "Respecto a los sistemas de seguridad, ¿por qué suelen correr más riesgos los conductores?",
+        "Opciones": [
+            "A) Porque los sistemas les obligan a conducir a mayor velocidad de forma automática.",
+            "B) Porque desconocen que el uso de estos sistemas conlleva una sanción económica.",
+            "C) Porque confían demasiado en los sistemas de seguridad de su vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los conductores corren más riesgos porque confían en exceso en los sistemas de seguridad sin notar sus límites."
+    },
+    {
+        "_id": "PB-TM9-P6",
+        "Enunciado": "Según el texto, ¿en cuántas modalidades se diferencian los sistemas de seguridad de un vehículo?",
+        "Opciones": [
+            "A) En dos: seguridad activa y seguridad pasiva.",
+            "B) En una única modalidad llamada seguridad integral.",
+            "C) En tres: activa, pasiva y preventiva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los sistemas de seguridad de un vehículo se diferencian en dos modalidades: seguridad activa y seguridad pasiva."
+    },
+    {
+        "_id": "PB-TM9-P7",
+        "Enunciado": "¿Cómo se definen los elementos de seguridad activa?",
+        "Opciones": [
+            "A) Son aquellos que funcionan solos cuando el vehículo está aparcado.",
+            "B) Son elementos del vehículo pensados para evitar accidentes.",
+            "C) Son piezas que solo sirven para reducir la gravedad de las lesiones tras un choque."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La seguridad activa comprende los elementos del vehículo pensados específicamente para evitar que el accidente llegue a producirse."
+    },
+    {
+        "_id": "PB-TM9-P8",
+        "Enunciado": "¿Qué condición debe cumplirse para que los elementos de seguridad activa funcionen?",
+        "Opciones": [
+            "A) El conductor tiene que utilizarlos.",
+            "B) Tienen que estar conectados directamente a la batería auxiliar.",
+            "C) Deben activarse únicamente por control remoto."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para que los elementos de seguridad activa funcionen, el conductor tiene que utilizarlos."
+    },
+    {
+        "_id": "PB-TM9-P9",
+        "Enunciado": "¿Cuáles son ejemplos de elementos de seguridad activa mencionados en el manual?",
+        "Opciones": [
+            "A) El cinturón de seguridad y el airbag.",
+            "B) Los frenos, las ruedas y el sistema de luces.",
+            "C) El reposacabezas y el chasis deformable."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ejemplos de seguridad activa son los frenos, las ruedas y el sistema de luces."
+    },
+    {
+        "_id": "PB-TM9-P10",
+        "Enunciado": "¿Cuál es la función principal de la seguridad pasiva?",
+        "Opciones": [
+            "A) Impedir que el vehículo supere la velocidad máxima permitida.",
+            "B) Ayudar a que los pasajeros y otros usuarios sufran menos daños en un accidente.",
+            "C) Detectar averías mecánicas antes de arrancar el motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La seguridad pasiva ayuda a que los ocupantes y otros usuarios sufran menos daños una vez que el accidente ha ocurrido."
+    },
+    {
+        "_id": "PB-TM9-P11",
+        "Enunciado": "¿Cómo funcionan los elementos de seguridad pasiva?",
+        "Opciones": [
+            "A) Funcionan mediante el uso de comandos de voz.",
+            "B) Funcionan solo si el conductor presiona un botón específico.",
+            "C) Funcionan de forma automática."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A diferencia de la activa, los elementos de seguridad pasiva funcionan de forma automática."
+    },
+    {
+        "_id": "PB-TM9-P12",
+        "Enunciado": "¿Qué elementos se citan como ejemplos de seguridad pasiva?",
+        "Opciones": [
+            "A) Los neumáticos y el pedal de freno.",
+            "B) El sistema de alumbrado y el control de tracción.",
+            "C) El cinturón de seguridad, el airbag y el reposacabezas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cinturón de seguridad, el airbag y el reposacabezas son elementos típicos de seguridad pasiva."
+    },
+    {
+        "_id": "PB-TM9-P13",
+        "Enunciado": "¿Qué son los sistemas de alumbrado dentro de la seguridad activa?",
+        "Opciones": [
+            "A) Es el sistema que ilumina el cuadro de instrumentos del conductor.",
+            "B) Son dispositivos decorativos para mejorar la estética nocturna del coche.",
+            "C) Son las distintas luces que hay en el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los sistemas de alumbrado son las distintas luces de las que dispone el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P14",
+        "Enunciado": "¿Qué te permite el sistema de alumbrado respecto a otros usuarios?",
+        "Opciones": [
+            "A) Que los agentes de tráfico puedan identificar tu matrícula a larga distancia.",
+            "B) Que los otros conductores sepan la velocidad exacta a la que circulas.",
+            "C) Que los peatones y conductores de otros vehículos te vean."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El alumbrado permite ver lo que hay alrededor y que los demás usuarios te vean cuando es de noche o hay mala visibilidad."
+    },
+    {
+        "_id": "PB-TM9-P15",
+        "Enunciado": "¿Cuál es la utilidad del sistema de alumbrado en relación con los peligros de la vía?",
+        "Opciones": [
+            "A) Avisar a emergencias de forma automática si detecta un obstáculo.",
+            "B) Iluminar carreteras y calles para ver peligros cercanos y actuar a tiempo.",
+            "C) Eliminar los peligros mediante el uso de rayos infrarrojos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Permite iluminar la vía para detectar peligros y tener margen de actuación."
+    },
+    {
+        "_id": "PB-TM9-P16",
+        "Enunciado": "Respecto al uso de las luces, ¿qué es muy importante según el texto?",
+        "Opciones": [
+            "A) Cambiar las bombillas cada vez que se realice un viaje largo.",
+            "B) Usar bien las luces encendiendo las adecuadas y apagando las que no necesitas.",
+            "C) Llevar siempre todas las luces encendidas, incluso de día."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es fundamental un uso correcto: encender las necesarias y apagar las que no se precisan."
+    },
+    {
+        "_id": "PB-TM9-P17",
+        "Enunciado": "¿Qué puede ocurrir si se usan mal algunas luces del vehículo?",
+        "Opciones": [
+            "A) Pueden reducir la vida útil de los neumáticos delanteros.",
+            "B) Pueden provocar una descarga eléctrica en el motor.",
+            "C) Pueden deslumbrar a otros conductores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El mal uso de ciertas luces puede provocar deslumbramientos a otros conductores."
+    },
+    {
+        "_id": "PB-TM9-P18",
+        "Enunciado": "¿Cuáles son los nuevos sistemas de alumbrado que llevan los vehículos actuales?",
+        "Opciones": [
+            "A) Luces de neón, proyectores láser y luces intermitentes permanentes.",
+            "B) Solo las luces antiniebla delanteras y traseras de alta intensidad.",
+            "C) Lámparas de xenón, activación automática y luces adaptativas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos actuales incluyen lámparas de xenón/bixenón, activación automática y luces adaptativas."
+    },
+    {
+        "_id": "PB-TM9-P19",
+        "Enunciado": "¿Cómo se describe la luz que emiten los faros de xenón y bixenón?",
+        "Opciones": [
+            "A) Es una luz amarilla cálida que no cansa la vista.",
+            "B) Es una luz potente de color blanco azulada parecida a la luz natural.",
+            "C) Es una luz roja intermitente que mejora la visibilidad en la niebla."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las lámparas de xenón emiten una luz potente blanco azulada similar a la luz del día."
+    },
+    {
+        "_id": "PB-TM9-P20",
+        "Enunciado": "¿Cuál es una ventaja de las lámparas de xenón respecto al cansancio?",
+        "Opciones": [
+            "A) Consiguen reducir el cansancio de los ojos.",
+            "B) Eliminan el estrés del conductor mediante cromoterapia.",
+            "C) Consiguen que el conductor no necesite dormir en viajes largos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Estas luces mejoran la visibilidad a distancia y ayudan a reducir la fatiga ocular."
+    },
+    {
+        "_id": "PB-TM9-P21",
+        "Enunciado": "Además de iluminar mejor, ¿qué otra característica positiva tienen las luces de xenón?",
+        "Opciones": [
+            "A) Que su consumo de batería es nulo al ser gas.",
+            "B) Que deslumbran menos al resto de conductores que otras luces.",
+            "C) Que se encienden solas incluso con el vehículo apagado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual destaca que las lámparas de xenón deslumbran menos que otros sistemas anteriores."
+    },
+    {
+        "_id": "PB-TM9-P22",
+        "Enunciado": "¿Qué es el xenón según la definición del glosario del tema?",
+        "Opciones": [
+            "A) Gas que se usa en algunos sistemas de iluminación.",
+            "B) Un metal conductor utilizado en los cables de los faros.",
+            "C) Un plástico resistente al calor que recubre la bombilla."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El xenón es un gas utilizado en los sistemas de iluminación modernos."
+    },
+    {
+        "_id": "PB-TM9-P23",
+        "Enunciado": "¿En qué consiste el sistema de activación automática de alumbrado?",
+        "Opciones": [
+            "A) Mide la luz exterior y enciende o apaga las luces de forma automática.",
+            "B) Activa las luces largas cada vez que el vehículo supera los 100 km/h.",
+            "C) Enciende las luces solo cuando detecta movimiento cerca del coche parado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este sistema gestiona las luces midiendo la luminosidad exterior para mejorar la visibilidad del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P24",
+        "Enunciado": "¿Qué función tienen las luces adaptativas?",
+        "Opciones": [
+            "A) Permiten que el conductor mueva los faros manualmente desde un mando.",
+            "B) Ajustan la intensidad y el lugar donde alumbran según las necesidades.",
+            "C) Cambian el color de la luz según el estado de ánimo del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las luces adaptativas varían su intensidad y zona de alumbrado basándose en las necesidades del momento."
+    },
+    {
+        "_id": "PB-TM9-P25",
+        "Enunciado": "Para ajustar el alumbrado, ¿qué factores tiene en cuenta el sistema de luces adaptativas?",
+        "Opciones": [
+            "A) Únicamente la hora que marca el reloj del vehículo.",
+            "B) Distancia del vehículo contrario, tipo de carretera y velocidad propia.",
+            "C) La temperatura del motor y el nivel de aceite."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Considera la distancia con otros vehículos, la vía por la que se circula y la velocidad del propio coche."
+    },
+    {
+        "_id": "PB-TM9-P26",
+        "Enunciado": "¿Cuándo se encienden las luces angulares?",
+        "Opciones": [
+            "A) Se encienden solo cuando el vehículo circula marcha atrás.",
+            "B) Se encienden cuando giras el volante.",
+            "C) Se encienden automáticamente al entrar en un garaje privado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las luces angulares se activan al girar el volante para iluminar el lado hacia el que se va a realizar el giro."
+    },
+    {
+        "_id": "PB-TM9-P27",
+        "Enunciado": "¿En qué lugar ayudan las luces angulares a que otros conductores sepan por dónde vas a girar?",
+        "Opciones": [
+            "A) En los túneles de más de 1 kilómetro.",
+            "B) En las rectas de las autopistas.",
+            "C) En las rotondas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En las rotondas, estas luces permiten a los demás saber la trayectoria de giro del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P28",
+        "Enunciado": "¿Qué es una rotonda según la definición del texto?",
+        "Opciones": [
+            "A) Plaza circular que es un cruce entre calles.",
+            "B) Un tramo de carretera con curvas peligrosas hacia la derecha.",
+            "C) Una calle cortada que termina en forma de círculo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La rotonda se define como una plaza circular que sirve de cruce entre calles."
+    },
+    {
+        "_id": "PB-TM9-P29",
+        "Enunciado": "¿Qué son las luces de carretera automáticas?",
+        "Opciones": [
+            "A) Sistema para encender luces que iluminan más cuando hay poca luz exterior.",
+            "B) Luces de posición que no se pueden apagar nunca por seguridad.",
+            "C) Un sistema que proyecta señales de tráfico en el suelo de la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Son luces que aumentan el espacio iluminado automáticamente cuando la luz exterior es escasa."
+    },
+    {
+        "_id": "PB-TM9-P30",
+        "Enunciado": "¿De qué se encargan los frenos de un vehículo?",
+        "Opciones": [
+            "A) De reducir la velocidad del vehículo hasta pararlo del todo.",
+            "B) De aumentar la potencia del motor en las subidas.",
+            "C) De mantener la dirección del coche recta en las frenadas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La función principal de los frenos es reducir la velocidad hasta la detención total del vehículo."
+    }
+]

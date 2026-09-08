@@ -1,0 +1,230 @@
+[
+    {
+        "_id": "PB-TM8-P91",
+        "Enunciado": "¿Qué indica esta señal?",
+        "Opciones": [
+            "A) Que el vehículo mide más de 12 metros.",
+            "B) Que el vehículo transporta mercancías peligrosas.",
+            "C) Que el vehículo no puede circular a más de 40 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Esta señal identifica a aquellos vehículos que, por sus características, tienen limitada su velocidad máxima a 40 kilómetros por hora.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P92",
+        "Enunciado": "¿A partir de qué longitud un vehículo debe llevar la placa de 'vehículo largo'?",
+        "Opciones": [
+            "A) Cuando mide más de 12 metros.",
+            "B) Cuando mide más de 10 metros.",
+            "C) Cuando mide exactamente 15 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La placa de vehículo largo es obligatoria para todos aquellos vehículos o conjuntos de vehículos que superen los 12 metros de longitud total.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P93",
+        "Enunciado": "¿Cómo es físicamente la placa de vehículo largo?",
+        "Opciones": [
+            "A) Rectangular, de color amarillo con los bordes rojos.",
+            "B) Circular, de color amarillo y borde negro.",
+            "C) Cuadrada, de color blanco y borde azul."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se trata de un panel rectangular de fondo amarillo con un borde reflectante de color rojo, situado en la parte trasera."
+    },
+    {
+        "_id": "PB-TM8-P94",
+        "Enunciado": "En las placas de mercancías peligrosas, ¿qué indican los números de la parte de arriba?",
+        "Opciones": [
+            "A) El tipo de peligro que puede producir el material (tóxico, inflamable, etc.).",
+            "B) El número de teléfono de emergencias del fabricante.",
+            "C) La cantidad exacta de kilos que transporta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La numeración superior de estos paneles informa sobre la naturaleza del riesgo o peligro que conlleva la materia transportada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P95",
+        "Enunciado": "La placa de conductor nuevo (L), ¿durante cuánto tiempo es obligatorio llevarla?",
+        "Opciones": [
+            "A) Durante el primer año tras obtener el primer permiso.",
+            "B) Durante el primer año del último permiso obtenido.",
+            "C) Durante los primeros dos años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los conductores noveles deben exhibir la señal V-13 (L) durante un periodo de un año desde la obtención de su carné."
+    },
+    {
+        "_id": "PB-TM8-P96",
+        "Enunciado": "¿Dónde debe colocarse la placa de conductor nuevo (L)?",
+        "Opciones": [
+            "A) En el cristal trasero, en un lugar que se vea bien.",
+            "B) En la matrícula trasera, sustituyendo a la placa original.",
+            "C) En el cristal delantero, para que la vea el agente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal de conductor novel se instala en la parte posterior izquierda del vehículo (cristal trasero) en una posición bien visible para el resto de usuarios."
+    },
+    {
+        "_id": "PB-TM8-P97",
+        "Enunciado": "¿Qué indica la señal de color amarillo (V-16) que se coloca en la parte más alta del vehículo?",
+        "Opciones": [
+            "A) Que el vehículo se encuentra en situación de emergencia unicamente.",
+            "B) Que el vehículo transporta a una persona importante.",
+            "C) Que el vehículo está parado por emergencia, avería o carga caída."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Esta señal luminosa sirve para advertir de que el vehículo constituye un peligro u obstáculo por haber quedado detenido en la vía debido a un incidente.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P98",
+        "Enunciado": "¿Dónde se debe colocar la pegatina de la ITV en los vehículos a motor?",
+        "Opciones": [
+            "A) En el lado derecho del cristal de la parte delantera.",
+            "B) En cualquier lugar de la carrocería siempre que sea visible.",
+            "C) En el lado izquierdo del cristal trasero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La pegatina de la inspección técnica debe ir adherida en el ángulo superior derecho del parabrisas delantero por su cara interior."
+    },
+    {
+        "_id": "PB-TM8-P99",
+        "Enunciado": "Cuando se realizan operaciones de carga y descarga en la vía pública, ¿qué normas de estacionamiento se deben cumplir?",
+        "Opciones": [
+            "A) Solo es obligatorio respetar las zonas de carga y descarga entre las 8:00 y las 14:00 horas.",
+            "B) Ninguna, pues la carga y descarga tiene prioridad sobre cualquier señal de prohibición.",
+            "C) Se deben respetar las normas sobre los lugares en los que se puede parar y estacionar y las horas a las que está permitido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al realizar estas operaciones en la calle, es obligatorio seguir las reglas municipales sobre los lugares habilitados para la parada o el estacionamiento, así como los horarios específicos permitidos para dicha actividad."
+    },
+    {
+        "_id": "PB-TM8-P100",
+        "Enunciado": "¿Cuáles de los siguientes se consideran vehículos que prestan servicios de urgencias?",
+        "Opciones": [
+            "A) Cualquier vehículo que circule con las luces de emergencia encendidas.",
+            "B) Coches de policía, camiones de bomberos, vehículos de atención civil, de salvamento y ambulancias.",
+            "C) Únicamente los coches de policía y las ambulancias privadas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se consideran vehículos prioritarios o de urgencia a los de la policía, bomberos, protección civil (atención civil), equipos de rescate y servicios sanitarios."
+    },
+    {
+        "_id": "PB-TM8-P101",
+        "Enunciado": "¿Qué indica esta placa?",
+        "Opciones": [
+            "A) La velocidad máxima del vehículo.",
+            "B) La velocidad máxima recomendada para el conductor novel.",
+            "C) La velocidad mínima a la que debe circular por autovía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Esta señal establece una restricción específica para ese vehículo concreto, prohibiéndole superar la velocidad indicada en la placa.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P102",
+        "Enunciado": "¿Qué significado tiene esta señal colocada en la parte trasera de un vehículo?",
+        "Opciones": [
+            "A) El vehículo está realizando prácticas de conducción con un profesor.",
+            "B) El vehículo realiza un transporte escolar o de menores.",
+            "C) El permiso de conducir de la persona que conduce tiene menos de un año."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La placa con la letra L (señal de conductor nuevo) indica que el conductor es novel y su permiso tiene una antigüedad inferior a un año.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P103",
+        "Enunciado": "¿Cuál es la función principal de la pegatina de la inspección técnica del vehículo (ITV)?",
+        "Opciones": [
+            "A) Sustituir a la tarjeta de inspección técnica original para no llevarla en el coche.",
+            "B) Indicar que el vehículo ha pasado la inspección, está en buenas condiciones para circular y la próxima revisión.",
+            "C) Indicar exclusivamente que el vehículo tiene el seguro en vigor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La pegatina certifica que el vehículo cumple con las condiciones técnicas de seguridad y medioambientales para circular y marca el plazo para el siguiente control."
+    },
+    {
+        "_id": "PB-TM8-P104",
+        "Enunciado": "En los remolques y semirremolques, ¿dónde se debe colocar la pegatina de la ITV?",
+        "Opciones": [
+            "A) En el cristal delantero del vehículo que lo arrastra.",
+            "B) En un lugar del remolque o semirremolque donde se vea bien.",
+            "C) En el interior de la caja de carga para que no se deteriore."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "A diferencia de los turismos, los remolques deben llevar su propia pegatina de inspección en un lugar visible de su estructura."
+    },
+    {
+        "_id": "PB-TM8-P105",
+        "Enunciado": "En las placas naranja que llevan los vehículos que transportan mercancías peligrosas, ¿qué indican los números de la parte de abajo?",
+        "Opciones": [
+            "A) El número de teléfono de emergencias en caso de vertido.",
+            "B) El material específico que transporta el vehículo.",
+            "C) El tipo de peligro que puede producir el material, como si es tóxico o puede arder."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las placas de mercancías peligrosas están divididas en dos partes: mientras que los números superiores informan sobre la clase de peligro, los números situados en la parte inferior identifican el material concreto que se está transportando.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P106",
+        "Enunciado": "¿Qué indica el cartel de 'Acompañamiento de transporte especial' que lleva un vehículo en su parte superior?",
+        "Opciones": [
+            "A) Que el vehículo transporta mercancías peligrosas de gran volumen.",
+            "B) Que cerca circula un vehículo de transporte especial, como una cosechadora.",
+            "C) Que el vehículo tiene prioridad de paso sobre el resto de usuarios."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este cartel sirve para advertir a los conductores de que en las proximidades circula un vehículo de transporte especial, permitiendo que extremen las precauciones.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM8-P107",
+        "Enunciado": "¿Cuáles son ejemplos de vehículos que requieren una señal de aviso de acompañamiento de transporte especial?",
+        "Opciones": [
+            "A) Un camión de bomberos o una ambulancia.",
+            "B) Un autobús escolar o un coche de policía.",
+            "C) Una cosechadora o una excavadora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ejemplos explitos son las cosechadoras y a las excavadoras de vehículos cuya circulación requiere este tipo de aviso de acompañamiento."
+    },
+    {
+        "_id": "PB-TM8-P108",
+        "Enunciado": "¿Dónde debe ir colocado el cartel de aviso de acompañamiento de transporte especial?",
+        "Opciones": [
+            "A) En el cristal trasero, junto a la placa de matrícula.",
+            "B) En el lateral izquierdo del vehículo para ser visto al adelantar.",
+            "C) En la parte de arriba del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para garantizar su máxima visibilidad, la normativa indica que este cartel de aviso debe situarse en la parte superior del vehículo que acompaña al transporte especial."
+    },
+    {
+        "_id": "PB-TM8-P109",
+        "Enunciado": "¿Cuál es la función del cartel de 'Acompañamiento de ciclistas'?",
+        "Opciones": [
+            "A) Avisar de que cerca hay ciclistas circulando por la carretera.",
+            "B) Indicar que el vehículo transporta bicicletas en su interior.",
+            "C) Marcar el inicio de una competición deportiva oficial."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este cartel se utiliza para alertar al resto de conductores sobre la presencia cercana de ciclistas en la vía, mejorando así su seguridad."
+    },
+    {
+        "_id": "PB-TM8-P110",
+        "Enunciado": "Respecto a su ubicación, ¿dónde se instala el cartel de aviso de acompañamiento de ciclistas?",
+        "Opciones": [
+            "A) En ambos retrovisores exteriores del vehículo.",
+            "B) En el parachoques delantero, bajo las luces de posición.",
+            "C) En la parte de arriba del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al igual que el cartel de transporte especial, el aviso de acompañamiento de ciclistas debe colocarse en la parte de arriba del vehículo para que sea fácilmente detectable."
+    }
+]

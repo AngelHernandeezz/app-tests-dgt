@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P331",
+        "Enunciado": "¿Qué condiciones deben cumplirse simultáneamente para que el sistema de luces de carretera automáticas se encienda?",
+        "Opciones": [
+            "A) Que el sistema detecte oscuridad exterior y el vehículo circule a menos de 45 kilómetros por hora.",
+            "B) Circular por una vía insuficientemente iluminada a cualquier velocidad.",
+            "C) Circular a más de 45 kilómetros por hora y no detectar otro vehículo cerca."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema requiere una velocidad superior a 45 km/h y la ausencia de otros vehículos para activarse."
+    },
+    {
+        "_id": "PB-TM9-P332",
+        "Enunciado": "Si se instala un sistema de retención infantil en el asiento del pasajero delantero, ¿cuál es el requisito de seguridad pasiva?",
+        "Opciones": [
+            "A) Es indiferente si el airbag está activo siempre que el niño mire hacia atrás.",
+            "B) Desconectar el airbag del asiento del copiloto.",
+            "C) Desplazar el asiento del copiloto hasta que toque la banqueta trasera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es obligatorio desactivar el airbag frontal del copiloto si se coloca allí una sillita infantil."
+    },
+    {
+        "_id": "PB-TM9-P333",
+        "Enunciado": "Respecto a la degradación de la goma de los neumáticos, ¿qué factor climático acelera su desgaste?",
+        "Opciones": [
+            "A) El calor, ya que los neumáticos sufren un mayor desgaste en verano.",
+            "B) Las lluvias torrenciales de otoño por el exceso de humedad en la banda.",
+            "C) Las heladas continuas de los meses de invierno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El clima es un factor determinante y el texto especifica que el desgaste aumenta en verano."
+    },
+    {
+        "_id": "PB-TM9-P334",
+        "Enunciado": "Sobre el funcionamiento del sistema ABS, ¿cómo afecta la carga del vehículo al bloqueo de las ruedas?",
+        "Opciones": [
+            "A) El exceso de peso facilita el bloqueo inmediato de las ruedas delanteras.",
+            "B) La carga solo influye en la distancia de reacción, no en la capacidad de bloqueo técnico.",
+            "C) Cuanto más peso hay en el vehículo, más difícil es que las ruedas se bloqueen al frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual indica que un mayor peso dificulta el bloqueo de las ruedas durante la frenada."
+    },
+    {
+        "_id": "PB-TM9-P335",
+        "Enunciado": "Al utilizar un asistente de aparcamiento automático, ¿qué papel desempeña el conductor?",
+        "Opciones": [
+            "A) Debe prestar mucha atención para asegurar que la maniobra es segura y puede pararla.",
+            "B) Puede delegar la vigilancia del entorno en la cámara de 360 grados.",
+            "C) El conductor no puede intervenir una vez que el sistema toma el control del volante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La supervisión constante es responsabilidad del conductor, quien mantiene el control de detener la maniobra."
+    },
+    {
+        "_id": "PB-TM9-P336",
+        "Enunciado": "¿En qué situación un profesor de formación vial está exento de utilizar el cinturón de seguridad?",
+        "Opciones": [
+            "A) Únicamente durante la realización de las pruebas oficiales de examen de conducir.",
+            "B) Dentro de poblado, cuando lleva a un alumno y está a cargo de los mandos adicionales.",
+            "C) En cualquier tipo de vía siempre que el vehículo lleve el distintivo de autoescuela."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Esta excepción solo se aplica en ciudad y mientras el profesor ejerce su función con mandos adicionales."
+    },
+    {
+        "_id": "PB-TM9-P337",
+        "Enunciado": "Sobre el mantenimiento preventivo del casco de protección, ¿qué práctica desaconseja el manual?",
+        "Opciones": [
+            "A) Pintarlo o colocar pegatinas, ya que puede perder sus propiedades.",
+            "B) Limpiar la pantalla antivaho con un paño húmedo después de circular.",
+            "C) Almacenarlo en el compartimento bajo el asiento de la motocicleta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Ciertos materiales de los cascos se degradan si se les aplican pinturas o adhesivos externos."
+    },
+    {
+        "_id": "PB-TM9-P338",
+        "Enunciado": "¿Qué define conceptualmente a los elementos de seguridad activa de un vehículo?",
+        "Opciones": [
+            "A) Sistemas diseñados para reducir la gravedad de las lesiones de los ocupantes.",
+            "B) Elementos que se activan automáticamente tras producirse un impacto violento.",
+            "C) Dispositivos pensados específicamente para evitar que el accidente llegue a producirse."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La seguridad activa tiene como finalidad la prevención de accidentes."
+    },
+    {
+        "_id": "PB-TM9-P339",
+        "Enunciado": "Si circula con una presión de inflado inferior a la recomendada, ¿qué consecuencia económica directa tiene?",
+        "Opciones": [
+            "A) Se reduce el gasto en mantenimiento de los amortiguadores.",
+            "B) Se gasta más combustible debido a la deformación del neumático.",
+            "C) El vehículo consume una cantidad significativamente menor de aceite de motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una presión baja aumenta el rozamiento y, por tanto, el consumo de combustible."
+    },
+    {
+        "_id": "PB-TM9-P340",
+        "Enunciado": "Ante un fallo total de frenos bajando una pendiente muy inclinada, ¿cuál es la última opción mecánica si no se pueden reducir marchas?",
+        "Opciones": [
+            "A) Tirar de la palanca del freno de mano de forma suave.",
+            "B) Pisar el pedal del embrague a fondo para desconectar el motor.",
+            "C) Girar el volante bruscamente hacia el lado del arcén para detenerse por rozamiento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si el motor no puede retener el vehículo, se debe recurrir al freno de mano de manera progresiva y suave."
+    },
+    {
+        "_id": "PB-TM9-P341",
+        "Enunciado": "El regulador de velocidad permite mantener un ritmo constante, pero ¿en qué momento se desactiva el sistema?",
+        "Opciones": [
+            "A) Automáticamente al entrar en una travesía o zona de velocidad limitada a 30 km/h.",
+            "B) Únicamente mediante el botón específico situado en el centro del volante.",
+            "C) Cuando el conductor acciona el pedal del freno o el del acelerador."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cualquier intervención del conductor sobre los pedales de control de velocidad desactiva el regulador."
+    },
+    {
+        "_id": "PB-TM9-P342",
+        "Enunciado": "Para evitar lesiones cervicales, ¿cómo debe posicionarse el borde superior del reposacabezas?",
+        "Opciones": [
+            "A) En contacto directo con la base del cráneo para sostener el peso del cuello.",
+            "B) A la altura de la línea de los ojos para garantizar la máxima visibilidad trasera.",
+            "C) A la misma altura que la parte de arriba de la cabeza."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El reposacabezas debe alinearse con la coronilla para ser eficaz en un impacto."
+    },
+    {
+        "_id": "PB-TM9-P343",
+        "Enunciado": "En una motocicleta, ¿qué mandos se gestionan habitualmente con la mano derecha?",
+        "Opciones": [
+            "A) La palanca del embrague y el interruptor de las luces de emergencia.",
+            "B) El acelerador (puño) y la palanca del freno delantero.",
+            "C) El pedal de cambio de marchas y el mando del claxon."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La mano derecha controla la aceleración y la frenada del eje delantero."
+    },
+    {
+        "_id": "PB-TM9-P344",
+        "Enunciado": "¿Cuál es la función técnica de la luneta térmica en el cristal trasero?",
+        "Opciones": [
+            "A) Aumentar la temperatura del habitáculo para mejorar el confort de los pasajeros.",
+            "B) Quitar el hielo y los vapores que se forman para garantizar la visibilidad.",
+            "C) Reforzar la estructura del cristal frente a posibles impactos por alcance."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las líneas de la luneta térmica eliminan la condensación y el hielo del cristal posterior."
+    },
+    {
+        "_id": "PB-TM9-P345",
+        "Enunciado": "Respecto a los niños más pequeños, ¿qué orientación de la sillita infantil se recomienda por seguridad?",
+        "Opciones": [
+            "A) En el sentido contrario a la marcha del vehículo.",
+            "B) En el sentido de la marcha para evitar mareos y náuseas.",
+            "C) En posición lateral sobre el asiento trasero central."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Viajar mirando hacia atrás es más seguro para la fisonomía de los niños pequeños."
+    },
+    {
+        "_id": "PB-TM9-P346",
+        "Enunciado": "¿Qué criterio utiliza el sistema de control de tracción para intervenir en la conducción?",
+        "Opciones": [
+            "A) Identifica si una rueda gira más rápido que las demás para frenarla.",
+            "B) Detecta si la inclinación del vehículo en curva supera los 30 grados.",
+            "C) Mide la cantidad de agua presente en las ranuras de la banda de rodadura."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema detecta la pérdida de adherencia mediante la velocidad de giro de cada rueda."
+    },
+    {
+        "_id": "PB-TM9-P347",
+        "Enunciado": "¿Qué diferencia existe entre los sistemas LDW (aviso) y LKA (asistencia)?",
+        "Opciones": [
+            "A) El LDW solo avisa de la salida y el LKA ayuda activamente a guiar el coche.",
+            "B) El LDW frena el vehículo y el LKA solo emite un sonido de alerta.",
+            "C) No existe diferencia, son dos siglas para denominar al reconocimiento de señales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El LKA tiene una función de asistencia activa en el guiado, a diferencia del LDW que es puramente informativo."
+    },
+    {
+        "_id": "PB-TM9-P348",
+        "Enunciado": "¿Cómo se comprueba que el espejo retrovisor interior central está correctamente regulado?",
+        "Opciones": [
+            "A) Si permite observar el arcén derecho a través de la ventanilla trasera.",
+            "B) Cuando se visualiza la cara de los pasajeros que viajan en las plazas traseras.",
+            "C) Cuando se pueden ver los cuatro bordes de la ventanilla de atrás."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La posición óptima es la que enmarca perfectamente la luna trasera."
+    },
+    {
+        "_id": "PB-TM9-P349",
+        "Enunciado": "Si los frenos pierden eficacia (fading) por un calentamiento excesivo en poco tiempo, ¿cuál es la solución?",
+        "Opciones": [
+            "A) Pisar el freno repetidamente con mucha fuerza para evacuar gases.",
+            "B) Aplicar agua sobre los discos de freno para reducir la temperatura inmediatamente.",
+            "C) Soltar el pedal de freno para que se enfríen."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es necesario dejar que los componentes se enfríen de forma natural cesando la presión sobre ellos."
+    },
+    {
+        "_id": "PB-TM9-P350",
+        "Enunciado": "Para que una rueda sea segura y funcional, ¿qué relación debe existir entre sus componentes?",
+        "Opciones": [
+            "A) La llanta y el neumático tienen que ser compatibles entre sí.",
+            "B) El neumático debe ser siempre de la misma marca que el fabricante del chasis.",
+            "C) La llanta debe ser de un diámetro superior al del neumático para facilitar el montaje."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La compatibilidad asegura que el neumático encaje correctamente y no se desprenda."
+    },
+    {
+        "_id": "PB-TM9-P351",
+        "Enunciado": "¿A qué distancia mínima del volante debe situar su pecho el conductor para evitar lesiones por el airbag?",
+        "Opciones": [
+            "A) A diez centímetros para permitir un inflado rápido.",
+            "B) A cincuenta centímetros para evitar quemaduras por los gases del sistema.",
+            "C) A veinticinco centímetros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se requiere una separación mínima de 25 cm para que el despliegue de la bolsa no golpee violentamente al conductor."
+    },
+    {
+        "_id": "PB-TM9-P352",
+        "Enunciado": "¿Cuál es la utilidad principal del sistema de alerta de tráfico cruzado (RCTA)?",
+        "Opciones": [
+            "A) Identificar a los peatones que cruzan por zonas no señalizadas en intersecciones.",
+            "B) Avisar de vehículos que se aproximan lateralmente al salir de un aparcamiento marcha atrás.",
+            "C) Detectar vehículos en el ángulo muerto durante un cambio de carril en autopista."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El RCTA ayuda en maniobras de retroceso con visibilidad lateral limitada."
+    },
+    {
+        "_id": "PB-TM9-P353",
+        "Enunciado": "Al abrocharse el cinturón de seguridad, ¿dónde debe situarse exactamente la cinta abdominal?",
+        "Opciones": [
+            "A) Entre la cintura y el borde inferior de las costillas.",
+            "B) Sobre los huesos de la cadera.",
+            "C) Justo encima del ombligo para proteger la zona blanda del estómago."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La cinta debe apoyarse en la estructura ósea de la cadera para evitar lesiones internas."
+    },
+    {
+        "_id": "PB-TM9-P354",
+        "Enunciado": "Para garantizar la visibilidad a través del casco en días fríos o lluviosos, ¿qué tipo de pantalla se recomienda?",
+        "Opciones": [
+            "A) Pantallas antivaho.",
+            "B) Una pantalla de bixenón polarizada con filtro ultravioleta.",
+            "C) Una visera de cristal templado con resistencia térmica."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las pantallas antivaho evitan que el vapor empañe la visión del motorista."
+    },
+    {
+        "_id": "PB-TM9-P355",
+        "Enunciado": "Además de informar sobre los límites de velocidad, ¿qué acción pueden realizar algunos sistemas TSR avanzados?",
+        "Opciones": [
+            "A) Bloquear la palanca de cambios si se detecta una señal de dirección prohibida.",
+            "B) Reducir la velocidad del vehículo por sí solos si se supera el límite.",
+            "C) Activar automáticamente las luces de emergencia ante una señal de peligro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ciertos sistemas TSR tienen capacidad de intervención activa sobre la velocidad del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P356",
+        "Enunciado": "De los siguientes elementos, ¿cuáles se clasifican como sistemas de seguridad pasiva?",
+        "Opciones": [
+            "A) Los frenos, el sistema de luces y el control de estabilidad.",
+            "B) El regulador de velocidad adaptativo y el asistente de mantenimiento de carril.",
+            "C) El cinturón de seguridad, el airbag y el reposacabezas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estos elementos actúan para minimizar daños una vez ocurrido el accidente."
+    },
+    {
+        "_id": "PB-TM9-P357",
+        "Enunciado": "¿Cuál es el límite legal de profundidad para las ranuras de la banda de rodamiento en los neumáticos de un turismo?",
+        "Opciones": [
+            "A) No deben superar los 1,6 milímetros de profundidad.",
+            "B) Deben tener al menos 1,6 milímetros de profundidad.",
+            "C) Deben tener exactamente 2,0 milímetros en toda la superficie."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Por debajo de 1,6 mm, el neumático se considera desgastado e inseguro según la normativa."
+    },
+    {
+        "_id": "PB-TM9-P358",
+        "Enunciado": "Para maximizar el efecto del freno motor, ¿qué técnica de conducción debe aplicarse?",
+        "Opciones": [
+            "A) Pisar el pedal del embrague de forma intermitente mientras se baja la cuesta.",
+            "B) Circular utilizando marchas cortas, como la primera o la segunda.",
+            "C) Mantener el motor a bajas revoluciones utilizando marchas muy largas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las marchas cortas aumentan la capacidad de retención del motor sobre el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P359",
+        "Enunciado": "Una motocicleta que puede alcanzar velocidades superiores a los 100 km/h, ¿qué obligación tiene respecto a los retrovisores?",
+        "Opciones": [
+            "A) Llevar dos retrovisores, uno a cada lado del vehículo.",
+            "B) Llevar obligatoriamente un solo retrovisor en el lado izquierdo.",
+            "C) El uso de retrovisores es opcional si el conductor utiliza un casco integral."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "A partir de 100 km/h es obligatorio contar con visión por ambos lados del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P360",
+        "Enunciado": "Sobre la sujeción del volante, ¿qué instrucción es correcta según el manual?",
+        "Opciones": [
+            "A) Debe sujetarse por la parte interior para tener mayor palanca en los giros.",
+            "B) Es recomendable cruzar las manos al realizar giros rápidos en rotondas.",
+            "C) Hay que coger el volante por la parte exterior."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El volante debe asirse siempre por su aro exterior para un control seguro y eficaz."
+    }
+]

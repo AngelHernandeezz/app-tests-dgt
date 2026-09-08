@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM8-P141",
+    "Enunciado": "En la placa naranja de un vehículo que transporta mercancías peligrosas, ¿qué indican los números de la parte superior?",
+    "Opciones": [
+      "A) El tipo de peligro que puede producir el material (tóxico, inflamable, etc.).",
+      "B) La cantidad exacta de mercancía que transporta en kilos.",
+      "C) El número de identificación de la sustancia específica."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los paneles naranja de mercancías peligrosas, los números superiores identifican la naturaleza del peligro, mientras que los inferiores identifican la materia."
+  },
+  {
+    "_id": "PB-TM8-P142",
+    "Enunciado": "¿Qué indica el número situado en la parte de abajo de una placa de mercancías peligrosas?",
+    "Opciones": [
+      "A) La velocidad máxima a la que puede circular el vehículo.",
+      "B) El número de identificación del material o sustancia que se transporta.",
+      "C) El número de teléfono de emergencias en caso de fuga."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El número inferior de la placa naranja es el código que identifica la materia peligrosa concreta que se está transportando."
+  },
+  {
+    "_id": "PB-TM8-P143",
+    "Enunciado": "Como norma general, ¿cuál es la altura máxima permitida para un autobús?",
+    "Opciones": [
+      "A) 4 metros.",
+      "B) 4,20 metros.",
+      "C) 4,50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque la altura general para vehículos es de 4 metros, los autobuses tienen permitido llegar hasta los 4,20 metros."
+  },
+  {
+    "_id": "PB-TM8-P144",
+    "Enunciado": "¿Qué altura máxima puede alcanzar una grúa que se dedica a retirar vehículos averiados o accidentados?",
+    "Opciones": [
+      "A) 4 metros.",
+      "B) 4,20 metros.",
+      "C) 4,50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las grúas de auxilio en carretera tienen una excepción que les permite alcanzar hasta los 4,50 metros de altura."
+  },
+  {
+    "_id": "PB-TM8-P145",
+    "Enunciado": "¿Cuál es la longitud máxima permitida para un vehículo articulado que lleva un semirremolque?",
+    "Opciones": [
+      "A) 12 metros.",
+      "B) 16,50 metros.",
+      "C) 18,75 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos articulados compuestos por un tractor y un semirremolque tienen una longitud máxima autorizada de 16,50 metros."
+  },
+  {
+    "_id": "PB-TM8-P146",
+    "Enunciado": "Un conjunto de vehículos en configuración euromodular, ¿qué longitud máxima puede alcanzar?",
+    "Opciones": [
+      "A) 18,75 metros.",
+      "B) 12 metros.",
+      "C) 25,25 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los conjuntos euromodulares son los vehículos más largos permitidos, pudiendo alcanzar hasta los 25,25 metros."
+  },
+  {
+    "_id": "PB-TM8-P147",
+    "Enunciado": "Un remolque que puede cargar 1.000 kg (no ligero), ¿qué placas de matrícula debe llevar atrás?",
+    "Opciones": [
+      "A) La suya propia (roja) y la del vehículo tractor (blanca).",
+      "B) Solo la suya propia de color rojo.",
+      "C) Únicamente la del vehículo tractor."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los remolques de más de 750 kg deben llevar su propia matrícula y la del vehículo que los remolca."
+  },
+  {
+    "_id": "PB-TM8-P148",
+    "Enunciado": "La señal luminosa de color amarillo (V-16) para indicar peligro, ¿dónde debe colocarse?",
+    "Opciones": [
+      "A) En el salpicadero del vehículo.",
+      "B) En el suelo, a 50 metros del vehículo.",
+      "C) En la parte más alta del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La señal V-16 se coloca en la parte más alta del vehículo para avisar de que este se encuentra parado por avería o emergencia."
+  },
+  {
+    "_id": "PB-TM8-P149",
+    "Enunciado": "Durante una operación de carga y descarga, ¿está permitido dejar la mercancía en el arcén?",
+    "Opciones": [
+      "A) No, está prohibido dejar las cargas en la carretera, el arcén o zonas peatonales.",
+      "B) Sí, siempre que se señalice con los triángulos de preseñalización.",
+      "C) Solo si se hace por un tiempo inferior a dos minutos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La normativa prohíbe depositar la carga en la calzada, arcén o zonas destinadas al paso de peatones."
+  },
+  {
+    "_id": "PB-TM8-P150",
+    "Enunciado": "Si usted transporta una carga que suelta polvo o puede caerse, ¿qué debe tener en cuenta?",
+    "Opciones": [
+      "A) Que debe circular por el carril derecho obligatoriamente.",
+      "B) Que el transporte debe hacerse en vehículos especiales preparados para ello.",
+      "C) Que solo puede realizar el transporte en vías urbanas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las cargas que pueden soltar polvo o humo deben transportarse en vehículos con cajas o dispositivos adecuados para evitar que se desparramen."
+  },
+  {
+    "_id": "PB-TM8-P151",
+    "Enunciado": "En una bicicleta, ¿cuál es el peso máximo permitido para el remolque que arrastra?",
+    "Opciones": [
+      "A) El 50% de la masa en vacío de la bicicleta.",
+      "B) 750 kg como máximo.",
+      "C) El 10% del peso del conductor."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los remolques para ciclos, bicicletas y motocicletas no pueden pesar más de la mitad del peso del vehículo tractor."
+  },
+  {
+    "_id": "PB-TM8-P152",
+    "Enunciado": "En una operación de carga en la vía pública, ¿en qué lado del vehículo debe realizarse?",
+    "Opciones": [
+      "A) Siempre por la parte trasera, nunca por los lados.",
+      "B) Por el lado que prefiera el conductor si no hay tráfico.",
+      "C) En el lado más cercano a la acera o el arcén."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para no entorpecer el tráfico y garantizar la seguridad, la carga se realiza por el lado más próximo al borde de la vía."
+  },
+  {
+    "_id": "PB-TM8-P153",
+    "Enunciado": "Un camión de 3 metros de largo transporta una viga indivisible. ¿Cuánto puede sobresalir por delante?",
+    "Opciones": [
+      "A) 2 metros.",
+      "B) 1 metro.",
+      "C) Nada, solo puede sobresalir por detrás."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En vehículos de 5 metros o menos, la carga puede sobresalir 1/3 de su longitud por delante y 1/3 por detrás. El tercio de 3 metros es 1 metro."
+  },
+  {
+    "_id": "PB-TM8-P154",
+    "Enunciado": "Si conduce un vehículo de mercancías de 12 metros de largo, ¿cuánto puede sobresalir la carga por delante?",
+    "Opciones": [
+      "A) 2 metros.",
+      "B) 3 metros.",
+      "C) Una tercera parte de la longitud del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para vehículos de más de 5 metros de longitud, la carga indivisible puede sobresalir 2 metros por la parte delantera."
+  },
+  {
+    "_id": "PB-TM8-P155",
+    "Enunciado": "Respecto a la carga que sobresale por la parte delantera, ¿cuándo es obligatorio señalizarla?",
+    "Opciones": [
+      "A) Siempre, tanto de día como de noche.",
+      "B) Únicamente cuando circule por autopistas.",
+      "C) Solo de noche o en condiciones de poca visibilidad."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A diferencia de la carga trasera, la carga que sobresale por delante solo se señala de noche o con poca luz (con luz blanca)."
+  },
+  {
+    "_id": "PB-TM8-P156",
+    "Enunciado": "Al transportar un perro en un turismo, ¿cuál es la medida de seguridad más recomendada?",
+    "Opciones": [
+      "A) Sujetarlo con un arnés en la parte trasera y usar una malla de separación.",
+      "B) Dejarlo suelto en el maletero si el coche es tipo familiar.",
+      "C) Colocarlo en el suelo del asiento del copiloto."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los animales deben ir sujetos en la parte posterior y se recomienda una malla para evitar que puedan saltar a la zona del conductor."
+  },
+  {
+    "_id": "PB-TM8-P157",
+    "Enunciado": "¿Qué determina el número máximo de personas que pueden viajar en un vehículo?",
+    "Opciones": [
+      "A) El peso total de la carga que se transporta.",
+      "B) El tamaño de los pasajeros (si son niños o adultos).",
+      "C) El número de asientos que tiene el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Está prohibido que viajen más personas que plazas o asientos autorizados tenga el vehículo."
+  },
+  {
+    "_id": "PB-TM8-P158",
+    "Enunciado": "Como norma general, los objetos o equipaje deben ir colocados en:",
+    "Opciones": [
+      "A) La baca del vehículo para mayor comodidad.",
+      "B) El maletero del vehículo.",
+      "C) El asiento trasero si solo viaja una persona."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El lugar preferente y reglamentario para el equipaje es el maletero o portamaletas."
+  },
+  {
+    "_id": "PB-TM8-P159",
+    "Enunciado": "¿Qué restricción horaria tienen las motocicletas para circular con un remolque?",
+    "Opciones": [
+      "A) Solo pueden circular durante el día y con buena visibilidad.",
+      "B) No pueden circular entre las 14:00 y las 16:00 horas.",
+      "C) No pueden circular los fines de semana."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las motocicletas, ciclomotores y bicicletas con remolque tienen prohibido circular de noche."
+  },
+  {
+    "_id": "PB-TM8-P160",
+    "Enunciado": "Un turismo de 4 metros transporta una tabla de surf (indivisible). ¿Cuánto puede sobresalir por detrás?",
+    "Opciones": [
+      "A) 40 centímetros.",
+      "B) 1 metro.",
+      "C) 60 centímetros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En turismos, las cargas indivisibles pueden sobresalir un 15% de la longitud del vehículo por detrás. El 15% de 4 metros es 0,60 metros."
+  },
+  {
+    "_id": "PB-TM8-P161",
+    "Enunciado": "Si en un turismo de 4 metros la carga es divisible (se puede separar), ¿cuánto puede sobresalir por detrás?",
+    "Opciones": [
+      "A) 60 centímetros.",
+      "B) 40 centímetros.",
+      "C) Nada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para cargas divisibles en turismos, el máximo permitido por la parte trasera es el 10% de la longitud del vehículo (0,40 metros en este caso)."
+  },
+  {
+    "_id": "PB-TM8-P162",
+    "Enunciado": "Al colocar paneles o láminas en un camión, ¿cómo deben situarse para que esté permitido?",
+    "Opciones": [
+      "A) Con su dimensión mayor en sentido longitudinal (a lo largo).",
+      "B) Con su dimensión mayor de forma transversal (de lado a lado).",
+      "C) Apoyados sobre la cabina del conductor."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La carga no puede ir en sentido transversal porque ocuparía más ancho de lo permitido; debe ir a lo largo."
+  },
+  {
+    "_id": "PB-TM8-P163",
+    "Enunciado": "¿Qué señales pueden utilizar los vehículos prioritarios (policía, bomberos) a la vez?",
+    "Opciones": [
+      "A) Únicamente la señal luminosa azul.",
+      "B) La señal luminosa azul y la sirena de sonidos.",
+      "C) La señal luminosa amarilla y la sirena."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos prioritarios en servicio de urgencia pueden combinar la luz azul con señales acústicas (sirena)."
+  },
+  {
+    "_id": "PB-TM8-P164",
+    "Enunciado": "La placa de conductor novel (L) debe llevarse durante:",
+    "Opciones": [
+      "A) Los primeros dos años de carné.",
+      "B) Los primeros seis meses únicamente.",
+      "C) El primer año de vigencia del permiso."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La señal V-13 (L) es obligatoria durante el primer año tras obtener el permiso de conducir."
+  },
+  {
+    "_id": "PB-TM8-P165",
+    "Enunciado": "¿Qué información adicional proporciona la pegatina de la ITV además de haber pasado la revisión?",
+    "Opciones": [
+      "A) La fecha exacta en la que debe pasar la próxima revisión.",
+      "B) El nombre del mecánico que revisó el vehículo.",
+      "C) Los kilómetros que tenía el coche en la última inspección."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La señal V-19 indica que el vehículo es apto y muestra cuándo caduca dicha validez."
+  },
+  {
+    "_id": "PB-TM8-P166",
+    "Enunciado": "¿Dónde se instala el cartel de aviso de acompañamiento de ciclistas?",
+    "Opciones": [
+      "A) En la parte delantera del vehículo tractor.",
+      "B) En los laterales, cerca de las ruedas traseras.",
+      "C) En la parte de arriba del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Este cartel debe ir en la parte superior para que sea fácilmente detectable por el resto de conductores."
+  },
+  {
+    "_id": "PB-TM8-P167",
+    "Enunciado": "El cartel de aviso de acompañamiento de transporte especial se coloca en:",
+    "Opciones": [
+      "A) El interior del habitáculo para que lo vea el conductor.",
+      "B) La parte de arriba del vehículo.",
+      "C) El parachoques posterior solamente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Al igual que el de ciclistas, se coloca en el techo o parte superior para maximizar su visibilidad."
+  },
+  {
+    "_id": "PB-TM8-P168",
+    "Enunciado": "¿De qué color es la placa de matrícula propia de un remolque de más de 750 kg?",
+    "Opciones": [
+      "A) Roja con caracteres negros.",
+      "B) Blanca con caracteres negros.",
+      "C) Amarilla con caracteres azules."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los remolques no ligeros (más de 750 kg) llevan una matrícula propia de color rojo, además de la blanca del tractor."
+  },
+  {
+    "_id": "PB-TM8-P169",
+    "Enunciado": "¿Cuál es la anchura máxima permitida para un vehículo incluyendo su carga?",
+    "Opciones": [
+      "A) 2,50 metros.",
+      "B) 2,55 metros.",
+      "C) 2,60 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Como norma general, ningún vehículo con su carga puede superar los 2,55 metros de ancho."
+  },
+  {
+    "_id": "PB-TM8-P170",
+    "Enunciado": "¿Qué requisito debe cumplir la carga respecto a la estabilidad del vehículo?",
+    "Opciones": [
+      "A) Debe concentrarse toda en el lado derecho.",
+      "B) Debe ser lo más pesada posible para que el coche no se mueva.",
+      "C) Debe ir bien repartida y sujeta para no perder estabilidad."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es fundamental que la carga esté equilibrada y amarrada para que el vehículo no se desestabilice en curvas o frenadas."
+  }
+]

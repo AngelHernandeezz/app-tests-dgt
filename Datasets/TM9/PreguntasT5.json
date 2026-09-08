@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P121",
+        "Enunciado": "¿Qué función adicional tiene el regulador de velocidad adaptativo respecto al regulador convencional?",
+        "Opciones": [
+            "A) Permite superar la velocidad máxima elegida si el conductor lo desea.",
+            "B) Ayuda a mantener la distancia con el vehículo de delante.",
+            "C) Ajusta automáticamente la presión de los neumáticos al peso de la carga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Además de controlar la velocidad, el sistema adaptativo ayuda a mantener la distancia de seguridad con el vehículo precedente."
+    },
+    {
+        "_id": "PB-TM9-P122",
+        "Enunciado": "¿Qué ayuda a mantener el sistema de regulador de velocidad adaptativo?",
+        "Opciones": [
+            "A) El carril por el que circula el vehículo sin tocar el volante.",
+            "B) El nivel de combustible óptimo para el trayecto seleccionado.",
+            "C) La distancia con el vehículo que circula delante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Este sistema de seguridad activa ayuda a mantener la distancia con el vehículo que tienes delante."
+    },
+    {
+        "_id": "PB-TM9-P123",
+        "Enunciado": "Con el regulador de velocidad adaptativo, ¿qué hará el vehículo si te acercas demasiado al de delante?",
+        "Opciones": [
+            "A) Bajará la velocidad o frenará.",
+            "B) Activará las luces de emergencia y emitirá un pitido constante.",
+            "C) Acelerará para realizar un adelantamiento rápido y seguro."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tu vehículo bajará la velocidad o frenará si no guardas la distancia y te acercas demasiado al vehículo de delante."
+    },
+    {
+        "_id": "PB-TM9-P124",
+        "Enunciado": "Según el temario, ¿qué es el chasis de un vehículo?",
+        "Opciones": [
+            "A) El conjunto de sensores que gestionan la seguridad activa.",
+            "B) La pintura metalizada que protege la estructura externa.",
+            "C) La estructura interna sobre la que se colocan todas las piezas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El chasis es el esqueleto o estructura interna del vehículo sobre la que se colocan todas las piezas que lo forman."
+    },
+    {
+        "_id": "PB-TM9-P125",
+        "Enunciado": "¿Cómo se define la carrocería en el manual?",
+        "Opciones": [
+            "A) El habitáculo donde se sientan exclusivamente los pasajeros traseros.",
+            "B) Estructura externa de metal que cubre el vehículo.",
+            "C) Parte del motor que se encarga de transmitir la fuerza a las ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La carrocería es la estructura externa de metal que cubre el vehículo."
+    },
+    {
+        "_id": "PB-TM9-P126",
+        "Enunciado": "¿Qué ocurre con el chasis y la carrocería en caso de accidente?",
+        "Opciones": [
+            "A) Se desprenden automáticamente para aligerar el peso del vehículo.",
+            "B) Se vuelven rígidos para que el impacto no afecte al metal.",
+            "C) Se deforman y protegen al vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En caso de accidente, el chasis y la carrocería se deforman para absorber energía y proteger a los pasajeros."
+    },
+    {
+        "_id": "PB-TM9-P127",
+        "Enunciado": "¿Cuál es el objetivo de que el chasis y la carrocería se deformen en un choque?",
+        "Opciones": [
+            "A) Evitar que los neumáticos revienten por la presión del impacto.",
+            "B) Que los pasajeros que van dentro sufran menos daños.",
+            "C) Que el vehículo pueda ser reparado de forma más sencilla y barata."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La deformación programada de estas estructuras sirve para que los pasajeros sufran menos daños."
+    },
+    {
+        "_id": "PB-TM9-P128",
+        "Enunciado": "Respecto a la estructura del vehículo, ¿qué parte se describe como una zona rígida?",
+        "Opciones": [
+            "A) La zona del motor y el maletero.",
+            "B) El habitáculo.",
+            "C) Los pilares exteriores de la carrocería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual diferencia entre partes deformables y el habitáculo rígido, que es donde viajan las personas."
+    },
+    {
+        "_id": "PB-TM9-P129",
+        "Enunciado": "¿Cuál es la función principal del cinturón de seguridad?",
+        "Opciones": [
+            "A) Impedir que el vehículo supere los 120 km/h por razones de peso.",
+            "B) Proteger a todas las personas del vehículo en caso de golpe brusco o vuelco.",
+            "C) Aumentar la comodidad de los pasajeros en viajes de larga duración."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Sirve para proteger a todas las personas que viajan en un vehículo en caso de un golpe brusco o de que el vehículo vuelque."
+    },
+    {
+        "_id": "PB-TM9-P130",
+        "Enunciado": "¿Cómo ayuda el cinturón de seguridad a las personas en caso de accidente?",
+        "Opciones": [
+            "A) Haciendo que el asiento se incline hacia atrás automáticamente.",
+            "B) Inflándose con aire para absorber la energía del impacto.",
+            "C) Ayuda a que las personas no salgan despedidas fuera del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cinturón ayuda a que las personas no se muevan de sus asientos y a que no salgan despedidas fuera del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P131",
+        "Enunciado": "¿Qué efecto tiene en la supervivencia llevar el cinturón de seguridad bien puesto?",
+        "Opciones": [
+            "A) Duplica las posibilidades de sobrevivir a un accidente.",
+            "B) Solo es eficaz si el vehículo circula a menos de 50 km/h.",
+            "C) Las posibilidades de sobrevivir aumentan en un 10%."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Llevar el cinturón de seguridad bien puesto hace que una persona tenga el doble de posibilidades de sobrevivir."
+    },
+    {
+        "_id": "PB-TM9-P132",
+        "Enunciado": "Según el manual, ¿qué ha ocurrido con las muertes por tráfico desde la existencia del cinturón?",
+        "Opciones": [
+            "A) Han aumentado debido a que los conductores corren más riesgos.",
+            "B) Hay menos muertes por accidentes de tráfico.",
+            "C) Se han mantenido estables pero los accidentes son más leves."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Hay menos muertes por accidentes de tráfico desde que existe el cinturón de seguridad."
+    },
+    {
+        "_id": "PB-TM9-P133",
+        "Enunciado": "Para que un cinturón de seguridad sea útil y seguro, ¿dónde debe estar bien sujeto?",
+        "Opciones": [
+            "A) Al reposacabezas del asiento correspondiente.",
+            "B) A la carrocería del vehículo.",
+            "C) Únicamente al chasis interno que no se ve a simple vista."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para ser útil y seguro, el cinturón debe cumplir requisitos de calidad y estar bien sujeto a la carrocería."
+    },
+    {
+        "_id": "PB-TM9-P134",
+        "Enunciado": "¿Qué debe hacerse si el cinturón de seguridad tiene algún desperfecto?",
+        "Opciones": [
+            "A) Llevarlo al taller para que lo arreglen o lo cambien.",
+            "B) Reforzarlo con una cinta elástica compatible con la tela.",
+            "C) Usarlo solo en las calles de la ciudad a baja velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Hay que llevarlo al taller para arreglarlo o cambiarlo si tiene algún desperfecto."
+    },
+    {
+        "_id": "PB-TM9-P135",
+        "Enunciado": "¿Quién tiene la obligación de llevar puesto el cinturón de seguridad?",
+        "Opciones": [
+            "A) Solo los pasajeros que viajen en las plazas traseras.",
+            "B) Únicamente el conductor y el pasajero delantero.",
+            "C) Todas las personas que viajan en un vehículo con cinturones instalados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Deben llevarlo tanto conductores como pasajeros en un vehículo que tenga cinturones instalados."
+    },
+    {
+        "_id": "PB-TM9-P136",
+        "Enunciado": "¿En qué lugares es obligatorio el uso del cinturón para conductores y pasajeros?",
+        "Opciones": [
+            "A) En todas las carreteras y calles.",
+            "B) Exclusivamente en las travesías y vías interurbanas.",
+            "C) Solo cuando se viaja por autopistas y autovías."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El uso del cinturón es obligatorio en todas las carreteras y calles."
+    },
+    {
+        "_id": "PB-TM9-P137",
+        "Enunciado": "¿Qué recomienda el manual respecto a las excepciones del uso del cinturón?",
+        "Opciones": [
+            "A) Que no se use nunca al circular por dentro de poblado.",
+            "B) Que lo lleven siempre, a pesar de existir excepciones.",
+            "C) Que solo sea obligatorio para los menores de edad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aunque hay algunas excepciones, lo recomendable es que lo lleven siempre."
+    },
+    {
+        "_id": "PB-TM9-P138",
+        "Enunciado": "¿Dónde se pueden aplicar las excepciones generales al uso del cinturón de seguridad?",
+        "Opciones": [
+            "A) Solo cuando el vehículo viaja dentro de un pueblo o ciudad.",
+            "B) Únicamente en carreteras convencionales con arcén señalizado.",
+            "C) En cualquier tipo de vía siempre que no haya tráfico intenso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Estas excepciones solo se pueden aplicar dentro de un pueblo o ciudad, nunca en carreteras, autovías o autopistas."
+    },
+    {
+        "_id": "PB-TM9-P139",
+        "Enunciado": "¿Qué maniobra exime al conductor de llevar el cinturón en ciudad?",
+        "Opciones": [
+            "A) Aparcar moviendo el vehículo hacia atrás.",
+            "B) Realizar una parada de menos de dos minutos para carga.",
+            "C) Circular por una calle de sentido único sin salida."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los conductores que están aparcando moviendo el vehículo hacia atrás están exentos en ciudad."
+    },
+    {
+        "_id": "PB-TM9-P140",
+        "Enunciado": "¿Qué profesionales están exentos de usar el cinturón en ciudad mientras están de servicio?",
+        "Opciones": [
+            "A) Los repartidores de comida a domicilio en bicicleta.",
+            "B) Los conductores de autobuses escolares en todo momento.",
+            "C) Los taxistas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los taxistas que están de servicio están exentos de llevar el cinturón de seguridad dentro de ciudad."
+    },
+    {
+        "_id": "PB-TM9-P141",
+        "Enunciado": "En un taxi en ciudad sin sistemas para niños, ¿cómo deben viajar los menores de 135 cm?",
+        "Opciones": [
+            "A) En los asientos de atrás con el cinturón de seguridad del asiento.",
+            "B) En brazos de un adulto en el asiento trasero.",
+            "C) En el asiento del copiloto con el airbag desactivado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En taxi en ciudad sin SRI, los niños viajarán en los asientos de atrás con el cinturón que haya en el asiento."
+    },
+    {
+        "_id": "PB-TM9-P142",
+        "Enunciado": "Respecto a los niños en taxis urbanos sin SRI, ¿qué norma es correcta?",
+        "Opciones": [
+            "A) Se abrocharán el cinturón de seguridad que haya en el asiento.",
+            "B) Pueden viajar de pie si el trayecto es inferior a un kilómetro.",
+            "C) Deben viajar obligatoriamente en el asiento central delantero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si el taxi no tiene sistemas infantiles, los niños <135cm en ciudad deben abrocharse el cinturón de seguridad del asiento de atrás."
+    },
+    {
+        "_id": "PB-TM9-P143",
+        "Enunciado": "¿Qué tipo de conductores están exentos del cinturón en ciudad por la naturaleza de su trabajo?",
+        "Opciones": [
+            "A) Repartidores que bajan continuamente para recoger y entregar pedidos.",
+            "B) Conductores de vehículos oficiales del ayuntamiento.",
+            "C) Mecánicos que están probando el vehículo en un polígono."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los repartidores con paradas frecuentes para carga y descarga están exentos de llevar el cinturón dentro de poblado."
+    },
+    {
+        "_id": "PB-TM9-P144",
+        "Enunciado": "Además de taxistas y repartidores, ¿quién más está exento en ciudad?",
+        "Opciones": [
+            "A) Ciclistas que circulen por el carril derecho de la calzada.",
+            "B) Conductores que realicen trayectos de menos de 500 metros.",
+            "C) Conductores y pasajeros de vehículos en servicios de urgencias."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Conductores y pasajeros de vehículos de servicios de urgencia, como ambulancias, están exentos en ciudad."
+    },
+    {
+        "_id": "PB-TM9-P145",
+        "Enunciado": "¿En qué circunstancia está exento el profesor de autoescuela de llevar el cinturón en ciudad?",
+        "Opciones": [
+            "A) Siempre que el vehículo circule a menos de 30 km/h.",
+            "B) Únicamente durante la realización de la prueba de examen.",
+            "C) Cuando lleve a un alumno y esté a cargo de los mandos adicionales."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Están exentos cuando llevan a un alumno y están a cargo de los mandos adicionales del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P146",
+        "Enunciado": "¿Quién puede viajar sin cinturón en cualquier situación o carretera?",
+        "Opciones": [
+            "A) Personas que no pueden por razones médicas o de discapacidad.",
+            "B) Conductores de vehículos históricos fabricados antes de 1950.",
+            "C) Mujeres embarazadas durante el tercer trimestre de gestación."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las personas con razones médicas o discapacidad justificadas pueden viajar sin cinturón en cualquier situación."
+    },
+    {
+        "_id": "PB-TM9-P147",
+        "Enunciado": "¿Qué documento deben llevar quienes no usan cinturón por motivos médicos?",
+        "Opciones": [
+            "A) El carné de conducir con una anotación especial de la ITV.",
+            "B) Un certificado médico que explique los motivos.",
+            "C) La factura de compra de un vehículo adaptado a su condición."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Estas personas deberán llevar obligatoriamente un certificado médico que explique los motivos de la exención."
+    },
+    {
+        "_id": "PB-TM9-P148",
+        "Enunciado": "¿Cómo se llaman los sistemas de seguridad específicos para niños de menos de 135 cm?",
+        "Opciones": [
+            "A) Cinturones de ajuste abdominal reducido.",
+            "B) Dispositivos de anclaje isofix universales.",
+            "C) Sistemas de retención infantil."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los sistemas apropiados para niños de menos de 135 centímetros se denominan sistemas de retención infantil."
+    },
+    {
+        "_id": "PB-TM9-P149",
+        "Enunciado": "¿A qué factores están adaptados los sistemas de retención infantil?",
+        "Opciones": [
+            "A) Únicamente a la edad cronológica del menor.",
+            "B) Al color del tapizado y al espacio libre del maletero.",
+            "C) A la altura y al peso de cada niño."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los sistemas de retención infantil están adaptados a la altura y al peso de cada niño."
+    },
+    {
+        "_id": "PB-TM9-P150",
+        "Enunciado": "¿Qué se recomienda hacer antes de empezar a usar un sistema de retención infantil?",
+        "Opciones": [
+            "A) Instalarlo siempre en el asiento del copiloto para vigilar al niño.",
+            "B) Que el niño lo pruebe para comprobar que se ajusta y es cómodo.",
+            "C) Desmontar los cinturones originales del vehículo para evitar roces."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Lo mejor es que el niño lo pruebe antes de usarlo para comprobar que se ajusta bien a sus medidas y le resulta cómodo."
+    }
+]

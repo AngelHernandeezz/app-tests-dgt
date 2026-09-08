@@ -1,0 +1,134 @@
+[
+    {
+        "_id": "PB-TM10-P91",
+        "Enunciado": "¿Qué debe comprobar el conductor respecto al sistema de frenado para garantizar su seguridad?",
+        "Opciones": [
+            "A) Que el alternador produce electricidad suficiente para el circuito de encendido.",
+            "B) Únicamente que las bujías no presentan restos de aceite mineral.",
+            "C) Que hay líquido de frenos en el depósito y que está en buen estado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es fundamental verificar periódicamente que el depósito contiene líquido de frenos suficiente y que este mantiene sus propiedades operativas."
+    },
+    {
+        "_id": "PB-TM10-P92",
+        "Enunciado": "¿Entre qué valores debe situarse el nivel del líquido de frenos?",
+        "Opciones": [
+            "A) Justo en la línea de mínimo para evitar sobrepresiones en el circuito.",
+            "B) Siempre por encima de la marca de máximo para compensar el calor.",
+            "C) Entre los valores mínimo y máximo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El nivel correcto de este fluido debe estar comprendido entre las marcas de seguridad grabadas en el depósito."
+    },
+    {
+        "_id": "PB-TM10-P93",
+        "Enunciado": "¿Qué estado deben presentar las pastillas o zapatas para un frenado seguro?",
+        "Opciones": [
+            "A) Tienen que estar flojas para permitir el movimiento libre de la rueda.",
+            "B) Deben estar impregnadas de aceite para reducir el ruido por fricción.",
+            "C) Que no estén desgastadas y estén bien sujetas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El desgaste excesivo o una mala fijación de los elementos de fricción comprometen seriamente la eficacia de la frenada."
+    },
+    {
+        "_id": "PB-TM10-P94",
+        "Enunciado": "Además del sistema de frenado, ¿qué otro elemento influye en la capacidad de detener el coche?",
+        "Opciones": [
+            "A) El tipo de aceite sintético utilizado en el motor.",
+            "B) Que los neumáticos están bien inflados.",
+            "C) La cantidad de carga eléctrica almacenada en la batería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una presión de neumáticos adecuada es esencial para que la fuerza de frenado se transmita correctamente al suelo."
+    },
+    {
+        "_id": "PB-TM10-P95",
+        "Enunciado": "¿Con qué frecuencia se debe comprobar la presión de inflado de las ruedas?",
+        "Opciones": [
+            "A) Al menos una vez al mes.",
+            "B) Solo cuando se observe visualmente que el neumático ha perdido aire.",
+            "C) Únicamente cada seis meses o cada diez mil kilómetros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El mantenimiento preventivo básico requiere revisar la presión de los neumáticos de forma mensual."
+    },
+    {
+        "_id": "PB-TM10-P96",
+        "Enunciado": "¿En qué situación es especialmente importante revisar el inflado de los neumáticos?",
+        "Opciones": [
+            "A) En especial si vas a hacer un viaje largo.",
+            "B) Únicamente tras haber realizado un cambio de las bujías del motor.",
+            "C) Cuando se circula exclusivamente por vías urbanas con poco tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Antes de trayectos prolongados es vital asegurar que las ruedas soportarán el esfuerzo en condiciones óptimas."
+    },
+    {
+        "_id": "PB-TM10-P97",
+        "Enunciado": "Si se tiene previsto cargar mucho el vehículo, ¿qué acción se debe realizar respecto a las ruedas?",
+        "Opciones": [
+            "A) Reducir la presión de inflado para aumentar la superficie de agarre.",
+            "B) Comprobar que los neumáticos están bien inflados.",
+            "C) Sustituir la rueda de repuesto por una de uso temporal de galleta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El aumento de peso en el vehículo exige verificar que los neumáticos tienen la presión necesaria para esa carga específica."
+    },
+    {
+        "_id": "PB-TM10-P98",
+        "Enunciado": "¿Cuándo debe realizarse la comprobación de la presión de los neumáticos para que sea fiable?",
+        "Opciones": [
+            "A) Inmediatamente después de circular a alta velocidad por autopista.",
+            "B) Con los neumáticos calientes tras una jornada de uso intensivo.",
+            "C) Antes de empezar a conducir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La presión debe medirse siempre en frío para obtener una lectura real, ya que el calor aumenta la presión interna."
+    },
+    {
+        "_id": "PB-TM10-P99",
+        "Enunciado": "Para conservar las ruedas en buen estado, además de la presión, ¿qué se debe inspeccionar?",
+        "Opciones": [
+            "A) Mirar el dibujo del neumático.",
+            "B) El color del caucho para detectar posibles oxidaciones químicas.",
+            "C) La temperatura de las llantas tras un frenado prolongado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La inspección visual del dibujo permite comprobar si el desgaste ha alcanzado niveles peligrosos."
+    },
+    {
+        "_id": "PB-TM10-P100",
+        "Enunciado": "¿Cuál es la finalidad de revisar periódicamente el dibujo de las ruedas?",
+        "Opciones": [
+            "A) Comprobar que no hay restos de aceite mineral en las ranuras.",
+            "B) Asegurar que no está muy desgastado.",
+            "C) Verificar que el diseño es compatible con el sistema de dirección asistida."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un dibujo con profundidad suficiente garantiza la adherencia y la evacuación de agua en la carretera."
+    },
+    {
+        "_id": "PB-TM10-P101",
+        "Enunciado": "¿Qué elementos de sustitución debe llevar obligatoriamente un vehículo?",
+        "Opciones": [
+            "A) Una rueda de repuesto y otros sistemas.",
+            "B) Dos lámparas de bixenón y un fusible de alta tensión.",
+            "C) Un juego de correas para el alternador y la bomba de agua."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es imperativo contar con una rueda de recambio o sistemas alternativos para solucionar un posible pinchazo."
+    },
+    {
+        "_id": "PB-TM10-P102",
+        "Enunciado": "¿Qué presión de inflado debe mantener la rueda de repuesto?",
+        "Opciones": [
+            "A) Debe estar totalmente desinflada para facilitar su almacenaje.",
+            "B) Irá un poco más inflada que las demás.",
+            "C) Exactamente la misma presión que la rueda delantera izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se recomienda una presión ligeramente superior para compensar la pérdida de aire natural durante el tiempo que esté sin uso."
+    }
+]

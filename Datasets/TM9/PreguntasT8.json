@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM9-P211",
+        "Enunciado": "¿Cómo debe el conductor sujetar el volante según la norma general?",
+        "Opciones": [
+            "A) Con las dos manos.",
+            "B) Con la mano izquierda de forma permanente y la derecha solo al girar.",
+            "C) Únicamente por los radios interiores para facilitar el movimiento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El volante debe sujetarse siempre con las dos manos, soltando una solo el tiempo justo para manejar otros mandos."
+    },
+    {
+        "_id": "PB-TM9-P212",
+        "Enunciado": "¿En qué momento está permitido soltar una de las manos del volante?",
+        "Opciones": [
+            "A) En vías rectas y llanas para descansar los brazos.",
+            "B) Durante la realización de giros muy cerrados o rotondas.",
+            "C) El tiempo justo para manejar otros mandos del coche."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Solo se debe soltar una mano del volante el tiempo estrictamente necesario para accionar otros dispositivos o mandos del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P213",
+        "Enunciado": "Respecto a la posición de las manos, ¿por dónde se debe coger el volante?",
+        "Opciones": [
+            "A) Por los radios centrales del chasis del volante.",
+            "B) Por la parte interior para tener más palanca.",
+            "C) Por la parte exterior."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual especifica que el volante debe cogerse por la parte exterior, nunca por el interior."
+    },
+    {
+        "_id": "PB-TM9-P214",
+        "Enunciado": "¿Con qué intensidad se deben colocar las manos sobre el volante?",
+        "Opciones": [
+            "A) Haciendo mucha fuerza para evitar vibraciones.",
+            "B) De forma relajada, casi sin tocar la superficie.",
+            "C) Con firmeza, pero sin hacer mucha fuerza."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La sujeción debe ser firme para mantener el control, pero sin aplicar una fuerza excesiva que provoque fatiga."
+    },
+    {
+        "_id": "PB-TM9-P215",
+        "Enunciado": "¿Qué acción debe evitarse al realizar un giro con el volante?",
+        "Opciones": [
+            "A) Cruzar las manos.",
+            "B) Mantener los pulgares sobre el aro exterior.",
+            "C) Girar el volante con ambas manos a la vez."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al girar el volante, no se deben cruzar las manos para asegurar que siempre se tenga control y capacidad de reacción."
+    },
+    {
+        "_id": "PB-TM9-P216",
+        "Enunciado": "¿Sobre qué parte del vehículo actúa el sistema del freno de mano?",
+        "Opciones": [
+            "A) Frena las ruedas de atrás del vehículo.",
+            "B) Sobre las cuatro ruedas de forma simultánea.",
+            "C) Únicamente sobre la transmisión del motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El freno de mano es un sistema diseñado para bloquear las ruedas traseras y mantener el vehículo inmovilizado."
+    },
+    {
+        "_id": "PB-TM9-P217",
+        "Enunciado": "¿Cómo se acciona normalmente el freno de mano en los vehículos generales?",
+        "Opciones": [
+            "A) Con un pedal situado a la izquierda del embrague.",
+            "B) Mediante un interruptor en el cuadro de instrumentos.",
+            "C) Es una palanca que se usa con la mano derecha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Tradicionalmente, el freno de mano se acciona mediante una palanca situada entre los asientos delanteros que se maneja con la mano derecha."
+    },
+    {
+        "_id": "PB-TM9-P218",
+        "Enunciado": "Respecto a los mandos, ¿qué indica el texto sobre las motocicletas en comparación con otros automóviles?",
+        "Opciones": [
+            "A) Utilizan mandos idénticos en posición y uso a los de un turismo.",
+            "B) Tienen los mismos mandos, pero en otro lugar y se usan distinto.",
+            "C) Carecen de mando de embrague al ser vehículos automáticos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las motocicletas comparten los mandos básicos con los coches, pero su ubicación y forma de accionamiento son diferentes."
+    },
+    {
+        "_id": "PB-TM9-P219",
+        "Enunciado": "En una motocicleta, ¿qué mando se acciona con la mano izquierda?",
+        "Opciones": [
+            "A) El embrague, el claxon y el interruptor de luces.",
+            "B) El freno delantero y el acelerador de puño.",
+            "C) El pedal del cambio de velocidades."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Con la mano izquierda se gestionan el embrague (palanca), la bocina y el interruptor para las luces."
+    },
+    {
+        "_id": "PB-TM9-P220",
+        "Enunciado": "¿De qué manera funciona el embrague en una motocicleta?",
+        "Opciones": [
+            "A) Al girar el puño izquierdo hacia adelante.",
+            "B) Funciona apretando una palanca.",
+            "C) Pisando un pequeño pedal en la parte izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El mando del embrague en las motocicletas es una palanca situada en el manillar izquierdo."
+    },
+    {
+        "_id": "PB-TM9-P221",
+        "Enunciado": "¿Qué mando de frenado se sitúa en la mano derecha del motorista?",
+        "Opciones": [
+            "A) El pedal para activar el freno trasero.",
+            "B) La palanca para frenar la rueda delantera.",
+            "C) El interruptor de emergencia del ABS."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En el lado derecho del manillar se encuentra la palanca que acciona el freno de la rueda delantera."
+    },
+    {
+        "_id": "PB-TM9-P222",
+        "Enunciado": "¿Cómo debe el motorista activar el acelerador del vehículo?",
+        "Opciones": [
+            "A) Moviendo la palanca derecha hacia arriba.",
+            "B) Presionando un botón con el dedo pulgar derecho.",
+            "C) Se activa al girar el puño."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El acelerador de las motocicletas está integrado en el puño derecho del manillar y se activa girándolo."
+    },
+    {
+        "_id": "PB-TM9-P223",
+        "Enunciado": "El pedal de freno de una motocicleta suele estar ubicado en:",
+        "Opciones": [
+            "A) El lado izquierdo para usarse con el pie izquierdo.",
+            "B) La parte derecha de la motocicleta para el pie.",
+            "C) El manillar derecho junto al acelerador."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El pedal que activa el freno de la rueda trasera se encuentra normalmente en el lado derecho de la moto."
+    },
+    {
+        "_id": "PB-TM9-P224",
+        "Enunciado": "¿Para qué sirve el pedal que el motorista acciona con el pie izquierdo?",
+        "Opciones": [
+            "A) Para conectar y desconectar el sistema de luces.",
+            "B) Para accionar el freno de estacionamiento.",
+            "C) Sirve para cambiar la velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El pedal del cambio de marchas o velocidades se sitúa en la parte izquierda de la motocicleta."
+    },
+    {
+        "_id": "PB-TM9-P225",
+        "Enunciado": "Para garantizar una buena visibilidad, ¿qué mantenimiento básico requieren los cristales?",
+        "Opciones": [
+            "A) Todos los cristales tienen que estar limpios.",
+            "B) Deben ser tintados para evitar deslumbramientos.",
+            "C) Deben cubrirse con láminas plásticas protectoras."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Mantener todos los cristales limpios es esencial para ver bien el entorno y conducir con seguridad."
+    },
+    {
+        "_id": "PB-TM9-P226",
+        "Enunciado": "¿Qué práctica está prohibida por ley respecto a los cristales del vehículo?",
+        "Opciones": [
+            "A) Pegar láminas o pegatinas que hagan que se vea peor una zona.",
+            "B) Limpiar el cristal delantero mientras el vehículo está en marcha.",
+            "C) Usar líquido lavaparabrisas con detergente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Está prohibido colocar cualquier elemento sobre los cristales que obstaculice o reduzca la visibilidad del conductor."
+    },
+    {
+        "_id": "PB-TM9-P227",
+        "Enunciado": "Sobre el color de los cristales, ¿cuál es la normativa mencionada?",
+        "Opciones": [
+            "A) Se permite cualquier color siempre que sea en las ventanas traseras.",
+            "B) Está prohibido colocar cristales de colores no aprobados por la ley.",
+            "C) Los cristales delanteros deben ser obligatoriamente de color azulado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "No se pueden instalar cristales de colores que no cuenten con la aprobación legal correspondiente."
+    },
+    {
+        "_id": "PB-TM9-P228",
+        "Enunciado": "¿Qué nombre recibe el sistema específico para limpiar el cristal trasero?",
+        "Opciones": [
+            "A) Limpiaparabrisas secundario de seguridad pasiva.",
+            "B) Limpialunetas.",
+            "C) Sistema de evacuación de agua posterior."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El dispositivo encargado de la limpieza del cristal trasero se denomina limpialunetas."
+    },
+    {
+        "_id": "PB-TM9-P229",
+        "Enunciado": "El limpiaparabrisas tiene varias velocidades, ¿cuál se recomienda intentar usar?",
+        "Opciones": [
+            "A) Hay que intentar usar la más lenta.",
+            "B) La velocidad automática de forma permanente.",
+            "C) La más rápida para asegurar que no quede agua."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se aconseja emplear la velocidad más lenta que resulte efectiva para las condiciones de lluvia."
+    },
+    {
+        "_id": "PB-TM9-P230",
+        "Enunciado": "¿Cuándo indica el manual que se debe cambiar la escobilla del limpiaparabrisas?",
+        "Opciones": [
+            "A) Cuando notas que deja huellas en el cristal.",
+            "B) Cada vez que se rellene el depósito del lavaparabrisas.",
+            "C) Únicamente tras los meses de verano por el calor acumulado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las escobillas deben sustituirse cuando dejan marcas o huellas, indicando que la goma está deteriorada."
+    },
+    {
+        "_id": "PB-TM9-P231",
+        "Enunciado": "¿Por qué no se debe activar el limpiaparabrisas si el cristal está totalmente seco?",
+        "Opciones": [
+            "A) Porque lo puede rayar.",
+            "B) Porque las escobillas se quedarían pegadas al vidrio.",
+            "C) Porque se consume una cantidad excesiva de batería."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El rozamiento de la goma contra el cristal seco puede provocar arañazos y daños en la superficie del cristal."
+    },
+    {
+        "_id": "PB-TM9-P232",
+        "Enunciado": "¿De qué depende la velocidad de funcionamiento de un limpiaparabrisas automático?",
+        "Opciones": [
+            "A) De la cantidad de lluvia que cae sobre el vehículo.",
+            "B) De la temperatura exterior del aire.",
+            "C) De la velocidad a la que circula el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los sistemas automáticos ajustan su ritmo de movimiento basándose en la intensidad de la lluvia detectada."
+    },
+    {
+        "_id": "PB-TM9-P233",
+        "Enunciado": "Para el dispositivo lavaparabrisas, ¿qué mezclas se permiten según el texto?",
+        "Opciones": [
+            "A) Aceite ligero para que las escobillas deslicen mejor.",
+            "B) Alcohol puro para evitar la congelación en invierno.",
+            "C) Agua mezclada con un poco de detergente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se pueden usar líquidos específicos o simplemente agua con una pequeña cantidad de detergente."
+    },
+    {
+        "_id": "PB-TM9-P234",
+        "Enunciado": "Respecto al depósito del lavaparabrisas, ¿cuál es la obligación del conductor?",
+        "Opciones": [
+            "A) Vaciarlo por completo una vez al mes para evitar posos.",
+            "B) Controlar que tiene líquido y rellenarlo cuando se esté acabando.",
+            "C) Usar únicamente agua destilada de alta pureza."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es importante revisar periódicamente el nivel del depósito y reponer el líquido antes de que se agote."
+    },
+    {
+        "_id": "PB-TM9-P235",
+        "Enunciado": "¿Para qué sirven las líneas visibles en el cristal trasero de muchos vehículos?",
+        "Opciones": [
+            "A) Para conectar la antena de radio del habitáculo.",
+            "B) Quitan el hielo y los vapores que se forman.",
+            "C) Para reforzar la estructura del cristal contra impactos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Esas líneas forman la luneta térmica, cuya función es desempañar y descongelar el cristal trasero."
+    },
+    {
+        "_id": "PB-TM9-P236",
+        "Enunciado": "¿Qué retrovisor exterior es obligatorio para turismos y camiones de hasta 3.500 kg?",
+        "Opciones": [
+            "A) Únicamente el retrovisor situado en el lado derecho.",
+            "B) Un retrovisor fuera del vehículo, en el lado izquierdo.",
+            "C) Ninguno, si el retrovisor central interior ofrece visión total."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es obligatorio contar con un espejo retrovisor exterior en el lateral izquierdo del vehículo."
+    },
+    {
+        "_id": "PB-TM9-P237",
+        "Enunciado": "¿Cómo se comprueba que el retrovisor interior central está bien colocado?",
+        "Opciones": [
+            "A) Cuando permite ver la cara de todos los pasajeros traseros.",
+            "B) Cuando el borde superior coincide con el techo del coche.",
+            "C) Puedes ver los cuatro bordes de la ventanilla de atrás."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La posición correcta permite visualizar el marco completo (los cuatro bordes) de la luna trasera."
+    },
+    {
+        "_id": "PB-TM9-P238",
+        "Enunciado": "Respecto al retrovisor exterior derecho en estos vehículos, ¿cuál es su estatus?",
+        "Opciones": [
+            "A) Está prohibido si el retrovisor interior es de gran ángulo.",
+            "B) Este retrovisor es recomendable, pero no es obligatorio.",
+            "C) Es obligatorio siempre que el vehículo supere los 2.000 kg."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aunque se recomienda llevarlo para mayor seguridad, la ley no lo exige como obligatorio si el central y el izquierdo cumplen su función."
+    },
+    {
+        "_id": "PB-TM9-P239",
+        "Enunciado": "¿Cuándo está permitido colocar cortinillas contra el sol en las ventanillas traseras?",
+        "Opciones": [
+            "A) Únicamente durante los meses de verano (junio a septiembre).",
+            "B) En cualquier caso, siempre que sean de material traslúcido.",
+            "C) Solo cuando están instalados los dos retrovisores exteriores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para compensar la pérdida de visión del espejo interior al poner cortinillas, es obligatorio llevar ambos espejos exteriores."
+    },
+    {
+        "_id": "PB-TM9-P240",
+        "Enunciado": "Una motocicleta que circula a 90 kilómetros por hora, ¿qué obligación tiene de retrovisores?",
+        "Opciones": [
+            "A) Debe llevar dos retrovisores de forma obligatoria.",
+            "B) No tiene obligación de llevar retrovisores a esa velocidad.",
+            "C) Tiene la obligación de llevar un retrovisor en el lado izquierdo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las motocicletas que circulan a menos de 100 km/h solo están obligadas a llevar el espejo del lado izquierdo."
+    }
+]
