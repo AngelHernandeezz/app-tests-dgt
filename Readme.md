@@ -51,7 +51,7 @@ Este documento describe el sistema completo: la aplicación principal, el banco 
 - 🖼️ **Imágenes asociadas a preguntas**, cargadas bajo demanda desde GitHub.
 - 👤 **Panel de administración** para crear alumnos y renovar licencias (+30 días).
 - 🖥️ **Interfaz adaptativa**: reescala toda la UI según la resolución real de pantalla.
-- 🔄 **Actualización automática silenciosa** vía el módulo Launcher, sin que el alumno tenga que reinstalar nada.
+- 🔄 **Actualización automática** vía el módulo Launcher, sin que el alumno tenga que reinstalar nada.
 - 🌐 **Landing page** de descarga con contacto directo por WhatsApp, Instagram, TikTok y correo.
 
 ## Arquitectura general
