@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM2-P61",
+        "Enunciado": "¿Está permitida la circulación de animales por autopistas o autovías?",
+        "Opciones": [
+            "A) Sí, siempre que circulen por el arcén derecho.",
+            "B) Solo si se trata de ganado trasladado en camiones autorizados.",
+            "C) Ningún animal puede circular por autopistas o autovías."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Está terminantemente prohibida la presencia y circulación de animales (ganado o de carga) por las vías rápidas (autopistas y autovías)."
+    },
+    {
+        "_id": "PB-TM2-P62",
+        "Enunciado": "¿Qué requisito de edad debe cumplir la persona que guía animales por la vía?",
+        "Opciones": [
+            "A) Siempre los tiene que guiar una persona mayor de 18 años.",
+            "B) No hay límite de edad si el animal es manso.",
+            "C) Debe ser mayor de 14 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Por seguridad, la ley exige que el conductor o guía de animales en la vía pública sea mayor de edad."
+    },
+    {
+        "_id": "PB-TM2-P63",
+        "Enunciado": "¿Por dónde deben circular el ganado y los animales de carga?",
+        "Opciones": [
+            "A) Por el arcén izquierdo para ver de frente el tráfico.",
+            "B) Siempre por el arcén derecho o pegados al borde derecho.",
+            "C) Por el centro de la calzada para ocupar todo el espacio necesario."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los animales deben circular por el margen derecho de la vía, utilizando el arcén si existe o el borde de la carretera en su defecto, ya que de hacerlo por la izquierda entorpecería a los usuarios del arcén más rápidos como por ejemplo un peatón."
+    },
+    {
+        "_id": "PB-TM2-P64",
+        "Enunciado": "¿Por qué lado de la carretera deben circular los animales que van en manada o rebaño?",
+        "Opciones": [
+            "A) Por el centro para asegurar la integridad del grupo.",
+            "B) Por el lado izquierdo para ver el tráfico de frente.",
+            "C) Por el lado derecho de la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Tanto el ganado individual como los animales que forman manadas o rebaños deben transitar siempre por el margen derecho."
+    },
+    {
+        "_id": "PB-TM2-P65",
+        "Enunciado": "Cuando una manada o rebaño circula por la carretera, ¿qué espacio debe ocupar?",
+        "Opciones": [
+            "A) El menor espacio posible en el lado derecho.",
+            "B) Todo el ancho del carril para proteger a los animales.",
+            "C) Únicamente el arcén, sin pisar nunca la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al circular por el lado derecho, los grupos de animales deben hacerlo de forma que ocupen el mínimo espacio posible en la vía."
+    },
+    {
+        "_id": "PB-TM2-P66",
+        "Enunciado": "Según las definiciones de tráfico, ¿qué se considera 'ganado'?",
+        "Opciones": [
+            "A) Cualquier animal que se encuentre en libertad en la naturaleza.",
+            "B) Únicamente los animales utilizados para el transporte de personas.",
+            "C) Un grupo de animales criados por personas para producir carne, leche, lana u otros productos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se define como ganado a los animales criados por el ser humano para la obtención de productos como leche, carne o lana."
+    },
+    {
+        "_id": "PB-TM2-P67",
+        "Enunciado": "¿Cuáles de los siguientes animales se consideran ganado?",
+        "Opciones": [
+            "A) Caballos, perros guardianes y aves de corral.",
+            "B) Vacas, ovejas, cabras y cerdos.",
+            "C) Animales cinegéticos como ciervos y jabalíes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario especifica como ejemplos de ganado a las vacas, ovejas, cabras y cerdos."
+    },
+    {
+    "_id": "PB-TM2-P68",
+    "Enunciado": "Según las normas de tráfico, ¿qué se considera una 'vía'?",
+    "Opciones": [
+      "A) Únicamente las autopistas y autovías de titularidad pública.",
+      "B) Solo los espacios asfaltados destinados exclusivamente al tráfico de automóviles.",
+      "C) Cada calle, carretera y camino, tanto públicos como privados, por los que circulan vehículos y peatones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El concepto de vía es amplio y abarca cualquier calle, camino o carretera, ya sea de uso público o privado, donde esté permitido el tránsito de personas y vehículos."
+  },
+  {
+    "_id": "PB-TM2-P69",
+    "Enunciado": "¿Qué elementos forman parte de una vía, según la terminología utilizada en la normativa de circulación?",
+    "Opciones": [
+      "A) La plataforma, los carriles, las intersecciones y las zonas de estacionamiento, siendo el resto elementos auxiliares ajenos a la vía.",
+      "B) La plataforma, la calzada, el arcén, las aceras, las medianas, las cunetas y los elementos de señalización y protección cuando existan.",
+      "C) Exclusivamente la calzada y el arcén, ya que el resto de elementos pertenecen al dominio público viario, pero no forman parte de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La vía está constituida por todos los elementos destinados a la circulación, incluyendo la plataforma (calzada y arcén), aceras, medianas, cunetas y otros elementos funcionales que permiten un uso seguro y ordenado de la infraestructura."
+  },
+  {
+    "_id": "PB-TM2-P70",
+    "Enunciado": "¿Qué es la plataforma de una vía?",
+    "Opciones": [
+      "A) El carril central de una carretera de tres o más carriles.",
+      "B) La zona elevada destinada exclusivamente al paso de peatones.",
+      "C) Toda la zona de la vía que los vehículos pueden usar para circular y para parar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La plataforma es el área total que comprende las partes de la vía donde los vehículos pueden desplazarse o detenerse, incluyendo tanto la calzada como el arcén."
+  },
+  {
+    "_id": "PB-TM2-P71",
+    "Enunciado": "¿Cómo se define la calzada?",
+    "Opciones": [
+      "A) Es el tramo de la vía reservado únicamente para el estacionamiento.",
+      "B) Es el espacio de separación entre dos carreteras distintas.",
+      "C) Es la parte de la vía por la que circulan los vehículos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La calzada es la superficie de la vía destinada específicamente a la circulación de los vehículos; cabe destacar que una sola vía puede disponer de varias calzadas."
+  },
+  {
+    "_id": "PB-TM2-P72",
+    "Enunciado": "¿Qué es el arcén?",
+    "Opciones": [
+      "A) La zona afirmada situada a los lados de la calzada por la que no circulan la mayoría de los vehículos.",
+      "B) El espacio pintado con líneas blancas que sirve para guiar el tráfico en los cruces.",
+      "C) El carril destinado a los vehículos que circulan a una velocidad superior a 100 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El arcén es la franja longitudinal afirmada contigua a la calzada. Aunque forma parte de la plataforma, la mayoría de los vehículos tienen prohibido circular por él de forma habitual."
+  },
+  {
+    "_id": "PB-TM2-P73",
+    "Enunciado": "Respecto a la estructura de la carretera, ¿cuántas plataformas puede llegar a tener una misma vía?",
+    "Opciones": [
+      "A) Obligatoriamente debe tener una plataforma para coches y otra para peatones.",
+      "B) Una vía puede tener varias plataformas.",
+      "C) Únicamente puede tener una plataforma por cada sentido de circulación."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El temario especifica que una sola vía puede estar compuesta por diversas plataformas."
+  },
+  {
+    "_id": "PB-TM2-P74",
+    "Enunciado": "¿Qué es un carril?",
+    "Opciones": [
+      "A) Es la zona afirmada situada a los lados de la plataforma.",
+      "B) Es el espacio de separación física entre dos carreteras distintas.",
+      "C) Es una de las partes en las que puede estar dividida la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se define carril como cada una de las bandas longitudinales en las que se divide la superficie de la calzada."
+  },
+  {
+    "_id": "PB-TM2-P75",
+    "Enunciado": "¿Qué anchura mínima debe tener un carril según la norma general?",
+    "Opciones": [
+      "A) Debe medir siempre un mínimo de 3,5 metros.",
+      "B) Su anchura debe permitir que circule una fila de coches.",
+      "C) La suficiente para que puedan circular dos motocicletas en paralelo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El diseño de un carril está pensado para que un automóvil pueda circular por él con seguridad en una sola fila."
+  },
+  {
+    "_id": "PB-TM2-P76",
+    "Enunciado": "¿De qué depende el número de carriles que tiene una calzada?",
+    "Opciones": [
+      "A) Del número de vehículos que circulen por ella al día.",
+      "B) De lo ancha que sea la calzada.",
+      "C) Únicamente de si se encuentra dentro o fuera de poblado."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La cantidad de carriles disponibles en una vía viene determinada por el espacio total de anchura que presente la calzada."
+  },
+  {
+    "_id": "PB-TM2-P77",
+    "Enunciado": "Normalmente, ¿cómo se distinguen visualmente los carriles en la calzada?",
+    "Opciones": [
+      "A) Suelen estar separados por una línea de color blanco.",
+      "B) Se distinguen por el cambio de color en el asfalto.",
+      "C) Están separados por pequeñas balizas luminosas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La delimitación de los carriles se realiza habitualmente mediante marcas viales de color blanco pintadas en el suelo."
+  },
+  {
+    "_id": "PB-TM2-P78",
+    "Enunciado": "¿Cuándo se denomina oficialmente a un carril como 'carril estrecho'?",
+    "Opciones": [
+      "A) Cuando el carril mide menos de 3 metros de ancho.",
+      "B) Cuando mide menos de 3,25 metros de ancho.",
+      "C) Cuando no permite el paso de camiones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se considera carril estrecho a aquel que tiene una anchura total inferior a los 3 metros."
+  },
+  {
+    "_id": "PB-TM2-P79",
+    "Enunciado": "¿Cómo se define una 'recta' en la vía?",
+    "Opciones": [
+      "A) Es una vía de sentido único con más de tres carriles.",
+      "B) Es una carretera que no tiene pendientes de subida o bajada.",
+      "C) Es un tramo de vía que no cambia de dirección."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La recta es el sector del trazado de la vía que mantiene una trayectoria lineal constante."
+  },
+  {
+    "_id": "PB-TM2-P80",
+    "Enunciado": "Según el temario, ¿qué es una curva?",
+    "Opciones": [
+      "A) El punto donde se cruzan dos o más carreteras distintas.",
+      "B) Un tramo de la carretera con el asfalto en mal estado.",
+      "C) Un tramo de la vía que cambia de dirección hacia la derecha o hacia la izquierda."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La curva es la parte de la vía donde la trayectoria se desvía lateralmente respecto a la línea recta."
+  },
+  {
+    "_id": "PB-TM2-P81",
+    "Enunciado": "¿Cuándo se considera que una curva es de 'visibilidad reducida'?",
+    "Opciones": [
+      "A) Cuando el ángulo de giro es superior a los 90 grados.",
+      "B) Únicamente durante las horas nocturnas o con niebla.",
+      "C) Cuando no se puede ver todo el ancho de la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Una curva es de visibilidad reducida si su trazado impide al conductor ver completamente la superficie de la calzada que tiene delante."
+  },
+  {
+    "_id": "PB-TM2-P82",
+    "Enunciado": "¿A qué se refiere el término 'rasante'?",
+    "Opciones": [
+      "A) Al nivel de ruido que producen los neumáticos al rodar.",
+      "B) A la inclinación de la carretera.",
+      "C) Al tipo de adherencia que tiene el pavimento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La rasante es el concepto técnico que define el grado de pendiente o inclinación de la calzada."
+  },
+  {
+    "_id": "PB-TM2-P83",
+    "Enunciado": "¿Qué ocurre cuando hay un 'cambio de rasante'?",
+    "Opciones": [
+      "A) Un tramo de la carretera cambia de inclinación.",
+      "B) Finaliza un tramo de curvas y comienza una recta larga.",
+      "C) La carretera pasa de tener dos carriles a tener uno solo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El cambio de rasante se produce en el punto donde varía la inclinación del terreno por el que discurre la vía."
+  },
+  {
+    "_id": "PB-TM2-P84",
+    "Enunciado": "¿Cuál es el riesgo en un cambio de rasante de 'visibilidad reducida'?",
+    "Opciones": [
+      "A) Que la velocidad del vehículo aumenta de forma descontrolada por la pendiente.",
+      "B) Que el viento sopla con más fuerza y puede desestabilizar al vehículo.",
+      "C) Que la carretera está muy inclinada y no se puede ver a los vehículos de delante o a los que vienen de frente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En estos tramos, la propia inclinación de la vía oculta la presencia de otros usuarios, incrementando el peligro de colisión."
+  },
+  {
+    "_id": "PB-TM2-P85",
+    "Enunciado": "¿Qué es la mediana de una vía?",
+    "Opciones": [
+      "A) El espacio entre dos plataformas separadas por el que no circulan los vehículos.",
+      "B) La velocidad promedio a la que circulan los vehículos en ese tramo.",
+      "C) El carril central reservado para vehículos de transporte público."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La mediana es la franja de terreno no transitable que divide físicamente dos plataformas de circulación."
+  },
+  {
+    "_id": "PB-TM2-P86",
+    "Enunciado": "¿Cómo se define un apartadero?",
+    "Opciones": [
+      "A) Es el carril destinado a los vehículos pesados en pendientes ascendentes.",
+      "B) Es una parte de la calzada que se ensancha para que puedan parar los vehículos que lo necesitan.",
+      "C) Es una vía secundaria que lleva a una propiedad privada o finca."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El apartadero es un sobreancho de la calzada diseñado para permitir la detención puntual de un vehículo."
+  },
+  {
+    "_id": "PB-TM2-P87",
+    "Enunciado": "¿Cuál es la ventaja de usar un apartadero?",
+    "Opciones": [
+      "A) Permite adelantar por la derecha a los vehículos lentos.",
+      "B) Se puede parar sin afectar al resto de vehículos que circulan por esa calzada.",
+      "C) Es el único lugar donde está permitido realizar un cambio de sentido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La función del apartadero es facilitar la parada de un vehículo sin interrumpir ni poner en peligro el flujo del tráfico principal."
+  },
+  {
+    "_id": "PB-TM2-P88",
+    "Enunciado": "¿Para qué sirve la zona de frenado de emergencia?",
+    "Opciones": [
+      "A) Para que las ambulancias atiendan a los heridos en caso de accidente.",
+      "B) Está preparada para que paren vehículos a los que les fallan los frenos.",
+      "C) Para que los conductores descansen en trayectos largos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Esta zona está diseñada específicamente como sistema de seguridad pasiva para detener vehículos que pierden su capacidad de frenado."
+  },
+  {
+    "_id": "PB-TM2-P89",
+    "Enunciado": "¿Qué sucede mecánicamente cuando un vehículo entra en la zona de frenado de emergencia?",
+    "Opciones": [
+      "A) El vehículo se para aunque los frenos no respondan.",
+      "B) Se activa un campo magnético que bloquea las ruedas del coche.",
+      "C) El conductor debe soltar el volante y esperar a que el vehículo se desvíe solo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La zona cuenta con un firme especial que consigue detener el movimiento del vehículo por fricción, independientemente de sus frenos."
+  },
+  {
+    "_id": "PB-TM2-P90",
+    "Enunciado": "¿Cómo se define una intersección?",
+    "Opciones": [
+      "A) El lugar en el que se cruzan varias carreteras, calles o caminos.",
+      "B) Un tramo de la vía donde el arcén desaparece temporalmente.",
+      "C) El final de una calle donde empieza un camino sin asfaltar."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La intersección es el punto de confluencia al mismo nivel de dos o más vías de circulación."
+  }
+]

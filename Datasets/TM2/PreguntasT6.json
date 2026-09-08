@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM2-P151",
+        "Enunciado": "Fuera de poblado, en una carretera con dos carriles para el mismo sentido, ¿cuándo puede un camión pesado usar el carril de su izquierda?",
+        "Opciones": [
+            "A) Siempre que quiera adelantar a un turismo.",
+            "B) Nunca, los vehículos de más de 3.500 kg tienen prohibido el carril izquierdo.",
+            "C) Cuando lo aconsejen las circunstancias de la carretera o del tráfico y no entorpezcan."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso del carril izquierdo por vehículos pesados es excepcional y está supeditado a que la situación del tráfico lo recomiende y no se moleste a otros."
+    },
+    {
+        "_id": "PB-TM2-P152",
+        "Enunciado": "En carreteras con tres o más carriles por sentido, ¿qué limitación tienen los conjuntos de vehículos de más de 7 metros, especiales de más de 3,5T, camiones, furgones?",
+        "Opciones": [
+            "A) Deben circular por el carril derecho y pueden usar el de al lado, pero no más.",
+            "B) Solo pueden usar el carril derecho en cualquier circunstancia.",
+            "C) No tienen ninguna limitación si circulan por autopista."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Estos vehículos en vías con tres o más carriles por sentido tienen prohibido ocupar los carriles situados más a la izquierda, pudiendo usar únicamente el derecho y el contiguo."
+    },
+    {
+        "_id": "PB-TM2-P153",
+        "Enunciado": "¿Qué tipos de carriles reservados existen?",
+        "Opciones": [
+            "A) Carriles VAO, de autobús y taxi, y para realizar maniobras.",
+            "B) Carriles de peaje dinámico y zonas de estacionamiento limitado.",
+            "C) Únicamente los carriles destinados a vehículos de emergencia y grúas de auxilio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los carriles reservados en tres tipos principales: los destinados a vehículos VAO, los de autobús y taxi, y los habilitados para realizar maniobras específicas."
+    },
+    {
+        "_id": "PB-TM2-P154",
+        "Enunciado": "¿Qué indica un carril reservado para determinados vehículos?",
+        "Opciones": [
+            "A) Que el resto de los vehículos no los pueden usar.",
+            "B) Que son carriles de peaje obligatorios para vehículos pesados.",
+            "C) Que se puede circular por ellos si hay mucha retención en los carriles normales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Un carril reservado es de uso exclusivo para el tipo de vehículo especificado por la señalización, quedando su uso prohibido para el resto de usuarios."
+    },
+    {
+        "_id": "PB-TM2-P155",
+        "Enunciado": "¿Quiénes pueden circular por el carril reservado para el autobús?",
+        "Opciones": [
+            "A) Autobuses, taxis y motocicletas con pasajeros.",
+            "B) Solo los autobuses, estando prohibida la circulación para el resto.",
+            "C) Cualquier vehículo que vaya a realizar un giro a la derecha de forma inmediata."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Como norma general, la circulación por el carril bus está restringida exclusivamente a estos vehículos de transporte público."
+    },
+    {
+        "_id": "PB-TM2-P156",
+        "Enunciado": "¿Cómo se separa visualmente el carril reservado para el autobús del resto de carriles?",
+        "Opciones": [
+            "A) Por una línea doble de color amarillo auto.",
+            "B) Utilizando una serie de balizas luminosas fijas.",
+            "C) Mediante una línea blanca ancha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La marca vial que delimita el carril reservado para el autobús es una línea de color blanco que destaca por tener una anchura superior a las líneas normales de la calzada."
+    },
+    {
+        "_id": "PB-TM2-P157",
+        "Enunciado": "¿Cuándo pueden circular los taxis por el carril reservado para el autobús?",
+        "Opciones": [
+            "A) Únicamente si llevan encendido el indicador de libre.",
+            "B) Siempre que se trate de una vía urbana principal.",
+            "C) Cuando en el carril está escrita la palabra TAXI."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El acceso de los taxis al carril bus solo está permitido si la señalización horizontal sobre el asfalto incluye expresamente la palabra TAXI."
+    },
+    {
+        "_id": "PB-TM2-P158",
+        "Enunciado": "Para que un automóvil use el carril VAO, ¿qué requisito debe cumplir sobre su carga?",
+        "Opciones": [
+            "A) No puede pesar más de 750 kilos en el maletero.",
+            "B) Solo puede transportar a personas.",
+            "C) Puede llevar carga siempre que no comprometa la estabilidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vehículos que circulan por un carril de alta ocupación (VAO) tienen prohibido el transporte de mercancías, debiendo dedicarse solo al traslado de personas."
+    },
+    {
+        "_id": "PB-TM2-P159",
+        "Enunciado": "¿Cuál es el peso máximo permitido para un automóvil en un carril VAO?",
+        "Opciones": [
+            "A) No hay límite de peso si se trata de un vehículo mixto adaptable.",
+            "B) No puede cargar más de 3.500 kilos.",
+            "C) Un máximo de 1.500 kilos incluyendo a todos los ocupantes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cualquier automóvil que acceda a un carril VAO debe tener una masa máxima autorizada que no supere los 3.500 kilogramos."
+    },
+    {
+        "_id": "PB-TM2-P160",
+        "Enunciado": "Además de la carga y el peso, ¿qué otro requisito define a un vehículo VAO?",
+        "Opciones": [
+            "A) Que el número de personas que viaja es el que marca en las indicaciones del carril.",
+            "B) Que el vehículo disponga de un distintivo ambiental específico.",
+            "C) Que el conductor tenga una antigüedad mínima de un año en su permiso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El uso del carril VAO está supeditado a un número mínimo de pasajeros, el cual viene determinado por los paneles informativos del propio carril."
+    },
+    {
+        "_id": "PB-TM2-P161",
+        "Enunciado": "¿Qué vehículos están autorizados a utilizar un carril para Vehículos de Alta Ocupación (VAO)?",
+        "Opciones": [
+            "A) Únicamente turismos y autobuses, quedando prohibida la entrada a motocicletas.",
+            "B) Motocicletas, turismos y vehículos mixtos adaptables cuando cumplan los requisitos.",
+            "C) Cualquier automóvil siempre que cumpla todas las condiciones."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Tienen permitida la entrada al carril VAO las motocicletas, los turismos y los vehículos mixtos adaptables, siempre que cumplan con los requisitos de número mínimo de ocupantes, peso y carga establecidos."
+    },
+    {
+        "_id": "PB-TM2-P162",
+        "Enunciado": "Además de turismos y motocicletas, ¿qué otros vehículos tienen permitido circular por el carril VAO?",
+        "Opciones": [
+            "A) Únicamente los vehículos de transporte de mercancías peligrosas.",
+            "B) Cualquier camión siempre que circule en servicio oficial de mantenimiento.",
+            "C) Autobuses de más de 3.500 kilos, vehículos de urgencias y vehículos de obras."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El carril VAO también puede ser utilizado por autobuses pesados, servicios de emergencia y vehículos destinados a la realización de obras en la carretera."
+    },
+    {
+        "_id": "PB-TM2-P163",
+        "Enunciado": "¿Qué vehículo puede usar el carril VAO aunque solo viaje el conductor?",
+        "Opciones": [
+            "A) Los camiones de reparto de mercancía de primera necesidad.",
+            "B) Los vehículos de personas con discapacidad.",
+            "C) Cualquier vehículo que realice transporte escolar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vehículos para personas con movilidad reducida están exentos de cumplir el requisito de ocupación mínima para circular por el carril VAO."
+    },
+    {
+        "_id": "PB-TM2-P164",
+        "Enunciado": "¿Es obligatorio el uso de la luz de corto alcance durante el día para circular por un carril VAO?",
+        "Opciones": [
+            "A) Sí, pero solo si el vehículo lleva el número mínimo de ocupantes.",
+            "B) Sí, siempre es obligatorio como en los carriles reversibles o en sentido contrario.",
+            "C) No, salvo que las condiciones de visibilidad o la vía así lo exijan."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En el carril VAO no existe la obligación general de llevar encendido el alumbrado de corto alcance durante el día, a diferencia de lo que ocurre en los carriles reversibles, adicionales o en sentido contrario al habitual."
+    },
+    {
+        "_id": "PB-TM2-P165",
+        "Enunciado": "¿A qué velocidad máxima se permite circular por un carril VAO?",
+        "Opciones": [
+            "A) A la velocidad genérica o específica fijada para la vía en la que está instalado.",
+            "B) A una velocidad máxima fija de 90 km/h para todos los vehículos.",
+            "C) Siempre a una velocidad comprendida entre 60 y 80 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el carril VAO los límites de velocidad son los propios de la vía o los establecidos por la señalización específica, sin una regla especial de 60 a 80 km/h como en otros carriles especiales."
+    },
+    {
+        "_id": "PB-TM2-P166",
+        "Enunciado": "¿Cómo se define una maniobra?",
+        "Opciones": [
+            "A) Es el mantenimiento básico que el conductor realiza al motor.",
+            "B) Es cualquier movimiento o acción que se realiza al conducir un vehículo.",
+            "C) Es únicamente el acto de adelantar a otro vehículo en carretera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se entiende por maniobra todo aquel movimiento o acción voluntaria que ejecuta el conductor durante el manejo del vehículo."
+    },
+    {
+        "_id": "PB-TM2-P167",
+        "Enunciado": "¿Para qué sirve el carril de entrada, también llamado de aceleración?",
+        "Opciones": [
+            "A) Para realizar paradas de emergencia sin estorbar al tráfico principal.",
+            "B) Para que los vehículos lentos circulen sin molestar a los rápidos.",
+            "C) Para que los vehículos que quieren entrar a una vía alcancen la velocidad adecuada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El carril de entrada o aceleración está diseñado específicamente para facilitar la incorporación de los vehículos a una nueva vía."
+    },
+    {
+        "_id": "PB-TM2-P168",
+        "Enunciado": "¿Cuál es la función del carril de salida o de deceleración?",
+        "Opciones": [
+            "A) Servir de zona de descanso para conductores en trayectos largos.",
+            "B) Es el carril destinado a los vehículos que quieren salir de una carretera.",
+            "C) Permitir el adelantamiento por la derecha en autovías congestionadas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este carril se utiliza para que los vehículos que desean abandonar la vía principal puedan hacerlo de manera segura."
+    },
+    {
+        "_id": "PB-TM2-P169",
+        "Enunciado": "Al prepararse para entrar en un carril de salida, ¿dónde debe situarse el vehículo?",
+        "Opciones": [
+            "A) En el carril más cercano al de salida.",
+            "B) Es indiferente el carril mientras se usen los intermitentes.",
+            "C) En el carril más alejado de la salida para tener más ángulo de giro."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Como precaución, el conductor debe colocarse con antelación en el carril que esté situado más próximo a la salida seleccionada."
+    },
+    {
+        "_id": "PB-TM2-P170",
+        "Enunciado": "¿En qué momento se debe realizar la entrada al carril de salida?",
+        "Opciones": [
+            "A) Solo cuando la velocidad sea inferior a 40 km/h.",
+            "B) Justo antes de que terminen las líneas de separación.",
+            "C) Lo antes posible."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para no entorpecer el tráfico de la vía principal, la entrada al carril de deceleración debe efectuarse al inicio del mismo."
+    },
+    {
+        "_id": "PB-TM2-P171",
+        "Enunciado": "¿Cómo debe ser la conducción una vez que se está dentro del carril de salida?",
+        "Opciones": [
+            "A) Se debe conducir más despacio.",
+            "B) Se debe acelerar para dejar espacio a los vehículos que vienen detrás.",
+            "C) Se debe mantener la misma velocidad que en la autovía hasta el final."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La finalidad de este carril es permitir que el vehículo reduzca su velocidad de forma progresiva y segura."
+    },
+    {
+        "_id": "PB-TM2-P172",
+        "Enunciado": "¿A qué debe prestar atención el conductor al entrar en una nueva carretera desde un carril de salida?",
+        "Opciones": [
+            "A) Únicamente al panel de instrumentos del vehículo.",
+            "B) Solo a los vehículos que intentan adelantarle por la izquierda.",
+            "C) A las condiciones de la nueva carretera a la que llega."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es vital observar las características y normas de la nueva vía, ya que pueden requerir una conducción muy distinta a la anterior."
+    },
+    {
+        "_id": "PB-TM2-P173",
+        "Enunciado": "Un ejemplo de cambio en las condiciones al salir de una autovía es:",
+        "Opciones": [
+            "A) Que desaparece la obligación de usar el alumbrado de corto alcance.",
+            "B) Llegar a una carretera en la que debes conducir más despacio.",
+            "C) Que el carril de salida siempre tiene prioridad sobre el resto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al pasar de una autovía a una carretera convencional o urbana, las limitaciones de velocidad suelen ser mucho menores y requieren mayor precaución."
+    },
+    {
+        "_id": "PB-TM2-P174",
+        "Enunciado": "¿Cuáles son los supuestos especiales de carriles?",
+        "Opciones": [
+            "A) Carriles reversibles, en sentido contrario al habitual y adicionales.",
+            "B) Solo los carriles destinados a transporte escolar y emergencias.",
+            "C) Carriles de peaje, zonas de carga y descarga y carriles bus."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Existen tres casos especiales de uso de carriles: los reversibles, los habilitados en sentido contrario al normal y los carriles adicionales."
+    },
+    {
+        "_id": "PB-TM2-P175",
+        "Enunciado": "¿Qué define a los carriles reversibles?",
+        "Opciones": [
+            "A) Son carriles por los que se puede circular en un sentido o en otro, dependiendo de las circunstancias.",
+            "B) Son carriles donde el sentido de circulación cambia automáticamente cada hora.",
+            "C) Son carriles exclusivos para realizar cambios de sentido en la marcha."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los carriles reversibles son aquellos cuya dirección de tráfico se adapta según las necesidades de fluidez del momento."
+    },
+    {
+        "_id": "PB-TM2-P176",
+        "Enunciado": "¿Cómo están marcados en el suelo los carriles reversibles?",
+        "Opciones": [
+            "A) Mediante flechas de color amarillo pintadas cada cinco metros.",
+            "B) Con líneas blancas discontinuas a los dos lados del carril.",
+            "C) Con una línea roja continua en el lateral izquierdo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este tipo de carriles se identifica por las marcas dobles discontinuas que delimitan ambos lados del propio carril."
+    },
+    {
+        "_id": "PB-TM2-P177",
+        "Enunciado": "¿Qué norma de alumbrado es obligatoria para circular por un carril reversible?",
+        "Opciones": [
+            "A) Se deben encender las luces de posición y las de emergencia simultáneamente.",
+            "B) Solo es obligatorio usar luces durante la noche.",
+            "C) Todos los conductores deben llevar las luces de corto alcance, de día y de noche."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Por razones de seguridad y visibilidad, el uso de la luz de corto alcance es preceptivo en todo momento al circular por estos carriles."
+    },
+    {
+        "_id": "PB-TM2-P178",
+        "Enunciado": "¿En qué situación se pueden colocar carriles que van en sentido contrario al habitual?",
+        "Opciones": [
+            "A) Cuando hay muchos vehículos yendo en una dirección o por obras.",
+            "B) Cuando se realizan pruebas de velocidad nocturnas.",
+            "C) Únicamente cuando la carretera principal está inundada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Estos carriles se habilitan específicamente para mejorar la fluidez cuando hay una gran acumulación de vehículos en una dirección determinada o cuando se realizan obras en el carril de sentido normal."
+    },
+    {
+        "_id": "PB-TM2-P179",
+        "Enunciado": "¿Qué beneficio se busca al habilitar un carril en sentido contrario al normal?",
+        "Opciones": [
+            "A) Que haya menos atascos y los vehículos puedan circular mejor.",
+            "B) Facilitar el estacionamiento en los márgenes de la vía.",
+            "C) Reservar un carril para vehículos de gran tonelaje."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La finalidad es descongestionar la vía para que el tráfico sea más ágil y evitar retenciones prolongadas."
+    },
+    {
+        "_id": "PB-TM2-P180",
+        "Enunciado": "Si se ha habilitado por razones de fluidez, ¿qué vehículos tienen permitido el uso de los carriles en sentido contrario al habitual?",
+        "Opciones": [
+            "A) Camiones de más de 3.500 kilos y autobuses.",
+            "B) Todo tipo de vehículos, incluidos los tractores.",
+            "C) Solo las motocicletas y los turismos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuando la habilitación del carril es para mejorar la fluidez, el acceso queda limitado exclusivamente a motocicletas y turismos sin remolque."
+    }
+]

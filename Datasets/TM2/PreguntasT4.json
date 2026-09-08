@@ -1,0 +1,333 @@
+[
+    {
+    "_id": "PB-TM2-P91",
+    "Enunciado": "¿Qué característica define a una glorieta?",
+    "Opciones": [
+      "A) Es un tramo de carretera con curvas en forma de zigzag.",
+      "B) Es un cruce de tren que no tiene barreras de seguridad.",
+      "C) Es una intersección con una construcción circular en el centro."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La glorieta es un tipo de nodo vial organizado alrededor de una isleta central circular."
+  },
+  {
+    "_id": "PB-TM2-P92",
+    "Enunciado": "En una glorieta, ¿qué norma de circulación es fundamental?",
+    "Opciones": [
+      "A) Hay que conducir alrededor de la construcción y no se puede pasar por el centro.",
+      "B) Los vehículos deben atravesar el centro si van con prisa.",
+      "C) Se puede circular en cualquier sentido según el destino del viaje."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La normativa prohíbe terminantemente el paso por la zona central de la glorieta, obligando a realizar el giro alrededor de ella."
+  },
+  {
+    "_id": "PB-TM2-P93",
+    "Enunciado": "¿Qué es un paso a nivel?",
+    "Opciones": [
+      "A) Un tramo de la calzada que está a la misma altura que la acera peatonal.",
+      "B) El lugar en el que se cruzan una carretera o camino y las vías del tren.",
+      "C) Una zona de la autopista con un límite de velocidad inferior a 80 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El paso a nivel identifica el punto donde una vía de tráfico rodado cruza la infraestructura ferroviaria."
+  },
+  {
+    "_id": "PB-TM2-P94",
+    "Enunciado": "¿Cuál es la función de una isleta?",
+    "Opciones": [
+      "A) Es el lugar reservado para instalar cabinas de peaje.",
+      "B) Servir como zona de refugio para animales que cruzan la vía.",
+      "C) Es una zona elevada o pintada que sirve para guiar el tráfico."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las isletas son elementos de canalización que orientan los movimientos de los vehículos, generalmente en las intersecciones."
+  },
+  {
+    "_id": "PB-TM2-P95",
+    "Enunciado": "¿Cómo se denomina técnicamente a las líneas blancas paralelas que forman la isleta?",
+    "Opciones": [
+      "A) Cebreado.",
+      "B) Rayado de seguridad.",
+      "C) Cuadriculado de exclusión."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El término específico para el conjunto de líneas paralelas en una isleta es cebreado."
+  },
+  {
+    "_id": "PB-TM2-P96",
+    "Enunciado": "Según el texto, ¿qué es una vía ciclista?",
+    "Opciones": [
+      "A) El carril derecho de cualquier carretera convencional.",
+      "B) Un camino forestal cerrado al tráfico de personas.",
+      "C) Una vía preparada para que circulen los ciclos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es un espacio diseñado y señalizado específicamente para el tránsito preferente o exclusivo de bicicletas."
+  },
+  {
+    "_id": "PB-TM2-P97",
+    "Enunciado": "¿Dónde se ubica un carril bici y cómo puede funcionar?",
+    "Opciones": [
+      "A) Se encuentra elevado sobre el tejado de los túneles urbanos.",
+      "B) Está al lado de la calzada y puede funcionar en dos sentidos o en uno solo.",
+      "C) Se sitúa siempre en el arcén izquierdo y es de sentido único."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El carril bici discurre contiguo a la calzada de tráfico general y su diseño admite la circulación unidireccional o bidireccional."
+  },
+  {
+    "_id": "PB-TM2-P98",
+    "Enunciado": "¿Qué caracteriza a un carril bici protegido?",
+    "Opciones": [
+      "A) Está separado de la calzada o de la acera por elementos físicos.",
+      "B) Tiene un límite de velocidad obligatorio de 40 km/h.",
+      "C) Cuenta con cámaras de vigilancia en todo su recorrido."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Este tipo de vía ciclista utiliza barreras físicas para aumentar la protección y seguridad de los usuarios frente al resto de vehículos."
+  },
+  {
+    "_id": "PB-TM2-P99",
+    "Enunciado": "¿Dónde se señaliza la denominada 'acera bici'?",
+    "Opciones": [
+      "A) En el centro de las autopistas.",
+      "B) En los caminos de tierra que cruzan bosques.",
+      "C) Se señaliza dentro de la acera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La acera bici es una franja de la acera destinada específicamente a la circulación de bicicletas."
+  },
+  {
+    "_id": "PB-TM2-P100",
+    "Enunciado": "¿Qué define a una 'pista bici'?",
+    "Opciones": [
+      "A) Es compartida con los peatones de forma obligatoria.",
+      "B) Que está destinada únicamente a competiciones deportivas.",
+      "C) Que existe un espacio de separación entre la vía ciclista y la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La pista bici se reconoce por estar segregada de la plataforma de la calzada principal mediante una banda de separación."
+  },
+  {
+    "_id": "PB-TM2-P101",
+    "Enunciado": "¿Qué es una senda ciclable?",
+    "Opciones": [
+      "A) Una carretera secundaria por la que pueden circular todo tipo de vehículos a motor y bicicletas.",
+      "B) Un carril en la calzada separado por elementos físicos para proteger a los ciclistas.",
+      "C) Una vía situada en parques, jardines y bosques en la que solo pueden circular peatones y ciclos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La senda ciclable se define como una vía acondicionada que discurre por espacios abiertos como parques o bosques, cuyo uso está reservado exclusivamente a peatones y ciclos."
+  },
+  {
+    "_id": "PB-TM2-P102",
+    "Enunciado": "¿Qué se considera una zona peatonal?",
+    "Opciones": [
+      "A) Únicamente los parques cerrados al tráfico.",
+      "B) El carril derecho de cualquier vía urbana.",
+      "C) La parte de la vía reservada a la circulación de peatones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La zona peatonal es el espacio de la vía destinado específicamente para que las personas se desplacen a pie."
+  },
+  {
+    "_id": "PB-TM2-P103",
+    "Enunciado": "¿Qué partes de la vía forman la zona peatonal?",
+    "Opciones": [
+      "A) Únicamente los parques infantiles y las plazas.",
+      "B) La acera, el paseo y el refugio.",
+      "C) El arcén, el refugio y el carril bici protegido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se consideran zonas peatonales todos aquellos espacios reservados para la estancia o desplazamiento de los peatones."
+  },
+  {
+    "_id": "PB-TM2-P104",
+    "Enunciado": "Cuál sería un ejemplo de zona peatonal...",
+    "Opciones": [
+      "A) Una zona para parar entre dos pasos de peatones.",
+      "B) Una via urbana al lado de las casas.",
+      "C) El arcén de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Una zona para parar entre dos pasos de peatones sería un ejemplo claro de zona peatonal, concretamente un refugio."
+  },
+  {
+    "_id": "PB-TM2-P105",
+    "Enunciado": "¿Qué es un refugio?",
+    "Opciones": [
+      "A) Una zona peatonal situada en la calzada a la que no pueden entrar los vehículos.",
+      "B) El borde exterior del arcén donde se espera a la grúa.",
+      "C) Un túnel para peatones bajo la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El refugio es una isla de seguridad para peatones ubicada dentro de la calzada, como el espacio para parar entre dos pasos de cebra."
+  },
+  {
+    "_id": "PB-TM2-P106",
+    "Enunciado": "¿Cómo define el temario el concepto de 'poblado'?",
+    "Opciones": [
+      "A) Espacios en los que hay edificios, es decir, pueblos y ciudades.",
+      "B) Cualquier tramo de carretera que tenga farolas.",
+      "C) Áreas industriales situadas fuera de las ciudades."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se llama poblado a todo espacio urbano o rural que contiene edificaciones, englobando tanto a pueblos como a ciudades."
+  },
+  {
+    "_id": "PB-TM2-P107",
+    "Enunciado": "¿Cómo se sabe cuándo se entra o se sale de un poblado?",
+    "Opciones": [
+      "A) Porque la carretera siempre pasa a tener tres carriles.",
+      "B) Porque el asfalto cambia de color a rojo.",
+      "C) Porque aparecen señales en la carretera que llevan su nombre escrito."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En las vías de acceso y salida existen señales informativas que indican el nombre del poblado.",
+    "Imagen": true
+  },
+  {
+    "_id": "PB-TM2-P108",
+    "Enunciado": "¿Qué es la 'dirección' de una vía?",
+    "Opciones": [
+      "A) El nombre de la calle por la que se circula.",
+      "B) La posibilidad de ir hacia adelante o hacia atrás.",
+      "C) La línea recta o curva que une dos lugares."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La dirección se define como la línea, ya sea recta o curva, que conecta dos puntos geográficos."
+  },
+  {
+    "_id": "PB-TM2-P109",
+    "Enunciado": "¿Qué es el 'sentido'?",
+    "Opciones": [
+      "A) La velocidad a la que se mueve un vehículo.",
+      "B) Las dos posibilidades, de ida y de vuelta, que se pueden usar en una misma dirección.",
+      "C) El tipo de curvas que tiene una carretera."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El sentido indica hacia qué extremo de la dirección se dirige el vehículo, existiendo generalmente la ida y la vuelta."
+  },
+  {
+    "_id": "PB-TM2-P110",
+    "Enunciado": "Si dos coches van por la misma carretera, uno por el carril de ida y otro por el de vuelta, ¿qué relación tienen?",
+    "Opciones": [
+      "A) Van en distinta dirección y distinto sentido.",
+      "B) Van en distinto sentido pero misma dirección.",
+      "C) Van en distinta dirección."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque circulen hacia lugares opuestos (distinto sentido), ambos comparten la misma línea o trayectoria de la carretera (misma dirección)."
+  },
+  {
+    "_id": "PB-TM2-P111",
+    "Enunciado": "¿Qué tipos de sentido pueden tener las carreteras?",
+    "Opciones": [
+      "A) Pueden ser de sentido único o de doble sentido.",
+      "B) Siempre tienen tres sentidos si hay mediana.",
+      "C) Solo pueden ser de doble sentido obligatorio."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Existen vías donde solo se permite circular hacia un lado (sentido único) y otras preparadas para ambos (doble sentido)."
+  },
+  {
+    "_id": "PB-TM2-P112",
+    "Enunciado": "¿Qué es una vía urbana?",
+    "Opciones": [
+      "A) Carreteras que unen una ciudad con otra.",
+      "B) Caminos de tierra situados en el bosque.",
+      "C) Calles y caminos dentro del poblado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La vía urbana comprende todo tipo de calles o caminos que se encuentran localizados dentro de los límites de un pueblo o ciudad."
+  },
+  {
+    "_id": "PB-TM2-P113",
+    "Enunciado": "¿Qué es una vía interurbana?",
+    "Opciones": [
+      "A) Las travesías que atraviesan los pueblos pequeños.",
+      "B) Carreteras y caminos fuera del poblado.",
+      "C) Calles peatonales situadas en el centro histórico."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se denomina vía interurbana a aquella red de carreteras y caminos que transcurren por fuera del núcleo de población."
+  },
+  {
+    "_id": "PB-TM2-P114",
+    "Enunciado": "¿Qué es una travesía?",
+    "Opciones": [
+      "A) Una autovía que no tiene salidas autorizadas.",
+      "B) Una carretera que atraviesa un poblado.",
+      "C) Un camino privado que entra en una finca."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La travesía es el tramo de una carretera interurbana que pasa por el interior de un pueblo o ciudad."
+  },
+  {
+    "_id": "PB-TM2-P115",
+    "Enunciado": "¿Quiénes tienen permitida la circulación por autopistas y autovías con carácter general?",
+    "Opciones": [
+      "A) Todo tipo de vehículos, incluidos tractores agrícolas lentos, ciclomotores y VMP.",
+      "B) Los automóviles y vehículos especiales que alcancen en llano al menos 60 km/h.",
+      "C) Peatones, animales y todo tipo de vehículos sin restricción de velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Por autopistas y autovías solo pueden circular automóviles y vehículos especiales capaces de alcanzar en llano al menos 60 km/h. Como excepción, en autovías (nunca en autopistas) pueden circular ciclistas mayores de 14 años por el arcén, salvo que una señal lo prohíba expresamente."
+  },
+  {
+    "_id": "PB-TM2-P116",
+    "Enunciado": "¿Se puede entrar a una autopista desde una finca o terreno lateral?",
+    "Opciones": [
+      "A) Sí, siempre que se haga con precaución.",
+      "B) No, solo se puede entrar por los accesos preparados y autorizados.",
+      "C) Solo si la finca pertenece al dueño de la autopista."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El acceso a las autopistas está limitado únicamente a los puntos de entrada oficiales diseñados para tal fin, lo que la diferencia principalmente a la autovía donde si se puede."
+  },
+  {
+    "_id": "PB-TM2-P117",
+    "Enunciado": "¿Puede haber un paso a nivel en una autopista?",
+    "Opciones": [
+      "A) No, no la cruza ninguna vía de tren, tranvía o carretera.",
+      "B) Solo en las autopistas de peaje.",
+      "C) Sí, si es para trenes de alta velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Una de las características de la autopista es que no tiene cruces al mismo nivel con ninguna otra vía o senda."
+  },
+  {
+    "_id": "PB-TM2-P118",
+    "Enunciado": "¿Cómo se organiza la circulación en una autopista?",
+    "Opciones": [
+      "A) Los camiones van por la derecha y los coches por la izquierda de la mediana.",
+      "B) Todos los vehículos van por una calzada única de doble sentido.",
+      "C) Tiene distintas calzadas separadas para cada sentido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las autopistas disponen de calzadas independientes y separadas físicamente para cada sentido de la marcha."
+  },
+  {
+    "_id": "PB-TM2-P119",
+    "Enunciado": "¿Qué significa que una autopista sea de peaje?",
+    "Opciones": [
+      "A) Que hay que pagar para circular por ella.",
+      "B) Que está prohibido el paso de camiones pesados.",
+      "C) Que el límite de velocidad es más alto."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En las autopistas de peaje se requiere el pago de una tarifa para poder utilizarlas."
+  },
+  {
+    "_id": "PB-TM2-P120",
+    "Enunciado": "¿Qué diferencia principal hay entre una autovía y una autopista respecto a los accesos?",
+    "Opciones": [
+      "A) En la autovía se puede entrar desde algunas propiedades colindantes.",
+      "B) Las autopistas son siempre de pago y las autovias gratuitas.",
+      "C) No hay ninguna diferencia, son términos iguales."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "A diferencia de la autopista, en la autovía es posible el acceso directo desde algunas fincas o terrenos laterales además de más vías de acceso, no obstante, también se podrían diferenciar en el peaje pero la autopista no siempre es de peaje ya que puede tener o no."
+  }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "_id": "PB-TM2-P208",
+        "Enunciado": "Un vehículo mixto adaptable que transporta a dos personas, ¿puede circular por un carril VAO?",
+        "Opciones": [
+            "A) No, porque estos carriles son exclusivos para turismos y motocicletas.",
+            "B) Sí, pero solo si dispone de una autorización especial por escrito.",
+            "C) Sí, siempre que no transporte mercancías y cumpla el número mínimo de ocupantes fijado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos mixtos adaptables tienen permitido el acceso al carril VAO siempre que se dediquen exclusivamente al transporte de personas, no carguen mercancía y cumplan la ocupación mínima."
+    },
+    {
+        "_id": "PB-TM2-P209",
+        "Enunciado": "Por razones de fluidez, se habilita un carril en sentido contrario al habitual. ¿Puede utilizarlo un turismo que arrastra un remolque ligero?",
+        "Opciones": [
+            "A) No, por razones de fluidez solo se permite a motocicletas y turismos sin remolque.",
+            "B) Sí, siempre que circule con las luces de corto alcance.",
+            "C) Sí, si el remolque pesa menos de 750 kg."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cuando el carril especial se habilita para mejorar la fluidez (descongestionamiento), su uso está restringido únicamente a motocicletas y turismos que no arrastren remolque."
+    },
+    {
+        "_id": "PB-TM2-P210",
+        "Enunciado": "Un conductor de 15 años que circula con una bicicleta, ¿tiene permitida la entrada en una autopista?",
+        "Opciones": [
+            "A) Sí, siempre que lo haga por el arcén y no por la calzada.",
+            "B) No, el acceso está prohibido en autopistas; solo se permite en autovías a mayores de 14 años.",
+            "C) No, las bicicletas tienen prohibida la entrada tanto en autopistas como en autovías."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es una trampa común: los ciclistas mayores de 14 años pueden ir por el arcén de las **autovías** (salvo señal que lo prohíba), pero tienen prohibido el acceso a las **autopistas** en cualquier caso."
+    },
+    {
+        "_id": "PB-TM2-P211",
+        "Enunciado": "¿Qué vehículos están obligados a circular por el carril derecho y tienen prohibido el tercer carril en una vía con tres carriles para su sentido?",
+        "Opciones": [
+            "A) Solo los camiones con una masa máxima autorizada superior a 3.500 kg.",
+            "B) Camiones de más de 3.500 kg y conjuntos de vehículos de más de siete metros de largo.",
+            "C) Todos los vehículos que circulen a menos de 60 km/h por avería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los camiones de más de 3.500 kg y los conjuntos de vehículos que midan más de siete metros solo pueden usar el carril derecho y el inmediato; tienen prohibido usar el resto de carriles de la izquierda."
+    },
+    {
+        "_id": "PB-TM2-P212",
+        "Enunciado": "Si se habilita un carril en sentido contrario al habitual por motivo de obras, ¿qué vehículos pueden circular por él?",
+        "Opciones": [
+            "A) Solo vehículos de emergencia y de mantenimiento de la vía.",
+            "B) Únicamente turismos y motocicletas, como en el caso de fluidez.",
+            "C) Todos los vehículos que tengan permitido circular por esa carretera en obras."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A diferencia de la habilitación por fluidez, si el carril se abre por obras, pueden usarlo todos los vehículos autorizados para ese tramo, sin restricción de tipo de vehículo."
+    },
+    {
+        "_id": "PB-TM2-P213",
+        "Enunciado": "¿Qué velocidad debe mantener un conductor que circula por un carril adicional circunstancial?",
+        "Opciones": [
+            "A) Entre 60 y 80 kilómetros por hora, o menos si lo indican las señales.",
+            "B) La velocidad máxima de la vía.",
+            "C) No existe una velocidad específica, debe adaptarse al flujo de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En los carriles adicionales, la normativa exige circular entre 60 y 80 km/h, respetando siempre si una señal impone un límite menor."
+    },
+    {
+        "_id": "PB-TM2-P214",
+        "Enunciado": "¿Qué obligaciones de alumbrado tiene el conductor de un vehículo que circula por este carril?",
+        "Opciones": [
+            "A) Debe llevar las luces de posición y las de emergencia.",
+            "B) Debe llevar las luces de corto alcance tanto de día como de noche.",
+            "C) Ninguna durante el día si la visibilidad es buena."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En los carriles reversibles (marcados con líneas dobles discontinuas), el uso de la luz de corto alcance es obligatorio en todo momento para garantizar la seguridad.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM2-P215",
+        "Enunciado": "Un ciclomotor sufre una avería en una autovía y circula a velocidad reducida. ¿Es correcta su posición?",
+        "Opciones": [
+            "A) No, los ciclomotores tienen prohibido circular por autovías en cualquier circunstancia.",
+            "B) Solo si el conductor lleva un chaleco reflectante visible a 150 metros.",
+            "C) Sí, debe circular por el arcén hasta la salida más próxima."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los ciclomotores tienen prohibida la entrada en autopistas y autovías. Si un vehículo tiene prohibida la entrada, no puede estar circulando por ella ni siquiera por avería."
+    },
+    {
+        "_id": "PB-TM2-P216",
+        "Enunciado": "¿Qué límites tiene un vehículo obligado a circular por el arcén cuando desea realizar un adelantamiento?",
+        "Opciones": [
+            "A) No tiene límites si el vehículo de delante circula a menos de 20 km/h.",
+            "B) No puede durar más de 15 segundos ni recorrer más de 200 metros.",
+            "C) Debe señalizarlo con 100 metros de antelación."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vehículos que circulan por el arcén (excepto bicicletas) tienen restringido el adelantamiento a un máximo de 15 segundos y una distancia de 200 metros."
+    },
+    {
+        "_id": "PB-TM2-P217",
+        "Enunciado": "Respecto a los límites de tiempo y distancia para adelantar en el arcén, ¿qué conductor está exento de cumplirlos?",
+        "Opciones": [
+            "A) El conductor de un vehículo especial de menos de 3.500 kg.",
+            "B) El conductor de un vehículo para personas de movilidad reducida.",
+            "C) El conductor de una bicicleta."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las bicicletas son la única excepción mencionada en las fuentes que puede adelantar en el arcén sin estar sujeta a los 15 segundos o los 200 metros."
+    },
+    {
+        "_id": "PB-TM2-P218",
+        "Enunciado": "Al echar combustible, ¿qué elementos deben estar obligatoriamente apagados o desconectados?",
+        "Opciones": [
+            "A) Solo el motor.",
+            "B) El motor y el teléfono móvil; las luces pueden quedar encendidas si es de noche.",
+            "C) El motor, las luces y la radio."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para evitar riesgos de incendio, antes de repostar es obligatorio apagar el motor y todos los sistemas eléctricos como luces y radio."
+    },
+    {
+        "_id": "PB-TM2-P219",
+        "Enunciado": "¿Qué obligaciones de velocidad y luces tiene un conductor que circula por el carril normal contiguo a uno habilitado en sentido contrario al habitual?",
+        "Opciones": [
+            "A) Ninguna, esas normas solo afectan al carril especial.",
+            "B) Debe encender la luz de corto alcance y circular entre 60 y 80 km/h.",
+            "C) Solo debe circular entre 60 y 80 km/h, pero no necesita luces de día."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Por seguridad, los vehículos que circulan por el carril habitual que está pegado al carril en sentido contrario deben cumplir las mismas normas de velocidad y alumbrado."
+    },
+    {
+        "_id": "PB-TM2-P220",
+        "Enunciado": "¿Está permitido el uso de auriculares a un conductor de bicicleta mientras circula por la calzada?",
+        "Opciones": [
+            "A) Sí, pero solo si se utiliza un único auricular.",
+            "B) No, está prohibido para todos los conductores de vehículos.",
+            "C) Sí, siempre que el volumen sea bajo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La prohibición de usar auriculares conectados a aparatos de sonido se aplica a todos los conductores sin excepción (incluyendo bicicletas y patinetes)."
+    },
+    {
+        "_id": "PB-TM2-P221",
+        "Enunciado": "Un vehículo derivado de turismo, ¿puede entrar en un carril VAO?",
+        "Opciones": [
+            "A) Solo si su masa máxima autorizada es inferior a 2.000 kg.",
+            "B) Sí, si cumple con el número de ocupantes.",
+            "C) No, porque no es un vehículo destinado exclusivamente al transporte de personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El carril VAO exige que el vehículo esté destinado al transporte de personas. Los derivados de turismo están destinados a servicios o transporte de mercancías."
+    },
+    {
+        "_id": "PB-TM2-P222",
+        "Enunciado": "¿Por dónde deben circular los peatones que empujan un objeto voluminoso si el arcén o la acera son muy pequeños?",
+        "Opciones": [
+            "A) Pueden circular por la calzada si estorban a otros peatones.",
+            "B) Deben esperar a que no haya tráfico.",
+            "C) Deben circular por el carril izquierdo obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si llevan objetos grandes o vehículos pequeños sin motor y la acera/arcén es insuficiente, se les permite usar la calzada."
+    },
+    {
+        "_id": "PB-TM2-P223",
+        "Enunciado": "¿Qué velocidad máxima tiene permitida un vehículo especial que no dispone de luces de freno?",
+        "Opciones": [
+            "A) 25 km/h.",
+            "B) 40 km/h.",
+            "C) 70 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos especiales que carecen de luz de freno o que arrastran un remolque tienen una velocidad máxima reducida de 25 km/h (fuera de fuente, pero basada en la lógica DGT del temario)."
+    },
+    {
+        "_id": "PB-TM2-P224",
+        "Enunciado": "¿Qué significa el carril central en una calzada de doble sentido y tres carriles?",
+        "Opciones": [
+            "A) Que los dos sentidos pueden usar el carril central para circular normalmente.",
+            "B) Que el carril central es exclusivo para vehículos lentos.",
+            "C) Que el carril central solo puede usarse para adelantar y cambiar de dirección a la izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En vías de tres carriles y doble sentido, el carril central es de uso compartido solo para maniobras de adelantamiento y giros a la izquierda; nunca para circulación continua.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM2-P225",
+        "Enunciado": "En ciudad, ¿por qué carril debe circular el conductor de un ciclomotor?",
+        "Opciones": [
+            "A) Siempre por la derecha.",
+            "B) Por el carril central para evitar a los peatones.",
+            "C) Por el carril que mejor convenga a su destino si hay líneas blancas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Aunque los turismos pueden elegir carril en ciudad si están delimitados, los ciclomotores, ciclos y vehículos de movilidad reducida deben ir siempre por la derecha."
+    },
+    {
+        "_id": "PB-TM2-P226",
+        "Enunciado": "¿Pueden los ocupantes de un vehículo averiado caminar por el arcén de una autopista para buscar ayuda?",
+        "Opciones": [
+            "A) No, las personas que viajan en el vehículo no podrán andar por la carretera.",
+            "B) Sí, siempre que lleven el chaleco reflectante.",
+            "C) Solo si se dirigen al poste de socorro más cercano."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Está terminantemente prohibido caminar por la autopista o autovía en caso de avería; se debe esperar auxilio y usar el poste de socorro si es accesible sin transitar por la vía."
+    },
+    {
+        "_id": "PB-TM2-P227",
+        "Enunciado": "¿A partir de qué edad se puede guiar ganado por una carretera?",
+        "Opciones": [
+            "A) 18 años.",
+            "B) 16 años.",
+            "C) 14 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cualquier persona que guíe animales por la vía pública debe ser obligatoriamente mayor de 18 años."
+    },
+    {
+        "_id": "PB-TM2-P228",
+        "Enunciado": "Un grupo de peatones circula en fila de noche por carretera. ¿Qué luces deben llevar para ser vistos?",
+        "Opciones": [
+            "A) Luces amarillas intermitentes en ambos extremos.",
+            "B) Una luz blanca en el centro del grupo.",
+            "C) Luz blanca delante y roja detrás."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para señalizar la longitud de la fila, el grupo debe llevar luz blanca o amarilla delante y luz roja en la parte posterior."
+    },
+    {
+        "_id": "PB-TM2-P229",
+        "Enunciado": "¿Qué obligaciones tiene un conductor de vehículo de movilidad personal (VMP) respecto a las travesías?",
+        "Opciones": [
+            "A) Solo puede circular si la travesía tiene un carril bici.",
+            "B) Tiene prohibido circular por travesías, autopistas y autovías.",
+            "C) Puede circular por ellas si lleva casco."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los VMP (como patinetes eléctricos) tienen prohibida la circulación por travesías y cualquier vía fuera de poblado, además de túneles urbanos."
+    },
+    {
+        "_id": "PB-TM2-P230",
+        "Enunciado": "En un carril de deceleración (salida), ¿cuál es la forma correcta de actuar?",
+        "Opciones": [
+            "A) Acelerar para no molestar a los vehículos que vienen detrás.",
+            "B) Frenar en la calzada principal para entrar ya despacio.",
+            "C) Entrar en el carril lo antes posible y reducir la velocidad dentro de él."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La maniobra correcta es incorporarse al carril de salida en su inicio y realizar la frenada una vez dentro de este carril especializado."
+    },
+    {
+        "_id": "PB-TM2-P231",
+        "Enunciado": "¿Qué color del estado de la vía indica que la carretera está cortada y es imposible circular?",
+        "Opciones": [
+            "A) Rojo.",
+            "B) Negro.",
+            "C) Amarillo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El color negro en el código de estado de las carreteras significa circulación interrumpida o vía cortada."
+    },
+    {
+        "_id": "PB-TM2-P232",
+        "Enunciado": "Si circula por esta vía urbana de sentido único con tres carriles delimitados, ¿qué carril debe ocupar?",
+        "Opciones": [
+            "A) El carril central por seguridad.",
+            "B) El derecho obligatoriamente.",
+            "C) El que mejor convenga a su destino, sin entorpecer."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En vías urbanas con carriles delimitados para el mismo sentido, los automóviles pueden elegir el carril que mejor les sirva para su trayectoria.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM2-P233",
+        "Enunciado": "¿Qué precaución deben tomar los ciclistas que circulan en pareja por el arcén al llegar a un tramo sin visibilidad?",
+        "Opciones": [
+            "A) Deben bajarse de la bicicleta y caminar por el borde.",
+            "B) Deben ponerse en fila india, uno detrás del otro.",
+            "C) Pueden seguir en pareja pero más despacio."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La excepción de ir en paralelo para ciclistas desaparece en tramos de poca visibilidad o tráfico denso, donde deben ir en fila."
+    },
+    {
+        "_id": "PB-TM2-P234",
+        "Enunciado": "Como norma general, ¿qué parte de la calzada debe utilizar un conductor de turismo al circular?",
+        "Opciones": [
+            "A) El centro de la calzada.",
+            "B) Cualquier carril siempre que no haya otros vehículos.",
+            "C) La derecha, lo más cerca posible del borde de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos deben circular por la derecha y pegados al borde, especialmente en curvas y cambios de rasante con visibilidad reducida."
+    },
+    {
+        "_id": "PB-TM2-P235",
+        "Enunciado": "¿Qué caracteriza a un 'carril estrecho'?",
+        "Opciones": [
+            "A) El que mide menos de 3 metros de ancho.",
+            "B) Aquel donde no caben dos coches de frente.",
+            "C) El que mide menos de 3,25 metros de ancho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Técnicamente se define como carril estrecho a aquel cuya anchura es inferior a los 3 metros."
+    },
+    {
+        "_id": "PB-TM2-P236",
+        "Enunciado": "¿Está permitido adelantar en un carril habilitado en sentido contrario al habitual?",
+        "Opciones": [
+            "A) Sí, pero solo si se sobrepasa al otro vehículo en menos de 15 segundos.",
+            "B) No, está prohibido cambiarse de carril, incluso para adelantar.",
+            "C) Solo se permite a las motocicletas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En los carriles habilitados en sentido contrario, los conductores no pueden cambiar de carril ni realizar adelantamientos bajo ningún concepto."
+    },
+    {
+        "_id": "PB-TM2-P237",
+        "Enunciado": "Un conductor de turismo de una persona con discapacidad que viaja solo, ¿puede usar el carril VAO?",
+        "Opciones": [
+            "A) Sí, los vehículos con señal de discapacidad pueden entrar aunque solo viaje el conductor.",
+            "B) No, debe ir acompañado de al menos otra persona.",
+            "C) Solo si se trata de una emergencia médica."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos que transportan a personas con discapacidad o movilidad reducida están exentos del cumplimiento del número mínimo de ocupantes."
+    }
+]

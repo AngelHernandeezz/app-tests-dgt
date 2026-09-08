@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM2-P268",
+        "Enunciado": "Un vehículo de tres ruedas que dispone de cinturones de seguridad de fábrica, ¿está obligado su conductor a utilizar el casco?",
+        "Opciones": [
+            "A) No, en los vehículos que cuentan con cinturón de seguridad no es necesario llevar casco.",
+            "B) Sí, el casco es obligatorio en todos los vehículos de dos o tres ruedas.",
+            "C) Solo si circula por vías interurbanas a más de 40 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el temario, los vehículos de dos o tres ruedas que incorporan cinturón de seguridad eximen a sus ocupantes de la obligación de usar casco siempre que lo lleven abrochado."
+    },
+    {
+        "_id": "PB-TM2-P269",
+        "Enunciado": "En una carretera con tres calzadas, ¿qué peculiaridad puede tener la calzada central?",
+        "Opciones": [
+            "A) Es de uso exclusivo para el transporte de mercancías peligrosas.",
+            "B) Puede tener uno o dos sentidos de circulación.",
+            "C) Siempre es de sentido único hacia la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En las vías con tres calzadas, las laterales son de un solo sentido, pero la central puede estar habilitada para uno o para dos sentidos."
+    },
+    {
+        "_id": "PB-TM2-P270",
+        "Enunciado": "Un conjunto de vehículos de 7 metros exactos de longitud circula por una autovía con tres carriles para su sentido. ¿Puede usar el carril situado más a la izquierda?",
+        "Opciones": [
+            "A) Solo si circula a la velocidad máxima de la vía.",
+            "B) No, tiene prohibido el uso del tercer carril.",
+            "C) Sí, ya que la prohibición solo afecta a los conjuntos que MIDEN MÁS de siete metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La norma restringe el uso de los carriles de la izquierda (en vías de 3 o más carriles) a los conjuntos de vehículos que miden MÁS de siete metros. Al medir 7 metros exactos, no tiene esa restricción."
+    },
+    {
+        "_id": "PB-TM2-P271",
+        "Enunciado": "¿Qué velocidad máxima tiene permitida un vehículo especial que arrastra un remolque?",
+        "Opciones": [
+            "A) 25 km/h.",
+            "B) 60 km/h.",
+            "C) 40 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Aunque la velocidad general para vehículos especiales es 40 km/h, si arrastran un remolque o carecen de luz de freno, su velocidad máxima se reduce a 25 km/h."
+    },
+    {
+        "_id": "PB-TM2-P272",
+        "Enunciado": "Se habilita un carril en sentido contrario al habitual por razones de FLUIDEZ. ¿Puede usarlo un turismo con un remolque de 500 kg?",
+        "Opciones": [
+            "A) No, por razones de fluidez solo pueden usarlo motocicletas y turismos SIN remolque.",
+            "B) Sí, porque es un remolque ligero (menos de 750 kg).",
+            "C) Sí, siempre que circule con la luz de corto alcance de día."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La restricción para carriles de fluidez es tajante: solo turismos sin remolque y motocicletas. Los remolques están prohibidos independientemente de su peso."
+    },
+    {
+        "_id": "PB-TM2-P273",
+        "Enunciado": "¿Qué indica el color Verde en los paneles de información del estado de la vía?",
+        "Opciones": [
+            "A) Que no se puede alcanzar la velocidad máxima permitida en esa vía.",
+            "B) Que el tráfico es lento pero no hay paros.",
+            "C) Que la vía es segura y se puede circular a la velocidad máxima."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El código de colores establece que el verde avisa de que existen circunstancias que impiden alcanzar la velocidad máxima de la carretera."
+    },
+    {
+        "_id": "PB-TM2-P274",
+        "Enunciado": "¿Está permitido que un vehículo de movilidad personal (VMP), como un patinete eléctrico, circule por un túnel urbano?",
+        "Opciones": [
+            "A) Solo si el túnel tiene carril bici protegido.",
+            "B) Sí, siempre que lleve luces encendidas.",
+            "C) No, tienen prohibida la circulación por túneles, travesías y vías interurbanas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La ley prohíbe específicamente a los VMP circular por túneles, travesías, autopistas, autovías y cualquier carretera fuera de poblado."
+    },
+    {
+        "_id": "PB-TM2-P275",
+        "Enunciado": "¿Cómo deben circular los peatones que empujan un ciclomotor de dos ruedas por una carretera?",
+        "Opciones": [
+            "A) Por la derecha obligatoriamente.",
+            "B) Por la izquierda, para ver de frente al tráfico.",
+            "C) Por cualquier lado, siempre que lleven chaleco reflectante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es una excepción a la norma de ir por la izquierda en carretera: si se empuja una bicicleta o un ciclomotor de dos ruedas, se debe ir siempre por la derecha."
+    },
+    {
+        "_id": "PB-TM2-P276",
+        "Enunciado": "Un conductor de bicicleta de 14 años circula por una autopista. ¿Es correcto?",
+        "Opciones": [
+            "A) Sí, si va acompañado de un mayor de edad.",
+            "B) No, tienen prohibida la entrada en autopistas; solo se permite en autovías a partir de los 14 años.",
+            "C) Sí, siempre que vaya por el arcén."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las bicicletas tienen prohibido el acceso a las autopistas. En las autovías es donde existe la excepción para mayores de 14 años."
+    },
+    {
+        "_id": "PB-TM2-P277",
+        "Enunciado": "En una vía urbana de sentido único con tres carriles delimitados, un turismo desea circular por el carril central. ¿Debe abandonarlo en algún momento?",
+        "Opciones": [
+            "A) Solo debe abandonarlo para cambiar de dirección, aparcar o adelantar.",
+            "B) No, puede circular por él indefinidamente.",
+            "C) Debe abandonarlo en cuanto el carril derecho quede libre."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En ciudad, aunque puedes elegir el carril que prefieras si hay líneas, solo debes cambiar de carril para realizar maniobras como girar, aparcar o adelantar."
+    },
+    {
+        "_id": "PB-TM2-P278",
+        "Enunciado": "¿A qué velocidad debe circular un vehículo que transita por un carril adicional circunstancial?",
+        "Opciones": [
+            "A) A la velocidad máxima de la vía.",
+            "B) Entre 60 y 80 kilómetros por hora, salvo señalización que indique menos.",
+            "C) A 40 km/h obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los carriles adicionales comparten la misma regla de velocidad que los de sentido contrario: entre 60 y 80 km/h."
+    },
+    {
+        "_id": "PB-TM2-P279",
+        "Enunciado": "¿Qué requisito de edad se exige para guiar animales que circulan por una carretera?",
+        "Opciones": [
+            "A) Ser mayor de 18 años.",
+            "B) Ser mayor de 16 años.",
+            "C) Ser mayor de 14 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cualquier persona encargada de guiar animales o ganado por la vía debe tener al menos 18 años."
+    },
+    {
+        "_id": "PB-TM2-P280",
+        "Enunciado": "¿Qué indica esta señalización de una linea blanca continua mas gruesa en una calzada urbana?",
+        "Opciones": [
+            "A) Que se entra en una zona peatonal de velocidad limitada.",
+            "B) Que el carril es adicional para vehículos pesados.",
+            "C) Que es un carril para autobuses o taxis."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La linea blanca continua y más gruesa indica un carril para autobuses o taxis."
+    },
+    {
+        "_id": "PB-TM2-P281",
+        "Enunciado": "¿Puede un taxi utilizar el carril reservado para el autobús si no aparece la palabra TAXI pintada en el suelo?",
+        "Opciones": [
+            "A) Sí, pero solo si circula con pasajeros.",
+            "B) No, solo pueden entrar si la señalización horizontal incluye la palabra TAXI.",
+            "C) Sí, por ser un vehículo de servicio público."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El acceso de taxis al carril bus está restringido exclusivamente a los tramos donde esté expresamente señalizado con la palabra TAXI."
+    },
+    {
+        "_id": "PB-TM2-P282",
+        "Enunciado": "Un grupo de personas circula en fila por la carretera de noche. ¿Dónde deben llevar la luz roja?",
+        "Opciones": [
+            "A) Los peatones que van en los laterales.",
+            "B) Los peatones que van en la parte de atrás de la fila.",
+            "C) Todos los miembros del grupo deben llevar una luz roja en el brazo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para señalizar el grupo, se usa luz blanca/amarilla delante y luz roja detrás para marcar el final de la fila."
+    },
+    {
+        "_id": "PB-TM2-P283",
+        "Enunciado": "Al circular por un carril reversible durante el día con sol radiante, ¿es obligatorio encender las luces?",
+        "Opciones": [
+            "A) Solo es obligatorio si el carril tiene una longitud superior a 500 metros.",
+            "B) Sí, es obligatorio llevar las luces de corto alcance de día y de noche.",
+            "C) No, con luz natural es suficiente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La normativa de carriles reversibles exige el uso de la luz de cruce o corto alcance siempre, sin importar la luminosidad ambiental."
+    },
+    {
+        "_id": "PB-TM2-P284",
+        "Enunciado": "¿A qué distancia mínima debe ser visible la prenda reflectante que debe llevar un ciclista de noche?",
+        "Opciones": [
+            "A) 100 metros.",
+            "B) 150 metros.",
+            "C) 50 metros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Tanto peatones en carretera como ciclistas deben llevar elementos reflectantes o luminosos visibles a 150 metros."
+    },
+    {
+        "_id": "PB-TM2-P285",
+        "Enunciado": "Un vehículo especial realiza trabajos de reparación en el arcén de una autovía. ¿Cuándo debe llevar encendida la luz amarilla?",
+        "Opciones": [
+            "A) Solo cuando esté efectivamente trabajando en un punto fijo.",
+            "B) Desde que entra en la autovía hasta que sale de ella o llega a su destino.",
+            "C) Únicamente durante la puesta y salida del sol."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En autopistas y autovías, estos vehículos deben llevar la señal luminosa amarilla encendida durante todo su trayecto por la vía."
+    },
+    {
+        "_id": "PB-TM2-P286",
+        "Enunciado": "Como norma general, ¿qué prioridad tiene el tren en un paso a nivel respecto a un vehículo de emergencias en servicio urgente?",
+        "Opciones": [
+            "A) El vehículo de emergencias siempre tiene prioridad.",
+            "B) El que llegue primero al cruce tiene la prioridad.",
+            "C) El vehículo ferroviario tiene prioridad sobre todos los demás."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos que circulan sobre raíles (trenes) tienen prioridad de paso absoluta sobre el resto de usuarios de la vía."
+    },
+    {
+        "_id": "PB-TM2-P287",
+        "Enunciado": "¿Qué parte de la vía se define como 'Calzada estrecha'?",
+        "Opciones": [
+            "A) La que mide menos de 6,5 metros.",
+            "B) La que tiene carriles de menos de 3 metros.",
+            "C) La que mide menos de 7 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una calzada se considera técnicamente estrecha cuando su anchura es inferior a los 6,5 metros."
+    },
+    {
+        "_id": "PB-TM2-P288",
+        "Enunciado": "¿En qué tramos deben los ciclistas abandonar la columna de a dos y ponerse en fila india obligatoriamente?",
+        "Opciones": [
+            "A) En tramos sin visibilidad y cuando hay mucho tráfico.",
+            "B) En cualquier tramo de vía urbana con mucho ruido.",
+            "C) Solo cuando se lo indique un agente de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Aunque pueden ir en pareja por el arcén, la seguridad les obliga a ponerse uno detrás de otro si la visibilidad es reducida o la densidad del tráfico es alta."
+    },
+    {
+        "_id": "PB-TM2-P289",
+        "Enunciado": "Para entrar en un carril VAO, un turismo con 3 ocupantes lleva un bulto de 50 kg en el asiento trasero. ¿Está permitido?",
+        "Opciones": [
+            "A) Solo si el bulto está debidamente amarrado con correas homologadas.",
+            "B) Sí, porque cumple el número de personas y pesa poco.",
+            "C) No, el carril VAO es exclusivo para el transporte de personas y está prohibida la carga de mercancías."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Uno de los requisitos fundamentales del VAO es que el vehículo solo puede transportar a personas (y su equipaje personal); la carga de mercancías está prohibida."
+    },
+    {
+        "_id": "PB-TM2-P290",
+        "Enunciado": "¿Qué nombre recibe el espacio entre dos plataformas de una misma vía por el que no pueden circular los vehículos?",
+        "Opciones": [
+            "A) Mediana.",
+            "B) Cebreado.",
+            "C) Arcén central."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La mediana es la franja de terreno que separa físicamente dos plataformas de circulación."
+    },
+    {
+        "_id": "PB-TM2-P291",
+        "Enunciado": "¿Cuál es la función del 'Apartadero'?",
+        "Opciones": [
+            "A) Parte de la vía para que los camiones pesados circulen más despacio.",
+            "B) Servir para el cambio de sentido de la marcha.",
+            "C) Ensanchamiento de la calzada para parar sin estorbar al tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El apartadero está diseñado específicamente como una zona de ensanche para permitir la parada de vehículos sin afectar la fluidez del resto."
+    },
+    {
+        "_id": "PB-TM2-P292",
+        "Enunciado": "En un paso de peatones, ¿qué precaución debe tomar el peatón antes de empezar a cruzar?",
+        "Opciones": [
+            "A) Ninguna, el peatón siempre tiene prioridad absoluta.",
+            "B) Levantar la mano derecha para avisar a los conductores.",
+            "C) Asegurarse de que los coches han parado o vienen muy despacio."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Por seguridad, el peatón debe comprobar que los vehículos han detectado su presencia y están reduciendo la velocidad o detenidos antes de invadir la calzada."
+    },
+    {
+        "_id": "PB-TM2-P293",
+        "Enunciado": "¿Qué es la 'Senda ciclable'?",
+        "Opciones": [
+            "A) El arcén de una carretera convencional pintado de rojo.",
+            "B) Una vía en parques o bosques reservada a peatones y ciclos.",
+            "C) Un carril bici protegido por vallas de metal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La senda ciclable es una vía compartida exclusivamente por personas a pie y bicicletas en entornos abiertos como jardines o bosques."
+    },
+    {
+        "_id": "PB-TM2-P294",
+        "Enunciado": "¿Cómo se define una 'Curva de visibilidad reducida'?",
+        "Opciones": [
+            "A) La que tiene un ángulo de giro superior a 90 grados.",
+            "B) La que no está iluminada durante la noche.",
+            "C) Aquella en la que no se puede ver todo el ancho de la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se considera visibilidad reducida cuando las condiciones del trazado impiden ver la totalidad de la superficie de la calzada."
+    },
+    {
+        "_id": "PB-TM2-P295",
+        "Enunciado": "Si por una avería debe circular a velocidad muy reducida por una autovía, ¿qué debe hacer?",
+        "Opciones": [
+            "A) Continuar hasta su destino por el carril derecho con las luces de emergencia.",
+            "B) Parar inmediatamente en el arcén y llamar a emergencias.",
+            "C) Abandonar la carretera por la primera salida que encuentre."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si el vehículo no puede mantener el ritmo mínimo de la vía por avería, es obligatorio salir de la autovía o autopista en cuanto sea posible (primera salida)."
+    },
+    {
+        "_id": "PB-TM2-P296",
+        "Enunciado": "¿Qué nos indica un semáforo con una flecha verde en una cabina de peaje?",
+        "Opciones": [
+            "A) Que solo pueden pasar vehículos con sistema de telepeaje.",
+            "B) Que el peaje es gratuito en esa hora.",
+            "C) Que la cabina está abierta y se puede pasar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La flecha o semáforo verde es la señal estándar en los peajes para indicar que la vía está operativa y abierta al tráfico."
+    },
+    {
+        "_id": "PB-TM2-P297",
+        "Enunciado": "¿Está permitido circular por el centro de una glorieta si no hay tráfico?",
+        "Opciones": [
+            "A) Solo si se trata de un vehículo de grandes dimensiones.",
+            "B) No, los vehículos deben conducir alrededor de la construcción central.",
+            "C) Sí, para realizar un giro más rápido."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En las glorietas está terminantemente prohibido circular o pasar por el centro; el flujo de tráfico debe rodear siempre la construcción circular."
+    }
+]

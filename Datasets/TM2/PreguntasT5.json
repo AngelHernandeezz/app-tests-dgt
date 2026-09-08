@@ -1,0 +1,333 @@
+[
+    {
+        "_id": "PB-TM2-P121",
+        "Enunciado": "¿Hay que pagar para circular por una autovía?",
+        "Opciones": [
+            "A) Solo si se circula de noche.",
+            "B) No, no hay que pagar.",
+            "C) Sí, el mismo precio que en las autopistas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El uso de las autovías es gratuito para los conductores."
+    },
+    {
+        "_id": "PB-TM2-P122",
+        "Enunciado": "¿Quiénes tienen permitida la circulación por una 'vía para automóviles'?",
+        "Opciones": [
+            "A) Solo automóviles.",
+            "B) Automóviles y vehículos de tracción animal.",
+            "C) Bicicletas y peatones exclusivamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este tipo de carretera está reservado únicamente para el tránsito de vehículos automóviles."
+    },
+    {
+        "_id": "PB-TM2-P123",
+        "Enunciado": "¿Cuántas calzadas tiene una vía para automóviles?",
+        "Opciones": [
+            "A) No tiene calzada, solo arcenes anchos.",
+            "B) Tiene una sola calzada.",
+            "C) Tiene dos calzadas separadas por una mediana."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "A diferencia de autopistas y autovías, la vía para automóviles consta de una calzada única."
+    },
+    {
+        "_id": "PB-TM2-P124",
+        "Enunciado": "¿Se puede entrar a una vía para automóviles desde cualquier finca lateral?",
+        "Opciones": [
+            "A) Solo si se trata de un vehículo agrícola.",
+            "B) No, al igual que en las autopistas, no se puede entrar desde terrenos colindantes.",
+            "C) Sí, como en las autovías."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La vía para automóviles tiene limitado el acceso desde propiedades privadas de forma similar a una autopista."
+    },
+    {
+        "_id": "PB-TM2-P125",
+        "Enunciado": "¿Con qué señales se identifica una vía para automóviles?",
+        "Opciones": [
+            "A) No tienen señales propias.",
+            "B) Con las señales S-1 y S-2.",
+            "C) Con las señales S-3 y S-4."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Este tipo específico de vía se encuentra señalizado mediante las placas S-3 y S-4.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM2-P126",
+        "Enunciado": "¿Qué es una carretera convencional?",
+        "Opciones": [
+            "A) Son todas las calles de un poblado.",
+            "B) Son las vías reservadas a ciclos y ciclomotores.",
+            "C) Son las carreteras que no son autopistas, autovías ni vías para automóviles."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se define como carretera convencional a toda aquella que no cumple con las características técnicas de las vías de alta capacidad."
+    },
+    {
+        "_id": "PB-TM2-P127",
+        "Enunciado": "¿Para qué sirve una calzada o vía de servicio?",
+        "Opciones": [
+            "A) Para realizar pruebas de frenado en emergencia.",
+            "B) Es el carril destinado únicamente a las grúas de auxilio.",
+            "C) Va en paralelo a la principal y une la carretera con casas o gasolineras."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La vía de servicio facilita la conexión de la carretera principal con propiedades colindantes y establecimientos como gasolineras."
+    },
+    {
+        "_id": "PB-TM2-P128",
+        "Enunciado": "¿Qué indica el color Blanco respecto al estado de la vía?",
+        "Opciones": [
+            "A) Que la carretera está cortada por obras.",
+            "B) Que hay nieve en la calzada.",
+            "C) Que se puede circular con normalidad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El color blanco significa que el tráfico fluye de forma habitual y segura."
+    },
+    {
+        "_id": "PB-TM2-P129",
+        "Enunciado": "¿Qué indica el color Verde en el estado de la carretera?",
+        "Opciones": [
+            "A) Que no se puede alcanzar la velocidad máxima permitida en esa vía.",
+            "B) Que se entra en una zona de bosque protegido.",
+            "C) Que el tráfico es muy rápido y fluido."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El verde avisa de que, por diversas circunstancias, no es posible circular a la velocidad máxima de la vía."
+    },
+    {
+        "_id": "PB-TM2-P130",
+        "Enunciado": "¿Qué significa el color Amarillo en el estado de la vía?",
+        "Opciones": [
+            "A) Que es obligatorio el uso de cadenas para la nieve.",
+            "B) Que solo pueden circular vehículos de color amarillo.",
+            "C) Que hay paros y retenciones ocasionales o el tráfico es lento en algunos tramos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El amarillo advierte sobre la existencia de congestión o tráfico lento en determinadas partes del recorrido."
+    },
+    {
+        "_id": "PB-TM2-P131",
+        "Enunciado": "¿Qué indica el color Rojo respecto a la cantidad de vehículos?",
+        "Opciones": [
+            "A) Que hay demasiados vehículos y hay muchos paros y retenciones y muy frecuentes.",
+            "B) Que hay peligro de incendio forestal junto a la vía.",
+            "C) Que la carretera está cortada por un accidente grave."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El color rojo se utiliza para señalizar situaciones de saturación de vehículos con paradas frecuentes."
+    },
+    {
+    "_id": "PB-TM2-P132",
+    "Enunciado": "¿Qué indica el color Negro sobre el estado de circulación en una carretera?",
+    "Opciones": [
+      "A) Que es obligatorio el uso de luces de largo alcance.",
+      "B) Que la carretera está cortada y no se puede circular.",
+      "C) Que la visibilidad es nula debido a la niebla."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El código de colores para el estado de la vía reserva el negro para informar de que la circulación está totalmente interrumpida."
+  },
+  {
+    "_id": "PB-TM2-P133",
+    "Enunciado": "Como norma general, ¿por qué parte de la calzada deben circular los vehículos?",
+    "Opciones": [
+      "A) Por el centro, para tener mayor margen de seguridad.",
+      "B) Por cualquier carril siempre que no se superen los 90 km/h.",
+      "C) Por la derecha y lo más cerca posible del borde de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los conductores tienen la obligación de circular por su derecha, manteniéndose cerca del borde derecho de la vía."
+  },
+  {
+    "_id": "PB-TM2-P134",
+    "Enunciado": "¿En qué tramos es especialmente importante circular lo más cerca posible del borde derecho?",
+    "Opciones": [
+      "A) En las rectas con mucha visibilidad.",
+      "B) Únicamente al entrar en un carril de deceleración.",
+      "C) En las curvas y cambios de rasante de visibilidad reducida."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe extremar la posición a la derecha en lugares donde la visibilidad es limitada, como curvas o cambios de rasante, para evitar colisiones."
+  },
+  {
+    "_id": "PB-TM2-P135",
+    "Enunciado": "Al conducir, ¿qué parte de la calzada debe quedar siempre libre?",
+    "Opciones": [
+      "A) La parte de la calzada que corresponde al sentido contrario.",
+      "B) El carril de la derecha para permitir adelantamientos.",
+      "C) El arcén, para que puedan circular los peatones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es fundamental respetar el espacio destinado a los vehículos que circulan en la dirección opuesta, manteniéndolo despejado."
+  },
+  {
+    "_id": "PB-TM2-P136",
+    "Enunciado": "En una carretera que dispone de dos calzadas separadas, ¿cuál debe utilizar el conductor?",
+    "Opciones": [
+      "A) Cualquiera de las dos si la vía es de sentido único.",
+      "B) La calzada de su derecha.",
+      "C) La calzada central si dispone de más de dos carriles."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Cuando la vía está dividida en dos calzadas, cada flujo de tráfico debe ocupar la que se encuentra a su derecha."
+  },
+  {
+    "_id": "PB-TM2-P137",
+    "Enunciado": "En una carretera con tres calzadas, ¿qué sentido de circulación puede tener la calzada central?",
+    "Opciones": [
+      "A) Puede tener uno o dos sentidos.",
+      "B) Solo se puede usar para vehículos de emergencia.",
+      "C) Siempre es de sentido único hacia la derecha."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Mientras las calzadas laterales suelen ser de sentido único, la central puede estar habilitada para uno o para ambos sentidos de la marcha."
+  },
+  {
+    "_id": "PB-TM2-P138",
+    "Enunciado": "Si se encuentra un refugio o una isleta en una vía de doble sentido, ¿por dónde debe pasar?",
+    "Opciones": [
+      "A) Por la parte derecha del refugio o isleta.",
+      "B) Por la izquierda si no vienen vehículos de frente.",
+      "C) Por cualquiera de los dos lados indistintamente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En vías donde el tráfico circula en ambos sentidos, estos elementos deben dejarse siempre a la izquierda del vehículo."
+  },
+  {
+    "_id": "PB-TM2-P139",
+    "Enunciado": "En una vía de sentido único, ¿está permitido circular por la izquierda de una isleta o refugio?",
+    "Opciones": [
+      "A) Solo si lo indica una señal luminosa de color azul.",
+      "B) Sí, puede circular por cualquiera de los dos lados.",
+      "C) No, la norma de pasar por la derecha es universal."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Al no existir tráfico en sentido contrario, se permite rebasar isletas y refugios por cualquier flanco."
+  },
+  {
+    "_id": "PB-TM2-P140",
+    "Enunciado": "¿Tienen permitido los automóviles circular habitualmente por el arcén?",
+    "Opciones": [
+      "A) No, salvo en caso de avería o algún otro imprevisto.",
+      "B) Sí, si la calzada está muy congestionada.",
+      "C) Solo si se trata de un vehículo de carga de menos de 3.500 kg."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El arcén no es una zona de circulación para automóviles, quedando su uso restringido a situaciones de emergencia o necesidad justificada."
+  },
+  {
+    "_id": "PB-TM2-P141",
+    "Enunciado": "En una carretera de doble sentido que tiene dos carriles, ¿por dónde deben circular los vehículos?",
+    "Opciones": [
+      "A) Por la derecha.",
+      "B) Por el carril que esté más libre de tráfico.",
+      "C) Por el centro para repartir el espacio."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En las carreteras de doble sentido con dos carriles, la norma general obliga a circular siempre por el lado derecho de la calzada."
+  },
+  {
+    "_id": "PB-TM2-P142",
+    "Enunciado": "En una vía de doble sentido con tres carriles separados por líneas, ¿por dónde se debe circular normalmente?",
+    "Opciones": [
+      "A) Por el carril central.",
+      "B) Por el carril de la izquierda.",
+      "C) Por el carril de la derecha."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En este tipo de carreteras, el carril derecho es el destinado a la circulación normal de los vehículos."
+  },
+  {
+    "_id": "PB-TM2-P143",
+    "Enunciado": "¿Cuándo está permitido ocupar el carril de la izquierda en una carretera de doble sentido y tres carriles?",
+    "Opciones": [
+      "A) Cuando hay mucha retención en los otros dos carriles.",
+      "B) Para realizar adelantamientos rápidos.",
+      "C) Nunca se debe ocupar el carril de la izquierda."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Según las normas para usar los carriles, en las vías de doble sentido con tres carriles, el carril situado más a la izquierda tiene prohibida su ocupación."
+  },
+  {
+    "_id": "PB-TM2-P144",
+    "Enunciado": "En una carretera de doble sentido y tres carriles, ¿para qué se utiliza el carril central?",
+    "Opciones": [
+      "A) Es de uso exclusivo para vehículos de transporte público.",
+      "B) Para circular de forma continua si se va a la velocidad máxima.",
+      "C) Solo se usa para adelantar y para cambiar de dirección hacia la izquierda."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El carril central en estas vías no es para circulación normal, sino que su uso queda restringido a realizar adelantamientos o giros hacia la izquierda."
+  },
+  {
+    "_id": "PB-TM2-P145",
+    "Enunciado": "Dentro de poblado, si hay dos carriles para el mismo sentido separados por líneas blancas, ¿qué carril puede elegir un automóvil?",
+    "Opciones": [
+      "A) El carril que prefiera.",
+      "B) El carril de la izquierda, pero solo para girar.",
+      "C) Obligatoriamente el de la derecha."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En zonas urbanas con carriles delimitados, los conductores de automóviles pueden situarse en el que mejor convenga a su destino."
+  },
+  {
+    "_id": "PB-TM2-P146",
+    "Enunciado": "Una vez elegido un carril en ciudad, ¿por qué motivos se puede abandonar?",
+    "Opciones": [
+      "A) Únicamente para adelantar a vehículos que van muy lentos.",
+      "B) Solo para cambiar de dirección, aparcar o adelantar.",
+      "C) Se puede cambiar constantemente para avanzar más rápido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque se puede elegir carril, el cambio de este debe estar motivado por una maniobra específica como girar, estacionar o sobrepasar a otro usuario."
+  },
+  {
+    "_id": "PB-TM2-P147",
+    "Enunciado": "¿Qué precaución debe tomar al elegir carril en poblado?",
+    "Opciones": [
+      "A) Debe mantener las luces de emergencia si circula por la izquierda.",
+      "B) Debe circular siempre por el carril central si hay tres.",
+      "C) No se puede impedir el paso o ser un obstáculo para otros vehículos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La libertad de elección de carril en ciudad no autoriza al conductor a entorpecer la marcha normal del resto del tráfico."
+  },
+  {
+    "_id": "PB-TM2-P148",
+    "Enunciado": "En las calles donde los carriles no están separados por líneas blancas, ¿por dónde se debe circular?",
+    "Opciones": [
+      "A) Por la izquierda si hay coches aparcados en la derecha.",
+      "B) Por la derecha.",
+      "C) Por el centro de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Si no hay marcas viales que delimiten los carriles, rige la norma general de circular siempre por la derecha."
+  },
+  {
+    "_id": "PB-TM2-P149",
+    "Enunciado": "En ciudad, ¿por dónde deben circular los ciclomotores y ciclos aunque haya líneas de separación?",
+    "Opciones": [
+      "A) Por la acera, si el carril derecho está ocupado.",
+      "B) Por el carril que prefieran, igual que los automóviles.",
+      "C) Siempre por la derecha."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los vehículos de movilidad reducida, ciclos y ciclomotores mantienen la obligación de circular por la derecha incluso en vías urbanas con carriles pintados."
+  },
+  {
+    "_id": "PB-TM2-P150",
+    "Enunciado": "Fuera de poblado, en una carretera con dos carriles para el mismo sentido, ¿por dónde deben ir los camiones de más de 3.500 kg?",
+    "Opciones": [
+      "A) Por cualquier carril, siempre que no entorpezcan.",
+      "B) Por el carril de su derecha.",
+      "C) Solo por el carril de la izquierda para facilitar la incorporación de otros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos pesados deben mantenerse en el carril derecho en vías interurbanas de dos carriles por sentido."
+  }
+]

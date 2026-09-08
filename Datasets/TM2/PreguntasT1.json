@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM2-P1",
+        "Enunciado": "¿De quién depende principalmente la seguridad en la carretera?",
+        "Opciones": [
+            "A) Exclusivamente de los conductores de vehículos.",
+            "B) De los conductores y también de los peatones.",
+            "C) Únicamente de los agentes de vigilancia del tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La seguridad vial es una responsabilidad compartida; depende tanto de los conductores como de los peatones, siendo necesaria la colaboración de todos."
+    },
+    {
+        "_id": "PB-TM2-P2",
+        "Enunciado": "Para que la circulación sea ordenada, ¿qué es necesario que hagan todas las personas?",
+        "Opciones": [
+            "A) Colaborar respetando a los demás usuarios de la vía.",
+            "B) Dar siempre prioridad a los vehículos más rápidos.",
+            "C) Circular siempre por el centro de la calzada para ser vistos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es fundamental que todas las personas colaboren respetando a los demás, circulando de manera ordenada, siguiendo todas las indicaciones y obligaciones, ya sea a pie o en vehículo."
+    },
+    {
+        "_id": "PB-TM2-P3",
+        "Enunciado": "¿Está permitido tirar objetos a la carretera que puedan estropearla o dificultar el paso?",
+        "Opciones": [
+            "A) No, está prohibido tirar objetos o materiales a la vía o dejarlos abandonados.",
+            "B) Sí, siempre que sean objetos pequeños que no pinchen las ruedas.",
+            "C) Sí, pero solo si se tiran al arcén."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La ley prohíbe tirar objetos a la carretera, especialmente aquellos que puedan dañar la vía, dificultar el tráfico o provocar accidentes."
+    },
+    {
+        "_id": "PB-TM2-P4",
+        "Enunciado": "Al conducir un vehículo, ¿cuál es la obligación principal para prevenir daños o accidentes?",
+        "Opciones": [
+            "A) Conocer perfectamente la mecánica del vehículo.",
+            "B) No distraerse bajo ninguna circunstancia.",
+            "C) Circular a la velocidad máxima permitida siempre."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Todo conductor está obligado a mantener la atención y no distraerse para prevenir peligros tanto para sí mismo como para los demás usuarios."
+    },
+    {
+        "_id": "PB-TM2-P5",
+        "Enunciado": "Para evitar peligros, ¿hacia quiénes debe dirigir su atención el conductor?",
+        "Opciones": [
+            "A) Solo hacia los vehículos que circulan por delante.",
+            "B) Únicamente hacia las señales de tráfico.",
+            "C) Hacia sí mismo, sus pasajeros, otros vehículos y los peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El conductor debe evitar peligros para él mismo, sus acompañantes, otros vehículos y los peatones."
+    },
+    {
+        "_id": "PB-TM2-P6",
+        "Enunciado": "¿A qué grupos de peatones se debe prestar una atención especial?",
+        "Opciones": [
+            "A) Únicamente a los peatones que circulan por el arcén.",
+            "B) A niños, personas mayores, personas ciegas o en silla de ruedas.",
+            "C) A los adultos que cruzan por pasos de peatones."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es obligatorio prestar especial atención a los colectivos más vulnerables: niños, ancianos, personas con discapacidad visual o con movilidad reducida."
+    },
+    {
+        "_id": "PB-TM2-P7",
+        "Enunciado": "Respecto a la contaminación, ¿qué tienen prohibido todos los conductores?",
+        "Opciones": [
+            "A) Circular con las ventanillas bajadas en túneles.",
+            "B) Usar el aire acondicionado en zonas urbanas congestionadas.",
+            "C) Conducir un vehículo que expulse más ruidos, gases o humos de los permitidos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Está prohibido circular con vehículos que superen los niveles de emisión de ruidos, gases o humos permitidos por la normativa."
+    },
+    {
+        "_id": "PB-TM2-P8",
+        "Enunciado": "¿Está permitido abrir las puertas del vehículo antes de que esté completamente parado?",
+        "Opciones": [
+            "A) Solo en vías urbanas de baja velocidad cuando se esté a punto de parar.",
+            "B) No, está prohibido llevarlas abiertas o abrirlas antes de la detención total.",
+            "C) Sí, si el conductor lo autoriza y no hay peligro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La normativa prohíbe abrir las puertas del vehículo o llevarlas abiertas antes de que este se haya detenido por completo."
+    },
+    {
+        "_id": "PB-TM2-P9",
+        "Enunciado": "Antes de abrir las puertas para bajar del vehículo, ¿qué se debe asegurar?",
+        "Opciones": [
+            "A) Que el motor esté apagado y el freno de mano puesto.",
+            "B) Que no existe peligro para uno mismo ni para otros vehículos o peatones.",
+            "C) Que se dispone del chaleco reflectante puesto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "No se pueden abrir las puertas ni bajarse del vehículo sin haber comprobado previamente que no hay peligro para ningún usuario de la vía."
+    },
+    {
+        "_id": "PB-TM2-P10",
+        "Enunciado": "¿Qué riesgo específico se menciona al abrir la puerta de un coche sin mirar?",
+        "Opciones": [
+            "A) Que la puerta pueda golpearse con un bordillo alto.",
+            "B) Que se descargue la batería por la luz de cortesía.",
+            "C) Que pase una bicicleta por delante y se provoque un accidente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Abrir la puerta sin mirar es peligroso porque puede pasar una bicicleta en ese momento, ocasionando un accidente."
+    },
+    {
+        "_id": "PB-TM2-P11",
+        "Enunciado": "Como norma general, ¿está permitido usar auriculares conectados a aparatos de sonido mientras se conduce?",
+        "Opciones": [
+            "A) No, está totalmente prohibido.",
+            "B) Solo se permite si se utiliza un solo auricular.",
+            "C) Sí, siempre que el volumen sea bajo para escuchar bien el tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Está prohibido conducir utilizando auriculares conectados a receptores o reproductores de sonido."
+    },
+    {
+        "_id": "PB-TM2-P12",
+        "Enunciado": "¿En qué caso excepcional se permiten auriculares en el casco de motocicletas?",
+        "Opciones": [
+            "A) Nunca, el uso de cualquier auricular está prohibido siempre.",
+            "B) Para escuchar la radio durante trayectos largos.",
+            "C) Cuando sirven como navegadores GPS y son dispositivos específicos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Solo se permiten auriculares específicos en el casco de motos y ciclomotores si su función es la de navegador GPS."
+    },
+    {
+        "_id": "PB-TM2-P13",
+        "Enunciado": "¿Cómo está permitido legalmente el uso del teléfono móvil durante la conducción?",
+        "Opciones": [
+            "A) Únicamente si el vehículo está detenido en un semáforo en rojo.",
+            "B) Sujetándolo en las piernas para tener las manos libres.",
+            "C) A través de dispositivos de manos libres."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso del teléfono móvil solo está permitido si se realiza mediante un sistema de manos libres, pero nunca lo podemos tener en las piernas, entre ellas o encima."
+    },
+    {
+        "_id": "PB-TM2-P14",
+        "Enunciado": "Al echar combustible al vehículo, ¿qué debe estar apagado o desconectado?",
+        "Opciones": [
+            "A) El motor y las luces únicamente.",
+            "B) El motor, las luces y todo sistema electromagnético.",
+            "C) Únicamente el motor del vehículo junto al telefono móvil."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para repostar de forma segura, el motor debe estar parado, las luces apagadas y la radio desconectada."
+    },
+    {
+        "_id": "PB-TM2-P15",
+        "Enunciado": "¿Qué es el combustible?",
+        "Opciones": [
+            "A) La materia que al juntarse con oxígeno desprende calor.",
+            "B) El lubricante que evita el roce de las piezas del motor.",
+            "C) Un aditivo que se añade al motor para reducir ruidos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El combustible se define como la materia que desprende calor al entrar en contacto con el oxígeno, necesaria para el funcionamiento de muchos vehículos."
+    },
+    {
+        "_id": "PB-TM2-P16",
+        "Enunciado": "¿En qué consiste la conducción defensiva?",
+        "Opciones": [
+            "A) En circular siempre por el carril derecho para no molestar.",
+            "B) En utilizar las señales acústicas para advertir de nuestra presencia.",
+            "C) En estar atento para prever las acciones de otros usuarios y reaccionar adecuadamente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La conducción defensiva es la actitud de previsión ante las maniobras de otros conductores o peatones para poder reaccionar a tiempo, es como intentar anticiparte a los movimientos de los demás."
+    },
+    {
+        "_id": "PB-TM2-P17",
+        "Enunciado": "¿Cuál es un ejemplo de conducción defensiva?",
+        "Opciones": [
+            "A) Frenar bruscamente ante cualquier peatón que esté en la acera.",
+            "B) Acelerar cuando nos van a adelantar para facilitar la maniobra.",
+            "C) Estar preparado por si otro conductor necesita cambiar de carril de repente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un ejemplo es tener en cuenta las necesidades de otros conductores, como un cambio de carril, y estar listo por si ocurre."
+    },
+    {
+        "_id": "PB-TM2-P18",
+        "Enunciado": "¿Qué es la 'zona de inseguridad'?",
+        "Opciones": [
+            "A) El área de la calzada reservada para vehículos de emergencia.",
+            "B) El tramo de vía que carece de iluminación artificial.",
+            "C) El espacio en el que pueden surgir imprevistos por parte de otros usuarios."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La zona de inseguridad es el espacio alrededor del vehículo donde pueden aparecer imprevistos, como un niño corriendo tras una pelota que puede ir en cualquier dirección."
+    },
+    {
+        "_id": "PB-TM2-P19",
+        "Enunciado": "Los imprevistos en la zona de inseguridad, ¿por dónde pueden surgir respecto al vehículo?",
+        "Opciones": [
+            "A) Solo por el lado derecho, que es por donde caminan los peatones.",
+            "B) Únicamente por la parte delantera.",
+            "C) Por delante, por detrás y por los lados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los imprevistos de otros conductores o peatones pueden surgir en cualquier dirección: delante, detrás o a los lados del vehículo."
+    },
+    {
+        "_id": "PB-TM2-P20",
+        "Enunciado": "En comparación con los turismos, ¿qué características definen a los vehículos de dos o tres ruedas?",
+        "Opciones": [
+            "A) Son más seguros al ser más pequeños.",
+            "B) Tienen prioridad absoluta en las intersecciones.",
+            "C) Se ven menos, son menos estables y más frágiles."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estos vehículos tienen una visibilidad reducida para otros, menor estabilidad y mayor fragilidad, lo que aumenta el riesgo de lesiones para sus ocupantes."
+    },
+    {
+        "_id": "PB-TM2-P21",
+        "Enunciado": "¿Cuáles vehículos se incluyen entre los vehículos de dos o tres ruedas?",
+        "Opciones": [
+            "A) Solo las bicicletas y los patinetes eléctricos.",
+            "B) Motocicletas, vehículos de tres ruedas, quads y ciclomotores.",
+            "C) Únicamente las motocicletas con sidecar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se consideran dentro de este grupo las motocicletas (con o sin sidecar), vehículos de tres ruedas, quads, cuadriciclos pesados y ciclomotores."
+    },
+    {
+        "_id": "PB-TM2-P22",
+        "Enunciado": "¿Cómo se debe llevar el casco de seguridad en estos vehículos?",
+        "Opciones": [
+            "A) Solo es obligatorio abrocharlo en vías interurbanas.",
+            "B) Siempre bien abrochado y ajustado a la cabeza.",
+            "C) Es suficiente con llevarlo apoyado en la cabeza."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Tanto el conductor como el pasajero tienen la obligación de llevar el casco de seguridad bien abrochado y ajustado."
+    },
+    {
+        "_id": "PB-TM2-P23",
+        "Enunciado": "Al conducir una bicicleta de noche o con visibilidad reducida, ¿qué medidas de seguridad son obligatorias?",
+        "Opciones": [
+            "A) Encender las luces y llevar una prenda reflectante visible a 150 metros.",
+            "B) No es necesario llevar nada especial si la vía está iluminada.",
+            "C) Llevar únicamente luces blancas fijas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "De noche o con poca visibilidad, el ciclista debe encender las luces y portar una prenda u objeto que brille y sea visible a 150 metros."
+    },
+    {
+        "_id": "PB-TM2-P24",
+        "Enunciado": "En una bicicleta, ¿quién debe llevar la prenda u objeto brillante de noche?",
+        "Opciones": [
+            "A) Es opcional para ambos si llevan luces.",
+            "B) Solo el conductor.",
+            "C) El conductor y también el pasajero."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La obligación de llevar la prenda brillante recae tanto en el conductor como en el pasajero de todos los vehículos de dos o tres ruedas, no solo de la bicicleta."
+    },
+    {
+        "_id": "PB-TM2-P25",
+        "Enunciado": "Si un vehículo de dos o tres ruedas dispone de cinturones de seguridad, ¿debe usarse el casco?",
+        "Opciones": [
+            "A) No, si tiene cinturones de seguridad no es necesario.",
+            "B) Sí, el casco es siempre obligatorio.",
+            "C) Solo es obligatorio para el pasajero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En aquellos vehículos de 2 o 3 ruedas equipados obligatoriamente con cinturón de seguridad, el uso del casco no es necesario ya que la obligación es ponerse el cinturón de seguridad."
+    },
+    {
+        "_id": "PB-TM2-P26",
+        "Enunciado": "¿Qué señalización luminosa deben llevar los vehículos especiales mientras realizan obras?",
+        "Opciones": [
+            "A) Una luz azul giratoria.",
+            "B) Las luces de corto alcance y las de emergencia simultáneamente.",
+            "C) Una luz amarilla encendida."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos que realizan obras o servicios en la carretera deben llevar una luz amarilla encendida durante sus trabajos."
+    },
+    {
+        "_id": "PB-TM2-P27",
+        "Enunciado": "En autopistas o autovías, ¿cuándo deben encender los vehículos especiales la luz amarilla?",
+        "Opciones": [
+            "A) Desde que entran a la vía hasta que llegan a su destino.",
+            "B) Solo cuando están realizando su trabajo en la vía.",
+            "C) Únicamente durante la noche o con niebla."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En estas vías rápidas, deben llevar la luz amarilla encendida durante todo el trayecto, desde la entrada hasta su destino."
+    },
+    {
+        "_id": "PB-TM2-P28",
+        "Enunciado": "¿Qué indica la luz amarilla en los vehículos especiales?",
+        "Opciones": [
+            "A) Que el vehículo es prioritario.",
+            "B) Solo indica la presencia del vehículo en la vía.",
+            "C) Que el vehículo es lento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La luz amarilla tiene una función de advertencia para que el resto de conductores detecten su presencia, pero no les otorga prioridad."
+    },
+    {
+        "_id": "PB-TM2-P29",
+        "Enunciado": "¿Tienen los vehículos especiales prioridad para pasar o adelantar por llevar la luz amarilla?",
+        "Opciones": [
+            "A) Sí, siempre que la tengan encendidad.",
+            "B) No, no tienen prioridad por llevar esa luz.",
+            "C) Solo cuando circulan por el arcén o vayan con prisas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La luz amarilla no concede prioridad de paso ni de adelantamiento al vehículo especial, solo indica su presencia."
+    },
+    {
+        "_id": "PB-TM2-P30",
+        "Enunciado": "¿Cuál es la velocidad máxima permitida para los vehículos especiales de obra?",
+        "Opciones": [
+            "A) 25 km/h.",
+            "B) 40 km/h.",
+            "C) 50 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La velocidad máxima establecida para la circulación de estos vehículos es de 40 kilómetros por hora."
+    }
+]

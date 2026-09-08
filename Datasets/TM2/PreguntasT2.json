@@ -1,0 +1,333 @@
+[
+    {
+        "_id": "PB-TM2-P31",
+        "Enunciado": "Como norma general, ¿por dónde deben caminar los peatones en pueblos y ciudades?",
+        "Opciones": [
+            "A) Por la acera y no por la carretera siempre que sea posible.",
+            "B) Indistintamente por la derecha o la izquierda de la calle.",
+            "C) Por la calzada si no hay mucho tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En zonas urbanas, los peatones tienen la obligación de circular por la acera para su seguridad, evitando invadir la carretera si no es necesario."
+    },
+    {
+        "_id": "PB-TM2-P32",
+        "Enunciado": "¿Qué norma deben cumplir los peatones que utilizan patines o monopatines no eléctricos?",
+        "Opciones": [
+            "A) Deben circular por el carril bici exclusivamente.",
+            "B) Deben caminar por la acera, al igual que el resto de peatones.",
+            "C) Tienen prohibido circular por zonas peatonales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las personas que utilizan aparatos similares a patines o monopatines (no eléctricos) se consideran peatones y deben cumplir la norma de caminar por la acera."
+    },
+    {
+        "_id": "PB-TM2-P33",
+        "Enunciado": "Si usted empuja una bicicleta o un ciclomotor de dos ruedas, ¿por qué lado de la vía debe hacerlo?",
+        "Opciones": [
+            "A) Por la izquierda para ver venir a los coches.",
+            "B) Por el centro de la acera para no molestar.",
+            "C) Siempre por la derecha, tanto en ciudad como en carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al arrastrar o empujar vehículos de dos ruedas (como bicis o ciclomotores) o carros de mano, el peatón debe circular siempre por su derecha."
+    },
+    {
+        "_id": "PB-TM2-P34",
+        "Enunciado": "Las personas que se desplazan en silla de ruedas, ¿por qué lado de la vía deben circular?",
+        "Opciones": [
+            "A) Siempre por la derecha.",
+            "B) Únicamente por la izquierda en carreteras interurbanas.",
+            "C) Por la zona que prefieran según el estado del pavimento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La normativa establece que las personas en silla de ruedas deben circular por la derecha, tanto en ciudad como en carretera."
+    },
+    {
+        "_id": "PB-TM2-P35",
+        "Enunciado": "¿En qué caso puede un peatón caminar por la calzada de una vía en poblado?",
+        "Opciones": [
+            "A) Si lleva un objeto muy grande y la acera o arcén son pequeños y estorban a otros.",
+            "B) Solo si se trata de una calle residencial con velocidad máxima de 20 km/h.",
+            "C) Nunca, bajo ninguna circunstancia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si un peatón transporta un objeto voluminoso o un vehículo pequeño sin motor que moleste a otros en la acera/arcén, se le permite usar la calzada."
+    },
+    {
+        "_id": "PB-TM2-P36",
+        "Enunciado": "Según las definiciones de tráfico, ¿qué es el arcén?",
+        "Opciones": [
+            "A) El espacio destinado exclusivamente al estacionamiento de emergencia.",
+            "B) El carril central de una autopista destinado a vehículos rápidos.",
+            "C) Los laterales de la carretera que pueden estar a la derecha y a la izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El arcén son las franjas laterales de la carretera situadas a ambos lados de la calzada."
+    },
+    {
+        "_id": "PB-TM2-P37",
+        "Enunciado": "¿Qué vehículo tiene permitido circular por el arcén de la derecha?",
+        "Opciones": [
+            "A) Ningún vehículo en ningún caso, solo los peatones.",
+            "B) Algunos vehículos específicos, como por ejemplo los ciclomotores.",
+            "C) Los camiones de gran tonelaje cuando hay atasco."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El arcén derecho es el espacio habilitado para la circulación de ciertos vehículos, entre los que se encuentran los ciclomotores."
+    },
+    {
+        "_id": "PB-TM2-P38",
+        "Enunciado": "Al andar por una carretera fuera de poblado, ¿por qué lado debe caminar el peatón?",
+        "Opciones": [
+            "A) Siempre por la izquierda de la carretera.",
+            "B) Siempre por la derecha para ir en el mismo sentido que los coches.",
+            "C) Por el lado que tenga el arcén más ancho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En carreteras interurbanas (Fuera de poblado), el peatón debe caminar por la izquierda para ver de frente a los vehículos que se aproximan."
+    },
+    {
+        "_id": "PB-TM2-P39",
+        "Enunciado": "¿Existe alguna excepción a la norma de caminar por la izquierda fuera de poblado?",
+        "Opciones": [
+            "A) No, es obligatorio caminar siempre por la izquierda.",
+            "B) Sí, si el peatón va acompañado de animales.",
+            "C) Sí, cuando sea más seguro andar por la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aunque la norma general es ir por la izquierda, se puede circular por la derecha si las circunstancias de la vía hacen que sea más seguro."
+    },
+    {
+        "_id": "PB-TM2-P40",
+        "Enunciado": "Si camina por la noche por una carretera, ¿qué medida de seguridad debe tomar?",
+        "Opciones": [
+            "A) Caminar obligatoriamente en grupos de al menos tres personas.",
+            "B) Llevar una linterna de luz blanca en la mano izquierda.",
+            "C) Llevar un elemento luminoso o brillante que se vea a 150 metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para ser visto por los conductores de noche, el peatón debe portar un elemento reflectante o luminoso visible desde una distancia mínima de 150 metros."
+    },
+    {
+        "_id": "PB-TM2-P41",
+        "Enunciado": "¿Qué ejemplo puede ser un elemento reflectante válido?",
+        "Opciones": [
+            "A) Un chaleco que refleja la luz o una pulsera luminosa.",
+            "B) El uso del flash del teléfono móvil constantemente.",
+            "C) Una prenda de color amarillo fluorescente sin reflectantes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Un ejemplo de elemento reflectante válido en la seguridad nocturna para peatones es el chaleco reflectante o las pulseras luminosas."
+    },
+    {
+        "_id": "PB-TM2-P42",
+        "Enunciado": "Cuando un grupo de personas camina por la carretera, ¿cómo debe organizarse?",
+        "Opciones": [
+            "A) Ocupando la mitad de la calzada si son muchos.",
+            "B) En fila, uno detrás de otro.",
+            "C) Caminando de dos en dos para ser más visibles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los grupos de peatones deben marchar en fila india (uno tras otro) para ocupar el menor espacio posible en la vía."
+    },
+    {
+        "_id": "PB-TM2-P43",
+        "Enunciado": "En una fila de peatones por carretera de noche, ¿qué iluminación deben llevar los que van delante?",
+        "Opciones": [
+            "A) Una luz roja intermitente.",
+            "B) No necesitan luz si los de atrás llevan reflectantes.",
+            "C) Una luz blanca o amarilla que brille."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para señalizar el inicio del grupo ya sea de noche o con visibilidad reducida, las personas situadas al frente deben llevar una luz de color blanco o amarillo."
+    },
+    {
+        "_id": "PB-TM2-P44",
+        "Enunciado": "¿Qué color de luz deben llevar las personas que van al final de una fila de peatones en situación de visibilidad reducida?",
+        "Opciones": [
+            "A) Luz amarilla fija.",
+            "B) Luz blanca de gran intensidad.",
+            "C) Una luz roja que brille."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El final de la fila de peatones y de noche o con visibilidad reducida se debe señalizarse con una luz roja para que los conductores identifiquen el sentido de la marcha del grupo."
+    },
+    {
+        "_id": "PB-TM2-P45",
+        "Enunciado": "¿Cuál es la finalidad de que los grupos de peatones lleven luces delante y detrás?",
+        "Opciones": [
+            "A) Cumplir con la normativa de contaminación lumínica.",
+            "B) Que los conductores sepan dónde empieza y dónde acaba la fila.",
+            "C) Evitar que los propios peatones tropiecen entre sí."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las luces en los extremos sirven para delimitar la longitud de la fila de peatones ante los conductores de vehículos."
+    },
+    {
+        "_id": "PB-TM2-P46",
+        "Enunciado": "Al cruzar una calle o carretera, ¿cuál es la forma correcta de hacerlo?",
+        "Opciones": [
+            "A) En diagonal para aprovechar el espacio entre coches.",
+            "B) Corriendo para tardar el menor tiempo posible.",
+            "C) En línea recta y sin pararse hasta llegar a la otra acera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cruce debe realizarse de forma perpendicular a la vía (línea recta) y con paso firme pero sin detenciones innecesarias."
+    },
+    {
+        "_id": "PB-TM2-P47",
+        "Enunciado": "En un paso de peatones, ¿cuándo debe empezar a cruzar?",
+        "Opciones": [
+            "A) En cuanto llegue al borde de la acera ya que tengo prioridad.",
+            "B) Tras asegurar que los coches han parado o vienen muy despacio.",
+            "C) Solo cuando no se vea ningún coche en el horizonte."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aunque se tenga prioridad, es vital comprobar que los conductores han percibido nuestra intención y que el vehículo se está deteniendo."
+    },
+    {
+        "_id": "PB-TM2-P48",
+        "Enunciado": "¿Cómo debe actuar un peatón ante una plaza o una glorieta?",
+        "Opciones": [
+            "A) Debe rodearla y no cruzarla por la carretera.",
+            "B) Debe cruzarla por el camino más corto entre los carriles.",
+            "C) Puede atravesarla por el centro si hay zona ajardinada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las glorietas y plazas deben bordearse por las aceras perimetrales; nunca se debe cruzar a través de ellas por la calzada."
+    },
+    {
+        "_id": "PB-TM2-P49",
+        "Enunciado": "¿Por cuál de los siguientes lugares tienen prohibido circular los vehículos de movilidad personal?",
+        "Opciones": [
+            "A) Por calles residenciales con límite de 30 km/h.",
+            "B) Por aceras y zonas peatonales.",
+            "C) Por carriles bici situados en la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los Vehículos de Movilidad Personal (VMP) tienen prohibida la circulación por aceras y cualquier espacio reservado exclusivamente a peatones."
+    },
+    {
+        "_id": "PB-TM2-P50",
+        "Enunciado": "¿Está permitido que un VMP circule por túneles o travesías?",
+        "Opciones": [
+            "A) Sí, siempre que lleven las luces encendidas.",
+            "B) Solo si no existe una vía alternativa.",
+            "C) No, tienen prohibida la circulación por estos lugares."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La normativa prohíbe expresamente que los VMP circulen por túneles, travesías, autopistas, autovías y carreteras interurbanas."
+    },
+    {
+        "_id": "PB-TM2-P51",
+        "Enunciado": "¿Qué es un monociclo?",
+        "Opciones": [
+            "A) Un tipo de patinete eléctrico con manillar alto.",
+            "B) Un vehículo de dos ruedas unidas por una plataforma.",
+            "C) Un vehículo que tiene una sola rueda unida al asiento por una barra."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se define monociclo como el vehículo de una única rueda conectada directamente al asiento."
+    },
+    {
+        "_id": "PB-TM2-P52",
+        "Enunciado": "Como conductor de un VMP, ¿puede utilizar auriculares mientras circula?",
+        "Opciones": [
+            "A) No, no puede usar auriculares mientras conduce.",
+            "B) Sí, si el volumen es bajo y permite oír el tráfico.",
+            "C) Solo si se utiliza un sistema de cancelación de ruido."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al igual que los conductores de otros vehículos, los de VMP tienen prohibido el uso de auriculares durante la conducción."
+    },
+    {
+        "_id": "PB-TM2-P53",
+        "Enunciado": "¿Está permitido el uso del teléfono móvil al conducir un patinete eléctrico?",
+        "Opciones": [
+            "A) Sí, siempre que se use con una sola mano.",
+            "B) Solo si se utiliza para consultar un mapa GPS.",
+            "C) No, no puede usar el móvil mientras conduce."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso del móvil está prohibido para los conductores de VMP para evitar distracciones y riesgos."
+    },
+    {
+        "_id": "PB-TM2-P54",
+        "Enunciado": "¿Tienen los conductores de VMP obligación de someterse a pruebas de alcohol y drogas?",
+        "Opciones": [
+            "A) Solo están obligados si han cometido una infracción grave previa.",
+            "B) No, estas pruebas solo se aplican a conductores de vehículos a motor.",
+            "C) Deben hacer las pruebas cuando se lo pida un agente, igual que el resto de conductores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los conductores de todos los vehículos están sujetos a las mismas normas de control de alcohol y drogas que los conductores de turismos o motos."
+    },
+    {
+        "_id": "PB-TM2-P55",
+        "Enunciado": "¿Qué medida de visibilidad debe tomar si conduce un VMP de noche o con baja visibilidad?",
+        "Opciones": [
+            "A) Es suficiente con llevar las luces propias del patinete.",
+            "B) Debe llevar prendas brillantes y luminosas.",
+            "C) Debe circular obligatoriamente por el arcén iluminado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En condiciones de baja visibilidad o de noche, es obligatorio que el conductor de un VMP porte prendas luminosas o brillantes."
+    },
+    {
+        "_id": "PB-TM2-P56",
+        "Enunciado": "¿Cuántos pasajeros pueden viajar en un vehículo de movilidad personal?",
+        "Opciones": [
+            "A) Máximo dos personas si el VMP es reforzado.",
+            "B) Solo un niño si lleva casco de seguridad.",
+            "C) No puede llevar pasajeros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los VMP están diseñados para el transporte de una única persona; está prohibido llevar pasajeros."
+    },
+     {
+        "_id": "PB-TM2-P57",
+        "Enunciado": "Respecto a las vías rápidas, ¿tienen permitido los Vehículos de Movilidad Personal (VMP) circular por ellas?",
+        "Opciones": [
+            "A) Sí, siempre que alcancen una velocidad mínima de 60 km/h.",
+            "B) No, tienen prohibido circular por autopistas y autovías.",
+            "C) Solo pueden circular por el arcén de las autovías."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los patinetes eléctricos y demás VMP tienen expresamente prohibida la circulación por autopistas y autovías."
+    },
+    {
+        "_id": "PB-TM2-P58",
+        "Enunciado": "¿Puede un conductor de un patinete eléctrico circular por una carretera que está fuera del pueblo o ciudad?",
+        "Opciones": [
+            "A) Únicamente si no existe una vía ciclista alternativa.",
+            "B) Sí, si utiliza prendas reflectantes y luces.",
+            "C) No, la circulación de VMP está prohibida en carreteras fuera de poblado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos de movilidad personal no pueden circular por carreteras situadas fuera de los núcleos urbanos."
+    },
+    {
+        "_id": "PB-TM2-P59",
+        "Enunciado": "En relación al uso del casco, ¿cuándo es obligatorio para un conductor de VMP?",
+        "Opciones": [
+            "A) Debe llevarlo puesto cuando así lo exija la ley.",
+            "B) Solo cuando circula por vías con límite de 50 km/h.",
+            "C) Es obligatorio únicamente para menores de 16 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor de un VMP tiene la obligación de usar casco de protección en los casos que la normativa legal lo establezca."
+    },
+    {
+        "_id": "PB-TM2-P60",
+        "Enunciado": "¿Cuándo pueden circular los animales por la carretera?",
+        "Opciones": [
+            "A) En cualquier momento si van por el arcén.",
+            "B) Solo cuando no haya otros caminos para ir de un sitio a otro.",
+            "C) Únicamente durante las horas del amanecer y el ocaso."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La circulación de animales (ganado, carga o transporte) por carretera es excepcional y solo permitida si no existen vías alternativas."
+    }
+    
+]

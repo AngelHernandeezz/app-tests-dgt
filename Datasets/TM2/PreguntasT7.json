@@ -1,0 +1,300 @@
+[
+  {
+    "_id": "PB-TM2-P181",
+    "Enunciado": "¿Qué norma de alumbrado deben cumplir obligatoriamente los conductores en estos carriles en sentido contrario al habitual?",
+    "Opciones": [
+      "A) Deben llevar las luces de posición y de emergencia simultáneamente.",
+      "B) Solo es obligatorio encender las luces si se circula por un túnel.",
+      "C) Deben circular con las luces de corto alcance encendidas, tanto de día como de noche."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para garantizar la máxima visibilidad en un carril que circula en sentido opuesto al resto, es obligatorio el uso de la luz de corto alcance siempre."
+  },
+  {
+    "_id": "PB-TM2-P182",
+    "Enunciado": "¿A qué velocidad se debe circular por un carril habilitado en sentido contrario al habitual?",
+    "Opciones": [
+      "A) A una velocidad entre los 60 y los 80 kilómetros por hora.",
+      "B) A una velocidad fija de 90 kilómetros por hora.",
+      "C) A la velocidad mínima permitida en esa carretera aumentada en 10 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los conductores que utilicen estos carriles deben mantener una velocidad constante que no baje de 60 ni supere los 80 km/h."
+  },
+  {
+    "_id": "PB-TM2-P183",
+    "Enunciado": "Respecto a las maniobras, ¿qué está prohibido al circular por un carril en sentido contrario al habitual?",
+    "Opciones": [
+      "A) Circular con las ventanillas bajadas.",
+      "B) Cambiarse a otros carriles, incluso para adelantar.",
+      "C) Usar el sistema de frenado si no es una emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En estos carriles especiales no se permite realizar adelantamientos ni cambiar de carril para mantener la ordenación establecida."
+  },
+  {
+    "_id": "PB-TM2-P184",
+    "Enunciado": "¿Qué precaución deben tomar los vehículos que circulan por el carril normal contiguo al habilitado en sentido contrario?",
+    "Opciones": [
+      "A) Deben tomar las mismas precauciones de luces y velocidad.",
+      "B) Deben circular por el arcén para dejar más espacio.",
+      "C) No tienen ninguna obligación especial, circulan como siempre."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos que se encuentran en el carril habitual justo al lado del especial deben cumplir también las normas de alumbrado y velocidad por seguridad."
+  },
+  {
+    "_id": "PB-TM2-P185",
+    "Enunciado": "Si el carril en sentido contrario se habilita por obras en la carretera, ¿quiénes pueden usarlo?",
+    "Opciones": [
+      "A) Únicamente los turismos que no lleven carga.",
+      "B) Todos los vehículos autorizados para circular por una carretera en obras.",
+      "C) Solo los vehículos de emergencia y mantenimiento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A diferencia del caso de fluidez, si es por obras, todos los vehículos que tienen permitida la entrada en ese tramo pueden usar el carril."
+  },
+  {
+    "_id": "PB-TM2-P186",
+    "Enunciado": "¿Cómo se crean los denominados 'carriles adicionales'?",
+    "Opciones": [
+      "A) Construyendo un carril nuevo de cemento junto a la calzada.",
+      "B) Aprovechando los arcenes para que haya un carril más por el que circular.",
+      "C) Pintando líneas verdes sobre el asfalto original."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calzadas de dos sentidos, se puede usar el espacio de los arcenes para ganar un carril extra cuando hay gran afluencia de tráfico."
+  },
+  {
+    "_id": "PB-TM2-P187",
+    "Enunciado": "¿Mediante qué elementos se marcan los carriles adicionales en la vía?",
+    "Opciones": [
+      "A) Con semáforos de suelo permanentes.",
+      "B) Con señales de balizamiento.",
+      "C) Solo mediante señales de tráfico verticales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La delimitación de este carril provisional se realiza utilizando elementos de balizamiento, como conos o paneles."
+  },
+  {
+    "_id": "PB-TM2-P188",
+    "Enunciado": "Al conducir por un carril adicional, ¿qué cuidado especial se debe tener con la señalización?",
+    "Opciones": [
+      "A) Se debe circular lo más lejos posible de ellas para no verlas.",
+      "B) Se debe tener cuidado de no mover ni pisar las señales de balizamiento.",
+      "C) Hay que intentar recogerlas si se ve que alguna se ha caído."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es fundamental no invadir ni desplazar los elementos de balizamiento que organizan el tráfico en estos carriles."
+  },
+  {
+    "_id": "PB-TM2-P189",
+    "Enunciado": "¿Cuál es la velocidad establecida para circular por un carril adicional?",
+    "Opciones": [
+      "A) No existe límite de velocidad, depende del tráfico.",
+      "B) Siempre a 40 kilómetros por hora exactamente.",
+      "C) Entre 60 y 80 kilómetros por hora, o más despacio si lo indican las señales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El rango general es de 60 a 80 km/h, aunque prevalece cualquier señal que imponga una velocidad inferior."
+  },
+  {
+    "_id": "PB-TM2-P190",
+    "Enunciado": "En un carril adicional, ¿cuándo es obligatorio llevar las luces de corto alcance?",
+    "Opciones": [
+      "A) Únicamente si el vehículo es de color oscuro.",
+      "B) Solo durante la noche o en túneles.",
+      "C) Tanto de día como de noche."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El uso del alumbrado de corto alcance es preceptivo en todo momento mientras se circule por este tipo de carril especial."
+  },
+  {
+    "_id": "PB-TM2-P191",
+    "Enunciado": "¿Está permitido realizar adelantamientos en un carril adicional?",
+    "Opciones": [
+      "A) No, se debe circular sin cambiarse a otros carriles.",
+      "B) Solo a vehículos que circulen a menos de 40 km/h.",
+      "C) Sí, siempre que se use el intermitente con antelación."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Al igual que en otros carriles especiales, en el adicional está terminantemente prohibido el cambio de carril y el adelantamiento."
+  },
+  {
+    "_id": "PB-TM2-P192",
+    "Enunciado": "¿Cuáles son algunos ejemplos de vehículos que tienen la obligación de circular por el arcén si no hay una vía específica para ellos?",
+    "Opciones": [
+      "A) Ciclos, ciclomotores o vehículos de tracción animal.",
+      "B) Únicamente los camiones que transportan animales vivos.",
+      "C) Todos los vehículos que no superen los 60 km/h en autopista."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Determinados usuarios como ciclistas, vehículos de seguimiento de ciclistas, ciclomotores, vehículos arrastrados por animales, animales de montura, vehículos especiales que cargados no pesan más de 3.500kg y vehículos para personas con dificultad para moverse deben ir por el arcén si no existe vía destinada para ellos."
+  },
+  {
+    "_id": "PB-TM2-P193",
+    "Enunciado": "Cuando una carretera no tiene arcén o no se puede circular por él, ¿por dónde deben ir los vehículos obligados a usarlo?",
+    "Opciones": [
+      "A) Por el centro de la calzada para que los vean bien.",
+      "B) Podrán usar solo la parte imprescindible del carril.",
+      "C) Deben detenerse y esperar a que la carretera tenga arcén de nuevo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En caso de arcén inexistente o impracticable, estos vehículos ocuparán el mínimo espacio necesario del borde derecho del carril."
+  },
+  {
+    "_id": "PB-TM2-P194",
+    "Enunciado": "¿Cuándo pueden los conductores de bicicletas circular por la parte derecha del carril en lugar de por el arcén?",
+    "Opciones": [
+      "A) En cualquier tramo de carretera interurbana si no hay tráfico.",
+      "B) Únicamente cuando el arcén esté sucio o en mal estado.",
+      "C) En las cuestas hacia abajo con curvas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Como excepción por seguridad, se permite a los ciclistas ocupar la parte derecha del carril de circulación en descensos con curvas."
+  },
+  {
+    "_id": "PB-TM2-P195",
+    "Enunciado": "Como norma general, ¿cómo deben circular por el arcén los vehículos que están obligados a usarlo?",
+    "Opciones": [
+      "A) En grupos de tres formando un triángulo.",
+      "B) En fila, uno detrás de otro.",
+      "C) Pueden ir en paralelo si el arcén mide más de 1,5 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La normativa exige que los vehículos que transitan por el arcén lo hagan en fila india para garantizar la seguridad vial."
+  },
+  {
+    "_id": "PB-TM2-P196",
+    "Enunciado": "¿Qué excepción existe para los conductores de bicicletas respecto a circular en fila por el arcén?",
+    "Opciones": [
+      "A) No tienen ninguna excepción y deben ir siempre uno tras otro.",
+      "B) Pueden circular al lado dos ciclistas en la misma fila.",
+      "C) Pueden ocupar todo el carril derecho si van en un grupo de más de diez."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A los ciclistas se les permite circular en columna de a dos por el arcén, salvo en situaciones específicas de riesgo."
+  },
+  {
+    "_id": "PB-TM2-P197",
+    "Enunciado": "¿En qué casos los ciclistas deben abandonar la formación en paralelo y circular uno detrás de otro?",
+    "Opciones": [
+      "A) Siempre que circulen por una travesía.",
+      "B) En tramos sin visibilidad y cuando hay mucho tráfico.",
+      "C) Únicamente cuando un vehículo motorizado les toque el claxon."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La posibilidad de ir en pareja se anula si las condiciones de visibilidad son malas o la densidad del tráfico es elevada."
+  },
+  {
+    "_id": "PB-TM2-P198",
+    "Enunciado": "Para los vehículos obligados a usar el arcén, ¿qué límites tiene la maniobra de adelantamiento?",
+    "Opciones": [
+      "A) El adelantamiento no puede durar más de 15 segundos ni recorrer más de 200 metros.",
+      "B) No tienen permitido adelantar bajo ninguna circunstancia.",
+      "C) Solo pueden adelantar si el vehículo de delante está totalmente parado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para evitar riesgos en el arcén, los adelantamientos están limitados tanto en tiempo (máximo 15 segundos) como en distancia (máximo 200 metros)."
+  },
+  {
+    "_id": "PB-TM2-P199",
+    "Enunciado": "¿Qué conductores NO tienen que cumplir los límites de tiempo y distancia al adelantar por el arcén?",
+    "Opciones": [
+      "A) Los conductores de vehículos especiales de obras.",
+      "B) Los conductores de bicicletas.",
+      "C) Los conductores de ciclomotores de tres ruedas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los ciclistas están exentos de las restricciones de los 15 segundos y 200 metros cuando realizan un adelantamiento circulando por el arcén."
+  },
+  {
+    "_id": "PB-TM2-P200",
+    "Enunciado": "¿A quiénes está prohibida la circulación por autopistas y autovías?",
+    "Opciones": [
+      "A) Peatones, animales, bicicletas, ciclomotores, vehículos para personas de poca movilidad y VMP.",
+      "B) Únicamente a los tractores agrícolas y camiones de gran tonelaje ya que son vías rápidas.",
+      "C) Solo a los peatones y animales; los ciclomotores pueden entrar si van por el arcén y sin molestar."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Estas vías de alta capacidad están reservadas a automóviles, quedando excluidos peatones, animales y vehículos lentos o frágiles."
+  },
+  {
+    "_id": "PB-TM2-P201",
+    "Enunciado": "¿Cuál es la excepción para que un ciclista pueda circular por una autovía?",
+    "Opciones": [
+      "A) Ninguna, el texto dice que está prohibido para todas las bicicletas.",
+      "B) Si el conductor tiene más de 14 años puede ir por el arcén, salvo que una señal lo prohíba.",
+      "C) Puede circular por cualquier carril si lleva casco y luces encendidas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los ciclistas mayores de 14 años tienen permitido usar el arcén de las autovías, siempre que no exista señalización específica en contra."
+  },
+  {
+    "_id": "PB-TM2-P202",
+    "Enunciado": "En las cabinas de peaje, ¿qué señal indica que la vía está abierta?",
+    "Opciones": [
+      "A) Un aspa roja luminosa.",
+      "B) Una luz amarilla intermitente.",
+      "C) Un semáforo o flecha verde."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La flecha verde o el semáforo en verde confirman que la cabina está operativa para el paso de vehículos.",
+    "Imagen": true
+  },
+  {
+    "_id": "PB-TM2-P203",
+    "Enunciado": "¿Qué debe hacer un conductor cuyo vehículo averiado le obliga a circular más despacio en una autopista?",
+    "Opciones": [
+      "A) Continuar hasta su destino por el carril derecho con las luces de emergencia.",
+      "B) Salir de la carretera por la primera salida que encuentre.",
+      "C) Parar inmediatamente en el carril donde se encuentre."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Si el vehículo no puede mantener la velocidad mínima por avería, es obligatorio abandonarla vía en la salida más próxima para no ser un peligro."
+  },
+  {
+    "_id": "PB-TM2-P204",
+    "Enunciado": "En caso de emergencia en autopista, ¿dónde debe detenerse el vehículo si no puede salir de la vía?",
+    "Opciones": [
+      "A) En el arcén o en la mediana.",
+      "B) Siempre en el carril izquierdo, que es más visible.",
+      "C) Bajo un puente para protegerse de las inclemencias del tiempo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La parada de emergencia debe realizarse en las zonas fuera de los carriles de circulación, preferiblemente el arcén o, como alternativa, la mediana y pedir auxilio en el poste de socorro más cercano."
+  },
+  {
+    "_id": "PB-TM2-P205",
+    "Enunciado": "¿Como se debe pedir auxilio en una autopista en caso de estar averiado?",
+    "Opciones": [
+      "A) Con el telefono movil.",
+      "B) Yendo al poste de socorro más cercano.",
+      "C) Debe esperar a que la policía pase y lo vea."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El auxilio debe pedirse directamente al poste de socorro más cercano para que llegue con la mayor brevedad posible."
+  },
+  {
+    "_id": "PB-TM2-P206",
+    "Enunciado": "¿Qué norma deben cumplir las personas de un vehículo averiado en una autopista?",
+    "Opciones": [
+      "A) Deben ayudar al conductor a empujar el coche hasta el poste de socorro.",
+      "B) No podrán andar por la carretera.",
+      "C) Deben caminar en fila por el arcén hacia la salida más cercana."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Por su propia seguridad, está estrictamente prohibido que los ocupantes transiten a pie por la calzada o el arcén de estas vías."
+  },
+  {
+    "_id": "PB-TM2-P207",
+    "Enunciado": "¿Quién tiene permiso para sacar de la carretera un vehículo accidentado o averiado?",
+    "Opciones": [
+      "A) Cualquier otro conductor que tenga una cuerda o barra de remolque.",
+      "B) Únicamente los vehículos de la policía de tráfico.",
+      "C) Otro vehículo que esté autorizado para hacerlo, como una grúa."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La retirada de vehículos inmovilizados es una tarea exclusiva de los servicios de asistencia en carretera autorizados."
+  }
+]
