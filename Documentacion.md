@@ -224,18 +224,6 @@ La URI de MongoDB **nunca está escrita en el código**. Se resuelve en este ord
 1. Variable de entorno `MONGODB_URI`.
 2. Archivo `config.properties` (mismo paquete que `ConexionBD`, leído vía `getResourceAsStream`), con la clave `mongodb.uri`, tolerante a BOM y a mayúsculas/minúsculas en el nombre de la clave.
 
-```properties
-# config.properties
-mongodb.uri=mongodb+srv://usuario:contraseña@cluster.mongodb.net/Ahevia?retryWrites=true&w=majority
-```
-
-```bash
-# alternativa por variable de entorno (Windows)
-setx MONGODB_URI "mongodb+srv://usuario:contraseña@cluster.mongodb.net/Ahevia?retryWrites=true&w=majority"
-```
-
-Si no se encuentra ninguna de las dos, la aplicación arranca igualmente pero todas las operaciones contra la base de datos fallan de forma controlada, mostrando el mensaje "Error de conexión" en la interfaz.
-
 ---
 
 ## Banco de preguntas — Temario oficial DGT
