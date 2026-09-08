@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P241",
+        "Enunciado": "¿Qué tipo de accidentes son los más frecuentes dentro de las ciudades?",
+        "Opciones": [
+            "A) Colisiones múltiples en autopistas.",
+            "B) Atropellos a peatones.",
+            "C) Salidas de vía por exceso de velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Dentro de los núcleos urbanos, el tipo de accidente más habitual es el atropello a peatones."
+    },
+    {
+        "_id": "PB-TM11-P242",
+        "Enunciado": "Los accidentes de tráfico son una de las principales causas de lesiones y muerte, sobre todo en:",
+        "Opciones": [
+            "A) Personas jóvenes.",
+            "B) Conductores de vehículos pesados.",
+            "C) Personas con más de 10 años de carnet."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El impacto de la mortalidad y lesiones por accidentes de tráfico es especialmente elevado entre la población joven."
+    },
+    {
+        "_id": "PB-TM11-P243",
+        "Enunciado": "¿Qué impacto tienen los accidentes de tráfico en la sociedad?",
+        "Opciones": [
+            "A) Positivas, ya que generan empleo en el sector de reparaciones.",
+            "B) Únicamente económicas para las compañías de seguros.",
+            "C) Muy negativas para toda la sociedad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cada accidente vial genera consecuencias perjudiciales que afectan al conjunto de la sociedad."
+    },
+    {
+        "_id": "PB-TM11-P244",
+        "Enunciado": "¿Qué supone la muerte de una persona en un accidente desde el punto de vista de las consecuencias humanas?",
+        "Opciones": [
+            "A) Solo una pérdida económica para el Estado.",
+            "B) No tiene consecuencias humanas si la persona no trabajaba.",
+            "C) Un sufrimiento físico y psicológico para las personas de su entorno."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La pérdida de una vida en carretera conlleva un profundo dolor y afectación psicológica para familiares y allegados."
+    },
+    {
+        "_id": "PB-TM11-P245",
+        "Enunciado": "Los accidentes de tráfico producen daños materiales en:",
+        "Opciones": [
+            "A) Los vehículos, la carretera y el medioambiente.",
+            "B) Únicamente en el mobiliario urbano.",
+            "C) Exclusivamente en el motor de los vehículos implicados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los daños materiales de un siniestro incluyen el deterioro de los coches, la infraestructura vial y el entorno natural."
+    },
+    {
+        "_id": "PB-TM11-P246",
+        "Enunciado": "¿En qué consisten los gastos en recursos médicos y sanitarios tras un accidente?",
+        "Opciones": [
+            "A) Son gastos que solo asumen los hospitales privados.",
+            "B) Inversión en personal y dinero para primeros auxilios, tratamiento y rehabilitación.",
+            "C) Gastos destinados exclusivamente a la compra de nuevas ambulancias."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Estos gastos abarcan desde la asistencia inmediata en el lugar hasta los procesos largos de cura y rehabilitación de los heridos."
+    },
+    {
+        "_id": "PB-TM11-P247",
+        "Enunciado": "El gasto en recursos de seguridad incluye la inversión en personal y dinero para la labor de:",
+        "Opciones": [
+            "A) Los fabricantes de cámaras de vigilancia.",
+            "B) Los servicios de grúa municipales.",
+            "C) Los policías y los bomberos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La actuación de los cuerpos de seguridad (policía) y de extinción de incendios (bomberos) representa un coste social importante."
+    },
+    {
+        "_id": "PB-TM11-P248",
+        "Enunciado": "¿Quiénes pagan los gastos extra generados por cada accidente de tráfico?",
+        "Opciones": [
+            "A) El Ministerio de Fomento en exclusiva.",
+            "B) Los seguros y las entidades que prestan servicios a los heridos.",
+            "C) Los peatones que presenciaron el accidente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las aseguradoras y las organizaciones asistenciales son las encargadas de sufragar los costes adicionales de los siniestros."
+    },
+    {
+        "_id": "PB-TM11-P249",
+        "Enunciado": "¿Cómo considera la Organización Mundial de la Salud (OMS) a los accidentes de tráfico?",
+        "Opciones": [
+            "A) Un problema de salud que afecta a toda la sociedad.",
+            "B) Un suceso inevitable del que no se puede culpar a nadie.",
+            "C) Un problema menor comparado con otras enfermedades."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La OMS califica la siniestralidad vial como un problema de salud pública de escala global."
+    },
+    {
+        "_id": "PB-TM11-P250",
+        "Enunciado": "¿Qué son los grupos de riesgo en la seguridad vial?",
+        "Opciones": [
+            "A) Grupos de personas con más posibilidades de sufrir un accidente.",
+            "B) Grupos de conductores que solo circulan por autovías.",
+            "C) Personas que no tienen seguro de coche obligatorio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se denomina grupos de riesgo a los colectivos que, por sus características, presentan una mayor vulnerabilidad o probabilidad de accidente."
+    },
+    {
+        "_id": "PB-TM11-P251",
+        "Enunciado": "Por lo general, cuando un vehículo atropella a un peatón, este suele sufrir:",
+        "Opciones": [
+            "A) Solo una sanción administrativa.",
+            "B) Heridas leves que curan en 24 horas.",
+            "C) Heridas muy graves."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Debido a la fragilidad del cuerpo humano frente a la masa del vehículo, los atropellos suelen tener consecuencias físicas severas."
+    },
+    {
+        "_id": "PB-TM11-P252",
+        "Enunciado": "¿Dónde tiene un peatón más posibilidades de morir tras un atropello?",
+        "Opciones": [
+            "A) En las calles peatonales del centro.",
+            "B) En una carretera fuera de la ciudad.",
+            "C) En los garajes de los centros comerciales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La mayor velocidad de circulación en vías interurbanas incrementa drásticamente la letalidad de los atropellos."
+    },
+    {
+        "_id": "PB-TM11-P253",
+        "Enunciado": "¿En qué zonas se producen con más frecuencia los atropellos a peatones?",
+        "Opciones": [
+            "A) Donde el conductor no les ve bien por haber algún obstáculo.",
+            "B) Únicamente en las rectas de gran visibilidad.",
+            "C) Solo en las zonas de carga y descarga de mercancías."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falta de visibilidad causada por obstáculos es un factor determinante en la ocurrencia de atropellos."
+    },
+    {
+        "_id": "PB-TM11-P254",
+        "Enunciado": "¿Por qué lugar deben cruzar la calle los peatones para evitar atropellos?",
+        "Opciones": [
+            "A) Por cualquier lugar siempre que se levante la mano.",
+            "B) Por los pasos de peatones.",
+            "C) Siempre por el centro de los cruces aunque no haya marca."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cruzar por los lugares específicamente señalizados para ello es la medida de seguridad básica para los peatones."
+    },
+    {
+        "_id": "PB-TM11-P255",
+        "Enunciado": "Respecto a los semáforos, ¿cuándo debe cruzar un peatón?",
+        "Opciones": [
+            "A) Cuando el semáforo está parpadeando en naranja.",
+            "B) Cuando está en color rojo para los vehículos.",
+            "C) Cuando el semáforo para peatones está en verde."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El peatón solo debe iniciar el cruce cuando su semáforo correspondiente se encuentre en color verde."
+    },
+    {
+        "_id": "PB-TM11-P256",
+        "Enunciado": "¿Por dónde deben andar los peatones cuando circulan por carreteras?",
+        "Opciones": [
+            "A) Por los espacios permitidos y los arcenes.",
+            "B) Por el centro del carril izquierdo.",
+            "C) Por cualquier zona que no esté asfaltada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En carretera, el peatón debe utilizar los arcenes o las zonas habilitadas expresamente para su tránsito."
+    },
+    {
+        "_id": "PB-TM11-P257",
+        "Enunciado": "¿Dónde debe esperar un peatón para cruzar la calle?",
+        "Opciones": [
+            "A) En el carril derecho de la calzada.",
+            "B) En la acera.",
+            "C) Apoyado en los vehículos estacionados."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La espera antes de cruzar debe realizarse siempre sobre la acera, nunca invadiendo la calzada."
+    },
+    {
+        "_id": "PB-TM11-P258",
+        "Enunciado": "¿Qué comprobación debe hacer una persona antes de bajarse de su vehículo?",
+        "Opciones": [
+            "A) Que el motor se haya enfriado lo suficiente.",
+            "B) Que ha cerrado la ventanilla del conductor.",
+            "C) Que no viene otro vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Antes de abrir la puerta o descender, es vital verificar que no se aproxima ningún otro usuario para evitar un accidente."
+    },
+    {
+        "_id": "PB-TM11-P259",
+        "Enunciado": "¿Qué medida de velocidad deben adoptar los conductores para evitar atropellos?",
+        "Opciones": [
+            "A) Circular a la velocidad máxima permitida por la vía.",
+            "B) Aumentar la velocidad en los pasos de cebra para pasar antes.",
+            "C) Conducir a una velocidad moderada, sobre todo en ciudad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Mantener una velocidad moderada permite al conductor reaccionar a tiempo ante la presencia de peatones."
+    },
+    {
+        "_id": "PB-TM11-P260",
+        "Enunciado": "¿Por qué debe un conductor extremar la precaución ante vehículos aparcados con personas dentro?",
+        "Opciones": [
+            "A) Porque alguien puede bajarse del vehículo sin mirar.",
+            "B) Porque los coches aparcados suelen tener las luces encendidas.",
+            "C) Porque los vehículos estacionados pueden arrancar sin avisar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Existe el riesgo de que los ocupantes abran la puerta o desciendan a la calzada de forma imprevista."
+    },
+    {
+        "_id": "PB-TM11-P261",
+        "Enunciado": "¿Está permitido que un conductor pase un semáforo si está en color amarillo?",
+        "Opciones": [
+            "A) Sí, es obligatorio acelerar para no quedarse en medio del cruce.",
+            "B) No, el conductor no debe pasar cuando el semáforo está rojo o amarillo.",
+            "C) Solo si no hay peatones esperando en la acera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario prohíbe pasar tanto con luz roja como con luz amarilla para garantizar la seguridad de los peatones."
+    },
+    {
+        "_id": "PB-TM11-P262",
+        "Enunciado": "Una medida fundamental del conductor para evitar atropellos es:",
+        "Opciones": [
+            "A) Dejar cruzar a los peatones cuando tienen preferencia.",
+            "B) Tocar el claxon antes de cada paso de peatones.",
+            "C) Aumentar la velocidad al acercarse a una zona escolar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Respetar la prioridad de paso de los peatones es una obligación esencial para evitar accidentes."
+    },
+    {
+        "_id": "PB-TM11-P263",
+        "Enunciado": "Al detectar a un peatón cruzando mientras habla por el móvil, el conductor debe:",
+        "Opciones": [
+            "A) Ignorarle, pues el peatón es el único responsable de su seguridad.",
+            "B) Tocar el claxon repetidamente para asustarle y que aprenda.",
+            "C) Tener especial cuidado porque puede ir distraído."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso del móvil por parte del peatón es una distracción que el conductor debe compensar extremando la atención."
+    },
+    {
+        "_id": "PB-TM11-P264",
+        "Enunciado": "¿A qué peatones debe prestar especial atención el conductor según el temario?",
+        "Opciones": [
+            "A) Solo a los que llevan ropa de color oscuro exclusivamente.",
+            "B) A los que andan por lugares cercanos a zonas de fiesta.",
+            "C) A los deportistas que corren por el arcén."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En las proximidades de lugares de ocio nocturno y diversión, el riesgo de peatones desatentos o bajo efectos del alcohol es mayor."
+    },
+    {
+        "_id": "PB-TM11-P265",
+        "Enunciado": "¿En qué lugares debe tener el conductor un cuidado especial por la posible irrupción de peatones?",
+        "Opciones": [
+            "A) En la salida de los garajes.",
+            "B) En las incorporaciones a las autopistas.",
+            "C) Únicamente en los túneles de más de 500 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las salidas de garajes son puntos críticos de interacción donde pueden aparecer peatones de forma sorpresiva."
+    },
+    {
+        "_id": "PB-TM11-P266",
+        "Enunciado": "¿Está permitido aparcar el vehículo sobre la acera?",
+        "Opciones": [
+            "A) Sí, siempre que se deje espacio para que pase un carrito de bebé.",
+            "B) No, porque obliga a los peatones a andar por la carretera.",
+            "C) Sí, en todas las ciudades de España está permitido."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aparcar en la acera es una infracción que pone en peligro a los peatones al obligarlos a invadir la calzada."
+    },
+    {
+        "_id": "PB-TM11-P267",
+        "Enunciado": "¿Se puede estacionar un vehículo en los pasos de peatones?",
+        "Opciones": [
+            "A) Sí, si es para realizar una parada de menos de dos minutos.",
+            "B) Solo si el conductor permanece dentro del vehículo.",
+            "C) No, está prohibido aparcar en los pasos de peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El estacionamiento en pasos de peatones está prohibido por ley para asegurar la visibilidad y el tránsito seguro."
+    },
+    {
+        "_id": "PB-TM11-P268",
+        "Enunciado": "¿Por qué no se deben hacer cambios en la parte exterior del vehículo?",
+        "Opciones": [
+            "A) Porque el seguro no cubriría los daños en caso de robo.",
+            "B) Porque el exterior actual está preparado para causar menos daños en atropellos.",
+            "C) Porque aumenta el consumo de combustible del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los diseños modernos de las carrocerías están pensados para amortiguar el impacto y minimizar las lesiones de los peatones."
+    },
+    {
+        "_id": "PB-TM11-P269",
+        "Enunciado": "¿Cómo debe actuar un conductor al pasar cerca de un autobús escolar parado?",
+        "Opciones": [
+            "A) Conducir más despacio.",
+            "B) Adelantarlo a la máxima velocidad permitida.",
+            "C) Tocar el claxon para avisar de su llegada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Ante la presencia de un transporte de menores detenido, es obligatorio reducir la velocidad por el riesgo de niños cruzando."
+    },
+    {
+        "_id": "PB-TM11-P270",
+        "Enunciado": "Respecto al clima, ¿cuándo deben los conductores tener más cuidado con los peatones?",
+        "Opciones": [
+            "A) Solo en los días de calor extremo por el asfalto.",
+            "B) Durante las noches de luna llena.",
+            "C) Los días de lluvia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La lluvia empeora la visibilidad y aumenta la distancia de frenado, por lo que se debe extremar la precaución con los peatones."
+    }
+]

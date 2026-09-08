@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM12-P121",
+        "Enunciado": "Al elegir una ruta segura y cómoda para un viaje, ¿qué factores se deben tener en cuenta?",
+        "Opciones": [
+            "A) Únicamente la distancia más corta en kilómetros.",
+            "B) Solo el número de gasolineras disponibles en el trayecto.",
+            "C) Las carreteras en obras, el clima y la cantidad de vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario indica que para elegir el camino más seguro y cómodo hay que considerar qué carreteras están en obras, el clima y la cantidad de vehículos que circulan ese día."
+    },
+    {
+        "_id": "PB-TM12-P122",
+        "Enunciado": "Durante la planificación de un viaje, ¿qué otra acción es importante programar?",
+        "Opciones": [
+            "A) La velocidad máxima a la que se va a circular en cada tramo.",
+            "B) El tipo de música que se va a escuchar.",
+            "C) Los descansos que se van a hacer durante el viaje."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es importante programar los descansos que se van a realizar durante el viaje para garantizar la seguridad."
+    },
+    {
+        "_id": "PB-TM12-P123",
+        "Enunciado": "Al viajar específicamente en invierno, ¿qué elemento es obligatorio llevar en el vehículo?",
+        "Opciones": [
+            "A) Cadenas.",
+            "B) Un juego de herramientas completo.",
+            "C) Una manta eléctrica conectada al encendedor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una de las precauciones indicadas para los viajes en invierno es llevar cadenas en el vehículo."
+    },
+    {
+        "_id": "PB-TM12-P124",
+        "Enunciado": "En invierno, ¿qué situación de conducción se debe intentar evitar?",
+        "Opciones": [
+            "A) Conducir por autopistas con tres carriles.",
+            "B) Circular con el depósito de combustible a la mitad.",
+            "C) Conducir de noche."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario recomienda explícitamente evitar conducir de noche durante los viajes de invierno."
+    },
+    {
+        "_id": "PB-TM12-P125",
+        "Enunciado": "Respecto al combustible, ¿cómo se debe viajar en invierno?",
+        "Opciones": [
+            "A) Con el depósito lleno.",
+            "B) Con el depósito en reserva para pesar menos.",
+            "C) No influye el nivel de combustible en la seguridad invernal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se aconseja viajar con el depósito lleno de combustible como medida de precaución en invierno."
+    },
+    {
+        "_id": "PB-TM12-P126",
+        "Enunciado": "¿Qué objetos de auxilio y confort se deben llevar en el vehículo en invierno?",
+        "Opciones": [
+            "A) Solo un teléfono móvil cargado.",
+            "B) Ropa de abrigo, agua, comida y una linterna.",
+            "C) Mapas físicos de papel de todas las provincias."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El texto especifica que se debe llevar ropa de abrigo, agua, comida y una linterna al viajar en invierno."
+    },
+    {
+        "_id": "PB-TM12-P127",
+        "Enunciado": "¿Qué es la conducción preventiva?",
+        "Opciones": [
+            "A) Es conducir siempre por debajo de la velocidad mínima.",
+            "B) Es una forma de conducir que permite adelantarse a los imprevistos.",
+            "C) Es el uso obligatorio de todos los sistemas electrónicos del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La conducción preventiva se define como la forma de conducir que permite al conductor adelantarse a los imprevistos que puedan ocurrir durante el viaje."
+    },
+    {
+        "_id": "PB-TM12-P128",
+        "Enunciado": "¿Qué acción realiza un conductor que practica la conducción preventiva antes de empezar el viaje?",
+        "Opciones": [
+            "A) Limpiar únicamente el cristal trasero del vehículo.",
+            "B) Desconectar el sistema de frenado ABS.",
+            "C) Recoger la información necesaria para circular con seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En la conducción preventiva, el conductor recoge la información necesaria antes de empezar para circular con seguridad."
+    },
+    {
+        "_id": "PB-TM12-P129",
+        "Enunciado": "Dentro de la visión preventiva, ¿con qué antelación se debe controlar el espacio que va a recorrer el vehículo?",
+        "Opciones": [
+            "A) Los siguientes 5 segundos.",
+            "B) Únicamente los 10 metros delante del capó.",
+            "C) Los siguientes 20 segundos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe mirar a lo lejos para controlar lo que pasa en el espacio que va a recorrer el vehículo en los siguientes 20 segundos."
+    },
+    {
+        "_id": "PB-TM12-P130",
+        "Enunciado": "¿Cuál es el objetivo principal de mirar a lo lejos mientras se conduce?",
+        "Opciones": [
+            "A) Poder leer mejor los carteles publicitarios de la carretera.",
+            "B) Prever situaciones de peligro y evitar frenazos y acelerones bruscos.",
+            "C) Identificar la marca y modelo de los vehículos que circulan muy por delante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Mirar a lo lejos permite prever peligros y evitar maniobras bruscas como frenazos o acelerones."
+    },
+    {
+        "_id": "PB-TM12-P131",
+        "Enunciado": "¿Cómo influye la velocidad en la forma de mirar la carretera?",
+        "Opciones": [
+            "A) Cuanto más rápido conduzcas, más cerca del vehículo debes mirar.",
+            "B) Cuanto más rápido conduzcas, más lejos debes mirar.",
+            "C) La velocidad no influye en la distancia a la que se debe mirar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario especifica que a mayor velocidad, mayor debe ser la distancia a la que el conductor fija su vista."
+    },
+    {
+        "_id": "PB-TM12-P132",
+        "Enunciado": "Respecto a mirar a los lados durante el viaje, el temario indica que:",
+        "Opciones": [
+            "A) Tardamos más en ver lo que pasa a los lados que lo que pasa al frente.",
+            "B) Se ve más rápido lo que pasa a los lados que lo que pasa al frente.",
+            "C) No es necesario si se mira bien al frente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Dado que tardamos más en percibir lo lateral, es necesario revisar constantemente qué pasa a izquierda y derecha."
+    },
+    {
+        "_id": "PB-TM12-P133",
+        "Enunciado": "¿Qué elementos permiten al conductor ver lo que sucede detrás y a los lados del vehículo?",
+        "Opciones": [
+            "A) Los espejos retrovisores.",
+            "B) Las luces de posición.",
+            "C) Las ventanillas traseras únicamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los espejos retrovisores son las herramientas para controlar el entorno lateral y trasero del coche."
+    },
+    {
+        "_id": "PB-TM12-P134",
+        "Enunciado": "¿De qué depende la cantidad de veces que se deben mirar los espejos retrovisores?",
+        "Opciones": [
+            "A) Del tipo de carretera por la que se circule.",
+            "B) Del número de pasajeros que viajen en el vehículo.",
+            "C) Del tamaño de los espejos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La frecuencia de observación por los espejos varía según el tipo de vía por la que se transite."
+    },
+    {
+        "_id": "PB-TM12-P135",
+        "Enunciado": "¿Cómo deben realizarse las observaciones a través de los espejos?",
+        "Opciones": [
+            "A) Manteniendo la vista fija en ellos durante al menos 5 segundos.",
+            "B) De forma rápida y breve.",
+            "C) Solo cuando se vaya a realizar un adelantamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se miran de forma rápida y breve para poder seguir prestando atención al resto de la carretera."
+    },
+    {
+        "_id": "PB-TM12-P136",
+        "Enunciado": "¿Qué son los ángulos muertos?",
+        "Opciones": [
+            "A) Espacios a los dos lados del vehículo que no se pueden ver por los espejos.",
+            "B) Zonas de la carretera donde no hay iluminación pública.",
+            "C) Los tramos de curva donde no hay visibilidad del carril contrario."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los ángulos muertos son espacios laterales que quedan fuera del campo de visión de los retrovisores."
+    },
+    {
+        "_id": "PB-TM12-P137",
+        "Enunciado": "¿Por qué son peligrosos los ángulos muertos?",
+        "Opciones": [
+            "A) Porque reducen la velocidad del vehículo al circular por ellos.",
+            "B) Porque deslumbran al conductor a través de los espejos.",
+            "C) Porque no puedes controlar lo que está pasando en ese lugar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Su peligrosidad reside en la invisibilidad de lo que ocurre en esos espacios, lo que impide reaccionar ante otros vehículos."
+    },
+    {
+        "_id": "PB-TM12-P138",
+        "Enunciado": "¿Qué acción manual puede realizar el conductor para asegurar que no hay nadie en el ángulo muerto?",
+        "Opciones": [
+            "A) Ajustar el espejo retrovisor mientras circula.",
+            "B) Usar el sensor de aparcamiento trasero.",
+            "C) Girar la cabeza y mirar a través de la ventanilla."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Girar la cabeza permite cubrir visualmente la zona que los espejos no alcanzan a mostrar."
+    },
+    {
+        "_id": "PB-TM12-P139",
+        "Enunciado": "¿Cuándo es especialmente importante comprobar el ángulo muerto?",
+        "Opciones": [
+            "A) Antes de girar el vehículo para cambiar de carril.",
+            "B) Al frenar en una línea recta sin tráfico.",
+            "C) Únicamente al circular por túneles."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Antes de realizar un desplazamiento lateral, se debe verificar que no haya vehículos ocultos en el ángulo muerto."
+    },
+    {
+        "_id": "PB-TM12-P140",
+        "Enunciado": "¿Qué función tiene el sistema BSM?",
+        "Opciones": [
+            "A) Avisar cuando hay otro vehículo en la zona de ángulo muerto.",
+            "B) Controlar la presión de inflado de las ruedas.",
+            "C) Regular de forma automática la velocidad en las curvas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El detector de ángulos muertos (BSM) se encarga de avisar de la presencia de vehículos que avanzan por esa zona invisible."
+    },
+    {
+        "_id": "PB-TM12-P141",
+        "Enunciado": "Cuando el detector de ángulos muertos detecta un vehículo, ¿dónde se enciende la luz de aviso?",
+        "Opciones": [
+            "A) En el techo del habitáculo.",
+            "B) En el espejo retrovisor.",
+            "C) En el cuadro de instrumentos, junto al velocímetro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema BSM utiliza una señal luminosa colocada habitualmente en el propio espejo retrovisor."
+    },
+    {
+        "_id": "PB-TM12-P142",
+        "Enunciado": "Respecto al funcionamiento de los detectores de ángulos muertos:",
+        "Opciones": [
+            "A) Todos son obligatorios y deben estar siempre encendidos.",
+            "B) Algunos se encienden siempre y otros solo si activas el intermitente.",
+            "C) Solo funcionan si el vehículo circula a más de 120 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Existen dos tipos: los que avisan siempre de la presencia y los que solo lo hacen si el conductor señala una maniobra hacia ese lado."
+    },
+    {
+        "_id": "PB-TM12-P143",
+        "Enunciado": "Para anticiparse a los riesgos, el conductor debe mantener en todo momento una velocidad adecuada a:",
+        "Opciones": [
+            "A) Las señales de la radio y GPS.",
+            "B) Sus circunstancias, las del vehículo y las de la carretera.",
+            "C) Los horarios de llegada previstos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La velocidad debe adaptarse al conductor, al estado del coche y a las condiciones de la vía para poder reaccionar."
+    },
+    {
+        "_id": "PB-TM12-P144",
+        "Enunciado": "¿Para qué sirve encender las luces necesarias en cada momento dentro de la anticipación?",
+        "Opciones": [
+            "A) Para que otros te vean y sepan qué movimiento vas a hacer.",
+            "B) Solo para ver mejor los baches de la calzada.",
+            "C) Para ahorrar batería durante el día."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El alumbrado tiene la doble función de ver y, sobre todo en anticipación, de ser visto y comunicar intenciones."
+    },
+    {
+        "_id": "PB-TM12-P145",
+        "Enunciado": "Dentro de las reglas de anticipación, el conductor debe evitar:",
+        "Opciones": [
+            "A) Estar mucho tiempo en el ángulo muerto de otros vehículos.",
+            "B) Usar el limpiaparabrisas si no hay lluvia intensa.",
+            "C) Circular por el carril derecho en las autovías."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para evitar riesgos, se recomienda no permanecer de forma prolongada en la zona invisible de otros conductores."
+    },
+    {
+        "_id": "PB-TM12-P146",
+        "Enunciado": "¿En qué situación es especialmente peligroso circular en el ángulo muerto de otro vehículo?",
+        "Opciones": [
+            "A) Solo si se circula a menos de 40 km/h.",
+            "B) Si se circula al lado de una motocicleta.",
+            "C) Si se circula al lado o detrás de un vehículo muy grande."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos grandes tienen ángulos muertos mucho mayores, por lo que el riesgo es superior."
+    },
+    {
+        "_id": "PB-TM12-P147",
+        "Enunciado": "Al realizar maniobras durante el viaje, estas deben señalarse:",
+        "Opciones": [
+            "A) Únicamente si hay otros vehículos a menos de 5 metros.",
+            "B) Siempre y durante el tiempo que sea necesario.",
+            "C) Justo en el momento de girar el volante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señalización debe ser constante y con antelación suficiente para que los demás comprendan la maniobra."
+    },
+    {
+        "_id": "PB-TM12-P148",
+        "Enunciado": "Como norma general, ¿qué separación de tiempo es aconsejable mantener con el vehículo de delante?",
+        "Opciones": [
+            "A) Al menos diez segundos.",
+            "B) Un segundo exactamente.",
+            "C) Dos o tres segundos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario aconseja una distancia frontal equivalente a dos o tres segundos de margen."
+    },
+    {
+        "_id": "PB-TM12-P149",
+        "Enunciado": "¿Qué significa mantener dos o tres segundos de separación con el vehículo precedente?",
+        "Opciones": [
+            "A) Que el vehículo de delante debe tardar ese tiempo en frenar.",
+            "B) Que debes esperar tres segundos antes de iniciar un adelantamiento.",
+            "C) Que te cueste dos o tres segundos alcanzarle a la velocidad a la que vas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La separación se mide por el tiempo que tardarías en llegar al punto donde se encuentra el coche de delante."
+    },
+    {
+        "_id": "PB-TM12-P150",
+        "Enunciado": "¿En qué circunstancia se debe dejar al menos un segundo más de espacio delantero?",
+        "Opciones": [
+            "A) Cuando el vehículo es de color oscuro.",
+            "B) Cuando hay lluvia, nieve, niebla o es de noche.",
+            "C) Al circular por una recta con visibilidad perfecta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las condiciones meteorológicas adversas o la falta de luz obligan a aumentar el margen de seguridad frontal."
+    }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM11-P1",
+    "Enunciado": "¿En qué condiciones debe estar una persona para conducir un vehículo?",
+    "Opciones": [
+      "A) Solo debe conocer las normas de circulación.",
+      "B) Debe estar en buenas condiciones físicas y psicológicas.",
+      "C) Únicamente debe tener buena visión."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para conducir un vehículo, es fundamental encontrarse en buenas condiciones tanto físicas como psicológicas."
+  },
+  {
+    "_id": "PB-TM11-P2",
+    "Enunciado": "¿Afectan los factores físicos y psicológicos a la seguridad vial?",
+    "Opciones": [
+      "A) No, solo influye el estado del vehículo.",
+      "B) No, siempre que se respeten las señales de tráfico.",
+      "C) Sí, afectan a la seguridad del propio conductor y a la de otras personas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Existen muchos factores físicos y psicológicos que afectan a la seguridad del conductor y de los demás cuando se maneja un vehículo."
+  },
+  {
+    "_id": "PB-TM11-P3",
+    "Enunciado": "Entre los factores físicos y psicológicos que afectan a la conducción, se encuentran:",
+    "Opciones": [
+      "A) Únicamente la marca y modelo del vehículo.",
+      "B) Solamente el tipo de vía por la que se circula.",
+      "C) La capacidad para ver bien, el estado de ánimo y el tiempo de reacción."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Factores como la vista, el ánimo y la rapidez al reaccionar ante imprevistos son determinantes para una conducción segura."
+  },
+  {
+    "_id": "PB-TM11-P4",
+    "Enunciado": "Además de las condiciones físicas y psicológicas, ¿qué formación debe tener el conductor?",
+    "Opciones": [
+      "A) Ninguna, basta con saber mover el vehículo.",
+      "B) Conocimientos básicos de mecánica exclusivamente.",
+      "C) Formación suficiente para manejar el vehículo y comprender las normas de circulación."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El conductor debe poseer la formación necesaria tanto para el manejo del vehículo como para entender y aplicar las normas de tráfico."
+  },
+  {
+    "_id": "PB-TM11-P5",
+    "Enunciado": "¿A través de qué sentido recibimos la mayor parte de la información necesaria para conducir?",
+    "Opciones": [
+      "A) La vista.",
+      "B) El oído.",
+      "C) El tacto."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "A través de los ojos recibimos la mayoría de la información necesaria para conducir correctamente."
+  },
+  {
+    "_id": "PB-TM11-P6",
+    "Enunciado": "¿Qué información relevante para la conducción se percibe a través de la vista?",
+    "Opciones": [
+      "A) El estado de la carretera, las señales, la distancia con objetos y la velocidad de otros vehículos.",
+      "B) El olor de los gases de escape.",
+      "C) Únicamente la música de la radio."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La vista nos permite conocer datos críticos como el estado de la vía, señales, distancias y velocidades de los demás usuarios."
+  },
+  {
+    "_id": "PB-TM11-P7",
+    "Enunciado": "Para conducir de forma adecuada, es necesario ver las cosas que hay:",
+    "Opciones": [
+      "A) Solamente las que están justo delante del vehículo.",
+      "B) Delante, a los lados y detrás del vehículo.",
+      "C) Únicamente lo que muestran los espejos retrovisores."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Una conducción segura requiere atención visual en todas las direcciones: frente, laterales y parte trasera."
+  },
+  {
+    "_id": "PB-TM11-P8",
+    "Enunciado": "¿Qué factores pueden hacer que un conductor vea menos de lo normal?",
+    "Opciones": [
+      "A) Llevar las luces encendidas durante el día.",
+      "B) Beber alcohol, tomar drogas, estar cansado o conducir muy deprisa.",
+      "C) Usar el aire acondicionado a una temperatura moderada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El consumo de alcohol y drogas, el cansancio y la velocidad excesiva son factores que reducen la capacidad visual."
+  },
+  {
+    "_id": "PB-TM11-P9",
+    "Enunciado": "¿Cómo pueden afectar los cambios en el estado de ánimo a la conducción?",
+    "Opciones": [
+      "A) No afectan en absoluto si el conductor tiene mucha experiencia.",
+      "B) Pueden provocar pérdida de concentración y aumentar el riesgo de accidente.",
+      "C) Mejoran la rapidez de reacción ante un peligro."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las alteraciones del ánimo pueden hacer que el conductor pierda la concentración, lo que puede derivar en un accidente."
+  },
+  {
+    "_id": "PB-TM11-P10",
+    "Enunciado": "Señale un ejemplo de factor que puede alterar el estado de ánimo antes de conducir:",
+    "Opciones": [
+      "A) Beber agua mineral antes de iniciar el viaje.",
+      "B) Escuchar las indicaciones del navegador GPS.",
+      "C) Recibir una noticia muy triste o tener una discusión fuerte."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Situaciones como discusiones o noticias tristes son ejemplos de factores que alteran el ánimo y afectan la atención."
+  },
+  {
+    "_id": "PB-TM11-P11",
+    "Enunciado": "¿Qué se entiende por tiempo de reacción?",
+    "Opciones": [
+      "A) El tiempo que transcurre entre ver u oír algo y reaccionar.",
+      "B) El tiempo que tarda el motor en arrancar.",
+      "C) El tiempo que tarda un vehículo en frenar totalmente desde que se pisa el pedal."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es el intervalo de tiempo que pasa desde que el conductor percibe un estímulo hasta que ejecuta una acción de respuesta."
+  },
+  {
+    "_id": "PB-TM11-P12",
+    "Enunciado": "¿Cuál es un ejemplo claro de tiempo de reacción en la conducción?",
+    "Opciones": [
+      "A) El tiempo que pasa entre un cambio de aceite y el siguiente.",
+      "B) El tiempo entre ver un semáforo en rojo y empezar a frenar.",
+      "C) El tiempo que tardamos en lavar el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Un ejemplo típico es el tiempo que tardamos en reaccionar (parar) al detectar que un semáforo se ha puesto rojo."
+  },
+  {
+    "_id": "PB-TM11-P13",
+    "Enunciado": "En condiciones normales, ¿cuál es el tiempo de reacción habitual de un conductor?",
+    "Opciones": [
+      "A) Siempre más de dos segundos.",
+      "B) Entre medio segundo y un segundo.",
+      "C) Menos de una décima de segundo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En circunstancias normales, el tiempo de reacción medio se sitúa entre 0,5 y 1 segundo."
+  },
+  {
+    "_id": "PB-TM11-P14",
+    "Enunciado": "Si una persona tarda más tiempo de lo normal en reaccionar, se dice que su tiempo de reacción:",
+    "Opciones": [
+      "A) Ha disminuido.",
+      "B) Ha aumentado.",
+      "C) Se mantiene igual."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Tardar más en reaccionar significa que el tiempo de reacción es mayor (aumenta)."
+  },
+  {
+    "_id": "PB-TM11-P15",
+    "Enunciado": "¿Cuál de estos factores aumenta el tiempo de reacción?",
+    "Opciones": [
+      "A) La fatiga, el sueño, el alcohol y las enfermedades.",
+      "B) Estar bien descansado y atento.",
+      "C) Conducir a una temperatura de 23 grados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Factores como el cansancio, el sueño, el alcohol, las drogas y las enfermedades hacen que el conductor tarde más en reaccionar."
+  },
+  {
+    "_id": "PB-TM11-P16",
+    "Enunciado": "¿Qué riesgo supone la fatiga en la carretera?",
+    "Opciones": [
+      "A) Es uno de los principales riesgos que puede provocar accidentes.",
+      "B) No supone ningún riesgo si se conduce un coche moderno.",
+      "C) Solo es peligrosa si el conductor es novel."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Estar cansado o fatigado es uno de los riesgos más importantes para la seguridad vial."
+  },
+  {
+    "_id": "PB-TM11-P17",
+    "Enunciado": "La fatiga que afecta al conductor puede ser:",
+    "Opciones": [
+      "A) Únicamente muscular.",
+      "B) Solo visual.",
+      "C) Física o psicológica."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El temario distingue entre fatiga física (sensación de cansancio) y fatiga psicológica (dificultad para concentrarse)."
+  },
+  {
+    "_id": "PB-TM11-P18",
+    "Enunciado": "¿Cuál es el principal efecto de la fatiga psicológica?",
+    "Opciones": [
+      "A) Hace que cueste más concentrarse.",
+      "B) Aumenta la fuerza en los brazos.",
+      "C) Mejora la visión periférica."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Mientras que la física produce cansancio corporal, la psicológica afecta directamente a la capacidad de concentración."
+  },
+  {
+    "_id": "PB-TM11-P19",
+    "Enunciado": "Las causas que pueden provocar fatiga se dividen según el estado de:",
+    "Opciones": [
+      "A) La carretera, el vehículo y el conductor.",
+      "B) El ayuntamiento, la DGT y el taller.",
+      "C) El fabricante, el dueño y el seguro."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La fatiga puede estar causada por factores relacionados con la vía, el estado del coche o la condición del propio conductor."
+  },
+  {
+    "_id": "PB-TM11-P20",
+    "Enunciado": "¿Qué factor relacionado con la carretera favorece la aparición de fatiga?",
+    "Opciones": [
+      "A) El tráfico denso, el mal estado del suelo o el clima difícil.",
+      "B) Circular por una carretera nueva y vacía.",
+      "C) Conducir por una vía con asfalto en perfecto estado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Carreteras con mucho tráfico, baches o condiciones climáticas como lluvia y niebla aumentan el cansancio."
+  },
+  {
+    "_id": "PB-TM11-P21",
+    "Enunciado": "Dentro de las causas de fatiga relacionadas con el clima, se incluyen:",
+    "Opciones": [
+      "A) Un día soleado con temperatura fresca.",
+      "B) El viento suave de costado.",
+      "C) La lluvia, la niebla, la nieve o el calor excesivo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las inclemencias del tiempo exigen más esfuerzo al conductor, lo que acelera la fatiga."
+  },
+  {
+    "_id": "PB-TM11-P22",
+    "Enunciado": "¿Cuál es la temperatura adecuada dentro del vehículo para evitar la fatiga?",
+    "Opciones": [
+      "A) Unos 23 grados aproximadamente.",
+      "B) Más de 30 grados para no pasar frío.",
+      "C) Lo más frío posible, en torno a los 10 grados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El exceso de calor provoca fatiga; por ello, se recomienda mantener el interior a unos 23 grados."
+  },
+  {
+    "_id": "PB-TM11-P23",
+    "Enunciado": "¿Qué factor del vehículo puede cansar al conductor?",
+    "Opciones": [
+      "A) Tener los asientos tapizados en piel.",
+      "B) Que el vehículo tenga una buena iluminación LED.",
+      "C) Un vehículo en mal estado o que hace demasiado ruido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El ruido excesivo y el mal estado general del coche son factores que incrementan la fatiga del conductor."
+  },
+  {
+    "_id": "PB-TM11-P24",
+    "Enunciado": "Conducir de noche con poca iluminación en el vehículo:",
+    "Opciones": [
+      "A) Solo es peligroso si llueve.",
+      "B) No afecta al cansancio.",
+      "C) Es una causa de fatiga relacionada con el estado del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La mala iluminación nocturna obliga a forzar la vista, lo que contribuye a la aparición de la fatiga."
+  },
+  {
+    "_id": "PB-TM11-P25",
+    "Enunciado": "Respecto al conductor, ¿qué hábito favorece la fatiga?",
+    "Opciones": [
+      "A) Parar cada dos horas para estirar las piernas.",
+      "B) Beber agua frecuentemente durante el viaje.",
+      "C) Conducir muchas horas seguidas sin descansar o hacer descansos cortos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La falta de descansos adecuados o realizar periodos de conducción demasiado largos agotan al conductor."
+  },
+  {
+    "_id": "PB-TM11-P26",
+    "Enunciado": "¿Afecta la experiencia del conductor en la aparición de la fatiga?",
+    "Opciones": [
+      "A) Sí, tener el permiso desde hace poco tiempo es un factor de fatiga.",
+      "B) Sí, los expertos se cansan antes por exceso de confianza.",
+      "C) No, un conductor novel se cansa igual que un experto."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La falta de experiencia (conductores noveles) hace que la conducción sea más estresante y agotadora."
+  },
+  {
+    "_id": "PB-TM11-P27",
+    "Enunciado": "¿Es la postura al volante un factor que influye en el cansancio?",
+    "Opciones": [
+      "A) Solo influye en trayectos de más de 500 kilómetros.",
+      "B) Sí, conducir con el cuerpo en mala postura favorece la fatiga.",
+      "C) No, mientras se llegue a los pedales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Mantener una posición incorrecta del cuerpo obliga a realizar esfuerzos musculares innecesarios que provocan fatiga."
+  },
+  {
+    "_id": "PB-TM11-P28",
+    "Enunciado": "Uno de los síntomas de que un conductor está sufriendo fatiga es:",
+    "Opciones": [
+      "A) Tener una mayor facilidad para tomar decisiones rápidas.",
+      "B) Sentir una gran euforia y ganas de correr.",
+      "C) Sentir que le pesan los ojos y empezar a ver mal."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La pesadez de párpados y la pérdida de nitidez visual son señales claras de agotamiento."
+  },
+  {
+    "_id": "PB-TM11-P29",
+    "Enunciado": "¿Qué sensación física en las extremidades puede indicar fatiga?",
+    "Opciones": [
+      "A) Mayor agilidad en los pies.",
+      "B) Sensación de tener los brazos dormidos.",
+      "C) Aumento de la sensibilidad táctil."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La sensación de adormecimiento en los brazos es un síntoma físico de que se está sufriendo fatiga."
+  },
+  {
+    "_id": "PB-TM11-P30",
+    "Enunciado": "¿Cómo suele comportarse un conductor fatigado respecto a su asiento?",
+    "Opciones": [
+      "A) Se mantiene totalmente inmóvil.",
+      "B) Se mueve mucho y cambia de postura constantemente.",
+      "C) Se queda dormido instantáneamente sin moverse."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El conductor fatigado suele mostrar inquietud, moviéndose mucho en el asiento intentando aliviar la incomodidad."
+  }
+]

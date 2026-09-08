@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM11-P211",
+    "Enunciado": "¿Qué establece la ley en España sobre el uso del teléfono móvil al conducir?",
+    "Opciones": [
+      "A) Está prohibido, pero se permite a través de un dispositivo de manos libres.",
+      "B) Se permite su uso manual siempre que la llamada dure menos de un minuto.",
+      "C) Solo está prohibido si se circula por autopistas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En España la ley prohíbe el uso manual del móvil, permitiendo únicamente el uso de dispositivos de manos libres que no requieran tocar la pantalla."
+  },
+  {
+    "_id": "PB-TM11-P212",
+    "Enunciado": "¿Por qué pueden ser peligrosos los dispositivos de manos libres?",
+    "Opciones": [
+      "A) Porque interfieren con el sistema electrónico de frenado del vehículo.",
+      "B) Porque el conductor presta parte de su atención a la conversación y no a la carretera.",
+      "C) Únicamente porque obligan a soltar el volante con una mano."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque sean legales, el peligro reside en la distracción cognitiva: la atención se desvía hacia la conversación en lugar de centrarse en la vía."
+  },
+  {
+    "_id": "PB-TM11-P213",
+    "Enunciado": "Si necesita realizar una llamada telefónica mientras conduce, lo más recomendable es:",
+    "Opciones": [
+      "A) Parar el vehículo en un lugar seguro y realizar la llamada detenido.",
+      "B) Marcar el número rápidamente aprovechando una recta sin tráfico.",
+      "C) Esperar a llegar a un semáforo en rojo para realizar la gestión."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La recomendación de seguridad es detenerse en un lugar adecuado y no reanudar la marcha hasta que la llamada haya finalizado."
+  },
+  {
+    "_id": "PB-TM11-P214",
+    "Enunciado": "Al hablar por un manos libres, ¿qué debe hacer el conductor respecto a su interlocutor?",
+    "Opciones": [
+      "A) No debe decirle que está conduciendo para no preocuparle.",
+      "B) Debe mantener una voz muy alta para que se le oiga por encima del motor.",
+      "C) Debe avisar a la otra persona de que está conduciendo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Avisar al interlocutor permite que este comprenda posibles pausas o la necesidad de colgar ante una situación de tráfico compleja."
+  },
+  {
+    "_id": "PB-TM11-P215",
+    "Enunciado": "Como recomendación de seguridad, ¿cuánto deben durar las conversaciones por manos libres?",
+    "Opciones": [
+      "A) No deben durar más de un minuto.",
+      "B) Un máximo de cinco minutos para evitar el sobrecalentamiento del móvil.",
+      "C) Lo que sea necesario, siempre que el dispositivo esté bien configurado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para minimizar el tiempo de distracción, se aconseja que las conversaciones telefónicas sean breves, idealmente menores a un minuto."
+  },
+  {
+    "_id": "PB-TM11-P216",
+    "Enunciado": "Si sabe que una persona está conduciendo y no dispone de manos libres, usted debe:",
+    "Opciones": [
+      "A) Llamarla solo para avisar de retrasos importantes.",
+      "B) No llamarla nunca por teléfono.",
+      "C) Enviarle mensajes de texto en lugar de realizar una llamada de voz."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Por seguridad del conductor, no se debe realizar una llamada si somos conscientes de que este se encuentra al volante sin sistema de manos libres."
+  },
+  {
+    "_id": "PB-TM11-P217",
+    "Enunciado": "Respecto a los peatones que hablan por el móvil, el conductor debe:",
+    "Opciones": [
+      "A) Ignorarlos, ya que la responsabilidad de cruzar es solo del peatón.",
+      "B) Tocar el claxon para avisarles de su presencia aunque no haya peligro.",
+      "C) Tener cuidado porque pueden estar distraídos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los peatones que usan el móvil suelen perder la noción de lo que ocurre a su alrededor, por lo que el conductor debe extremar la precaución."
+  },
+  {
+    "_id": "PB-TM11-P218",
+    "Enunciado": "¿Qué es un navegador GPS?",
+    "Opciones": [
+      "A) Un dispositivo que detecta la presencia de radares de la policía.",
+      "B) Un sistema que calcula la ruta de un lugar a otro en tiempo real.",
+      "C) Un sensor que avisa de la falta de mantenimiento del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El GPS es una herramienta de orientación que ayuda a conocer el camino para llegar a un destino determinado."
+  },
+  {
+    "_id": "PB-TM11-P219",
+    "Enunciado": "Si el conductor se equivoca de camino siguiendo el GPS, el sistema:",
+    "Opciones": [
+      "A) Emite una señal acústica de advertencia de error grave.",
+      "B) Se bloquea por seguridad hasta que el vehículo se detenga.",
+      "C) Vuelve a calcular la ruta y dice de nuevo por dónde ir."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Una de las funciones del GPS es el recálculo automático de la ruta para corregir posibles desvíos del conductor."
+  },
+  {
+    "_id": "PB-TM11-P220",
+    "Enunciado": "¿Cuándo se debe programar el destino en el navegador GPS?",
+    "Opciones": [
+      "A) Antes de empezar a conducir.",
+      "B) En las rectas de las autopistas si no hay mucho tráfico.",
+      "C) Durante las paradas en semáforos o atascos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La programación del GPS debe hacerse con el vehículo parado antes de iniciar el viaje para evitar distracciones fatales."
+  },
+  {
+    "_id": "PB-TM11-P221",
+    "Enunciado": "Respecto a la colocación del GPS dentro del vehículo:",
+    "Opciones": [
+      "A) Puede llevarse en el regazo si se dispone de acompañante.",
+      "B) Debe estar fijo en un sitio, que no se mueva ni ruede.",
+      "C) Es indiferente, siempre que el volumen de las instrucciones sea alto."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El dispositivo debe ir correctamente anclado para evitar que se desplace y provoque una situación de peligro o distracción."
+  },
+  {
+    "_id": "PB-TM11-P222",
+    "Enunciado": "El lugar ideal para colocar el navegador GPS es aquel donde:",
+    "Opciones": [
+      "A) Lo puedas ver sin apartar la vista de la carretera.",
+      "B) Esté lo más cerca posible de la palanca de cambios.",
+      "C) Quede oculto a la vista de otros conductores para evitar robos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para no perder el foco en la conducción, el GPS debe situarse en la línea de visión del conductor sin obstruir el campo visual de la vía."
+  },
+  {
+    "_id": "PB-TM11-P223",
+    "Enunciado": "Al instalar el soporte del GPS, se debe comprobar que el lugar elegido:",
+    "Opciones": [
+      "A) Permita la carga del dispositivo mediante cable corto.",
+      "B) Deje abrir los airbags si fuera necesario.",
+      "C) Esté alejado de las tomas de aire acondicionado."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es vital que el navegador no se interponga en la trayectoria de despliegue de los airbags de seguridad."
+  },
+  {
+    "_id": "PB-TM11-P224",
+    "Enunciado": "Según la definición del temario, ¿qué es el airbag?",
+    "Opciones": [
+      "A) Un sistema de frenado de emergencia para camiones.",
+      "B) Un dispositivo de seguridad para proteger a los pasajeros en caso de accidente.",
+      "C) Un neumático de repuesto que se infla automáticamente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El airbag es una bolsa de aire que se infla en milésimas de segundo para amortiguar el impacto de los ocupantes contra el interior del coche."
+  },
+  {
+    "_id": "PB-TM11-P225",
+    "Enunciado": "Respecto a la posibilidad de evitar los accidentes de tráfico, el temario indica que:",
+    "Opciones": [
+      "A) La mayoría de los accidentes de tráfico se pueden evitar.",
+      "B) Solo se pueden evitar los accidentes que ocurren en ciudad.",
+      "C) Los accidentes son sucesos inevitables debidos al azar."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La seguridad vial se basa en la premisa de que la gran mayoría de los siniestros son evitables si se controlan los factores de riesgo."
+  },
+  {
+    "_id": "PB-TM11-P226",
+    "Enunciado": "¿Qué son los factores de riesgo en la conducción?",
+    "Opciones": [
+      "A) Las multas de tráfico más elevadas según la ley.",
+      "B) Las piezas del motor que tienen más probabilidad de romperse.",
+      "C) Las circunstancias que hacen que haya más riesgo de sufrir un accidente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se denomina factor de riesgo a cualquier condición del conductor, vehículo o vía que incremente la probabilidad de un accidente."
+  },
+  {
+    "_id": "PB-TM11-P227",
+    "Enunciado": "Dentro del factor humano, ¿cuáles son algunas de las causas de accidentes?",
+    "Opciones": [
+      "A) La presencia de hielo en la calzada y las curvas cerradas.",
+      "B) El exceso de velocidad, el consumo de alcohol y las distracciones.",
+      "C) Los fallos en el sistema de iluminación y el desgaste de frenos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad, el alcohol y la falta de atención son causas directamente ligadas al comportamiento del conductor (factor humano)."
+  },
+  {
+    "_id": "PB-TM11-P228",
+    "Enunciado": "¿Cuántos accidentes de cada 100 se deben al factor humano?",
+    "Opciones": [
+      "A) Exactamente el 50 por ciento.",
+      "B) Menos de 10 de cada 100.",
+      "C) Entre 70 y 90 de cada 100."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El factor humano es la causa principal de la siniestralidad, estando presente en la gran mayoría de los accidentes (70-90%)."
+  },
+  {
+    "_id": "PB-TM11-P229",
+    "Enunciado": "¿Qué causas se incluyen dentro del factor 'estado de la carretera'?",
+    "Opciones": [
+      "A) No llevar puesto el cinturón de seguridad.",
+      "B) Que la carretera esté mojada o perder el control en una curva.",
+      "C) Circular con los neumáticos con poca presión."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las condiciones del asfalto (humedad) y el trazado (curvas) pertenecen al factor vía o carretera."
+  },
+  {
+    "_id": "PB-TM11-P230",
+    "Enunciado": "¿En qué proporción influye el estado de la carretera en los accidentes?",
+    "Opciones": [
+      "A) Entre 4 y 13 de cada 100 accidentes.",
+      "B) En más de 90 de cada 100 accidentes.",
+      "C) Entre 10 y 35 de cada 100 accidentes."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El estado de la vía y el entorno son responsables de entre el 10% y el 35% de los siniestros viales."
+  },
+  {
+    "_id": "PB-TM11-P231",
+    "Enunciado": "¿Qué ejemplo de fallo en el vehículo se cita como causa de accidente?",
+    "Opciones": [
+      "A) Que fallen los frenos o se pinche un neumático.",
+      "B) Que se agote la batería al intentar arrancar en el garaje.",
+      "C) Que el sistema de radio no funcione correctamente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las averías mecánicas críticas, como en frenos o ruedas, forman parte del factor vehículo en la accidentalidad."
+  },
+  {
+    "_id": "PB-TM11-P232",
+    "Enunciado": "¿Cuántos accidentes son provocados por un fallo en el vehículo?",
+    "Opciones": [
+      "A) Únicamente 1 de cada 1.000 accidentes.",
+      "B) La gran mayoría, superando el 80%.",
+      "C) Entre 4 y 13 de cada 100."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los fallos técnicos del vehículo son la causa menos frecuente de accidentes, situándose entre el 4% y el 13%."
+  },
+  {
+    "_id": "PB-TM11-P233",
+    "Enunciado": "Para evitar riesgos, ¿qué acción responsable debe realizar el conductor antes de un viaje?",
+    "Opciones": [
+      "A) Revisar los neumáticos para comprobar que están en buen estado.",
+      "B) Cambiar el aceite aunque no le corresponda por kilometraje.",
+      "C) Comprobar la potencia máxima del motor en carretera."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Una revisión preventiva de los neumáticos ayuda a evitar incidentes graves como reventones durante el trayecto."
+  },
+  {
+    "_id": "PB-TM11-P234",
+    "Enunciado": "En una carretera con lluvia, ¿cómo se pueden evitar accidentes?",
+    "Opciones": [
+      "A) Manteniendo la misma velocidad para salir cuanto antes de la zona de lluvia.",
+      "B) Encendiendo todas las luces del vehículo, incluidas las de emergencia.",
+      "C) Reduciendo la velocidad y dejando más distancia de seguridad."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La lluvia reduce la adherencia y la visibilidad, por lo que moderar la velocidad y aumentar la distancia es fundamental."
+  },
+  {
+    "_id": "PB-TM11-P235",
+    "Enunciado": "¿Dónde se producen la mayoría de los accidentes mortales?",
+    "Opciones": [
+      "A) En las calles del centro de las grandes ciudades.",
+      "B) En carreteras fuera de pueblos o ciudades.",
+      "C) En los garajes privados y zonas de estacionamiento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las vías interurbanas registran el mayor número de víctimas mortales debido, entre otros factores, a la mayor velocidad."
+  },
+  {
+    "_id": "PB-TM11-P236",
+    "Enunciado": "Respecto al trazado de la carretera, ¿dónde ocurren más accidentes?",
+    "Opciones": [
+      "A) En los túneles con poca iluminación.",
+      "B) En las curvas muy cerradas de montaña.",
+      "C) En las rectas de la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Contrario a la creencia popular, se producen más accidentes en tramos rectos que en curvas."
+  },
+  {
+    "_id": "PB-TM11-P237",
+    "Enunciado": "En comparación con el resto de carreteras, en las autopistas y autovías hay:",
+    "Opciones": [
+      "A) Menos accidentes.",
+      "B) El mismo número de accidentes mortales.",
+      "C) Muchos más accidentes debido a la alta velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las autopistas y autovías son vías más seguras y registran menos siniestros que las carreteras convencionales."
+  },
+  {
+    "_id": "PB-TM11-P238",
+    "Enunciado": "¿Cuáles son las épocas del año con mayor número de accidentes?",
+    "Opciones": [
+      "A) Únicamente durante la primavera por las alergias.",
+      "B) Semana Santa, diciembre y verano.",
+      "C) Los meses de febrero, mayo y octubre."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los periodos vacacionales y de festividades como Navidad son los de mayor riesgo por el aumento de desplazamientos."
+  },
+  {
+    "_id": "PB-TM11-P239",
+    "Enunciado": "¿Qué días y horas registran una mayor accidentalidad?",
+    "Opciones": [
+      "A) Los fines de semana y días de fiesta, especialmente de madrugada.",
+      "B) Las tardes de los lunes al inicio de la semana laboral.",
+      "C) Los martes y miércoles durante las horas centrales del día."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El ocio nocturno y los festivos elevan el riesgo de accidentes, sobre todo en las horas de la madrugada."
+  },
+  {
+    "_id": "PB-TM11-P240",
+    "Enunciado": "Durante la jornada laboral diaria, ¿cuándo es más frecuente tener un accidente?",
+    "Opciones": [
+      "A) Justo a la hora de entrar al trabajo por la mañana.",
+      "B) Durante la pausa para el desayuno.",
+      "C) A las horas de entrar y salir, especialmente al final de la jornada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las horas punta de desplazamiento al trabajo son críticas, siendo el regreso a casa (final de jornada) el momento de mayor riesgo."
+  }
+]

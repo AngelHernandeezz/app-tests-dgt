@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM12-P151",
+        "Enunciado": "Si el vehículo que circula detrás de usted se acerca demasiado, ¿qué acción debe realizar con respecto a la distancia de seguridad frontal?",
+        "Opciones": [
+            "A) Reducir la distancia con el vehículo de delante para ir más rápido.",
+            "B) Dejar más distancia de seguridad con el vehículo de delante.",
+            "C) Mantener una distancia mínima de medio metro con el de delante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cuando el vehículo de atrás se acerca mucho, se debe dejar más distancia con el de delante para evitar tener que realizar un frenado brusco ante un imprevisto."
+    },
+    {
+        "_id": "PB-TM12-P152",
+        "Enunciado": "Ante la cercanía excesiva del vehículo posterior, ¿cómo deben señalizarse las maniobras?",
+        "Opciones": [
+            "A) Con más tiempo de antelación.",
+            "B) Justo en el momento de iniciar el giro.",
+            "C) Únicamente con ráfagas de luz de corto alcance."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario indica que en situaciones donde el vehículo de atrás está muy cerca, se deben señalizar las maniobras con más tiempo."
+    },
+    {
+        "_id": "PB-TM12-P153",
+        "Enunciado": "¿De qué forma se debe frenar si el conductor de atrás no mantiene la separación suficiente?",
+        "Opciones": [
+            "A) De forma intermitente y brusca para asustar al otro conductor.",
+            "B) De forma suave y con tiempo suficiente.",
+            "C) Usando únicamente el freno de mano."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Frenar con suavidad y antelación permite que el conductor que nos sigue de cerca tenga tiempo de reaccionar y evitar un alcance."
+    },
+    {
+        "_id": "PB-TM12-P154",
+        "Enunciado": "Al adelantar a otros vehículos o cruzarse con ellos, ¿qué es necesario mantener respecto al espacio lateral?",
+        "Opciones": [
+            "A) La distancia de separación necesaria.",
+            "B) El mínimo espacio posible para no invadir otros carriles.",
+            "C) Siempre una distancia fija de 5 metros independientemente de la vía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es obligatorio mantener una distancia de separación lateral segura y adecuada a la maniobra de adelantamiento o cruce."
+    },
+    {
+        "_id": "PB-TM12-P155",
+        "Enunciado": "La precaución con el espacio lateral es especialmente importante al realizar acciones como:",
+        "Opciones": [
+            "A) Encender el sistema de navegación GPS.",
+            "B) Revisar el nivel de refrigerante con el motor en marcha.",
+            "C) Cambiar de carril o abrir la puerta del vehículo para bajar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estas maniobras requieren controlar el espacio lateral para no colisionar con otros usuarios de la vía."
+    },
+    {
+        "_id": "PB-TM12-P156",
+        "Enunciado": "Para garantizar la seguridad lateral, el conductor debe procurar:",
+        "Opciones": [
+            "A) Mantener las luces de emergencia encendidas durante los adelantamientos.",
+            "B) Circular siempre pegado a la línea divisoria de los carriles.",
+            "C) Estar fuera de la zona de ángulo muerto de otros vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Mantenerse fuera de los ángulos muertos de los demás evita que estos realicen maniobras sin vernos."
+    },
+    {
+        "_id": "PB-TM12-P157",
+        "Enunciado": "Al detener el vehículo por un semáforo o atasco, ¿qué distancia mínima se debe mantener con el vehículo de delante?",
+        "Opciones": [
+            "A) Menos de medio metro para aprovechar el espacio.",
+            "B) Diez metros obligatoriamente en todas las vías.",
+            "C) Al menos dos o tres metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Mantener esta separación de 2 o 3 metros en las detenciones permite reaccionar ante diversas situaciones imprevistas."
+    },
+    {
+        "_id": "PB-TM12-P158",
+        "Enunciado": "¿Qué ventaja ofrece mantener 2 o 3 metros de separación al estar detenido detrás de otro coche?",
+        "Opciones": [
+            "A) Tener tiempo de avisar al de delante si este echa su vehículo hacia atrás.",
+            "B) Que el motor consumirá menos combustible al ralentí.",
+            "C) Que las luces de freno no deslumbrarán al conductor de delante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Ese espacio nos da margen para advertir al conductor precedente si realiza un retroceso involuntario."
+    },
+    {
+        "_id": "PB-TM12-P159",
+        "Enunciado": "Si el vehículo de delante se queda aparcado o averiado mientras estamos detenidos, ¿para qué sirve la distancia de seguridad de 2 o 3 metros?",
+        "Opciones": [
+            "A) Para tener espacio suficiente para dar la vuelta en U.",
+            "B) Para permitir que los peatones crucen entre ambos vehículos.",
+            "C) Para poder adelantar al vehículo y continuar la marcha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La distancia permite maniobrar y salir de la fila si el coche precedente queda inmovilizado."
+    },
+    {
+        "_id": "PB-TM12-P160",
+        "Enunciado": "En caso de que otro vehículo nos golpee por detrás estando detenidos, ¿qué función cumple la separación con el coche de delante?",
+        "Opciones": [
+            "A) Evita que golpeemos al vehículo que tenemos delante por el impacto.",
+            "B) Facilita que el seguro determine quién es el culpable.",
+            "C) Permite que el sistema de airbags se active con mayor suavidad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Mantener distancia evita el efecto cadena, impidiendo que el impacto trasero nos lance contra el vehículo frontal."
+    },
+    {
+        "_id": "PB-TM12-P161",
+        "Enunciado": "Si usted es el conductor del último vehículo de una fila en un atasco, ¿qué distancia de seguridad puede mantener para evitar alcances?",
+        "Opciones": [
+            "A) Un máximo de un metro.",
+            "B) Pegarse lo máximo posible para que no quepan más vehículos.",
+            "C) Cinco o seis metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aumentar la distancia a 5 o 6 metros cuando somos los últimos de la fila da un margen extra de seguridad ante posibles impactos traseros."
+    },
+    {
+        "_id": "PB-TM12-P162",
+        "Enunciado": "Para ser mejor visto en un atasco siendo el último vehículo, ¿qué medidas debe tomar?",
+        "Opciones": [
+            "A) Apagar todas las luces para ahorrar energía.",
+            "B) Tocar el claxon repetidamente.",
+            "C) Mantener el freno pisado y encender las luces de emergencia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Mantener el freno (luces de pare) y usar los intermitentes de emergencia alerta a los conductores que llegan por detrás."
+    },
+    {
+        "_id": "PB-TM12-P163",
+        "Enunciado": "El conductor del último vehículo de una fila, además de señalizar, debe:",
+        "Opciones": [
+            "A) Mirar por el retrovisor y vigilar a los vehículos que vienen por detrás.",
+            "B) Poner el punto muerto y soltar los pedales.",
+            "C) Salir del vehículo para avisar con los brazos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Vigilar el espejo permite anticiparse a una posible colisión por alcance de alguien que no haya visto el atasco."
+    },
+    {
+        "_id": "PB-TM12-P164",
+        "Enunciado": "¿Cómo define el temario la conducción eficiente?",
+        "Opciones": [
+            "A) Es el uso de vehículos con más de 15 años de antigüedad.",
+            "B) Forma de conducir en la que se gasta menos combustible y se contamina menos.",
+            "C) Es conducir siempre por el carril izquierdo en autopistas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La conducción eficiente busca el ahorro energético, la protección del medioambiente y el aumento de la seguridad."
+    },
+    {
+        "_id": "PB-TM12-P165",
+        "Enunciado": "¿Qué mejora ambiental se consigue con la conducción eficiente?",
+        "Opciones": [
+            "A) Eliminar por completo el uso de lubricantes en el motor.",
+            "B) Reducir la temperatura global del asfalto.",
+            "C) Mejorar la calidad del aire al lanzar menos gases contaminantes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al consumir menos combustible, el vehículo emite una menor cantidad de gases tóxicos a la atmósfera."
+    },
+    {
+        "_id": "PB-TM12-P166",
+        "Enunciado": "Desde el punto de vista económico, la conducción eficiente permite:",
+        "Opciones": [
+            "A) Ahorrar dinero en combustible y mantenimiento del vehículo.",
+            "B) Estar exento del pago de peajes en las autopistas.",
+            "C) Aumentar el valor de reventa del vehículo en un 50%."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El menor desgaste de componentes y el ahorro de carburante suponen un beneficio económico directo."
+    },
+    {
+        "_id": "PB-TM12-P167",
+        "Enunciado": "¿Por qué la conducción eficiente aumenta la seguridad vial?",
+        "Opciones": [
+            "A) Porque obliga a usar neumáticos de mayor tamaño.",
+            "B) Porque usa técnicas parecidas a las de la conducción preventiva.",
+            "C) Porque desactiva los límites de velocidad del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ambas conducciones comparten principios como la anticipación y la suavidad en las maniobras."
+    },
+    {
+        "_id": "PB-TM12-P168",
+        "Enunciado": "Respecto a los pasajeros, la conducción eficiente logra:",
+        "Opciones": [
+            "A) Que viajen más cómodos al evitar frenadas bruscas y grandes cambios de velocidad.",
+            "B) Que el viaje sea un 20% más rápido.",
+            "C) Que no sea necesario usar el cinturón de seguridad en las plazas traseras."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La suavidad en la marcha mejora notablemente el confort de los ocupantes del vehículo."
+    },
+    {
+        "_id": "PB-TM12-P169",
+        "Enunciado": "Además de los gases, ¿qué otra forma de contaminación disminuye con la conducción eficiente?",
+        "Opciones": [
+            "A) La contaminación por residuos sólidos.",
+            "B) La contaminación lumínica de los faros.",
+            "C) El ruido que hacen los vehículos al circular."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una conducción menos agresiva y a revoluciones adecuadas reduce el nivel de ruido del motor y de rodadura."
+    },
+    {
+        "_id": "PB-TM12-P170",
+        "Enunciado": "¿Por qué motivo los vehículos contaminan el medioambiente?",
+        "Opciones": [
+            "A) Porque utilizan baterías de plomo.",
+            "B) Debido al roce de los neumáticos con el asfalto únicamente.",
+            "C) Porque producen gases tóxicos que llegan a la atmósfera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La combustión interna genera residuos gaseosos nocivos que se expulsan por el tubo de escape."
+    },
+    {
+        "_id": "PB-TM12-P171",
+        "Enunciado": "Para contaminar menos, ¿qué revisión frecuente debe hacerse al motor?",
+        "Opciones": [
+            "A) Revisar que el color de la tapa del motor no haya cambiado.",
+            "B) Comprobar que no expulse nubes de humo.",
+            "C) Verificar que el motor no vibre nada en absoluto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La presencia de humo excesivo es síntoma de mala combustión o avería que aumenta la contaminación."
+    },
+    {
+        "_id": "PB-TM12-P172",
+        "Enunciado": "Cuando el vehículo está parado y vuelve a circular, ¿qué acción se debe evitar para no contaminar?",
+        "Opciones": [
+            "A) Acelerar de forma brusca.",
+            "B) Girar el volante mientras el coche está detenido.",
+            "C) Usar el sistema de alumbrado de posición."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las aceleraciones fuertes desde parado suponen un pico de consumo y emisiones contaminantes."
+    },
+    {
+        "_id": "PB-TM12-P173",
+        "Enunciado": "Respecto al uso del claxon, la medida para contaminar menos es:",
+        "Opciones": [
+            "A) Usarlo solo cuando sea necesario.",
+            "B) No usarlo nunca, ni siquiera en emergencias.",
+            "C) Usarlo solo en vías urbanas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El uso innecesario del claxon contribuye a la contaminación acústica."
+    },
+    {
+        "_id": "PB-TM12-P174",
+        "Enunciado": "¿Cómo influye la colocación de la carga en la contaminación?",
+        "Opciones": [
+            "A) Hay que colocarla bien para que no se mueva y haga ruidos.",
+            "B) Debe ir siempre en el asiento del copiloto para equilibrar pesos.",
+            "C) No influye, solo afecta al consumo de aceite."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una carga mal sujeta genera ruidos innecesarios, sumándose a la contaminación ambiental."
+    },
+    {
+        "_id": "PB-TM12-P175",
+        "Enunciado": "Para no ensuciar la carretera, el conductor debe evitar:",
+        "Opciones": [
+            "A) Usar el líquido limpiaparabrisas mientras circula.",
+            "B) Que caigan restos de aceite o de otros líquidos del vehículo.",
+            "C) Circular con los neumáticos húmedos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las fugas de líquidos son contaminantes peligrosos tanto para el medio como para la seguridad vial."
+    },
+    {
+        "_id": "PB-TM12-P176",
+        "Enunciado": "¿Está permitido lavar el vehículo en la carretera?",
+        "Opciones": [
+            "A) Sí, siempre que se use agua biodegradable.",
+            "B) No, se debe lavar en los lugares preparados para hacerlo.",
+            "C) Solo si es una vía secundaria con poco tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El lavado de vehículos en la vía pública está prohibido; debe hacerse en instalaciones acondicionadas."
+    },
+    {
+        "_id": "PB-TM12-P177",
+        "Enunciado": "¿Qué prohibición existe respecto a tirar objetos desde el vehículo?",
+        "Opciones": [
+            "A) Se pueden tirar restos orgánicos como mondas de fruta.",
+            "B) Solo está prohibido tirar objetos metálicos o de cristal.",
+            "C) No tirar nada que ensucie, cree incendios o cause accidentes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Arrojar cualquier objeto a la vía es una infracción grave que atenta contra el entorno y la seguridad."
+    },
+    {
+        "_id": "PB-TM12-P178",
+        "Enunciado": "En relación a las emisiones permitidas, el conductor no debe:",
+        "Opciones": [
+            "A) Usar combustible de 95 octanos si el fabricante recomienda 98.",
+            "B) Causar ruidos innecesarios o echar más gases de los permitidos.",
+            "C) Circular con el sistema de ventilación apagado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Superar los niveles de ruido o emisiones homologados es motivo de sanción e impacto ambiental negativo."
+    },
+    {
+        "_id": "PB-TM12-P179",
+        "Enunciado": "¿Qué es el catalizador en un vehículo?",
+        "Opciones": [
+            "A) Un sensor que mide la presión del aceite.",
+            "B) Un dispositivo en el tubo de escape que reduce la contaminación de los gases.",
+            "C) Un aditivo que se mezcla con el combustible."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El catalizador transforma los gases de escape nocivos en otros menos perjudiciales antes de ser expulsados."
+    },
+    {
+        "_id": "PB-TM12-P180",
+        "Enunciado": "Si el vehículo se queda sin batería, ¿por qué no debe intentarse arrancar empujándolo?",
+        "Opciones": [
+            "A) Porque los frenos no funcionarían hasta que el motor arranque.",
+            "B) Porque el combustible no quemado puede llegar al catalizador y destruirlo.",
+            "C) Porque el alternador se rompería de forma inmediata por el giro brusco."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El paso de gasolina cruda al sistema de escape daña irremediablemente los componentes internos del catalizador."
+    }
+]

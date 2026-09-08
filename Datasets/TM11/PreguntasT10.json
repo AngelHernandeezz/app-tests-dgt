@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P271",
+        "Enunciado": "¿Cómo debe actuar una persona al conducir su vehículo marcha atrás?",
+        "Opciones": [
+            "A) Debe tomar muchas precauciones.",
+            "B) Debe acelerar para terminar la maniobra cuanto antes.",
+            "C) Solo debe mirar por el espejo retrovisor interior."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El manual indica explícitamente que se deben tomar muchas precauciones al realizar la maniobra de marcha atrás."
+    },
+    {
+        "_id": "PB-TM11-P272",
+        "Enunciado": "¿En qué consiste el sistema conocido como detector de peatones?",
+        "Opciones": [
+            "A) Es un radar que multa a los peatones que cruzan mal.",
+            "B) Es un sistema capaz de detectar cuándo hay un peatón delante de un vehículo.",
+            "C) Es un sensor que cuenta el número de personas que hay en la acera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El detector de peatones identifica la presencia de personas frente al vehículo para evitar atropellos."
+    },
+    {
+        "_id": "PB-TM11-P273",
+        "Enunciado": "Si el detector de peatones avisa al conductor y este no responde, el sistema:",
+        "Opciones": [
+            "A) Realiza una llamada automática a la policía.",
+            "B) Emite una luz roja en el salpicadero únicamente.",
+            "C) Activa los frenos y para el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ante la falta de respuesta del conductor, el sistema de detección de peatones tiene la capacidad de frenar y detener el coche por seguridad."
+    },
+    {
+        "_id": "PB-TM11-P274",
+        "Enunciado": "¿Qué grupos de peatones tienen más riesgo de sufrir un accidente de tráfico?",
+        "Opciones": [
+            "A) Los deportistas y los trabajadores de la vía.",
+            "B) Los niños y las personas mayores.",
+            "C) Únicamente los turistas extranjeros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario identifica a los niños y a las personas de edad avanzada como los peatones más vulnerables y con mayor riesgo."
+    },
+    {
+        "_id": "PB-TM11-P275",
+        "Enunciado": "Debido a que los niños tienen una altura menor que los adultos:",
+        "Opciones": [
+            "A) Pueden cruzar por debajo de las vallas de seguridad.",
+            "B) Tienen más facilidad para ver los bajos de los vehículos.",
+            "C) Ven menos tramo de carretera y los conductores los ven peor a ellos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Su baja estatura limita su campo de visión y dificulta que los conductores los detecten a tiempo."
+    },
+    {
+        "_id": "PB-TM11-P276",
+        "Enunciado": "¿A qué se debe que los niños presten menos atención a la carretera?",
+        "Opciones": [
+            "A) A que tienen menos sensación de peligro.",
+            "B) A que confían plenamente en que los coches pararán siempre.",
+            "C) A que suelen ir jugando con videojuegos portátiles."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falta de percepción del riesgo real hace que los niños se distraigan con facilidad en la vía pública."
+    },
+    {
+        "_id": "PB-TM11-P277",
+        "Enunciado": "Respecto a la seguridad vial, uno de los problemas de los niños es que:",
+        "Opciones": [
+            "A) No saben distinguir los colores de los semáforos.",
+            "B) Siempre corren en lugar de caminar.",
+            "C) No conocen las normas de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El desconocimiento de las reglas de circulación es un factor de riesgo importante en el comportamiento infantil como peatones."
+    },
+    {
+        "_id": "PB-TM11-P278",
+        "Enunciado": "¿En qué momento ocurren la mayoría de los atropellos a niños?",
+        "Opciones": [
+            "A) En los meses de vacaciones de verano.",
+            "B) Cuando salen de la escuela.",
+            "C) Durante los fines de semana en los parques infantiles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La salida del colegio es el punto crítico donde se registra el mayor número de atropellos a menores."
+    },
+    {
+        "_id": "PB-TM11-P279",
+        "Enunciado": "¿Qué dificultad auditiva afecta a muchas personas mayores como peatones?",
+        "Opciones": [
+            "A) El ruido ambiental no les deja oír a un vehículo cuando se acerca.",
+            "B) Confunden el sonido del motor con el ruido del viento.",
+            "C) No pueden oír las frecuencias altas de las sirenas de ambulancia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El ruido del entorno puede enmascarar el sonido de un coche aproximándose, lo que supone un peligro para los mayores."
+    },
+    {
+        "_id": "PB-TM11-P280",
+        "Enunciado": "¿Qué problema de percepción de velocidad pueden tener los peatones mayores?",
+        "Opciones": [
+            "A) Piensan que los vehículos circulan más lento de lo que realmente van.",
+            "B) Pueden tener dificultad para saber a qué velocidad viene un vehículo.",
+            "C) Creen que todos los vehículos circulan a la misma velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "A los mayores les cuesta más estimar correctamente la rapidez con la que se aproxima un vehículo."
+    },
+    {
+        "_id": "PB-TM11-P281",
+        "Enunciado": "En relación con los semáforos, ¿qué dificultad pueden presentar los mayores?",
+        "Opciones": [
+            "A) No comprenden el significado de la figura del peatón.",
+            "B) Dificultad para distinguir el color de los semáforos.",
+            "C) Tardan mucho tiempo en reaccionar cuando cambia a verde."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La pérdida de agudeza visual cromática puede hacer que les cueste identificar correctamente la fase del semáforo."
+    },
+    {
+        "_id": "PB-TM11-P282",
+        "Enunciado": "¿Qué carencia en la infraestructura vial dificulta el tránsito de los mayores en algunas zonas?",
+        "Opciones": [
+            "A) Que hay pocos pasos de peatones.",
+            "B) La ausencia de señales acústicas en todos los cruces.",
+            "C) La falta de bancos para descansar cada pocos metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La escasez de pasos señalizados obliga a los mayores a realizar trayectos más largos o a cruzar por lugares indebidos."
+    },
+    {
+        "_id": "PB-TM11-P283",
+        "Enunciado": "Respecto a la iluminación de las calles, el temario indica que para los mayores:",
+        "Opciones": [
+            "A) Prefieren cruzar por zonas oscuras para no ser vistos.",
+            "B) Las luces LED modernas les deslumbran constantemente.",
+            "C) Algunas calles están mal iluminadas y es más difícil cruzarlas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La deficiente iluminación nocturna de las vías incrementa la inseguridad y dificultad de cruce para los ancianos."
+    },
+    {
+        "_id": "PB-TM11-P284",
+        "Enunciado": "¿Qué obstáculo físico en la calle es un problema para la movilidad de las personas mayores?",
+        "Opciones": [
+            "A) La excesiva anchura de las aceras modernas.",
+            "B) El uso de asfalto de color oscuro en las calzadas.",
+            "C) Algunos bordillos están demasiado altos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los bordillos elevados suponen una barrera arquitectónica que dificulta el paso de peatones con movilidad reducida."
+    },
+    {
+        "_id": "PB-TM11-P285",
+        "Enunciado": "Señale dos ejemplos de obstáculos en las aceras que dificultan el paso a los mayores:",
+        "Opciones": [
+            "A) Las señales de tráfico y las farolas.",
+            "B) Maceteros o coches mal aparcados.",
+            "C) Las papeleras y los buzones de correos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Elementos como macetas o vehículos invadiendo la acera son obstáculos mencionados en el temario para este colectivo."
+    },
+    {
+        "_id": "PB-TM11-P286",
+        "Enunciado": "Las personas mayores pueden sufrir problemas de orientación especialmente cuando:",
+        "Opciones": [
+            "A) Conducen vehículos con sistemas de navegación antiguos.",
+            "B) No conocen bien las calles.",
+            "C) Hay muchas señales de tráfico juntas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El desconocimiento del entorno favorece la desorientación en los peatones de edad avanzada."
+    },
+    {
+        "_id": "PB-TM11-P287",
+        "Enunciado": "¿En qué situación tienen las personas mayores más accidentes?",
+        "Opciones": [
+            "A) Únicamente cuando van acompañados por otros adultos.",
+            "B) Cuando van en grupos de más de cuatro personas.",
+            "C) Cuando van solos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La soledad al transitar aumenta el riesgo de siniestro en los mayores comparado con cuando van acompañados."
+    },
+    {
+        "_id": "PB-TM11-P288",
+        "Enunciado": "¿Por qué las personas mayores son más prudentes cuando van con niños?",
+        "Opciones": [
+            "A) Porque los conductores respetan más a los niños.",
+            "B) El temario indica que, simplemente, son más prudentes en esa situación.",
+            "C) Porque los niños les indican por dónde deben cruzar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La responsabilidad de cuidar de un menor hace que el peatón mayor extreme la precaución."
+    },
+    {
+        "_id": "PB-TM11-P289",
+        "Enunciado": "¿Quiénes son los conductores con más riesgo de sufrir accidentes?",
+        "Opciones": [
+            "A) Jóvenes, mayores de 65 años y usuarios de vehículos de dos ruedas.",
+            "B) Personas con permisos de conducir de países extranjeros.",
+            "C) Los conductores profesionales de camiones y autobuses."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Jóvenes, ancianos y motoristas/ciclistas forman los colectivos de conductores con mayor siniestralidad."
+    },
+    {
+        "_id": "PB-TM11-P290",
+        "Enunciado": "¿Qué representan los accidentes de tráfico para los jóvenes de entre 15 y 29 años en España?",
+        "Opciones": [
+            "A) La primera causa de muerte.",
+            "B) Un problema menor frente a otras enfermedades.",
+            "C) La tercera causa de hospitalización únicamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el rango de edad de 15 a 29 años, el tráfico es el motivo principal de fallecimiento en España."
+    },
+    {
+        "_id": "PB-TM11-P291",
+        "Enunciado": "¿Dónde ocurren sobre todo los accidentes de tráfico de los jóvenes?",
+        "Opciones": [
+            "A) En carreteras secundarias de montaña durante el día.",
+            "B) Exclusivamente en las zonas rurales y agrícolas.",
+            "C) Grandes ciudades, caminos al trabajo y lugares de fiesta."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El entorno urbano, los trayectos laborales y las zonas de ocio son los escenarios más comunes de estos siniestros."
+    },
+    {
+        "_id": "PB-TM11-P292",
+        "Enunciado": "Las épocas del año con mayor mortalidad de jóvenes en accidentes son:",
+        "Opciones": [
+            "A) Únicamente durante las vacaciones escolares de junio.",
+            "B) Los meses de primavera y el período de Semana Santa.",
+            "C) Meses de verano, Navidad y los fines de semana."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los periodos vacacionales y el ocio de fin de semana concentran el mayor número de muertes juveniles."
+    },
+    {
+        "_id": "PB-TM11-P293",
+        "Enunciado": "¿En qué franja horaria hay más accidentes de este tipo entre los jóvenes?",
+        "Opciones": [
+            "A) Por la noche y de madrugada.",
+            "B) Durante la hora de la siesta, entre las 14:00 y las 16:00.",
+            "C) A primera hora de la mañana, coincidiendo con la entrada al colegio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las horas nocturnas y de madrugada son las de mayor incidencia de accidentes juveniles."
+    },
+    {
+        "_id": "PB-TM11-P294",
+        "Enunciado": "Señale una de las causas principales de los accidentes de tráfico juveniles:",
+        "Opciones": [
+            "A) Circular por el carril central de forma injustificada.",
+            "B) Conducir vehículos con demasiada potencia.",
+            "C) Conducir con exceso de velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La velocidad excesiva es un factor determinante en la siniestralidad de los conductores jóvenes."
+    },
+    {
+        "_id": "PB-TM11-P295",
+        "Enunciado": "¿Cómo influye el consumo de sustancias en los accidentes de jóvenes?",
+        "Opciones": [
+            "A) El consumo de alcohol y drogas es una de las causas principales.",
+            "B) No influye si se trata de conductores con buena salud.",
+            "C) Solo es relevante si el conductor mezcla ambas sustancias."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El uso de alcohol y estupefacientes está directamente ligado a los accidentes en este grupo de edad."
+    },
+    {
+        "_id": "PB-TM11-P296",
+        "Enunciado": "Además de la velocidad y las sustancias, ¿qué otra falta cometen los jóvenes?",
+        "Opciones": [
+            "A) Llevar las luces antiniebla encendidas sin necesidad.",
+            "B) No respetar las normas de tráfico.",
+            "C) Usar el claxon en zonas donde está prohibido."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El incumplimiento de la normativa vial es otra de las causas críticas de accidentes juveniles."
+    },
+    {
+        "_id": "PB-TM11-P297",
+        "Enunciado": "Los accidentes de jóvenes también se producen por tener poca experiencia y por:",
+        "Opciones": [
+            "A) Correr muchos riesgos al conducir.",
+            "B) Conducir vehículos alquilados frecuentemente.",
+            "C) No conocer el funcionamiento mecánico del motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La asunción de riesgos innecesarios, sumada a la inexperiencia, eleva la probabilidad de accidente."
+    },
+    {
+        "_id": "PB-TM11-P298",
+        "Enunciado": "¿Qué actitud social peligrosa causa accidentes entre los conductores jóvenes?",
+        "Opciones": [
+            "A) Circular siempre por debajo de la velocidad recomendada.",
+            "B) Intentar adelantar a todos los vehículos de su carril.",
+            "C) Competir con otros conductores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La competitividad al volante es un factor de riesgo conductual citado en el temario."
+    },
+    {
+        "_id": "PB-TM11-P299",
+        "Enunciado": "Respecto a los elementos de seguridad, algunos jóvenes sufren accidentes por:",
+        "Opciones": [
+            "A) No ponerse el cinturón o el casco por creer que no lo necesitan.",
+            "B) No revisar la presión de los neumáticos semanalmente.",
+            "C) Comprar cascos que no son de su talla exacta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falsa creencia de invulnerabilidad lleva a prescindir del cinturón o el casco, agravando las consecuencias de los accidentes."
+    },
+    {
+        "_id": "PB-TM11-P300",
+        "Enunciado": "¿Cómo puede afectar la publicidad al comportamiento de los jóvenes conductores?",
+        "Opciones": [
+            "A) Recomendando el uso de accesorios innecesarios en el coche.",
+            "B) Invitando a los conductores a correr riesgos.",
+            "C) Fomentando el ahorro de combustible excesivo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cierta publicidad puede tener un impacto negativo al promover conductas de riesgo en la carretera."
+    }
+]

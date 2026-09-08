@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P121",
+        "Enunciado": "¿Qué establece la ley sobre conducir después de haber bebido alcohol o consumido drogas?",
+        "Opciones": [
+            "A) Está permitido si la cantidad es pequeña y se conduce con precaución.",
+            "B) No es motivo de sanción si el trayecto es inferior a un kilómetro.",
+            "C) Está prohibido y castigado por la ley."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario prohíbe explícitamente conducir bajo los efectos del alcohol o las drogas, advirtiendo de que es una conducta castigada legalmente."
+    },
+    {
+        "_id": "PB-TM11-P122",
+        "Enunciado": "Para saber si un conductor ha bebido alcohol, ¿qué procedimiento utiliza el Agente de tráfico?",
+        "Opciones": [
+            "A) Le pide que realice una prueba de coordinación física.",
+            "B) Le pide que sople en un dispositivo que capta la cantidad de alcohol.",
+            "C) Le solicita una muestra de cabello para su análisis posterior."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La prueba de alcoholemia consiste en soplar en un dispositivo diseñado para captar la cantidad de alcohol presente en el organismo."
+    },
+    {
+        "_id": "PB-TM11-P123",
+        "Enunciado": "¿Qué sucede si la prueba de alcohol da positivo o si el conductor muestra signos evidentes de embriaguez?",
+        "Opciones": [
+            "A) Se le repite la prueba para confirmar el resultado.",
+            "B) Se le sanciona en el acto sin posibilidad de recurrir.",
+            "C) Se le permite continuar si firma un compromiso de responsabilidad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En caso de resultado positivo o síntomas claros, el procedimiento establece la repetición de la prueba para su confirmación."
+    },
+    {
+        "_id": "PB-TM11-P124",
+        "Enunciado": "¿Qué muestra se recoge para detectar si una persona ha consumido drogas?",
+        "Opciones": [
+            "A) El aire espirado a través de un etilómetro.",
+            "B) Una muestra de saliva.",
+            "C) Una muestra de sudor de las manos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para detectar la presencia de sustancias estupefacientes, los agentes de tráfico toman una muestra de saliva del conductor."
+    },
+    {
+        "_id": "PB-TM11-P125",
+        "Enunciado": "Si la persona no está de acuerdo con los resultados de las pruebas de alcohol o drogas, puede solicitar:",
+        "Opciones": [
+            "A) Un análisis de sangre.",
+            "B) Una prueba de visión inmediata.",
+            "C) Que se anule la prueba si el dispositivo no es nuevo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor tiene derecho a solicitar un análisis de sangre como prueba de contraste si discrepa de los resultados iniciales."
+    },
+    {
+        "_id": "PB-TM11-P126",
+        "Enunciado": "¿Cómo se califica la falta de dar positivo en las pruebas de alcohol o drogas?",
+        "Opciones": [
+            "A) Como una falta grave.",
+            "B) Como una falta muy grave.",
+            "C) Como una falta leve."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario califica el positivo en estas sustancias como una falta muy grave debido al riesgo que supone."
+    },
+    {
+        "_id": "PB-TM11-P127",
+        "Enunciado": "¿Cuál es una consecuencia económica y administrativa de dar positivo?",
+        "Opciones": [
+            "A) Pagar una multa.",
+            "B) Pagar una fianza para recuperar el vehículo.",
+            "C) El pago de los costes de limpieza de la vía pública."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Dar positivo conlleva consecuencias como el pago de una multa y la pérdida de puntos del permiso."
+    },
+    {
+        "_id": "PB-TM11-P128",
+        "Enunciado": "¿Cuántos puntos del permiso de conducir se pueden perder por un positivo en alcohol o drogas?",
+        "Opciones": [
+            "A) Siempre se pierden todos los puntos disponibles.",
+            "B) Entre 2 y 3 puntos únicamente.",
+            "C) Entre 4 y 6 puntos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La pérdida de puntos asociada a esta infracción muy grave oscila entre los 4 y los 6 puntos."
+    },
+    {
+        "_id": "PB-TM11-P129",
+        "Enunciado": "Además de la multa y los puntos, ¿existe la posibilidad de ir a la cárcel por dar positivo?",
+        "Opciones": [
+            "A) No, nunca es motivo de prisión.",
+            "B) Sí, si se ha puesto en peligro la vida de otras personas.",
+            "C) Solo si el conductor no tiene seguro obligatorio."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La ley contempla la posibilidad de penas de cárcel si la conducción bajo estos efectos pone en riesgo vidas ajenas."
+    },
+    {
+        "_id": "PB-TM11-P130",
+        "Enunciado": "¿Qué medida toma el policía de tráfico respecto al vehículo si el conductor da positivo?",
+        "Opciones": [
+            "A) Lo envía directamente al desguace.",
+            "B) Lo entrega a un familiar de forma obligatoria.",
+            "C) Lo deja inmovilizado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para evitar que el conductor continúe circulando en ese estado, los agentes proceden a la inmovilización del vehículo."
+    },
+    {
+        "_id": "PB-TM11-P131",
+        "Enunciado": "¿Hasta cuándo se mantiene inmovilizado el coche tras un positivo?",
+        "Opciones": [
+            "A) Hasta que se le pasen al conductor los efectos del alcohol o las drogas.",
+            "B) Hasta que el conductor pague la multa correspondiente.",
+            "C) Durante un plazo mínimo de 48 horas en todos los casos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El vehículo permanece inmovilizado hasta que cesan los efectos de las sustancias en el organismo del conductor."
+    },
+    {
+        "_id": "PB-TM11-P132",
+        "Enunciado": "¿En qué caso están obligados los conductores a realizar las pruebas de detección?",
+        "Opciones": [
+            "A) Solo si circulan de noche.",
+            "B) Únicamente si el vehículo es de transporte público.",
+            "C) Si sufren un accidente de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Sufrir un accidente es una de las circunstancias que obligan legalmente a someterse a las pruebas de alcoholemia y drogas."
+    },
+    {
+        "_id": "PB-TM11-P133",
+        "Enunciado": "Si un conductor muestra síntomas de conducir bajo los efectos del alcohol:",
+        "Opciones": [
+            "A) Puede negarse si no ha cometido ninguna infracción previa.",
+            "B) Debe hacerse las pruebas obligatoriamente.",
+            "C) Puede elegir entre soplar o realizar un test de orina."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La presencia de síntomas evidentes obliga al conductor a realizar las pruebas requeridas por la autoridad."
+    },
+    {
+        "_id": "PB-TM11-P134",
+        "Enunciado": "¿Debe hacerse la prueba un conductor denunciado por saltarse una norma de tráfico?",
+        "Opciones": [
+            "A) Sí, es uno de los supuestos en los que se debe realizar la prueba.",
+            "B) No, si ya ha pagado la multa por la infracción.",
+            "C) Solo si además circula a velocidad excesiva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Ser denunciado por cometer una falta o saltarse una norma es motivo legal para exigir la realización de las pruebas."
+    },
+    {
+        "_id": "PB-TM11-P135",
+        "Enunciado": "¿Qué son los controles preventivos mencionados en el temario?",
+        "Opciones": [
+            "A) Pruebas para verificar el estado de los neumáticos.",
+            "B) Revisiones mecánicas gratuitas en carretera.",
+            "C) Controles para prevenir el consumo de alcohol y drogas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los conductores deben someterse a las pruebas cuando pasen por un control rutinario de prevención de alcohol y drogas."
+    },
+    {
+        "_id": "PB-TM11-P136",
+        "Enunciado": "¿Deben someterse los peatones a pruebas de alcohol y drogas?",
+        "Opciones": [
+            "A) Sí, si pueden provocar un accidente con su comportamiento.",
+            "B) Solo si cruzan por un paso de peatones sin semáforo.",
+            "C) No, las pruebas son exclusivas para los conductores de vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La ley establece que los peatones también deben hacerse la prueba si su conducta puede originar un accidente."
+    },
+    {
+        "_id": "PB-TM11-P137",
+        "Enunciado": "¿Qué sucede si una persona se niega a hacerse las pruebas cuando se lo piden los agentes?",
+        "Opciones": [
+            "A) No ocurre nada, es un derecho personal.",
+            "B) La ley impone multas y sanciones por la negativa.",
+            "C) Solo se le amonesta verbalmente si es la primera vez."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Negarse a realizar las pruebas de detección conlleva sanciones legales y multas."
+    },
+    {
+        "_id": "PB-TM11-P138",
+        "Enunciado": "¿Cómo afectan ciertas enfermedades y medicamentos a la conducción?",
+        "Opciones": [
+            "A) Mejoran la atención en trayectos cortos.",
+            "B) No afectan si el conductor está acostumbrado a ellos.",
+            "C) Hacen que la persona pierda capacidades para conducir con seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El consumo de fármacos o padecer ciertas patologías puede mermar las facultades psicofísicas necesarias para el manejo seguro de un vehículo."
+    },
+    {
+        "_id": "PB-TM11-P139",
+        "Enunciado": "Si tomas medicación o tienes una enfermedad, ¿a quién debes preguntar si puedes conducir?",
+        "Opciones": [
+            "A) Al responsable de tu compañía de seguros.",
+            "B) A los médicos.",
+            "C) Al fabricante del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es fundamental consultar con personal médico sobre la compatibilidad de una enfermedad o fármaco con la conducción."
+    },
+    {
+        "_id": "PB-TM11-P140",
+        "Enunciado": "¿A qué lugar específico puedes acudir para saber si es seguro conducir en tu estado?",
+        "Opciones": [
+            "A) Al taller oficial de la marca del coche.",
+            "B) A la oficina de turismo más cercana.",
+            "C) Al Centro Médico de Reconocimiento de Conductores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los centros de reconocimiento son los lugares autorizados para evaluar la aptitud psicofísica de los conductores."
+    },
+    {
+        "_id": "PB-TM11-P141",
+        "Enunciado": "¿Qué debe hacer un conductor con una enfermedad crónica para evitar accidentes?",
+        "Opciones": [
+            "A) Conducir únicamente por carriles reservados para transporte público.",
+            "B) Evitar circular por autopistas y autovías.",
+            "C) Conocer bien su enfermedad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El primer consejo para conductores con enfermedades crónicas es tener un conocimiento profundo de su propia patología."
+    },
+    {
+        "_id": "PB-TM11-P142",
+        "Enunciado": "Además de la enfermedad, el conductor con patología crónica debe conocer:",
+        "Opciones": [
+            "A) La fecha exacta de fabricación de sus fármacos.",
+            "B) Los efectos de los medicamentos que toma.",
+            "C) El precio de venta al público de sus medicinas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es vital saber cómo influyen los fármacos que se consumen en la capacidad de reacción y atención al volante."
+    },
+    {
+        "_id": "PB-TM11-P143",
+        "Enunciado": "¿Qué debe saber hacer el conductor crónico respecto a su salud?",
+        "Opciones": [
+            "A) Debe saber diagnosticarse sin ayuda profesional.",
+            "B) Aprender a ocultar los síntomas ante un agente.",
+            "C) Saber cómo actuar en caso de sufrir una crisis."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es necesario que el paciente sepa identificar y actuar ante una posible crisis de su enfermedad mientras conduce."
+    },
+    {
+        "_id": "PB-TM11-P144",
+        "Enunciado": "¿Cuándo debe evitar conducir una persona con enfermedad crónica?",
+        "Opciones": [
+            "A) Cuando se encuentre mal.",
+            "B) Únicamente durante la noche.",
+            "C) Solo cuando el trayecto sea superior a 50 kilómetros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si el estado de salud no es óptimo en un momento dado, lo más prudente es no ponerse al volante."
+    },
+    {
+        "_id": "PB-TM11-P145",
+        "Enunciado": "¿Cuándo se puede abandonar un tratamiento médico si se va a conducir?",
+        "Opciones": [
+            "A) En cuanto el conductor se empiece a sentir mejor.",
+            "B) Siempre que se realice un viaje largo para estar más despejado.",
+            "C) Solo cuando lo autorice el médico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "No se debe dejar el tratamiento prescrito sin el consentimiento y supervisión de un facultativo."
+    },
+    {
+        "_id": "PB-TM11-P146",
+        "Enunciado": "¿Está permitido beber alcohol mientras se toma medicación?",
+        "Opciones": [
+            "A) No, no se debe beber alcohol mientras se toma la medicación.",
+            "B) Sí, siempre que se haga de forma moderada.",
+            "C) Solo si los medicamentos son de venta libre (sin receta)."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La mezcla de alcohol y medicamentos es peligrosa y debe evitarse totalmente."
+    },
+    {
+        "_id": "PB-TM11-P147",
+        "Enunciado": "Un consejo fundamental para conducir con alergia respiratoria es:",
+        "Opciones": [
+            "A) Mantener el motor a altas revoluciones.",
+            "B) Conducir con las ventanillas cerradas.",
+            "C) Abrir todas las ventanas para que corra el aire."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para evitar la entrada de polen y otros alérgenos, se recomienda circular con las ventanillas subidas."
+    },
+    {
+        "_id": "PB-TM11-P148",
+        "Enunciado": "En caso de alergia, ¿cómo debe regularse el aire acondicionado?",
+        "Opciones": [
+            "A) Ponerlo de forma suave.",
+            "B) Ponerlo a la máxima potencia de ventilación.",
+            "C) Apagarlo completamente en todo momento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema de aire acondicionado debe usarse con suavidad para no remover partículas que afecten al conductor alérgico."
+    },
+    {
+        "_id": "PB-TM11-P149",
+        "Enunciado": "Respecto a la higiene del vehículo para un alérgico, es importante:",
+        "Opciones": [
+            "A) Limpiar los neumáticos con agua a presión.",
+            "B) Mantener limpios el vehículo y los conductos de ventilación.",
+            "C) Usar ambientadores con olores florales fuertes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La limpieza del habitáculo y de los conductos de aire reduce la presencia de sustancias irritantes."
+    },
+    {
+        "_id": "PB-TM11-P150",
+        "Enunciado": "Para las personas con alergia, ¿por qué es recomendable usar gafas de sol?",
+        "Opciones": [
+            "A) Porque el sol, muchas veces, les hace estornudar.",
+            "B) Para ver mejor en zonas de sombra profunda.",
+            "C) Para ocultar el enrojecimiento de los ojos ante otros conductores."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El uso de gafas de sol protege frente a la luz intensa, que es un estímulo frecuente para el estornudo en alérgicos."
+    }
+]

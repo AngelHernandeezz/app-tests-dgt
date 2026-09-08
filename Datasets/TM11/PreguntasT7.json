@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P181",
+        "Enunciado": "¿Cuándo se produce una distracción en la conducción?",
+        "Opciones": [
+            "A) Cuando el conductor se fija en algo que no tiene que ver con la conducción.",
+            "B) Cuando el conductor mira los espejos retrovisores de forma constante.",
+            "C) Cuando el conductor se centra exclusivamente en el manejo de los pedales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La distracción ocurre cuando el conductor desvía su atención de la vía hacia elementos internos o externos al vehículo ajenos al tráfico."
+    },
+    {
+        "_id": "PB-TM11-P182",
+        "Enunciado": "Señale un ejemplo de distracción según el temario:",
+        "Opciones": [
+            "A) Observar una señal de limitación de velocidad.",
+            "B) Comprobar el ángulo muerto antes de un desplazamiento lateral.",
+            "C) Mirar un escaparate o coger el teléfono móvil."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Coger el móvil o mirar elementos ajenos a la vía, como escaparates, son ejemplos típicos de distracciones."
+    },
+    {
+        "_id": "PB-TM11-P183",
+        "Enunciado": "¿En qué grupo de edad de conductores jóvenes son más frecuentes los accidentes por distracción?",
+        "Opciones": [
+            "A) Exclusivamente en menores de 18 años con licencia AM.",
+            "B) Entre los 18 y los 25 años.",
+            "C) Entre los 25 y los 35 años."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los conductores de entre 18 y 25 años son un grupo especialmente vulnerable a sufrir accidentes por distracciones."
+    },
+    {
+        "_id": "PB-TM11-P184",
+        "Enunciado": "Además de los jóvenes, ¿qué otro grupo de edad tiene más riesgo de accidente por distracción?",
+        "Opciones": [
+            "A) Los conductores de entre 40 y 50 años.",
+            "B) Los conductores de entre 60 y 65 años.",
+            "C) Los conductores mayores de 70 años."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario sitúa a los mayores de 70 años como otro de los colectivos con mayor índice de accidentes por falta de atención."
+    },
+    {
+        "_id": "PB-TM11-P185",
+        "Enunciado": "¿Aumenta el riesgo de distracción el hecho de llevar acompañantes en el vehículo?",
+        "Opciones": [
+            "A) Sí, es más frecuente cuando hay varias personas dentro del vehículo.",
+            "B) Solo si los pasajeros son menores de edad.",
+            "C) No, la presencia de pasajeros ayuda al conductor a mantenerse alerta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La presencia de varios ocupantes en el habitáculo es un factor que favorece la aparición de distracciones."
+    },
+    {
+        "_id": "PB-TM11-P186",
+        "Enunciado": "¿En qué época del año se registran más accidentes por distracciones?",
+        "Opciones": [
+            "A) Durante los meses de invierno por la calefacción.",
+            "B) Únicamente durante el mes de diciembre por la Navidad.",
+            "C) En los meses de verano."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El verano es el periodo estacional donde la frecuencia de estos accidentes es mayor."
+    },
+    {
+        "_id": "PB-TM11-P187",
+        "Enunciado": "Respecto al momento del viaje, ¿cuándo ocurren más distracciones?",
+        "Opciones": [
+            "A) De madrugada durante los días laborables.",
+            "B) En los viajes de fin de semana y durante el día.",
+            "C) Durante la noche en trayectos cortos de trabajo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los fines de semana y las horas diurnas son los momentos con mayor incidencia de accidentes por distracción."
+    },
+    {
+        "_id": "PB-TM11-P188",
+        "Enunciado": "¿Dónde son más habituales estos accidentes, en carretera o en ciudad?",
+        "Opciones": [
+            "A) En carreteras más que en ciudad.",
+            "B) Por igual en ambos tipos de vías.",
+            "C) Principalmente en las calles del centro de las ciudades."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario especifica que las distracciones provocan más accidentes en carretera que en entorno urbano."
+    },
+    {
+        "_id": "PB-TM11-P189",
+        "Enunciado": "¿En qué tipo de vías interurbanas es más frecuente distraerse?",
+        "Opciones": [
+            "A) En caminos de tierra o vías sin pavimentar.",
+            "B) En autopistas y autovías.",
+            "C) En carreteras convencionales con muchas curvas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las autopistas y autovías, por su monotonía, favorecen la pérdida de atención del conductor."
+    },
+    {
+        "_id": "PB-TM11-P190",
+        "Enunciado": "¿Qué conducta relacionada con el conocimiento de la carretera puede causar una distracción?",
+        "Opciones": [
+            "A) Consultar continuamente el mapa en una vía desconocida.",
+            "B) El miedo a lo desconocido en una vía nueva.",
+            "C) Conocer bien la carretera y confiarse demasiado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La excesiva confianza en rutas habituales hace que el conductor baje la guardia y se distraiga más fácilmente."
+    },
+    {
+        "_id": "PB-TM11-P191",
+        "Enunciado": "Una distracción relacionada con la vía ocurre cuando:",
+        "Opciones": [
+            "A) Las señales están escondidas o no se ven bien.",
+            "B) Las señales son muy grandes y luminosas.",
+            "C) Hay una ausencia total de señales en un cruce."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si la señalización es deficiente o está oculta, el conductor puede distraerse buscándola o intentando interpretarla."
+    },
+    {
+        "_id": "PB-TM11-P192",
+        "Enunciado": "¿Qué situación del entorno complica la atención del conductor?",
+        "Opciones": [
+            "A) Conducir por un túnel bien iluminado.",
+            "B) Circular por una vía totalmente despejada y sin señales.",
+            "C) Una situación de tráfico complicada con muchos vehículos y peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El exceso de estímulos (tráfico denso, peatones, múltiples señales) dificulta mantener el foco de atención."
+    },
+    {
+        "_id": "PB-TM11-P193",
+        "Enunciado": "En relación con la iluminación, ¿qué favorece la distracción?",
+        "Opciones": [
+            "A) Que sea de noche o que deslumbren las luces de otros coches.",
+            "B) Conducir con el sol a la espalda a media mañana.",
+            "C) El uso de luces diurnas LED."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La mala visibilidad nocturna o el deslumbramiento son factores externos que propician distracciones."
+    },
+    {
+        "_id": "PB-TM11-P194",
+        "Enunciado": "¿Qué estados físicos del conductor son causas directas de distracción?",
+        "Opciones": [
+            "A) Tener una temperatura corporal de 36 grados.",
+            "B) Estar bien descansado y en ayunas.",
+            "C) Sufrir fatiga o sueño."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cansancio y la somnolencia merman la capacidad de concentración, provocando distracciones involuntarias."
+    },
+    {
+        "_id": "PB-TM11-P195",
+        "Enunciado": "¿Qué estados psicológicos pueden provocar que el conductor se distraiga?",
+        "Opciones": [
+            "A) Sufrir estrés, ansiedad o depresión.",
+            "B) La alegría y la euforia moderada.",
+            "C) La tranquilidad y el relax total."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las alteraciones emocionales como el estrés o la ansiedad absorben la atención del conductor fuera de la carretera."
+    },
+    {
+        "_id": "PB-TM11-P196",
+        "Enunciado": "Respecto a la condición del conductor, es causa de distracción:",
+        "Opciones": [
+            "A) Haber obtenido el carnet recientemente.",
+            "B) Tener muchos años.",
+            "C) Tener una altura superior a la media."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La edad avanzada es un factor personal que incrementa la probabilidad de distraerse al volante."
+    },
+    {
+        "_id": "PB-TM11-P197",
+        "Enunciado": "¿Qué sustancias ingeridas favorecen la aparición de distracciones?",
+        "Opciones": [
+            "A) Ingerir alimentos ricos en fibra antes de viajar.",
+            "B) Beber agua mineral o zumos de frutas.",
+            "C) Consumir alcohol, drogas o tomar ciertos medicamentos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El alcohol, las drogas y la medicación afectan negativamente a la atención sostenida."
+    },
+    {
+        "_id": "PB-TM11-P198",
+        "Enunciado": "Señale tres conductas del conductor que provocan distracciones:",
+        "Opciones": [
+            "A) Ponerse el cinturón, encender las luces y arrancar.",
+            "B) Usar el móvil, encenderse un cigarro o usar el navegador GPS.",
+            "C) Mirar por el retrovisor, señalizar y frenar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El uso del móvil, el tabaco y la manipulación del GPS son acciones voluntarias que distraen peligrosamente."
+    },
+    {
+        "_id": "PB-TM11-P199",
+        "Enunciado": "Otras acciones que distraen a la persona que conduce son:",
+        "Opciones": [
+            "A) Mirar un mapa, echar un insecto fuera, comer o beber.",
+            "B) Llevar las dos manos sobre el volante.",
+            "C) Escuchar la radio a un volumen muy bajo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Acciones como buscar algo en un mapa, intentar sacar un insecto del coche o ingerir alimentos son causas de distracción."
+    },
+    {
+        "_id": "PB-TM11-P200",
+        "Enunciado": "¿Cómo afecta el tabaco al riesgo de sufrir un accidente?",
+        "Opciones": [
+            "A) El riesgo de accidente no varía entre fumadores y no fumadores.",
+            "B) Las personas que fuman sufren el doble de accidentes.",
+            "C) Fumar ayuda a mantener la concentración en viajes largos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario indica que el riesgo de accidente se duplica en conductores que fuman mientras manejan."
+    },
+    {
+        "_id": "PB-TM11-P201",
+        "Enunciado": "¿Por qué fumar produce falta de atención al conducir?",
+        "Opciones": [
+            "A) Por el tiempo que se dedica a buscar el cigarro y encenderlo.",
+            "B) Por el efecto relajante de la nicotina únicamente.",
+            "C) Porque el cenicero suele estar ubicado en un lugar muy bajo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La manipulación necesaria para empezar a fumar desvía la atención de la carretera durante varios segundos."
+    },
+    {
+        "_id": "PB-TM11-P202",
+        "Enunciado": "Fumar es peligroso porque, durante la conducción:",
+        "Opciones": [
+            "A) Se pierde el sentido del equilibrio.",
+            "B) Se tiende a acelerar más sin darse cuenta.",
+            "C) Una de las manos está ocupada con el cigarro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Llevar un cigarrillo en la mano impide el manejo correcto y rápido del volante o la palanca de cambios."
+    },
+    {
+        "_id": "PB-TM11-P203",
+        "Enunciado": "¿De qué manera afecta el humo del tabaco a la visión del conductor?",
+        "Opciones": [
+            "A) No afecta a la visión, solo al olfato.",
+            "B) Hace que se vea peor la carretera.",
+            "C) Mejora la visión nocturna al reducir el contraste."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El humo presente en el habitáculo crea una barrera física que dificulta la nitidez visual de la vía."
+    },
+    {
+        "_id": "PB-TM11-P204",
+        "Enunciado": "Respecto al aire dentro del coche, el tabaco:",
+        "Opciones": [
+            "A) Mejora la calidad del aire gracias a los filtros del cigarro.",
+            "B) No tiene ningún efecto si se lleva el aire acondicionado puesto.",
+            "C) Empeora su calidad y puede afectar a las capacidades para conducir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La degradación de la calidad del aire interior por el humo perjudica las facultades del conductor."
+    },
+    {
+        "_id": "PB-TM11-P205",
+        "Enunciado": "¿Para qué es útil llevar un teléfono móvil en el vehículo?",
+        "Opciones": [
+            "A) Para realizar gestiones de trabajo importantes.",
+            "B) Por si hay una avería o emergencia.",
+            "C) Para entretenerse en los atascos de tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El móvil se considera una herramienta útil exclusivamente para situaciones de necesidad como averías o emergencias."
+    },
+    {
+        "_id": "PB-TM11-P206",
+        "Enunciado": "¿Cuánto aumenta el riesgo de accidente al usar el móvil mientras se conduce?",
+        "Opciones": [
+            "A) El riesgo es cuatro veces mayor.",
+            "B) El riesgo es el doble.",
+            "C) El riesgo aumenta un 10% únicamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Utilizar el teléfono móvil al volante multiplica por cuatro las probabilidades de tener un accidente."
+    },
+    {
+        "_id": "PB-TM11-P207",
+        "Enunciado": "¿Por qué el uso del móvil distrae al conductor?",
+        "Opciones": [
+            "A) Porque el brillo de la pantalla agota la vista.",
+            "B) Porque se presta más atención a la conversación que a la carretera.",
+            "C) Porque el sonido del tono de llamada asusta al conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La carga cognitiva de la conversación desvía el foco de atención principal de la tarea de conducir."
+    },
+    {
+        "_id": "PB-TM11-P208",
+        "Enunciado": "Bajo los efectos de una conversación telefónica, el conductor:",
+        "Opciones": [
+            "A) Calcula peor las distancias y deja de ver algunas señales.",
+            "B) Identifica las señales de tráfico con mayor antelación.",
+            "C) Mantiene una velocidad más constante y segura."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falta de atención derivada del uso del móvil provoca errores en la estimación de distancias y la omisión de señales."
+    },
+    {
+        "_id": "PB-TM11-P209",
+        "Enunciado": "El uso del móvil puede provocar maniobras peligrosas como:",
+        "Opciones": [
+            "A) Un aumento exagerado de la distancia de seguridad.",
+            "B) Un exceso de uso de los indicadores de dirección.",
+            "C) Salidas de la carretera e invasión del carril contrario."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La distracción telefónica suele derivar en la pérdida de trayectoria, invadiendo el sentido contrario o saliéndose de la vía."
+    },
+    {
+        "_id": "PB-TM11-P210",
+        "Enunciado": "¿Qué dificultad física conlleva llevar el móvil en la mano o en el hombro?",
+        "Opciones": [
+            "A) No conlleva ninguna dificultad si se tiene mucha experiencia.",
+            "B) Dificultad para manejar el volante.",
+            "C) Provoca un dolor muscular que impide frenar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Sujetar el dispositivo mientras se conduce entorpece físicamente la capacidad para maniobrar el volante con eficacia."
+    }
+]

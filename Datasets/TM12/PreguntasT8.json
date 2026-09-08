@@ -1,0 +1,289 @@
+[
+    {
+        "_id": "PB-TM12-P211",
+        "Enunciado": "¿Por qué motivo se consume más combustible al circular dentro de pueblos o ciudades?",
+        "Opciones": [
+            "A) Porque hay más atascos, se cambia más la velocidad y se fuerza más el motor.",
+            "B) Porque el aire de la ciudad es más denso y ofrece más resistencia.",
+            "C) Porque las calles son más estrechas y el coche debe ir siempre en primera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario indica que en entorno urbano el consumo sube debido a los atascos, la necesidad de parar y arrancar más veces, los cambios frecuentes de velocidad y el mayor esfuerzo al que se somete el motor."
+    },
+    {
+        "_id": "PB-TM12-P212",
+        "Enunciado": "Para ahorrar combustible en la ciudad y evitar atascos, se aconseja:",
+        "Opciones": [
+            "A) Cruzar por el centro de la ciudad siempre para ahorrar kilómetros.",
+            "B) Elegir el camino con menos vehículos, aunque sea el camino más largo.",
+            "C) Usar el vehículo privado para todos los desplazamientos cortos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una de las medidas de ahorro en ciudad es seleccionar rutas con menor densidad de tráfico, incluso si suponen un recorrido superior en distancia."
+    },
+    {
+        "_id": "PB-TM12-P213",
+        "Enunciado": "Dentro de las técnicas de conducción eficiente, ¿a qué temperatura es aconsejable mantener el aire acondicionado?",
+        "Opciones": [
+            "A) Siempre por debajo de los 20 grados.",
+            "B) Entre 18 y 20 grados.",
+            "C) A 23 o 24 grados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Específicamente en el apartado de consumo, el texto recomienda mantener el habitáculo a 23 o 24 grados para no disparar el gasto de combustible."
+    },
+    {
+        "_id": "PB-TM12-P214",
+        "Enunciado": "Respecto al equipaje, ¿cómo influye el peso en el consumo de combustible?",
+        "Opciones": [
+            "A) A mayor peso, el vehículo tiene más inercia y consume menos en las bajadas.",
+            "B) El peso no influye en el consumo, solo en el desgaste de los frenos.",
+            "C) Un vehículo consume más combustible cuando carga con mucho peso."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario es claro: la carga excesiva obliga al motor a trabajar más, aumentando el consumo de carburante."
+    },
+    {
+        "_id": "PB-TM12-P215",
+        "Enunciado": "Para gastar menos combustible con la carga, el conductor debe:",
+        "Opciones": [
+            "A) Llevar siempre el máximo equipaje posible para aprovechar el viaje.",
+            "B) Repartir bien la carga en el vehículo.",
+            "C) Colocar todo el peso en el lado izquierdo del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Además del peso total, una correcta distribución de la carga ayuda a optimizar el rendimiento del vehículo y reducir el consumo."
+    },
+    {
+        "_id": "PB-TM12-P216",
+        "Enunciado": "¿Qué ocurre si se echa al vehículo un combustible distinto al que marca el fabricante?",
+        "Opciones": [
+            "A) El vehículo consumirá un 20% menos de media.",
+            "B) Se romperá el motor del vehículo.",
+            "C) Se limpiará el sistema de inyección de forma automática."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El texto advierte que utilizar un combustible inadecuado es una medida falsa de ahorro que acaba provocando graves averías en el motor."
+    },
+    {
+        "_id": "PB-TM12-P217",
+        "Enunciado": "Sobre la medida de bajar las cuestas en punto muerto, el temario indica que:",
+        "Opciones": [
+            "A) Es la forma más segura y eficiente de bajar un puerto de montaña.",
+            "B) Es falso que ahorre y el vehículo puede perder la estabilidad.",
+            "C) Solo se debe hacer si los frenos están en perfecto estado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Bajar en punto muerto es una técnica peligrosa; el coche pierde estabilidad y se produce un sobrecalentamiento de los frenos al no haber retención del motor."
+    },
+    {
+        "_id": "PB-TM12-P218",
+        "Enunciado": "¿Cómo afecta la falta de mantenimiento al gasto de combustible?",
+        "Opciones": [
+            "A) No afecta al consumo, solo a la contaminación acústica.",
+            "B) Un coche sin mantenimiento gasta menos porque el motor tiene menos fuerza.",
+            "C) Las piezas desgastadas y las averías harán que se gaste más combustible."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El ahorro en mantenimiento es una medida falsa; el mal estado de los componentes mecánicos eleva el consumo de carburante."
+    },
+    {
+        "_id": "PB-TM12-P219",
+        "Enunciado": "Según el glosario, ¿qué es el punto muerto?",
+        "Opciones": [
+            "A) Posición de la caja de cambios en la que el movimiento del motor no se transmite a las ruedas.",
+            "B) El momento en el que el motor se detiene por falta de combustible.",
+            "C) Un fallo eléctrico que impide arrancar el motor."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En punto muerto, el motor gira pero el vehículo no se mueve porque la conexión con las ruedas está desconectada."
+    },
+    {
+        "_id": "PB-TM12-P220",
+        "Enunciado": "¿En qué consiste el sistema Start-Stop?",
+        "Opciones": [
+            "A) Es un botón para arrancar el coche sin necesidad de usar la llave.",
+            "B) Detiene el motor de forma automática cuando el vehículo se para un momento.",
+            "C) Limita la velocidad máxima del vehículo de forma electrónica."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este sistema está diseñado para apagar el motor en detenciones cortas (semáforos, atascos) y volver a arrancarlo al reanudar la marcha."
+    },
+    {
+        "_id": "PB-TM12-P221",
+        "Enunciado": "¿Qué beneficio principal ofrece la función Start-Stop?",
+        "Opciones": [
+            "A) El vehículo no gasta combustible ni lanza gases mientras está parado.",
+            "B) Aumenta la potencia del motor en las salidas.",
+            "C) Evita que los neumáticos se desgasten durante los atascos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al apagar el motor en las paradas, se eliminan por completo el consumo de ralentí y las emisiones contaminantes en ese periodo."
+    },
+    {
+        "_id": "PB-TM12-P222",
+        "Enunciado": "¿Para qué sirve el Modo Eco en un vehículo?",
+        "Opciones": [
+            "A) Para conectar el motor eléctrico en vehículos híbridos.",
+            "B) Para activar de forma automática la recirculación del aire interior.",
+            "C) Para poner el motor a menos potencia y velocidad para ahorrar combustible."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El Modo Eco gestiona el rendimiento del motor para priorizar la eficiencia energética sobre las prestaciones."
+    },
+    {
+        "_id": "PB-TM12-P223",
+        "Enunciado": "Para ahorrar combustible, ¿qué elementos puede limitar el Modo Eco?",
+        "Opciones": [
+            "A) El volumen del sistema de sonido y las luces de carretera.",
+            "B) La velocidad y la temperatura del vehículo.",
+            "C) El número de pasajeros que pueden subir al coche."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema ajusta parámetros como la respuesta del acelerador (velocidad) y el funcionamiento del climatizador (temperatura)."
+    },
+    {
+        "_id": "PB-TM12-P224",
+        "Enunciado": "¿De qué manera se activa el Modo Eco?",
+        "Opciones": [
+            "A) Se enciende y se apaga de forma manual.",
+            "B) Viene siempre encendido y no se puede desactivar.",
+            "C) Se activa solo cuando el depósito entra en reserva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor decide cuándo utilizar esta función mediante un accionamiento manual (botón o menú)."
+    },
+    {
+        "_id": "PB-TM12-P225",
+        "Enunciado": "¿Qué son los distintivos ambientales?",
+        "Opciones": [
+            "A) Una clasificación de los vehículos según la contaminación que provocan.",
+            "B) Publicidad de la DGT para promover el uso de bicicletas.",
+            "C) Unos carnés especiales para conductores de vehículos eléctricos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los distintivos sirven para catalogar el parque móvil en función de su impacto ecológico."
+    },
+    {
+        "_id": "PB-TM12-P226",
+        "Enunciado": "¿Cuántos tipos diferentes de distintivos ambientales existen?",
+        "Opciones": [
+            "A) Dos tipos: ecológicos y contaminantes.",
+            "B) Seis tipos, uno por cada letra del abecedario.",
+            "C) Cuatro tipos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema actual se divide en cuatro etiquetas ambientales distintas."
+    },
+    {
+        "_id": "PB-TM12-P227",
+        "Enunciado": "¿Cuáles son los nombres de los cuatro distintivos ambientales?",
+        "Opciones": [
+            "A) Verde, Amarillo, Azul y Rojo.",
+            "B) Cero emisiones, Eco, B y C.",
+            "C) A, B, C y D."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las cuatro categorías oficiales son Cero emisiones, Eco, B y C."
+    },
+    {
+        "_id": "PB-TM12-P228",
+        "Enunciado": "A través del código QR del distintivo ambiental se puede conocer información como:",
+        "Opciones": [
+            "A) El historial de multas del conductor.",
+            "B) El año de matriculación, marca, modelo y tipo de combustible.",
+            "C) El nombre y apellidos del propietario del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El QR contiene los datos técnicos del vehículo necesarios para su identificación ambiental (combustible, potencia, nivel de emisiones EURO, etc.)."
+    },
+    {
+        "_id": "PB-TM12-P229",
+        "Enunciado": "¿Cuál es el objetivo principal de la clasificación por distintivos?",
+        "Opciones": [
+            "A) Obligar a todos los conductores a comprar coches nuevos.",
+            "B) Prohibir la circulación de vehículos diésel en todo el país.",
+            "C) Dar preferencia a los vehículos que dañan menos el medioambiente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se busca fomentar y facilitar el uso de los vehículos más limpios mediante ventajas y regulaciones."
+    },
+    {
+        "_id": "PB-TM12-P230",
+        "Enunciado": "¿Qué son las zonas de bajas emisiones?",
+        "Opciones": [
+            "A) Zonas donde la velocidad máxima es siempre de 20 km/h.",
+            "B) Áreas de la ciudad situadas en valles con poco viento.",
+            "C) Zonas en las que solo pueden entrar vehículos que dañan menos el medioambiente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Son perímetros urbanos delimitados para mejorar la calidad del aire, restringiendo el acceso según la etiqueta ambiental."
+    },
+    {
+        "_id": "PB-TM12-P231",
+        "Enunciado": "Respecto al acceso al centro de la ciudad, ¿qué pueden decidir las autoridades en días de mucha contaminación?",
+        "Opciones": [
+            "A) Que el transporte público sea obligatorio para todos los ciudadanos.",
+            "B) Qué vehículos pueden entrar según su distintivo.",
+            "C) Que ningún vehículo pueda circular, independientemente de su motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los ayuntamientos pueden aplicar protocolos de restricción de tráfico basados en la clasificación ambiental de la DGT."
+    },
+    {
+        "_id": "PB-TM12-P232",
+        "Enunciado": "¿Qué beneficio de circulación pueden tener los vehículos con etiqueta 'cero emisiones'?",
+        "Opciones": [
+            "A) Pueden circular por el carril VAO aunque solo viaje el conductor.",
+            "B) Pueden circular en sentido contrario en calles residenciales.",
+            "C) Tienen prioridad de paso en todos los cruces y rotondas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario cita como ejemplo de beneficio el acceso permitido al carril VAO para estos vehículos sin necesidad de cumplir el requisito de ocupación mínima."
+    },
+    {
+        "_id": "PB-TM12-P233",
+        "Enunciado": "¿Cuál es el lugar correcto para colocar el distintivo ambiental?",
+        "Opciones": [
+            "A) En la parte derecha del cristal delantero (parabrisas).",
+            "B) En la parte inferior izquierda del cristal delantero.",
+            "C) En el centro del cristal trasero del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para facilitar su visión desde el exterior, la etiqueta debe pegarse en el ángulo inferior derecho del parabrisas."
+    },
+    {
+        "_id": "PB-TM12-P234",
+        "Enunciado": "Si el vehículo no tiene parabrisas, ¿dónde se debe colocar el distintivo ambiental?",
+        "Opciones": [
+            "A) Se colocará en un lugar visible.",
+            "B) Debe pegarse en el casco del conductor.",
+            "C) Se guardará obligatoriamente junto a la ficha técnica del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En vehículos sin cristal delantero, como algunas motocicletas, la norma indica que el distintivo debe estar en cualquier punto que permita su inspección visual."
+    },
+    {
+        "_id": "PB-TM12-P235",
+        "Enunciado": "¿En qué consiste la iniciativa de vehículos compartidos?",
+        "Opciones": [
+            "A) Comprar un vehículo entre varios vecinos de una misma calle.",
+            "B) Donar el vehículo personal al ayuntamiento cuando no se usa.",
+            "C) Alquilar un vehículo a través de una App por horas o minutos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se trata de un modelo de alquiler flexible y de corto plazo gestionado habitualmente mediante aplicaciones móviles."
+    },
+    {
+        "_id": "PB-TM12-P236",
+        "Enunciado": "¿Cómo es el distintivo que llevan los vehículos de uso compartido?",
+        "Opciones": [
+            "A) Un distintivo circular azul con 5 figuras humanas y un coche.",
+            "B) Una pegatina con forma de mano verde.",
+            "C) Una placa de matrícula de color rosa."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El distintivo específico muestra el logo de la DGT y una ilustración de un vehículo rodeado de cinco siluetas de personas sobre fondo azul.",
+        "Imagen": true
+    }
+]

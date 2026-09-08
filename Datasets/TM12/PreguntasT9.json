@@ -1,0 +1,333 @@
+[
+    {
+        "_id": "PB-TM12-P237",
+        "Enunciado": "¿Qué efecto físico se produce al tomar una curva a velocidad excesiva?",
+        "Opciones": [
+            "A) Se crea una fuerza que puede empujar al vehículo fuera de la curva.",
+            "B) El vehículo tiende a frenarse automáticamente por el roce lateral.",
+            "C) Los neumáticos aumentan su adherencia de forma inmediata."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el temario, al tomar una curva en velocidad se genera una fuerza que tiende a desplazar el vehículo hacia el exterior de la curva."
+    },
+    {
+        "_id": "PB-TM12-P238",
+        "Enunciado": "Para iniciar la marcha sobre nieve, ¿qué tipo de relación de marchas en la caja de cambios es la más adecuada?",
+        "Opciones": [
+            "A) Siempre la primera velocidad manteniendo el motor a altas revoluciones.",
+            "B) Una marcha que permita arrancar con más velocidad y poca fuerza del motor.",
+            "C) Una marcha corta que aplique mucha fuerza al eje motriz."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se recomienda usar marchas largas (como la segunda) para que las ruedas tengan menos fuerza bruta y no patinen sobre la nieve."
+    },
+    {
+        "_id": "PB-TM12-P239",
+        "Enunciado": "Según el glosario del tema 12, ¿cómo se define el concepto de 'derrapar'?",
+        "Opciones": [
+            "A) Deslizarse o patinar por la carretera.",
+            "B) Detener el vehículo bloqueando las cuatro ruedas.",
+            "C) Realizar un giro brusco del volante sin perder la trayectoria."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La definición literal del glosario para derrapar es deslizarse o patinar por la calzada."
+    },
+    {
+        "_id": "PB-TM12-P240",
+        "Enunciado": "Si conduce un vehículo de tracción y sufra un derrape en las ruedas traseras, ¿hacia dónde debe girar el volante?",
+        "Opciones": [
+            "A) Debe mantenerlo totalmente recto hasta que el vehículo se detenga.",
+            "B) Hacia el lado contrario al que se desplazan las ruedas.",
+            "C) Hacia el lado al que se desplazan las ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En vehículos de tracción, ante un derrape trasero, la técnica de corrección es girar el volante hacia el mismo lado del desplazamiento de las ruedas."
+    },
+    {
+        "_id": "PB-TM12-P241",
+        "Enunciado": "En un vehículo de propulsión, si derrapan las ruedas traseras, ¿qué acción debe realizar con el acelerador?",
+        "Opciones": [
+            "A) Pisar el acelerador a fondo para recuperar la trayectoria.",
+            "B) Dejar de acelerar de forma suave.",
+            "C) Acelerar de forma suave."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para vehículos de propulsión con derrape en el eje trasero, se debe dejar de acelerar suavemente para permitir que las ruedas recuperen tracción."
+    },
+    {
+        "_id": "PB-TM12-P242",
+        "Enunciado": "Si las ruedas delanteras de un coche de propulsión comienzan a derrapar, ¿qué debe hacer con el volante?",
+        "Opciones": [
+            "A) Realizar giros cortos a izquierda y derecha sucesivamente.",
+            "B) Girarlo rápidamente hacia el lado del derrape.",
+            "C) Ponerlo recto hasta que las ruedas dejen de derrapar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La instrucción específica para este caso en vehículos de propulsión es dejar de acelerar y poner el volante recto."
+    },
+    {
+        "_id": "PB-TM12-P243",
+        "Enunciado": "Las señales verticales que informan sobre las normas en tramos de obras se distinguen por:",
+        "Opciones": [
+            "A) Tener el fondo de color amarillo.",
+            "B) Tener una forma romboidal poco habitual.",
+            "C) Ser de color blanco con letras y bordes azules."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El color amarillo de fondo en las señales verticales es el indicativo reglamentario para zonas de obras.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM12-P244",
+        "Enunciado": "Al pasar de una zona bien iluminada a otra mal iluminada durante la noche, ¿cuánto tiempo tardan aproximadamente los ojos en acostumbrarse?",
+        "Opciones": [
+            "A) Es una adaptación instantánea.",
+            "B) Al menos un minuto completo.",
+            "C) Unos segundos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El ojo humano requiere de unos segundos para adaptarse a los cambios bruscos en la intensidad de la luz ambiental."
+    },
+    {
+        "_id": "PB-TM12-P245",
+        "Enunciado": "¿Qué efecto tiene sobre el alumbrado nocturno llevar demasiado peso en la parte trasera del vehículo?",
+        "Opciones": [
+            "A) El sistema eléctrico consume más energía y las luces pierden intensidad.",
+            "B) Las luces de cruce se orientan hacia el suelo perdiendo alcance.",
+            "C) Las luces de cruce pueden quedar muy altas y deslumbrar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El exceso de carga atrás eleva el morro del vehículo, provocando que el haz de luz de las cortas suba y pueda molestar a otros conductores."
+    },
+    {
+        "_id": "PB-TM12-P246",
+        "Enunciado": "Cuando dos vehículos se cruzan de noche en una curva, ¿cuál de ellos tiene la obligación de pasar a luz de cruce?",
+        "Opciones": [
+            "A) El vehículo que circula por la parte de dentro de la curva.",
+            "B) Ambos conductores, independientemente de hacia dónde apunten sus faros.",
+            "C) El vehículo que circula por la parte externa de la curva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El vehículo en el interior de la curva es quien proyecta su luz directamente hacia el carril contrario, por lo que debe realizar el cambio."
+    },
+    {
+        "_id": "PB-TM12-P247",
+        "Enunciado": "¿Por qué es extremadamente peligroso conducir justo cuando empiezan a caer las primeras gotas de lluvia?",
+        "Opciones": [
+            "A) Porque se forma un barro deslizante al mezclarse el agua con la suciedad y grasa.",
+            "B) Porque los frenos se bloquean con mayor facilidad por el frío repentino.",
+            "C) Porque el agua limpia el asfalto y lo vuelve demasiado rugoso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La mezcla inicial del agua con los residuos de la calzada crea una capa muy resbaladiza antes de que la lluvia los lave."
+    },
+    {
+        "_id": "PB-TM12-P248",
+        "Enunciado": "El riesgo de sufrir aquaplaning se incrementa significativamente cuando el vehículo circula con:",
+        "Opciones": [
+            "A) Neumáticos muy anchos o muy desgastados.",
+            "B) Poca velocidad por zonas de mucha acumulación de agua.",
+            "C) Neumáticos muy estrechos y con mucha presión."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La anchura excesiva del neumático y el desgaste del dibujo dificultan la evacuación del agua, facilitando que el coche flote."
+    },
+    {
+        "_id": "PB-TM12-P249",
+        "Enunciado": "Al descender una cuesta con presencia de nieve en la calzada, ¿cómo debe actuar el conductor?",
+        "Opciones": [
+            "A) Poner punto muerto para aprovechar la inercia del vehículo.",
+            "B) Elegir velocidades cortas (primera o segunda) para que retengan el vehículo.",
+            "C) Usar el freno de forma constante para evitar ganar velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El freno motor en marchas cortas es fundamental para bajar cuestas nevadas con seguridad."
+    },
+    {
+        "_id": "PB-TM12-P250",
+        "Enunciado": "Cuando es obligatorio el uso de dispositivos antideslizantes (cadenas), ¿dónde deben colocarse como mínimo?",
+        "Opciones": [
+            "A) En las ruedas motrices.",
+            "B) En todas las ruedas del vehículo.",
+            "C) Solo en la rueda trasera derecha."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las cadenas deben instalarse al menos en las ruedas que reciben la tracción del motor para asegurar el avance."
+    },
+    {
+        "_id": "PB-TM12-P251",
+        "Enunciado": "¿En qué lugares de la carretera es más probable la formación de placas de hielo?",
+        "Opciones": [
+            "A) En los tramos de autopista con asfalto drenante.",
+            "B) En las zonas con pendientes ascendentes muy pronunciadas.",
+            "C) En los puentes y pasos elevados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las estructuras elevadas pierden temperatura más rápido por ambos lados, favoreciendo la congelación de la humedad."
+    },
+    {
+        "_id": "PB-TM12-P252",
+        "Enunciado": "¿Por qué disminuye la adherencia de los neumáticos cuando hay niebla?",
+        "Opciones": [
+            "A) Porque la presión de los neumáticos baja por la densidad del aire.",
+            "B) Porque el suelo está húmedo.",
+            "C) Porque la niebla deposita una capa de aceite sobre el asfalto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La niebla deposita una fina película de humedad sobre la calzada que reduce el agarre del neumático."
+    },
+    {
+        "_id": "PB-TM12-P253",
+        "Enunciado": "Ante la presencia de nubes de polvo o de humo, ¿qué precauciones debe tomar el conductor?",
+        "Opciones": [
+            "A) Encender únicamente las luces de emergencia.",
+            "B) Acelerar para salir lo antes posible de la zona sin visión.",
+            "C) Tomar las mismas precauciones que para conducir con niebla."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Dada la similitud en la pérdida de visibilidad, se aplican los mismos protocolos de seguridad que en caso de niebla."
+    },
+    {
+        "_id": "PB-TM12-P254",
+        "Enunciado": "Al conducir con viento lateral muy fuerte, se debe tener una especial precaución porque:",
+        "Opciones": [
+            "A) El motor puede pararse por falta de aire en la combustión.",
+            "B) La presión de los neumáticos aumenta desequilibrando el coche.",
+            "C) Pueden caerse árboles, ramas o piedras a la vía."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El viento intenso puede derribar elementos del entorno que se conviertan en obstáculos peligrosos sobre la carretera."
+    },
+    {
+        "_id": "PB-TM12-P255",
+        "Enunciado": "¿Qué consecuencia directa tiene el calor excesivo sobre las capacidades del conductor?",
+        "Opciones": [
+            "A) Mejora la capacidad de concentración en trayectos largos.",
+            "B) Puede necesitar más tiempo para reaccionar ante imprevistos.",
+            "C) Produce una disminución total de la agresividad al volante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La fatiga térmica ralentiza los reflejos, incrementando el tiempo de reacción ante cualquier situación."
+    },
+    {
+        "_id": "PB-TM12-P256",
+        "Enunciado": "Desde el punto de vista del consumo y la eficiencia, ¿cuál es la temperatura recomendada para el climatizador?",
+        "Opciones": [
+            "A) Entre 15 y 18 grados.",
+            "B) Siempre lo más baja posible para enfriar rápido el habitáculo.",
+            "C) A 23 o 24 grados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Mantener el vehículo a 23-24 grados optimiza el uso del aire acondicionado y el consumo de combustible."
+    },
+    {
+        "_id": "PB-TM12-P257",
+        "Enunciado": "En la conducción preventiva, ¿con qué antelación se debe controlar el espacio de circulación?",
+        "Opciones": [
+            "A) Los siguientes 20 segundos.",
+            "B) Los siguientes 5 segundos de recorrido.",
+            "C) Solo el espacio ocupado por el vehículo que va inmediatamente delante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Mirar a 20 segundos vista permite anticiparse a peligros y evitar maniobras bruscas."
+    },
+    {
+        "_id": "PB-TM12-P258",
+        "Enunciado": "Circulando a 120 km/h por una autovía, ¿a qué distancia hacia lo lejos debe mirar el conductor?",
+        "Opciones": [
+            "A) A 440 metros.",
+            "B) A 660 metros.",
+            "C) A 220 metros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "A 120 km/h se requiere un control visual de hasta 660 metros para garantizar la anticipación adecuada."
+    },
+    {
+        "_id": "PB-TM12-P259",
+        "Enunciado": "A una velocidad de 80 km/h por carretera, la visión preventiva debe alcanzar los:",
+        "Opciones": [
+            "A) 440 metros.",
+            "B) 660 metros.",
+            "C) 220 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según la escala de visión preventiva, a 80 km/h la mirada debe fijarse a 440 metros."
+    },
+    {
+        "_id": "PB-TM12-P260",
+        "Enunciado": "En los vehículos equipados con BSM, ¿dónde se sitúa habitualmente la señal luminosa de advertencia?",
+        "Opciones": [
+            "A) En el cuadro de mandos, bajo el velocímetro.",
+            "B) En el espejo retrovisor.",
+            "C) En la parte superior central del salpicadero."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El detector de ángulo muerto utiliza los retrovisores para avisar visualmente de la presencia de otros vehículos."
+    },
+    {
+        "_id": "PB-TM12-P261",
+        "Enunciado": "¿Qué intervalo de tiempo se aconseja mantener como separación con el vehículo precedente?",
+        "Opciones": [
+            "A) Un segundo es suficiente en autopistas.",
+            "B) Dos o tres segundos.",
+            "C) Al menos cinco segundos en cualquier circunstancia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La regla general de seguridad frontal es mantener una separación de 2 a 3 segundos de tiempo."
+    },
+    {
+        "_id": "PB-TM12-P262",
+        "Enunciado": "Si usted es el último vehículo de una fila en un atasco, ¿qué distancia de seguridad es recomendable mantener?",
+        "Opciones": [
+            "A) Al menos diez metros para facilitar la visibilidad.",
+            "B) La menor posible para evitar que otros se cuelen.",
+            "C) Cinco o seis metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ampliar la distancia a 5-6 metros siendo el último de la fila ofrece un margen extra contra impactos por alcance."
+    },
+    {
+        "_id": "PB-TM12-P263",
+        "Enunciado": "¿Por qué no se debe intentar arrancar el coche empujándolo si se agota la batería?",
+        "Opciones": [
+            "A) Porque se puede desajustar el ralentí del motor.",
+            "B) Porque la caja de cambios puede bloquearse permanentemente.",
+            "C) Porque el combustible no quemado puede destruir el catalizador."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El catalizador sufre daños graves si recibe combustible sin quemar, algo frecuente al intentar arrancar empujando."
+    },
+    {
+        "_id": "PB-TM12-P264",
+        "Enunciado": "¿Cuál es la función principal del sistema Start-Stop en un vehículo?",
+        "Opciones": [
+            "A) Desactivar cilindros del motor para circular con menos potencia.",
+            "B) Detener el motor automáticamente cuando el coche se para un momento.",
+            "C) Regular la velocidad máxima permitida de forma electrónica."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sistema Start-Stop busca el ahorro y la reducción de emisiones apagando el motor en detenciones breves."
+    },
+    {
+        "_id": "PB-TM12-P265",
+        "Enunciado": "Respecto a los detectores de ángulo muerto, ¿cuándo se activan?",
+        "Opciones": [
+            "A) Solo si el vehículo circula a más de 100 km/h.",
+            "B) Algunos avisan siempre y otros solo al poner el intermitente.",
+            "C) Únicamente durante la noche al usar las luces largas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Existen diferentes configuraciones de BSM: aviso constante o aviso condicionado al uso del indicador de dirección."
+    },
+    {
+        "_id": "PB-TM12-P266",
+        "Enunciado": "¿Qué acción realiza el Modo Eco sobre el funcionamiento del vehículo?",
+        "Opciones": [
+            "A) Pone el motor a menos potencia y velocidad para ahorrar combustible.",
+            "B) Desactiva el sistema de frenado para aprovechar la inercia.",
+            "C) Apaga las luces exteriores durante el día automáticamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El Modo Eco limita las prestaciones del motor para maximizar la eficiencia energética del vehículo."
+    }
+]

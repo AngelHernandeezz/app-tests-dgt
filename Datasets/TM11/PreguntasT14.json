@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P391",
+        "Enunciado": "Según el glosario del temario, ¿qué es el shock?",
+        "Opciones": [
+            "A) Un peligro de muerte porque el cuerpo no recibe la sangre que necesita.",
+            "B) Una pérdida temporal del conocimiento debido a un susto fuerte.",
+            "C) El estado de nerviosismo extremo que sufre un testigo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El shock se define como una situación de riesgo vital provocada por la falta de riego sanguíneo adecuado en el organismo."
+    },
+    {
+        "_id": "PB-TM11-P392",
+        "Enunciado": "Cuando la hemorragia se produce porque un objeto se ha clavado en el cuerpo:",
+        "Opciones": [
+            "A) Debe extraerse el objeto rápidamente para limpiar la herida.",
+            "B) Se debe girar el objeto para que actúe como tapón.",
+            "C) No hay que intentar sacar el objeto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ante un objeto clavado, la norma es no intentar retirarlo para evitar hemorragias masivas o daños mayores."
+    },
+    {
+        "_id": "PB-TM11-P393",
+        "Enunciado": "Las hemorragias se clasifican en dos tipos principales:",
+        "Opciones": [
+            "A) Leves y mortales.",
+            "B) Externas e internas.",
+            "C) Venosas y capilares únicamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario distingue entre hemorragias externas (la sangre sale del cuerpo) e internas (la sangre queda dentro)."
+    },
+    {
+        "_id": "PB-TM11-P394",
+        "Enunciado": "¿En qué consiste la técnica de compresión directa para controlar una hemorragia externa?",
+        "Opciones": [
+            "A) En aplicar frío industrial sobre la zona afectada.",
+            "B) En presionar sobre la herida con la mano usando una gasa o pañuelo limpio.",
+            "C) En realizar un masaje circular alrededor de la zona que sangra."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La compresión directa implica presionar la herida con un material limpio (gasa o pañuelo) para detener el sangrado."
+    },
+    {
+        "_id": "PB-TM11-P395",
+        "Enunciado": "Si la gasa utilizada en la compresión directa se empapa de sangre, el auxiliador:",
+        "Opciones": [
+            "A) No debe quitar la gasa aunque esté empapada.",
+            "B) Debe retirarla y poner una nueva inmediatamente.",
+            "C) Debe lavarla con agua y volverla a colocar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Nunca se debe retirar la primera gasa, ya que se rompería el coágulo que se está formando; se debe colocar otra encima."
+    },
+    {
+        "_id": "PB-TM11-P396",
+        "Enunciado": "Si la herida que sangra está en un brazo o una pierna, se recomienda:",
+        "Opciones": [
+            "A) Mantener la extremidad por debajo del nivel del corazón.",
+            "B) Realizar movimientos de flexión y extensión constantes.",
+            "C) Mantener el brazo o la pierna hacia arriba."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Elevar la extremidad afectada ayuda a reducir la presión sanguínea en la zona de la herida y facilita el control del sangrado."
+    },
+    {
+        "_id": "PB-TM11-P397",
+        "Enunciado": "¿Qué es una arteria según la definición del temario?",
+        "Opciones": [
+            "A) Un tubo que conduce la sangre del corazón a todas las partes del cuerpo.",
+            "B) Un nervio que transmite la sensibilidad al cerebro.",
+            "C) Un músculo situado en las extremidades superiores."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las arterias son los conductos encargados de distribuir la sangre oxigenada desde el corazón hacia el resto del organismo."
+    },
+    {
+        "_id": "PB-TM11-P398",
+        "Enunciado": "¿Cuándo debe utilizarse la técnica de compresión arterial?",
+        "Opciones": [
+            "A) Siempre como primera medida antes de usar gasas.",
+            "B) Cuando falla la compresión directa.",
+            "C) Solo si el herido está inconsciente y no respira."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La compresión arterial es el segundo paso a seguir si la presión directa sobre la herida no es suficiente para detener la sangre."
+    },
+    {
+        "_id": "PB-TM11-P399",
+        "Enunciado": "Para realizar la compresión arterial correctamente, se debe:",
+        "Opciones": [
+            "A) Presionar sobre la herida con un objeto metálico.",
+            "B) Golpear rítmicamente la zona superior de la extremidad.",
+            "C) Presionar la arteria principal del brazo o de la pierna."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe localizar y presionar el punto donde pasa la arteria principal de la extremidad afectada contra el hueso."
+    },
+    {
+        "_id": "PB-TM11-P400",
+        "Enunciado": "¿En qué casos y lugares se aplica un torniquete?",
+        "Opciones": [
+            "A) En cualquier herida de la cabeza o el tronco.",
+            "B) En heridas leves para que el accidentado pueda caminar.",
+            "C) Solo en hemorragias en brazos y piernas cuando falla lo anterior."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El torniquete es una medida de último recurso aplicable exclusivamente en extremidades cuando la compresión directa y arterial no funcionan."
+    },
+    {
+        "_id": "PB-TM11-P401",
+        "Enunciado": "Respecto al material para hacer un torniquete, el temario indica que:",
+        "Opciones": [
+            "A) Se suelen hacer con un pañuelo doblado y no usar objetos muy finos.",
+            "B) Lo ideal es usar cuerdas finas o cables eléctricos.",
+            "C) Debe usarse únicamente cinta aislante de alta resistencia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se deben usar bandas anchas como un pañuelo doblado; los objetos finos (como cuerdas) pueden cortar la piel y los tejidos."
+    },
+    {
+        "_id": "PB-TM11-P402",
+        "Enunciado": "¿Dónde se debe colocar exactamente el torniquete?",
+        "Opciones": [
+            "A) Justo encima de la articulación más cercana a la herida.",
+            "B) Por encima del lugar en el que está la herida.",
+            "C) Siempre por debajo de la herida para que la sangre no caiga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El torniquete debe situarse entre la herida y el corazón, es decir, por encima de la lesión."
+    },
+    {
+        "_id": "PB-TM11-P403",
+        "Enunciado": "Tras colocar un torniquete, es obligatorio:",
+        "Opciones": [
+            "A) Escribir en un papel la hora y el lugar de colocación.",
+            "B) Aplicar alcohol sobre el nudo para desinfectarlo.",
+            "C) Aflojarlo cada cinco minutos para que circule la sangre."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es vital registrar la hora exacta para que el personal médico sepa cuánto tiempo lleva la extremidad sin riego."
+    },
+    {
+        "_id": "PB-TM11-P404",
+        "Enunciado": "¿Quién es el único autorizado para quitar un torniquete?",
+        "Opciones": [
+            "A) El propio accidentado si recupera el conocimiento.",
+            "B) El testigo que lo puso cuando vea que ya no sangra.",
+            "C) El personal médico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Retirar un torniquete de forma incorrecta puede liberar toxinas o provocar una hemorragia fatal; solo debe hacerlo un médico."
+    },
+    {
+        "_id": "PB-TM11-P405",
+        "Enunciado": "¿Cómo se puede saber que un herido tiene una hemorragia interna?",
+        "Opciones": [
+            "A) Porque la piel se vuelve de color azul intenso.",
+            "B) Porque el herido entra en shock.",
+            "C) Porque el herido siente un hambre repentina e incontrolable."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al no verse la sangre, la presencia de síntomas de shock es el principal indicador de una hemorragia interna."
+    },
+    {
+        "_id": "PB-TM11-P406",
+        "Enunciado": "Señale un síntoma respiratorio y circulatorio de una persona en shock:",
+        "Opciones": [
+            "A) Respira de forma muy rápida y poco profunda, y el pulso es rápido y débil.",
+            "B) Respiración muy lenta y pulso inexistente.",
+            "C) Respiración profunda y ruidosa con pulso muy fuerte."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El shock se manifiesta con una respiración agitada y superficial, acompañada de un pulso acelerado pero apenas perceptible."
+    },
+    {
+        "_id": "PB-TM11-P407",
+        "Enunciado": "Respecto a la piel, una persona en shock presenta:",
+        "Opciones": [
+            "A) Piel muy roja y seca.",
+            "B) Piel de temperatura normal con sudoración cálida.",
+            "C) Piel pálida y sudor frío y pegajoso."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La palidez y el sudor frío son signos clásicos derivados de la falta de riego sanguíneo periférico en estado de shock."
+    },
+    {
+        "_id": "PB-TM11-P408",
+        "Enunciado": "¿Qué comportamiento puede mostrar un herido que está entrando en shock?",
+        "Opciones": [
+            "A) Se muestra inusualmente calmado y colaborador.",
+            "B) Empieza a cantar o a reírse de forma eufórica.",
+            "C) Dice cosas sin sentido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La falta de oxigenación cerebral por la pérdida de sangre hace que el herido pueda mostrar desorientación o incoherencia verbal."
+    },
+    {
+        "_id": "PB-TM11-P409",
+        "Enunciado": "¿En qué posición debe colocarse a un herido con hemorragia interna (en shock)?",
+        "Opciones": [
+            "A) Sentado con las piernas cruzadas.",
+            "B) Tumbado con los pies más altos que la cabeza.",
+            "C) Boca abajo con la cabeza apoyada sobre los brazos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Elevar las piernas facilita que la sangre fluya hacia los órganos vitales (cerebro y corazón)."
+    },
+    {
+        "_id": "PB-TM11-P410",
+        "Enunciado": "Si el herido en shock tiene vómitos, ¿cómo se debe actuar?",
+        "Opciones": [
+            "A) Colocarle de lado y mantener los pies más altos que la cabeza.",
+            "B) Obligarle a beber agua con bicarbonato inmediatamente.",
+            "C) Sentarle para que no se atragante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para evitar la asfixia por vómito, se le pone de lado pero manteniendo la elevación de las piernas para tratar el shock."
+    },
+    {
+        "_id": "PB-TM11-P411",
+        "Enunciado": "¿Qué son las hemorragias exteriorizadas?",
+        "Opciones": [
+            "A) Heridas superficiales que solo afectan a la piel.",
+            "B) Hemorragias internas donde la sangre sale por la nariz, el oído o la boca.",
+            "C) Sangrados abundantes provocados por cortes con cristales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Son sangrados internos que encuentran una vía de salida al exterior a través de los orificios naturales del cuerpo."
+    },
+    {
+        "_id": "PB-TM11-P412",
+        "Enunciado": "Ante una hemorragia exteriorizada, el auxiliador debe:",
+        "Opciones": [
+            "A) Tratar al herido como muy grave.",
+            "B) Aplicar un torniquete en el cuello si la sangre sale por la boca.",
+            "C) Limpiar los orificios con algodón seco."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este tipo de hemorragias suelen indicar lesiones internas serias y requieren atención prioritaria y urgente."
+    },
+    {
+        "_id": "PB-TM11-P413",
+        "Enunciado": "¿Se deben taponar las hemorragias que salen por el oído, nariz o boca?",
+        "Opciones": [
+            "A) Sí, es fundamental introducir gasas profundamente para frenar la salida.",
+            "B) Solo se debe taponar si la sangre es de color rojo muy oscuro.",
+            "C) No, no se deben taponar ni cortar estas hemorragias."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Taponar estas salidas podría aumentar la presión interna (especialmente en el cráneo), agravando la situación del herido."
+    },
+    {
+        "_id": "PB-TM11-P414",
+        "Enunciado": "Si en una hemorragia exteriorizada hay riesgo de que el herido se asfixie:",
+        "Opciones": [
+            "A) Se le debe poner boca abajo.",
+            "B) Se le debe tapar la nariz y la boca simultáneamente.",
+            "C) Se le debe poner de lado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La posición lateral permite que la sangre o fluidos salgan del cuerpo sin obstruir las vías respiratorias."
+    },
+    {
+        "_id": "PB-TM11-P415",
+        "Enunciado": "Cuando la sangre de la hemorragia sale por el oído:",
+        "Opciones": [
+            "A) Se debe presionar el oído con el dedo índice.",
+            "B) Hay que taparlo con una gasa, sin presionar.",
+            "C) Hay que verter agua oxigenada para limpiar el conducto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se coloca una gasa de forma superficial para recoger el sangrado, pero sin ejercer ninguna presión hacia el interior."
+    },
+    {
+        "_id": "PB-TM11-P416",
+        "Enunciado": "¿Qué dos cosas NO se deben hacer ante una zona quemada?",
+        "Opciones": [
+            "A) No tocar la zona y no quitar la ropa pegada.",
+            "B) No mirar la herida y no avisar al 112.",
+            "C) No enfriar la zona y no taparla con nada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tocar la quemadura aumenta el riesgo de infección y arrancar la ropa pegada puede desprender la piel dañada."
+    },
+    {
+        "_id": "PB-TM11-P417",
+        "Enunciado": "Para tratar una quemadura en el lugar del accidente, se debe:",
+        "Opciones": [
+            "A) Aplicar aceite de cocina sobre la herida.",
+            "B) Echar agua fría sobre la zona quemada.",
+            "C) Poner hielo directamente sobre la piel quemada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El agua fría ayuda a detener el proceso de quemado del tejido y alivia el dolor de forma segura."
+    },
+    {
+        "_id": "PB-TM11-P418",
+        "Enunciado": "Respecto a las ampollas provocadas por quemaduras:",
+        "Opciones": [
+            "A) No se deben cortar ni pinchar.",
+            "B) Deben vaciarse usando una aguja desinfectada.",
+            "C) Deben frotarse con una toalla seca para que desaparezcan."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las ampollas actúan como una barrera natural contra infecciones; abrirlas expone el tejido vivo al exterior."
+    },
+    {
+        "_id": "PB-TM11-P419",
+        "Enunciado": "¿Qué tipo de vendaje se recomienda para una quemadura?",
+        "Opciones": [
+            "A) Un vendaje muy apretado con algodón seco.",
+            "B) No se debe vendar nunca una quemadura.",
+            "C) Un vendaje desinfectado y húmedo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El vendaje húmedo evita que la gasa se pegue a la herida y mantiene la zona protegida."
+    },
+    {
+        "_id": "PB-TM11-P420",
+        "Enunciado": "Si hay dos zonas quemadas próximas, el auxiliador:",
+        "Opciones": [
+            "A) Debe frotarlas entre sí para generar calor.",
+            "B) No debe vendar las dos zonas juntas.",
+            "C) Debe vendarlas juntas para ahorrar material."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Vendar zonas quemadas juntas (como dos dedos) puede provocar que se queden pegadas entre sí durante la cicatrización."
+    }
+]

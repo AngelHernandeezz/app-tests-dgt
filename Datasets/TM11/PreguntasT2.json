@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM11-P31",
+    "Enunciado": "La dificultad para concentrarse en la carretera es:",
+    "Opciones": [
+      "A) Un síntoma que solo aparece si se conduce bajo la lluvia.",
+      "B) Algo normal que no influye en el riesgo de accidente.",
+      "C) Una señal que avisa de que el conductor está sufriendo fatiga."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La dificultad para concentrarse es uno de los síntomas que avisan de que el conductor está sufriendo fatiga y debe dejar de conducir."
+  },
+  {
+    "_id": "PB-TM11-P32",
+    "Enunciado": "Si un conductor empieza a oír mal mientras conduce, ¿qué puede estar ocurriendo?",
+    "Opciones": [
+      "A) Que ha entrado en una zona con mucha contaminación acústica.",
+      "B) Que el volumen de la radio está demasiado bajo.",
+      "C) Que está sufriendo fatiga."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Oír mal es una de las señales físicas indicadas en el temario que avisan de la fatiga del conductor."
+  },
+  {
+    "_id": "PB-TM11-P33",
+    "Enunciado": "¿Qué indica la sensación de presión en la cabeza durante la conducción?",
+    "Opciones": [
+      "A) Que el sistema de climatización está mal regulado.",
+      "B) Que el conductor debe aumentar la velocidad para llegar antes.",
+      "C) Que el conductor está sufriendo fatiga."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La presión en la cabeza es un síntoma reconocido de fatiga según el manual."
+  },
+  {
+    "_id": "PB-TM11-P34",
+    "Enunciado": "Realizar movimientos más lentos de lo habitual es un síntoma de:",
+    "Opciones": [
+      "A) Fatiga, lo que supone una señal para dejar de conducir.",
+      "B) Un conductor con mucha experiencia en la vía.",
+      "C) Máxima precaución por parte del conductor."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La fatiga provoca que los movimientos del conductor sean más lentos, aumentando el riesgo de accidente."
+  },
+  {
+    "_id": "PB-TM11-P35",
+    "Enunciado": "La sensación de estar más nervioso e irritable mientras se conduce:",
+    "Opciones": [
+      "A) Solo ocurre cuando hay mucho tráfico en la ciudad.",
+      "B) Es una señal de que el conductor está sufriendo fatiga.",
+      "C) Ayuda a reaccionar más rápido ante una emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Sentirse nervioso e irritable es un síntoma psicológico de la fatiga del conductor."
+  },
+  {
+    "_id": "PB-TM11-P36",
+    "Enunciado": "¿Cómo afecta la fatiga a la toma de decisiones?",
+    "Opciones": [
+      "A) Provoca dificultad para tomar decisiones sobre la conducción.",
+      "B) No influye, ya que las decisiones son automáticas.",
+      "C) Facilita la elección de la maniobra más segura."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Uno de los síntomas de la fatiga es la dificultad para tomar decisiones correctas y rápidas al volante."
+  },
+  {
+    "_id": "PB-TM11-P37",
+    "Enunciado": "Respecto al tiempo de reacción, un conductor fatigado:",
+    "Opciones": [
+      "A) Mantiene el mismo tiempo de reacción que estando descansado.",
+      "B) Tarda más tiempo en reaccionar.",
+      "C) Reacciona en menos de medio segundo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La fatiga incrementa el tiempo de reacción, haciendo que el conductor tarde más en responder ante imprevistos."
+  },
+  {
+    "_id": "PB-TM11-P38",
+    "Enunciado": "¿Qué relación existe entre la somnolencia y los accidentes de tráfico?",
+    "Opciones": [
+      "A) El sueño solo causa accidentes si el conductor cierra los ojos.",
+      "B) Muchos accidentes de tráfico están relacionados con conducir con sueño.",
+      "C) No hay relación, ya que el sueño se puede combatir con café."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El temario destaca que el sueño es una causa frecuente de accidentes en la carretera."
+  },
+  {
+    "_id": "PB-TM11-P39",
+    "Enunciado": "¿Es necesario quedarse totalmente dormido para tener un accidente por sueño?",
+    "Opciones": [
+      "A) No, siempre que se circule por debajo de 80 km/h.",
+      "B) No, los síntomas de la somnolencia aparecen antes de dormirse del todo.",
+      "C) Sí, el peligro real solo existe cuando se pierde el conocimiento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los efectos negativos del sueño sobre la conducción se manifiestan mucho antes de llegar a dormirse por completo."
+  },
+  {
+    "_id": "PB-TM11-P40",
+    "Enunciado": "La somnolencia se define como el estado en el que se tiene:",
+    "Opciones": [
+      "A) Una relajación muscular profunda y placentera.",
+      "B) Sensación de cansancio, pesadez en el cuerpo y sueño.",
+      "C) Dificultad exclusivamente para ver las señales de tráfico."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La somnolencia es el estado que combina cansancio, pesadez corporal y la necesidad de dormir."
+  },
+  {
+    "_id": "PB-TM11-P41",
+    "Enunciado": "Dormir menos horas de las habituales es:",
+    "Opciones": [
+      "A) Una práctica que mejora los reflejos del conductor novel.",
+      "B) Recomendable si el viaje se realiza de noche.",
+      "C) Una causa que puede provocar somnolencia al volante."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La falta de descanso nocturno suficiente es una de las causas principales de la somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P42",
+    "Enunciado": "¿Puede causar somnolencia el hecho de cambiar las horas a las que sueles dormir?",
+    "Opciones": [
+      "A) No, el cuerpo se adapta instantáneamente.",
+      "B) Sí, es un factor que puede provocar sueño al conducir.",
+      "C) Solo si el conductor es mayor de 65 años."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Alterar los ritmos habituales de sueño favorece la aparición de la somnolencia durante la conducción."
+  },
+  {
+    "_id": "PB-TM11-P43",
+    "Enunciado": "Si una persona duerme mal, aunque duerma muchas horas:",
+    "Opciones": [
+      "A) Puede sufrir somnolencia al conducir.",
+      "B) Estará perfectamente descansada para un viaje largo.",
+      "C) Solo se cansará si conduce por carreteras con muchas curvas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La mala calidad del sueño, independientemente de su duración, es causa de somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P44",
+    "Enunciado": "¿Qué tipo de vías favorecen la aparición de somnolencia?",
+    "Opciones": [
+      "A) Las calles céntricas de las grandes ciudades.",
+      "B) Las carreteras con poco tráfico.",
+      "C) Las vías con muchas señales y semáforos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La monotonía de las carreteras con escaso tráfico facilita que el conductor sienta sueño."
+  },
+  {
+    "_id": "PB-TM11-P45",
+    "Enunciado": "Antes de conducir, tomar alcohol o ciertos medicamentos:",
+    "Opciones": [
+      "A) Es una causa que puede provocar somnolencia.",
+      "B) No influye en el sueño si se acompaña de una comida fuerte.",
+      "C) Ayuda a mantener la atención durante más tiempo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El alcohol y determinados fármacos pueden inducir sueño y afectar la capacidad de conducción."
+  },
+  {
+    "_id": "PB-TM11-P46",
+    "Enunciado": "¿Influye el estado de salud del conductor en la somnolencia?",
+    "Opciones": [
+      "A) Sí, tener enfermedades relacionadas con el sueño puede causarla.",
+      "B) Solo si la enfermedad requiere el uso de gafas.",
+      "C) No, solo influyen las horas que se haya dormido."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Padecer trastornos del sueño es un factor de riesgo que causa somnolencia al volante."
+  },
+  {
+    "_id": "PB-TM11-P47",
+    "Enunciado": "¿En qué momentos del día es más frecuente sufrir somnolencia?",
+    "Opciones": [
+      "A) A media mañana, entre las 10:00 y las 12:00 horas.",
+      "B) Únicamente durante la puesta del sol.",
+      "C) De madrugada o al mediodía, después de comer."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los periodos de mayor probabilidad de sueño son la madrugada y las horas posteriores a la comida del mediodía."
+  },
+  {
+    "_id": "PB-TM11-P48",
+    "Enunciado": "Un síntoma claro de que un conductor sufre somnolencia es:",
+    "Opciones": [
+      "A) Sentir los brazos muy ligeros y ágiles.",
+      "B) Una mayor agudeza visual periférica.",
+      "C) Tener dificultad para mantener la cabeza recta o los ojos abiertos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La incapacidad para sostener la cabeza o abrir los ojos son señales críticas de sueño."
+  },
+  {
+    "_id": "PB-TM11-P49",
+    "Enunciado": "¿Cómo afecta la somnolencia a la visión del conductor?",
+    "Opciones": [
+      "A) Provoca que vea borroso.",
+      "B) No le afecta si usa luces de largo alcance.",
+      "C) Le permite ver mejor los colores de los semáforos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Ver borroso es un síntoma visual provocado por la somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P50",
+    "Enunciado": "¿Qué acción repetitiva es una señal de somnolencia?",
+    "Opciones": [
+      "A) Comprobar el nivel de combustible constantemente.",
+      "B) Mirar por el espejo retrovisor interior cada cinco segundos.",
+      "C) Bostezar muchas veces."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Bostezar de forma frecuente avisa al conductor de que está sufriendo somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P51",
+    "Enunciado": "Un conductor con somnolencia puede experimentar:",
+    "Opciones": [
+      "A) Una mejora en la memoria a corto plazo.",
+      "B) Pérdida de la concentración o pensamientos sin sentido.",
+      "C) Un aumento de la capacidad de cálculo mental."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La somnolencia altera los procesos cognitivos, produciendo falta de concentración e ideas incoherentes."
+  },
+  {
+    "_id": "PB-TM11-P52",
+    "Enunciado": "¿Cómo se comporta la atención bajo los efectos del sueño?",
+    "Opciones": [
+      "A) El conductor ignora totalmente cualquier distracción.",
+      "B) Se vuelve mucho más selectiva y eficaz.",
+      "C) El conductor se distrae con cualquier cosa."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El sueño hace que sea muy difícil mantener la atención, facilitando las distracciones."
+  },
+  {
+    "_id": "PB-TM11-P53",
+    "Enunciado": "Respecto al estado de ánimo, la somnolencia suele provocar que el conductor esté:",
+    "Opciones": [
+      "A) Inquieto o irritable.",
+      "B) Muy tranquilo y relajado.",
+      "C) Extremadamente eufórico y alegre."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La inquietud y la irritabilidad son síntomas comunes que acompañan a la somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P54",
+    "Enunciado": "¿Qué dificultad de memoria avisa de la somnolencia?",
+    "Opciones": [
+      "A) No recordar el color de los vehículos que ha adelantado.",
+      "B) Dificultad para recordar los últimos kilómetros recorridos.",
+      "C) Olvidar dónde ha aparcado el vehículo el día anterior."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La amnesia sobre el trayecto inmediato es una señal de peligro por somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P55",
+    "Enunciado": "Un síntoma de somnolencia relacionado con el manejo del vehículo es:",
+    "Opciones": [
+      "A) Salirse del carril propio.",
+      "B) Circular siempre por el arcén de la derecha.",
+      "C) Mantener una velocidad constante sin variaciones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La pérdida de precisión en la trayectoria, como salirse del carril, es una señal clara de sueño."
+  },
+  {
+    "_id": "PB-TM11-P56",
+    "Enunciado": "El conductor que sufre somnolencia puede:",
+    "Opciones": [
+      "A) Anticiparse mejor a las indicaciones de los carteles informativos.",
+      "B) No fijarse en las señales de tráfico o en el lugar por el que debe salir.",
+      "C) Memorizar todas las señales de la vía con mayor facilidad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El sueño reduce la percepción visual y la atención a la señalización de la carretera."
+  },
+  {
+    "_id": "PB-TM11-P57",
+    "Enunciado": "¿Cómo suele circular un conductor con sueño respecto al vehículo precedente?",
+    "Opciones": [
+      "A) Aumentando la distancia de seguridad al doble de lo habitual.",
+      "B) Cambiando de carril constantemente para no aburrirse.",
+      "C) Muy cerca del vehículo que está delante del suyo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Conducir excesivamente pegado al vehículo de delante es un síntoma de somnolencia."
+  },
+  {
+    "_id": "PB-TM11-P58",
+    "Enunciado": "La somnolencia hace que el conductor:",
+    "Opciones": [
+      "A) Tarde más tiempo de lo normal en reaccionar.",
+      "B) Reaccione con mayor rapidez ante una frenada de emergencia.",
+      "C) Mantenga intactas sus capacidades físicas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Al igual que la fatiga, la somnolencia aumenta significativamente el tiempo de reacción."
+  },
+  {
+    "_id": "PB-TM11-P59",
+    "Enunciado": "¿Qué efecto tiene la somnolencia en los movimientos del cuerpo?",
+    "Opciones": [
+      "A) Sentir una agilidad física superior a la habitual.",
+      "B) Realizarlos con una precisión matemática.",
+      "C) Sentir que cuesta hacerlos o que son más lentos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El conductor con sueño percibe pesadez y lentitud al intentar realizar cualquier movimiento."
+  },
+  {
+    "_id": "PB-TM11-P60",
+    "Enunciado": "¿Qué son los microsueños provocados por la somnolencia?",
+    "Opciones": [
+      "A) Dormirse durante unos segundos sin darse cuenta.",
+      "B) Sueños breves que solo ocurren si el motor está parado.",
+      "C) Siestas programadas de menos de 5 minutos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Dormirse involuntariamente durante breves segundos es uno de los efectos más peligrosos de la somnolencia."
+  }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P301",
+        "Enunciado": "Las personas mayores de 65 años, aunque suelen ser muy prudentes al conducir, pueden tener más accidentes porque...",
+        "Opciones": [
+            "A) Desconocen por completo las normas de tráfico actuales.",
+            "B) Pueden tener menos capacidad de atención y necesitar más tiempo para reaccionar.",
+            "C) Conducen a velocidades excesivamente altas por las autopistas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El envejecimiento puede reducir la capacidad de prestar atención y alargar el tiempo de reacción ante imprevistos."
+    },
+    {
+        "_id": "PB-TM11-P302",
+        "Enunciado": "Respecto a la percepción sensorial de los conductores mayores de 65 años:",
+        "Opciones": [
+            "A) Tienen una capacidad auditiva y visual superior a la de los jóvenes.",
+            "B) No sufren cambios en la vista ni en el oído con el paso de los años.",
+            "C) Muchas de estas personas ven y oyen peor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario señala que muchas personas de este colectivo experimentan un deterioro en sus capacidades visuales y auditivas."
+    },
+    {
+        "_id": "PB-TM11-P303",
+        "Enunciado": "¿Qué factor relacionado con la salud puede afectar a la conducción de las personas mayores?",
+        "Opciones": [
+            "A) Que algunas personas mayores toman medicamentos que afectan para conducir.",
+            "B) El uso habitual de gafas graduadas para lectura.",
+            "C) Únicamente el hecho de no haber desayunado antes de salir."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El consumo de determinados fármacos es un factor que puede influir negativamente en las capacidades necesarias para manejar un vehículo en personas mayores."
+    },
+    {
+        "_id": "PB-TM11-P304",
+        "Enunciado": "En caso de accidente de tráfico, ¿qué consecuencias suelen tener las personas mayores?",
+        "Opciones": [
+            "A) Sufren lesiones más leves gracias a su experiencia.",
+            "B) Se recuperan con mayor rapidez que los jóvenes debido a su prudencia.",
+            "C) Tienen lesiones más graves y menos posibilidades de sobrevivir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La fragilidad física asociada a la edad hace que las lesiones en accidentes sean más severas y el riesgo de fallecimiento sea mayor."
+    },
+    {
+        "_id": "PB-TM11-P305",
+        "Enunciado": "¿Por qué los conductores de vehículos de dos ruedas deben conducir con especial cuidado?",
+        "Opciones": [
+            "A) Porque sus motores siempre tienen menos potencia que los de los coches.",
+            "B) Porque son vehículos más frágiles y se ven peor que el resto.",
+            "C) Porque solo pueden circular por el carril izquierdo de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La fragilidad y la menor visibilidad de los vehículos de dos ruedas obligan a sus conductores a extremar las precauciones."
+    },
+    {
+        "_id": "PB-TM11-P306",
+        "Enunciado": "¿Cuándo ocurren con más frecuencia los accidentes de ciclistas?",
+        "Opciones": [
+            "A) Los fines de semana, sobre todo cuando llega el buen tiempo.",
+            "B) Durante las noches sin luna de los meses de otoño.",
+            "C) Únicamente durante los días laborables de invierno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario indica que el buen tiempo y los fines de semana son los periodos de mayor accidentalidad para los ciclistas."
+    },
+    {
+        "_id": "PB-TM11-P307",
+        "Enunciado": "Respecto al lugar de los accidentes de ciclistas, se producen más siniestros...",
+        "Opciones": [
+            "A) En las carreteras de montaña con muchas curvas cerradas.",
+            "B) Exclusivamente en los carriles bici segregados del tráfico.",
+            "C) Dentro de las ciudades, aunque mueren más ciclistas en carreteras fuera de ellas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aunque la frecuencia de accidentes es mayor en el entorno urbano, la letalidad es superior en las vías interurbanas."
+    },
+    {
+        "_id": "PB-TM11-P308",
+        "Enunciado": "La mayoría de los accidentes de ciclistas ocurren en:",
+        "Opciones": [
+            "A) Las rectas o en los cruces por el choque con otro vehículo.",
+            "B) Los túneles con poca ventilación.",
+            "C) Las zonas de estacionamiento regulado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los tramos rectos y las intersecciones son los puntos donde más colisiones sufren los ciclistas con otros vehículos."
+    },
+    {
+        "_id": "PB-TM11-P309",
+        "Enunciado": "¿A quién se pueden deber las causas de los accidentes de ciclistas?",
+        "Opciones": [
+            "A) Exclusivamente a fallos mecánicos imprevistos en las bicicletas.",
+            "B) Únicamente a la mala señalización de los carriles especiales.",
+            "C) A faltas de los propios ciclistas o de los conductores de otros vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los accidentes resultan de infracciones o errores cometidos tanto por los ciclistas como por los conductores de los demás vehículos implicados."
+    },
+    {
+        "_id": "PB-TM11-P310",
+        "Enunciado": "Señale una falta que suelen cometer los ciclistas y que provoca accidentes:",
+        "Opciones": [
+            "A) Circular por el arcén en carreteras convencionales.",
+            "B) No respetar la señal de Stop o de preferencia para otros vehículos.",
+            "C) Señalizar con el brazo los giros a la izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El incumplimiento de las señales de prioridad, como el Stop, es una de las faltas habituales citadas en el texto para los ciclistas."
+    },
+    {
+        "_id": "PB-TM11-P311",
+        "Enunciado": "¿Qué falta cometida por conductores de otros vehículos causa accidentes con ciclistas?",
+        "Opciones": [
+            "A) Mantener una distancia de seguridad excesiva.",
+            "B) Conducir muy rápido o sufrir distracciones.",
+            "C) Usar las luces de cruce durante el día."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El exceso de velocidad y la falta de atención de los conductores son causas comunes de siniestros con bicicletas."
+    },
+    {
+        "_id": "PB-TM11-P312",
+        "Enunciado": "Para evitar el atropello a ciclistas, los conductores de los demás vehículos deben:",
+        "Opciones": [
+            "A) Tocar el claxon constantemente hasta que el ciclista se aparte.",
+            "B) Adelantar lo más cerca posible para no invadir el carril contrario.",
+            "C) Dejar espacio por delante y separación lateral suficiente al adelantarlos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La seguridad de los ciclistas exige mantener una distancia de seguridad frontal y lateral adecuada al rebasarlos."
+    },
+    {
+        "_id": "PB-TM11-P313",
+        "Enunciado": "¿Está permitido adelantar a otros vehículos si vienen ciclistas en sentido contrario?",
+        "Opciones": [
+            "A) No, no se debe adelantar en esa situación.",
+            "B) Sí, siempre que se haga rápidamente.",
+            "C) Sí, si el ciclista circula por el arcén."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Por seguridad del ciclista que viene de frente, está prohibido realizar adelantamientos que puedan ponerlo en peligro."
+    },
+    {
+        "_id": "PB-TM11-P314",
+        "Enunciado": "Al conducir cerca de ciclistas, se debe tener más precaución cuando:",
+        "Opciones": [
+            "A) El cielo está totalmente despejado y hace sol.",
+            "B) Hay lluvia, nieve, niebla o se ve mal.",
+            "C) La temperatura exterior es de exactamente 20 grados."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las condiciones meteorológicas adversas o la falta de visibilidad requieren una mayor atención por parte del conductor ante la presencia de ciclistas."
+    },
+    {
+        "_id": "PB-TM11-P315",
+        "Enunciado": "¿Qué norma se debe seguir respecto al uso del claxon cerca de ciclistas?",
+        "Opciones": [
+            "A) Se debe usar siempre para indicar que vamos a adelantar.",
+            "B) Es obligatorio usarlo en todas las curvas de visibilidad reducida.",
+            "C) No se debe tocar el claxon para no asustarles."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sonido repentino de la bocina puede asustar al ciclista y provocar una caída o maniobra errática, por lo que debe evitarse."
+    },
+    {
+        "_id": "PB-TM11-P316",
+        "Enunciado": "¿Qué cuidado especial se debe tener con los vehículos aparcados en relación con los ciclistas?",
+        "Opciones": [
+            "A) Que los ciclistas pueden aparecer entre estos vehículos.",
+            "B) Que los ciclistas pueden intentar aparcar en el mismo sitio que nosotros.",
+            "C) Que las bicicletas aparcadas suelen invadir la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos estacionados pueden ocultar la presencia de un ciclista que irrumpa de repente en la vía."
+    },
+    {
+        "_id": "PB-TM11-P317",
+        "Enunciado": "Los conductores deben conducir con más precaución cerca de:",
+        "Opciones": [
+            "A) Gasolineras situadas en autopistas.",
+            "B) Edificios y zonas de ocio, por la presencia de ciclistas.",
+            "C) Campos de cultivo en zonas rurales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario recomienda extremar la precaución en áreas urbanas y de esparcimiento donde el tránsito de bicicletas es más intenso."
+    },
+    {
+        "_id": "PB-TM11-P318",
+        "Enunciado": "En las motocicletas y ciclomotores, ¿cuáles son los accidentes más comunes al adelantar?",
+        "Opciones": [
+            "A) Los choques frontales y laterales.",
+            "B) Los alcances traseros por frenazos bruscos.",
+            "C) Los vuelcos sin colisión con otros vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al realizar maniobras de adelantamiento, las motos sufren mayoritariamente impactos de frente o de costado."
+    },
+    {
+        "_id": "PB-TM11-P319",
+        "Enunciado": "¿Dónde se producen la mayoría de los accidentes de motocicletas y ciclomotores?",
+        "Opciones": [
+            "A) En las autopistas de peaje.",
+            "B) En los caminos forestales.",
+            "C) Dentro de la ciudad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El entorno urbano es el escenario donde se registran la mayor parte de los siniestros de este tipo de vehículos."
+    },
+    {
+        "_id": "PB-TM11-P320",
+        "Enunciado": "Las consecuencias de los accidentes de moto son más graves cuando:",
+        "Opciones": [
+            "A) El vehículo tiene una cilindrada inferior a 125 cc.",
+            "B) Las personas que viajan no llevan el casco puesto.",
+            "C) Se circula por el carril derecho de una autovía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El uso del casco es vital; su ausencia agrava significativamente las lesiones en caso de siniestro."
+    },
+    {
+        "_id": "PB-TM11-P321",
+        "Enunciado": "Señale una falta común cometida por los conductores de motocicletas:",
+        "Opciones": [
+            "A) Ocupar el carril de la carretera que va en sentido contrario.",
+            "B) No encender las luces de posición en los túneles.",
+            "C) Circular a la velocidad mínima permitida por la vía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La invasión del sentido contrario es una de las infracciones típicas de los motoristas que causan accidentes."
+    },
+    {
+        "_id": "PB-TM11-P322",
+        "Enunciado": "¿Qué falta cometen los conductores de otros vehículos respecto a las motocicletas?",
+        "Opciones": [
+            "A) Mantener una distancia lateral de más de dos metros.",
+            "B) Ceder el paso a las motos en las intersecciones sin señalizar.",
+            "C) No respetar la preferencia de paso de las motocicletas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El texto destaca que no respetar la prioridad de las motos es una causa frecuente de accidentes provocados por otros conductores."
+    },
+    {
+        "_id": "PB-TM11-P323",
+        "Enunciado": "Para evitar accidentes con motocicletas, antes de cambiar de carril, el conductor debe:",
+        "Opciones": [
+            "A) Comprobar que no hay vehículos de dos ruedas circulando.",
+            "B) Frenar ligeramente para avisar al vehículo de detrás.",
+            "C) Activar las luces de emergencia durante tres segundos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es fundamental verificar la ausencia de motos o ciclomotores antes de realizar un desplazamiento lateral."
+    },
+    {
+        "_id": "PB-TM11-P324",
+        "Enunciado": "Respecto a la posición en la calzada, ¿qué debe evitar un conductor al circular cerca de una moto?",
+        "Opciones": [
+            "A) Circular por detrás de ella a una distancia prudencial.",
+            "B) Rebasar a la moto en una zona permitida.",
+            "C) Quedarse al lado del vehículo de dos ruedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario recomienda no mantenerse en paralelo a una moto; es mejor circular por delante o por detrás de ella."
+    },
+    {
+        "_id": "PB-TM11-P325",
+        "Enunciado": "Una medida de seguridad para evitar accidentes con motos es:",
+        "Opciones": [
+            "A) Aumentar la velocidad para adelantarlos lo antes posible.",
+            "B) Mantener la distancia de seguridad con estos vehículos.",
+            "C) Hacer ráfagas con las luces de largo alcance para que nos vean."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Mantener una separación adecuada permite reaccionar ante cualquier imprevisto de la motocicleta."
+    },
+    {
+        "_id": "PB-TM11-P326",
+        "Enunciado": "En relación con las motocicletas, los conductores de otros vehículos deben:",
+        "Opciones": [
+            "A) Ignorar sus señales si no son luminosas.",
+            "B) Respetar las situaciones en las que tienen preferencia de paso.",
+            "C) Considerarlas siempre como vehículos de menor importancia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Respetar la prioridad legal de las motos es esencial para la seguridad vial."
+    },
+    {
+        "_id": "PB-TM11-P327",
+        "Enunciado": "¿Cuándo deben los conductores tener más precaución con las motocicletas?",
+        "Opciones": [
+            "A) Cuando hay lluvia, nieve, niebla o se ve mal.",
+            "B) Durante las horas centrales de un día soleado de verano.",
+            "C) Cuando se circula por una vía de un solo sentido."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La visibilidad y la adherencia reducidas por el clima afectan especialmente a la seguridad de las motos."
+    },
+    {
+        "_id": "PB-TM11-P328",
+        "Enunciado": "Como norma general, las personas que presencien un accidente de tráfico deben:",
+        "Opciones": [
+            "A) Seguir su camino si no hay ningún policía presente.",
+            "B) Grabar el suceso con el móvil antes de llamar a emergencias.",
+            "C) Atender a las víctimas o pedir ayuda para que alguien les ayude."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La primera obligación de un testigo es prestar auxilio directo o solicitar la ayuda necesaria para los afectados."
+    },
+    {
+        "_id": "PB-TM11-P329",
+        "Enunciado": "Una de las obligaciones de los testigos de un accidente es:",
+        "Opciones": [
+            "A) Colaborar para que no haya más daños ni heridos.",
+            "B) Mover todos los vehículos implicados al arcén inmediatamente.",
+            "C) Retirar los restos de cristales de la calzada sin avisar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El testigo debe actuar para asegurar la zona y prevenir que la situación empeore."
+    },
+    {
+        "_id": "PB-TM11-P330",
+        "Enunciado": "¿Qué deben hacer los testigos respecto a la seguridad de la vía?",
+        "Opciones": [
+            "A) Cortar el tráfico en ambos sentidos de forma permanente.",
+            "B) Ayudar a que la circulación vuelva a ser segura cuando sea posible.",
+            "C) No hacer nada, la seguridad vial es competencia exclusiva de la policía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Dentro de sus posibilidades, los testigos deben contribuir a restablecer condiciones seguras de circulación."
+    }
+]

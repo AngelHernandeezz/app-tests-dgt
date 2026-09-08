@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P492",
+        "Enunciado": "Un conductor posee el permiso de motocicletas desde hace un año y medio y acaba de obtener el permiso para conducir camiones de gran tonelaje (más de 3.500 kg). ¿Cuál es su tasa máxima permitida en aire espirado?",
+        "Opciones": [
+            "A) 0,15 miligramos por litro tanto por el tipo de vehículo como por su antigüedad.",
+            "B) 0,25 miligramos por litro, ya que el vehículo manda sobre la antigüedad.",
+            "C) 0,30 miligramos por litro por ser profesional."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor está sujeto a la tasa reducida por dos motivos concurrentes: es un conductor novel (menos de dos años desde su primer permiso) y conduce un vehículo de mercancías de más de 3.500 kg."
+    },
+    {
+        "_id": "PB-TM11-P493",
+        "Enunciado": "En la atención a una hemorragia arterial en una extremidad, ¿qué acción es imperativa si la compresión directa no detiene el sangrado?",
+        "Opciones": [
+            "A) Retirar la gasa empapada para localizar el punto exacto de ruptura arterial.",
+            "B) Aplicar un torniquete de forma inmediata sin pasos intermedios.",
+            "C) Presionar la arteria principal del brazo o de la pierna contra el hueso."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El protocolo establece que si la compresión directa falla, se debe pasar a la compresión arterial antes de recurrir al torniquete."
+    },
+    {
+        "_id": "PB-TM11-P494",
+        "Enunciado": "Respecto a la visibilidad de los niños como peatones, ¿cuál es el factor de riesgo principal derivado de su estatura?",
+        "Opciones": [
+            "A) Su campo visual periférico es un 30% menor que el de un adulto.",
+            "B) Ven menos tramo de carretera y los conductores los ven peor.",
+            "C) No pueden ver las luces de freno de los vehículos todoterreno."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Su baja altura tiene un doble efecto negativo: reduce su propia visibilidad del entorno y los oculta a la vista de los conductores."
+    },
+    {
+        "_id": "PB-TM11-P495",
+        "Enunciado": "¿Qué efecto produce la mezcla de alcohol con bebidas gaseosas o tónica en el organismo del conductor?",
+        "Opciones": [
+            "A) Neutraliza los efectos del alcohol reduciendo la tasa final.",
+            "B) Hace que el alcohol llegue más rápido al torrente sanguíneo.",
+            "C) Ralentiza la absorción del alcohol debido al azúcar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las bebidas gaseosas aceleran el paso del alcohol a la sangre, aumentando la rapidez con la que aparecen los efectos negativos."
+    },
+    {
+        "_id": "PB-TM11-P496",
+        "Enunciado": "Un conductor que ha consumido anfetaminas presenta un riesgo crítico de accidente debido a:",
+        "Opciones": [
+            "A) El enmascaramiento de la fatiga que puede derivar en un sueño repentino.",
+            "B) La aparición de alucinaciones cromáticas inmediatas.",
+            "C) Una relajación muscular excesiva que impide frenar a tiempo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las anfetaminas retrasan artificialmente la sensación de sueño; cuando su efecto cesa, el conductor puede dormirse de forma fulminante."
+    },
+    {
+        "_id": "PB-TM11-P497",
+        "Enunciado": "Dentro de los núcleos urbanos, ¿cuál es el siniestro que se registra con mayor frecuencia estadística?",
+        "Opciones": [
+            "A) Colisiones por alcance en semáforos.",
+            "B) Choques frontales entre turismos y ciclomotores.",
+            "C) Atropellos a peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El atropello es el tipo de accidente predominante en las ciudades según los datos recogidos en el temario."
+    },
+    {
+        "_id": "PB-TM11-P498",
+        "Enunciado": "Ante una quemadura en un brazo, además de enfriar la zona, ¿qué medida se recomienda para reducir el edema o hinchazón?",
+        "Opciones": [
+            "A) Mantener el brazo en posición elevada.",
+            "B) Aplicar un vendaje compresivo seco.",
+            "C) Pinchar las ampollas para liberar el líquido acumulado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Elevar la extremidad afectada es la técnica recomendada para minimizar la inflamación tras una quemadura."
+    },
+    {
+        "_id": "PB-TM11-P499",
+        "Enunciado": "Al socorrer a un herido atrapado en un vehículo, ¿cuántas personas son necesarias para realizar un movimiento en bloque de forma segura?",
+        "Opciones": [
+            "A) Una sola persona para evitar descoordinación en el cuello.",
+            "B) Dos personas, una para el tronco y otra para las piernas.",
+            "C) Tres personas coordinadas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para asegurar la alineación del eje cabeza-cuello-tronco y evitar lesiones medulares, se requiere la intervención de tres auxiliadores."
+    },
+    {
+        "_id": "PB-TM11-P500",
+        "Enunciado": "¿Qué frecuencia respiratoria se considera dentro del rango de normalidad para un adulto sano en reposo?",
+        "Opciones": [
+            "A) Entre 26 y 30 respiraciones por minuto.",
+            "B) Entre 15 y 20 respiraciones por minuto.",
+            "C) Exactamente 10 respiraciones cada 30 segundos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El rango fisiológico normal para un adulto tras un accidente es de 15 a 20 ciclos respiratorios por minuto."
+    },
+    {
+        "_id": "PB-TM11-P501",
+        "Enunciado": "Al detectar a un peatón cruzando la calzada mientras utiliza su teléfono móvil, el conductor debe saber que:",
+        "Opciones": [
+            "A) El peatón es el único responsable legal en caso de atropello.",
+            "B) El peatón puede estar distraído y se debe extremar la precaución.",
+            "C) Debe tocar el claxon obligatoriamente para alertarle."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El uso del móvil por parte de peatones es una fuente de distracción externa que obliga al conductor a estar más alerta."
+    },
+    {
+        "_id": "PB-TM11-P502",
+        "Enunciado": "Respecto a la instalación de un navegador GPS, ¿cuál es el requisito de seguridad relacionado con los sistemas de retención pasiva?",
+        "Opciones": [
+            "A) Debe colocarse en un lugar que no impida la apertura de los airbags.",
+            "B) Debe conectarse a la toma de corriente del airbag.",
+            "C) Debe situarse siempre en el lado del acompañante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es vital que la ubicación del dispositivo no interfiera en la zona de despliegue de las bolsas de aire en caso de impacto."
+    },
+    {
+        "_id": "PB-TM11-P503",
+        "Enunciado": "¿En qué momento tras la ingesta de alcohol se registra el nivel máximo de concentración en sangre?",
+        "Opciones": [
+            "A) A los 15 minutos de finalizar la ingesta.",
+            "B) Inmediatamente después del último sorbo si la bebida es destilada.",
+            "C) Una hora después de beber."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El pico de alcoholemia no es inmediato, se alcanza aproximadamente una hora después de haber bebido."
+    },
+    {
+        "_id": "PB-TM11-P504",
+        "Enunciado": "¿Qué muestra biológica es la utilizada por los agentes para la detección presuntiva de drogas de abuso?",
+        "Opciones": [
+            "A) Aire espirado mediante etilómetro de precisión.",
+            "B) Saliva.",
+            "C) Sangre mediante punción capilar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La prueba reglamentaria para detectar la presencia de sustancias estupefacientes en conductores se realiza mediante una muestra de saliva."
+    },
+    {
+        "_id": "PB-TM11-P505",
+        "Enunciado": "Si un conductor con 5 años de antigüedad en su permiso de conducir arroja una tasa de 0,35 mg/l en aire espirado, ¿cuál es su situación legal?",
+        "Opciones": [
+            "A) Está dentro de los límites permitidos para conductores experimentados.",
+            "B) Supera la tasa general de 0,25 mg/l y comete una infracción muy grave.",
+            "C) Comete falta leve por no superar los 0,50 mg/l."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La tasa general es de 0,25 mg/l. Al arrojar 0,35 mg/l, el conductor ha superado el límite legal."
+    },
+    {
+        "_id": "PB-TM11-P506",
+        "Enunciado": "En el caso de un vehículo equipado con detector de fatiga, ¿cuál es la obligación del conductor ante una alerta de vibración en el volante?",
+        "Opciones": [
+            "A) Aumentar la ventilación para contrarrestar el aviso.",
+            "B) Desactivar el sensor si considera que su atención es adecuada.",
+            "C) Obedecer al sistema y detener el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El conductor debe seguir siempre las instrucciones de seguridad emitidas por los sistemas tecnológicos de detección de fatiga."
+    },
+    {
+        "_id": "PB-TM11-P507",
+        "Enunciado": "Si un herido por quemadura tiene ampollas en la piel, ¿cuál es el procedimiento correcto según los primeros auxilios?",
+        "Opciones": [
+            "A) Vaciarlas con una gasa esterilizada.",
+            "B) No cortar ni pinchar las ampollas.",
+            "C) Aplicar alcohol de 96 grados para secarlas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La integridad de las ampollas protege la zona quemada de infecciones externas; por ello, nunca deben manipularse."
+    },
+    {
+        "_id": "PB-TM11-P508",
+        "Enunciado": "Al aplicar la regla PAS, ¿cuál es la primera medida de autoprotección al detenerse en un accidente?",
+        "Opciones": [
+            "A) Salir del coche para colocar los triángulos de señalización.",
+            "B) Ponerse el chaleco reflectante antes de abandonar el habitáculo.",
+            "C) Llamar al 112 desde el interior del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La norma de seguridad exige que el auxiliador baje del vehículo ya con el chaleco puesto para ser visible desde el primer momento."
+    },
+    {
+        "_id": "PB-TM11-P509",
+        "Enunciado": "Respecto a la ubicación de los siniestros viales, ¿dónde se registra estadísticamente el mayor número de accidentes?",
+        "Opciones": [
+            "A) En las curvas con visibilidad reducida.",
+            "B) En los tramos rectos de las vías.",
+            "C) En los túneles urbanos de más de 200 metros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aunque parezca contradictorio, la monotonía y el exceso de confianza hacen que ocurran más accidentes en rectas que en curvas."
+    },
+    {
+        "_id": "PB-TM11-P510",
+        "Enunciado": "¿Qué sistema tecnológico envía la ubicación exacta del vehículo al 112 de forma autónoma tras una colisión?",
+        "Opciones": [
+            "A) El sistema eCall.",
+            "B) El sensor de proximidad trasera.",
+            "C) El sistema de navegación GPS con ruta activa."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El eCall es un sistema de emergencia que se activa por impacto y comunica automáticamente el accidente a los servicios de socorro."
+    },
+    {
+        "_id": "PB-TM11-P511",
+        "Enunciado": "Un conductor de servicios de urgencias está sujeto a una tasa máxima de alcohol en sangre de:",
+        "Opciones": [
+            "A) 0,5 gramos por litro.",
+            "B) 0,15 gramos por litro.",
+            "C) 0,3 gramos por litro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para profesionales de urgencias y conductores noveles, el límite en sangre es de 0,3 g/l (equivalente a 0,15 mg/l en aire)."
+    },
+    {
+        "_id": "PB-TM11-P512",
+        "Enunciado": "Entre los efectos psicológicos del consumo de LSD durante la conducción, destaca la posibilidad de sufrir:",
+        "Opciones": [
+            "A) Una relajación profunda que favorece la concentración.",
+            "B) Estados de pánico o ansiedad intensa.",
+            "C) Una mejor percepción de los colores de las señales nocturnas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El LSD es un potente alucinógeno que puede desencadenar crisis de miedo o pánico incompatibles con la conducción."
+    },
+    {
+        "_id": "PB-TM11-P513",
+        "Enunciado": "¿Cuál es la posición de espera para un herido que presenta palidez, sudor frío y pulso rápido pero débil?",
+        "Opciones": [
+            "A) Sentado con la espalda recta.",
+            "B) Tumbado con las piernas más altas que la cabeza.",
+            "C) De lado en posición lateral de seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Esos síntomas indican estado de shock. Se debe elevar las piernas para mejorar el riego sanguíneo al cerebro y corazón."
+    },
+    {
+        "_id": "PB-TM11-P514",
+        "Enunciado": "En relación con un torniquete aplicado en un accidente, ¿quién es el único legalmente autorizado para proceder a su retirada?",
+        "Opciones": [
+            "A) El personal médico cualificado.",
+            "B) El conductor del vehículo implicado si está consciente.",
+            "C) El testigo que lo aplicó, una vez que la ambulancia llegue al lugar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La retirada de un torniquete es un procedimiento médico complejo; nunca debe hacerlo un auxiliador lego en la materia."
+    },
+    {
+        "_id": "PB-TM11-P515",
+        "Enunciado": "Las personas alérgicas deben extremar las precauciones al conducir si el ambiente presenta:",
+        "Opciones": [
+            "A) Temperaturas inferiores a los 10 grados.",
+            "B) Mucha luz solar o condiciones de humedad.",
+            "C) Una velocidad del viento superior a 20 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sol (que provoca estornudos) y las zonas húmedas son factores que agravan los síntomas de la alergia respiratoria al volante."
+    },
+    {
+        "_id": "PB-TM11-P516",
+        "Enunciado": "¿Qué tipo de colisiones son las más habituales en accidentes de motocicletas al realizar maniobras de adelantamiento?",
+        "Opciones": [
+            "A) Choques de tipo frontal y lateral.",
+            "B) Alcances por detención brusca de vehículos pesados.",
+            "C) Salidas de vía por pérdida de adherencia en el eje trasero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las motos sufren mayoritariamente impactos de frente o de costado cuando intentan rebasar a otros vehículos."
+    },
+    {
+        "_id": "PB-TM11-P517",
+        "Enunciado": "De acuerdo con el temario, el hábito de fumar mientras se conduce influye en la seguridad vial porque:",
+        "Opciones": [
+            "A) El humo reduce la temperatura del habitáculo por debajo de 23 grados.",
+            "B) Impide el uso del sistema de aire acondicionado del vehículo.",
+            "C) El riesgo de sufrir un accidente se duplica respecto a los no fumadores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Fumar al volante supone una distracción constante que multiplica por dos las probabilidades de sufrir un siniestro."
+    },
+    {
+        "_id": "PB-TM11-P518",
+        "Enunciado": "Al evaluar las constantes vitales de un bebé tras un accidente, ¿qué ritmo respiratorio se considera normal?",
+        "Opciones": [
+            "A) Entre 15 y 20 respiraciones por minuto.",
+            "B) Entre 30 y 40 respiraciones por minuto.",
+            "C) Exactamente 50 respiraciones por minuto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los lactantes tienen una frecuencia respiratoria mucho más elevada que los adultos, situándose entre 30 y 40."
+    },
+    {
+        "_id": "PB-TM11-P519",
+        "Enunciado": "Las personas mayores presentan como peatones una vulnerabilidad especial ante la aproximación de vehículos debido a que:",
+        "Opciones": [
+            "A) El ruido ambiental puede enmascarar el sonido de un coche que se acerca.",
+            "B) Suelen cruzar por zonas prohibidas de forma deliberada.",
+            "C) Tienen preferencia de paso absoluta en todas las vías urbanas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La pérdida de capacidad auditiva dificulta que los mayores detecten a tiempo la presencia de vehículos por el sonido de su motor."
+    },
+    {
+        "_id": "PB-TM11-P520",
+        "Enunciado": "¿Qué porcentaje de accidentes de tráfico se atribuye a fallos técnicos o mecánicos del vehículo?",
+        "Opciones": [
+            "A) Más de la mitad de los siniestros (55%).",
+            "B) Únicamente el 1% del total de las muertes.",
+            "C) Entre un 4% y un 13% de los accidentes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El fallo del vehículo es el factor menos común en la siniestralidad, representando entre el 4% y el 13% de los casos."
+    },
+    {
+        "_id": "PB-TM11-P521",
+        "Enunciado": "Si un conductor novel (con el permiso desde hace 6 meses) se somete a una prueba de alcoholemia, ¿qué límites debe respetar?",
+        "Opciones": [
+            "A) 0,5 g/l en sangre o 0,25 mg/l en aire espirado.",
+            "B) 0,3 g/l en sangre o 0,15 mg/l en aire espirado.",
+            "C) 0,3 mg/l en aire espirado o 0,15 g/l en sangre."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Como conductor novel con menos de dos años de experiencia, está obligado a cumplir la tasa reducida oficial."
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P462",
+        "Enunciado": "En caso de una hemorragia arterial grave en una pierna donde han fallado los métodos de compresión, ¿dónde debe situarse exactamente un torniquete?",
+        "Opciones": [
+            "A) Diez centímetros por debajo del punto de sangrado masivo.",
+            "B) En la articulación inmediatamente superior a la herida.",
+            "C) Por encima del lugar en el que está la herida."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El torniquete debe realizarse siempre por encima de la herida para cortar el flujo sanguíneo desde el corazón. Nunca debe colocarse por debajo de la zona afectada."
+    },
+    {
+        "_id": "PB-TM11-P463",
+        "Enunciado": "Si un herido presenta síntomas de shock derivados de una hemorragia interna y comienza a sufrir vómitos, ¿cuál es la posición de espera recomendada?",
+        "Opciones": [
+            "A) Colocarle de lado y mantener los pies más altos que la cabeza.",
+            "B) Sentado con el tronco inclinado hacia delante.",
+            "C) Tumbado boca arriba con una almohada bajo el cuello."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para tratar el shock se debe elevar las piernas, pero si hay vómitos es necesario poner al herido de lado para evitar la asfixia. Se deben mantener los pies elevados para favorecer el riego sanguíneo a órganos vitales."
+    },
+    {
+        "_id": "PB-TM11-P464",
+        "Enunciado": "¿Cómo define el temario el intervalo de tiempo conocido como 'hora de oro' tras producirse un siniestro vial?",
+        "Opciones": [
+            "A) La primera media hora tras la colisión, donde se producen las muertes inmediatas.",
+            "B) El periodo de una o dos horas después del accidente.",
+            "C) El tiempo que transcurre desde el aviso al 112 hasta la llegada de la primera ambulancia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La 'hora de oro' comprende las primeras dos horas tras el suceso. En este tiempo las labores de reanimación son determinantes para la supervivencia de las víctimas."
+    },
+    {
+        "_id": "PB-TM11-P465",
+        "Enunciado": "¿Qué porcentaje de la accidentalidad vial se atribuye directamente al factor humano?",
+        "Opciones": [
+            "A) Exactamente el 50 por ciento de los siniestros registrados.",
+            "B) Menos de un 15 por ciento, siendo la vía la causa principal.",
+            "C) Entre 70 y 90 de cada 100 accidentes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El factor humano es el responsable de la gran mayoría de los accidentes, situándose entre el 70% y el 90% del total. Incluye causas como la velocidad, el alcohol o las distracciones."
+    },
+    {
+        "_id": "PB-TM11-P466",
+        "Enunciado": "¿Qué efectos secundarios de los medicamentos antitusígenos pueden comprometer la capacidad de conducción?",
+        "Opciones": [
+            "A) Cambios de humor y pérdida de reflejos.",
+            "B) Visión doble y agresividad incontrolada.",
+            "C) Vértigo y fotofobia extrema."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los antitusígenos, destinados a calmar la tos, tienen como efectos secundarios posibles la alteración del ánimo y la lentitud de respuesta. Estos efectos aumentan significativamente el riesgo de accidente."
+    },
+    {
+        "_id": "PB-TM11-P467",
+        "Enunciado": "Tras realizar una comida antes de emprender un viaje, ¿cuál es el tiempo de reposo mínimo aconsejado?",
+        "Opciones": [
+            "A) Al menos una hora completa para asegurar la digestión.",
+            "B) Ninguno, si la comida ha sido rica en azúcares de absorción rápida.",
+            "C) Entre 15 y 20 minutos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario recomienda esperar entre 15 y 20 minutos después de comer antes de empezar a conducir. Esto ayuda a evitar la aparición de sueño y fatiga durante la marcha."
+    },
+    {
+        "_id": "PB-TM11-P468",
+        "Enunciado": "Respecto a la seguridad vial de los peatones de edad avanzada, ¿en qué circunstancia registran un mayor índice de siniestralidad?",
+        "Opciones": [
+            "A) Cuando cruzan acompañados por menores de edad.",
+            "B) Cuando transitan solos por la vía pública.",
+            "C) Únicamente durante los días laborables en horario de mañana."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las personas mayores sufren más accidentes cuando se desplazan en soledad. Al ir acompañadas por niños suelen extremar su prudencia."
+    },
+    {
+        "_id": "PB-TM11-P469",
+        "Enunciado": "Estadísticamente, ¿cuál es el escenario principal donde ocurren la mayoría de los accidentes de motocicletas y ciclomotores?",
+        "Opciones": [
+            "A) El interior de los núcleos urbanos.",
+            "B) Las carreteras convencionales con arcén estrecho.",
+            "C) Las autopistas de peaje con tráfico denso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La mayor parte de los siniestros que implican vehículos de dos ruedas tienen lugar dentro de la ciudad. Los alcances laterales y frontales en adelantamientos son muy comunes."
+    },
+    {
+        "_id": "PB-TM11-P470",
+        "Enunciado": "¿Qué rango de respiraciones por minuto se considera normal en un niño tras un accidente?",
+        "Opciones": [
+            "A) Entre 15 y 20 respiraciones.",
+            "B) Entre 30 y 40 respiraciones.",
+            "C) Entre 26 y 30 respiraciones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La frecuencia respiratoria fisiológica para un niño se sitúa entre 26 y 30 ciclos por minuto. Este dato es fundamental para evaluar sus constantes vitales."
+    },
+    {
+        "_id": "PB-TM11-P471",
+        "Enunciado": "¿Cuándo se produce el punto máximo de concentración de alcohol en el organismo?",
+        "Opciones": [
+            "A) Una hora después de haber bebido alcohol.",
+            "B) A los 30 minutos de haber ingerido la última dosis de bebida fermentada.",
+            "C) Inmediatamente tras finalizar la ingesta si el estómago está vacío."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El momento de mayor tasa de alcoholemia es una hora después de la ingesta. A partir de ese punto, los niveles descienden muy lentamente."
+    },
+    {
+        "_id": "PB-TM11-P472",
+        "Enunciado": "¿Cuál es la función principal del sistema eCall integrado en algunos vehículos modernos?",
+        "Opciones": [
+            "A) Establecer una comunicación directa con el taller oficial ante una avería mecánica.",
+            "B) Enviar un mensaje automático al 112 en caso de siniestro.",
+            "C) Registrar la velocidad del vehículo segundos antes de un impacto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El eCall es un dispositivo de seguridad que detecta el accidente y avisa automáticamente a los servicios de emergencia. Permite su localización incluso si los ocupantes no pueden realizar la llamada."
+    },
+    {
+        "_id": "PB-TM11-P473",
+        "Enunciado": "En la ejecución de la reanimación cardiopulmonar (RCP), ¿cuál es la secuencia correcta de ciclos?",
+        "Opciones": [
+            "A) 30 compresiones torácicas y 2 ventilaciones boca a boca.",
+            "B) 15 compresiones torácicas seguidas de una insuflación profunda.",
+            "C) 5 ventilaciones lentas por cada 10 presiones en el pecho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El protocolo de RCP estandarizado requiere realizar 2 ventilaciones por cada 30 compresiones realizadas sobre el tórax."
+    },
+    {
+        "_id": "PB-TM11-P474",
+        "Enunciado": "Si tras un control preventivo el conductor discrepa del resultado del etilómetro, ¿qué derecho le asiste según el temario?",
+        "Opciones": [
+            "A) Solicitar una prueba de coordinación psicomotriz en un centro de salud.",
+            "B) Exigir que la prueba sea invalidada si el agente no lleva uniforme de gala.",
+            "C) Pedir que se le realice un análisis de sangre como contraste."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cualquier persona que no esté conforme con el resultado de las pruebas de detección puede solicitar un análisis de sangre. Esta prueba sirve para confirmar o desmentir el positivo inicial."
+    },
+    {
+        "_id": "PB-TM11-P475",
+        "Enunciado": "Además de los conductores noveles, ¿qué grupo de edad presenta un riesgo estadístico más elevado de sufrir accidentes por distracción?",
+        "Opciones": [
+            "A) Los conductores mayores de 70 años.",
+            "B) Los conductores de entre 45 y 55 años.",
+            "C) Únicamente los conductores mayores de 65 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las distracciones son más frecuentes en jóvenes de 18 a 25 años y en mayores de 70 años. En estos últimos, la pérdida de capacidades atencionales es un factor clave."
+    },
+    {
+        "_id": "PB-TM11-P476",
+        "Enunciado": "Respecto al uso seguro de un navegador GPS, ¿cuándo debe establecerse el destino de la ruta?",
+        "Opciones": [
+            "A) Durante las paradas prolongadas en semáforos o retenciones.",
+            "B) Antes de empezar a conducir el vehículo.",
+            "C) Por el acompañante mientras el vehículo está circulando."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La programación del GPS debe realizarse siempre con el vehículo parado antes del inicio de la marcha. Manipularlo durante la conducción genera distracciones peligrosas."
+    },
+    {
+        "_id": "PB-TM11-P477",
+        "Enunciado": "¿Qué incidencia tiene el estado de la infraestructura vial en el número total de accidentes?",
+        "Opciones": [
+            "A) Menos del 5 por ciento de los siniestros totales.",
+            "B) Entre 10 y 35 de cada 100 accidentes.",
+            "C) Exactamente la misma que el factor vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El estado de la carretera y el entorno son responsables de una franja de siniestralidad de entre el 10% y el 35%. Esto incluye factores como calzada mojada o mal estado del suelo."
+    },
+    {
+        "_id": "PB-TM11-P478",
+        "Enunciado": "¿Cuál es el peso de los fallos mecánicos del vehículo en la siniestralidad vial según las estadísticas oficiales?",
+        "Opciones": [
+            "A) Entre 4 y 13 de cada 100 accidentes.",
+            "B) Es el factor predominante, superando el 50%.",
+            "C) Entre 15 y 25 de cada 100 accidentes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los fallos en el vehículo representan la causa menos frecuente de accidente, situándose entre el 4% y el 13% de los casos. Un ejemplo es el reventón de un neumático."
+    },
+    {
+        "_id": "PB-TM11-P479",
+        "Enunciado": "¿Qué recomendación específica se da a los conductores que padecen alergia respiratoria?",
+        "Opciones": [
+            "A) Ingerir antihistamínicos de venta libre antes de viajes largos.",
+            "B) Mantener una temperatura interior inferior a los 18 grados.",
+            "C) Evitar conducir al amanecer o por zonas con humedad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El amanecer y los entornos húmedos presentan mayores concentraciones de alérgenos y deben evitarse. Tampoco deben tomarse medicamentos sin prescripción médica."
+    },
+    {
+        "_id": "PB-TM11-P480",
+        "Enunciado": "Al realizar compresiones en el tórax de un adulto inconsciente, ¿qué cadencia debe mantenerse?",
+        "Opciones": [
+            "A) Unas 100 veces por minuto.",
+            "B) Una compresión cada dos segundos.",
+            "C) Exactamente 60 compresiones por minuto para simular el pulso en reposo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las manos deben empujarse hacia arriba y hacia abajo a un ritmo aproximado de 100 compresiones por minuto. Se debe actuar con celeridad hasta que llegue la ayuda médica."
+    },
+    {
+        "_id": "PB-TM11-P481",
+        "Enunciado": "¿Qué material es el más adecuado para confeccionar un torniquete de emergencia?",
+        "Opciones": [
+            "A) Cuerda de cáñamo o nylon por su resistencia.",
+            "B) Un pañuelo doblado o banda ancha de tela.",
+            "C) Cables eléctricos o alambres para asegurar que no se afloje."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se recomienda usar pañuelos doblados para no dañar los tejidos. Está prohibido emplear objetos muy finos que puedan cortar la piel."
+    },
+    {
+        "_id": "PB-TM11-P482",
+        "Enunciado": "¿Cuánto se incrementa la probabilidad de sufrir un accidente al utilizar el teléfono móvil al volante?",
+        "Opciones": [
+            "A) El riesgo se duplica respecto a un conductor atento.",
+            "B) El riesgo aumenta un 10% según los estudios citados.",
+            "C) El riesgo es cuatro veces mayor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso del teléfono móvil multiplica por cuatro la posibilidad de tener un siniestro vial. La distracción que genera es la causa principal de este aumento."
+    },
+    {
+        "_id": "PB-TM11-P483",
+        "Enunciado": "Ante una hemorragia externa masiva, ¿cuál es el primer paso protocolario para intentar detener el sangrado?",
+        "Opciones": [
+            "A) La compresión directa sobre la herida.",
+            "B) La aplicación de un torniquete neumático.",
+            "C) La presión sobre la arteria braquial o femoral."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El primer método a utilizar es presionar la herida con la mano o puño usando una gasa limpia. No se debe retirar la gasa aunque se empape de sangre."
+    },
+    {
+        "_id": "PB-TM11-P484",
+        "Enunciado": "En el contexto de la mortalidad en accidentes, ¿qué se entiende por muerte inmediata?",
+        "Opciones": [
+            "A) El fallecimiento que ocurre durante el traslado en la ambulancia.",
+            "B) Los fallecimientos producidos en los primeros segundos tras el choque.",
+            "C) La muerte del herido antes de que el 112 reciba la llamada de aviso."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se denomina muerte inmediata a la que ocurre instantáneamente tras el accidente. Es el primero de los tres momentos de riesgo vital identificados."
+    },
+    {
+        "_id": "PB-TM11-P485",
+        "Enunciado": "Para verificar si un accidentado respira, ¿durante cuánto tiempo debe mantenerse la comprobación visual y táctil?",
+        "Opciones": [
+            "A) Al menos un minuto completo para detectar bradipneas.",
+            "B) Exactamente 30 segundos cronometrados.",
+            "C) Durante 10 segundos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe comprobar si existe una respiración normal durante un intervalo de 10 segundos. Esto permite decidir si iniciar o no la reanimación."
+    },
+    {
+        "_id": "PB-TM11-P486",
+        "Enunciado": "Cuando la zona afectada por una quemadura es una extremidad, ¿qué medida adicional ayuda a mitigar la inflamación?",
+        "Opciones": [
+            "A) Mantener el brazo o la pierna hacia arriba.",
+            "B) Colocar vendajes compresivos muy apretados.",
+            "C) Realizar masajes de drenaje linfático inmediatamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Elevar la extremidad quemada contribuye a que se hinche menos. Es una medida complementaria a la aplicación de agua fría."
+    },
+    {
+        "_id": "PB-TM11-P487",
+        "Enunciado": "¿Bajo qué circunstancia excepcional está permitido trasladar a un herido en un vehículo particular?",
+        "Opciones": [
+            "A) Siempre que el herido lo solicite para evitar costes de ambulancia.",
+            "B) Si el accidente ocurre en un lugar aislado sin posibilidad de pedir ayuda.",
+            "C) Cuando el coche particular tenga más de 5 plazas disponibles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El traslado por medios propios es una excepción permitida solo en lugares aislados e incomunicados. Como norma general, siempre se debe esperar a la ambulancia."
+    },
+    {
+        "_id": "PB-TM11-P488",
+        "Enunciado": "¿Mediante qué mecanismos alerta al conductor el sistema detector de fatiga de un vehículo?",
+        "Opciones": [
+            "A) Mediante una luz, un sonido o una vibración en el volante.",
+            "B) Realizando un frenado brusco y repentino de las ruedas traseras.",
+            "C) Desconectando el sistema de aire acondicionado automáticamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema utiliza señales visuales, acústicas o táctiles para advertir de que el conductor está cansado. Se debe obedecer siempre a estos avisos para no sufrir un accidente."
+    },
+    {
+        "_id": "PB-TM11-P489",
+        "Enunciado": "Respecto a la fatiga, ¿qué riesgo específico conlleva el consumo de anfetaminas al volante?",
+        "Opciones": [
+            "A) Una somnolencia profunda e inmediata tras la ingesta.",
+            "B) El retraso de la fatiga y el sueño, provocando un colapso repentino después.",
+            "C) El aumento de la agudeza visual que provoca cansancio ocular."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las anfetaminas enmascaran el cansancio, lo que puede causar que el conductor se duerma de repente al cesar su efecto. También disminuyen la sensación de peligro."
+    },
+    {
+        "_id": "PB-TM11-P490",
+        "Enunciado": "¿Qué conductores de vehículos de transporte de mercancías están obligados a respetar la tasa de 0,15 mg/l de alcohol en aire?",
+        "Opciones": [
+            "A) Todos los conductores de furgonetas de reparto urbano.",
+            "B) Únicamente los que transportan productos de alimentación frescos.",
+            "C) Aquellos que conducen vehículos con un peso mayor de 3.500 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El transporte de mercancías de gran tonelaje (más de 3.500 kg) conlleva la obligación de cumplir la tasa reducida. Esto garantiza una mayor seguridad en vehículos de gran masa."
+    },
+    {
+        "_id": "PB-TM11-P491",
+        "Enunciado": "A pesar de su habitual prudencia, ¿por qué los conductores mayores de 65 años presentan un riesgo elevado de accidente?",
+        "Opciones": [
+            "A) Por desconocer la señalización de las autovías y autopistas.",
+            "B) Por necesitar más tiempo para reaccionar ante imprevistos.",
+            "C) Por circular sistemáticamente por debajo de la velocidad mínima exigida."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El envejecimiento reduce la capacidad de atención y prolonga el tiempo necesario para reaccionar. Además, pueden presentar deficiencias en la vista o el oído."
+    }
+]

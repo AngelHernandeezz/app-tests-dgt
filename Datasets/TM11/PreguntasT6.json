@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P151",
+        "Enunciado": "¿Qué momentos o lugares debe evitar una persona con alergia respiratoria para conducir?",
+        "Opciones": [
+            "A) Las autopistas con mucho tráfico en días calurosos.",
+            "B) Las horas centrales del día en zonas secas.",
+            "C) Conducir al amanecer o por zonas húmedas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se recomienda a las personas con alergia no conducir durante el amanecer ni circular por zonas que presenten humedad."
+    },
+    {
+        "_id": "PB-TM11-P152",
+        "Enunciado": "¿Puede un conductor alérgico tomar cualquier medicamento para sus síntomas?",
+        "Opciones": [
+            "A) No, no debe tomar medicación sin receta del médico.",
+            "B) Sí, siempre que sean de origen natural o homeopáticos.",
+            "C) Sí, siempre que no sienta sueño de forma inmediata."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es fundamental no automedicarse y tomar únicamente los fármacos prescritos por un profesional médico."
+    },
+    {
+        "_id": "PB-TM11-P153",
+        "Enunciado": "¿Qué consejo se da respecto al estrés y la conducción?",
+        "Opciones": [
+            "A) Es mejor conducir rápido para liberar la tensión acumulada.",
+            "B) No conducir en las fases en las que se sufra más estrés.",
+            "C) El estrés no afecta si el conductor es joven y sano."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario aconseja evitar ponerse al volante durante los periodos de mayor intensidad de estrés."
+    },
+    {
+        "_id": "PB-TM11-P154",
+        "Enunciado": "¿Se debe conducir si se está bajo tratamiento farmacológico contra el estrés?",
+        "Opciones": [
+            "A) No se debe conducir si se toma medicación contra el estrés.",
+            "B) Solo en trayectos urbanos de corta duración.",
+            "C) Sí, ya que estos fármacos mejoran la atención al volante."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La medicación específica contra el estrés es una contraindicación para la conducción según el manual."
+    },
+    {
+        "_id": "PB-TM11-P155",
+        "Enunciado": "Ante una situación de estrés continuado, el conductor debe:",
+        "Opciones": [
+            "A) Intentar ignorarlo y centrarse únicamente en la carretera.",
+            "B) Tomar bebidas energéticas para compensar el malestar.",
+            "C) Buscar ayuda para reducir el estrés."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es recomendable buscar apoyo profesional o métodos para disminuir los niveles de estrés."
+    },
+    {
+        "_id": "PB-TM11-P156",
+        "Enunciado": "¿Es adecuado consumir alcohol para aliviar un estado de depresión antes de conducir?",
+        "Opciones": [
+            "A) No se deben tomar drogas o alcohol para intentar mejorar la depresión.",
+            "B) Sí, en dosis muy bajas ayuda a relajarse.",
+            "C) Solo si se mezcla con la medicación habitual."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El uso de alcohol o drogas para mitigar la depresión es peligroso y está totalmente desaconsejado."
+    },
+    {
+        "_id": "PB-TM11-P157",
+        "Enunciado": "¿Qué medicación debe tomar un conductor que sufre depresión?",
+        "Opciones": [
+            "A) Cualquier fármaco que le recomiende un familiar con síntomas similares.",
+            "B) Medicamentos de venta libre que no necesiten receta.",
+            "C) Tomar solo la medicación que le ha recetado el médico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La seguridad vial exige que el paciente con depresión solo consuma lo prescrito oficialmente por su facultativo."
+    },
+    {
+        "_id": "PB-TM11-P158",
+        "Enunciado": "Para tratar la depresión de forma segura si se es conductor, se debe:",
+        "Opciones": [
+            "A) Realizar periodos de conducción largos para distraer la mente.",
+            "B) Ponerse en manos de especialistas y seguir el tratamiento.",
+            "C) Practicar deporte intenso antes de cada viaje."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El seguimiento de un tratamiento pautado por especialistas es la forma correcta de manejar esta patología."
+    },
+    {
+        "_id": "PB-TM11-P159",
+        "Enunciado": "¿Cuándo debe evitar el uso del vehículo una persona con depresión?",
+        "Opciones": [
+            "A) No debe conducir en los períodos de más depresión.",
+            "B) Solo si el viaje implica salir de su provincia habitual.",
+            "C) Únicamente durante las horas nocturnas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Durante las crisis o fases agudas de la enfermedad, el riesgo de accidente aumenta y se debe evitar conducir."
+    },
+    {
+        "_id": "PB-TM11-P160",
+        "Enunciado": "¿Para qué sirven los medicamentos analgésicos?",
+        "Opciones": [
+            "A) Se utilizan exclusivamente para combatir el insomnio.",
+            "B) Ayudan a que el dolor disminuya o desaparezca.",
+            "C) Sirven para mejorar la rapidez de los reflejos musculares."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los analgésicos son fármacos destinados al alivio o eliminación de sensaciones dolorosas."
+    },
+    {
+        "_id": "PB-TM11-P161",
+        "Enunciado": "¿Qué efectos pueden tener los analgésicos en un conductor?",
+        "Opciones": [
+            "A) Mejora notable de la visión a larga distancia.",
+            "B) Hiperactividad y exceso de confianza.",
+            "C) Sueño, vértigo y falta de concentración."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El consumo de analgésicos puede derivar en somnolencia, mareos (vértigo) y dificultades para mantener la atención."
+    },
+    {
+        "_id": "PB-TM11-P162",
+        "Enunciado": "¿Cuál es la función principal de los medicamentos antitusígenos?",
+        "Opciones": [
+            "A) Calmar la tos.",
+            "B) Aumentar la presión arterial del conductor.",
+            "C) Facilitar la expulsión de mucosidad nasal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los antitusígenos se prescriben específicamente para mitigar la tos."
+    },
+    {
+        "_id": "PB-TM11-P163",
+        "Enunciado": "¿Qué posibles efectos secundarios de los antitusígenos afectan a la seguridad vial?",
+        "Opciones": [
+            "A) Sensación de hambre constante y nerviosismo.",
+            "B) Aumento de la agresividad y visión doble.",
+            "C) Cambios de humor y pérdida de reflejos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Este tipo de medicación puede alterar el ánimo y reducir la rapidez de respuesta del conductor."
+    },
+    {
+        "_id": "PB-TM11-P164",
+        "Enunciado": "¿Para qué se suelen recetar los antihistamínicos?",
+        "Opciones": [
+            "A) Para reducir la inflamación de las articulaciones.",
+            "B) Para tratar las alergias.",
+            "C) Para combatir infecciones bacterianas leves."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los antihistamínicos son el tratamiento estándar para las reacciones alérgicas."
+    },
+    {
+        "_id": "PB-TM11-P165",
+        "Enunciado": "¿Cómo perjudican los antihistamínicos a la capacidad de conducción?",
+        "Opciones": [
+            "A) Pueden provocar sueño, depresión y pérdida de reflejos.",
+            "B) Causan una irritabilidad extrema inmediata.",
+            "C) Provocan taquicardias y sudoración fría."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Entre sus efectos secundarios más peligrosos para conducir están la somnolencia y la lentitud de reflejos."
+    },
+    {
+        "_id": "PB-TM11-P166",
+        "Enunciado": "¿Qué trastornos se tratan habitualmente con psicofármacos?",
+        "Opciones": [
+            "A) La hipertensión y el exceso de colesterol.",
+            "B) La depresión, la ansiedad y los trastornos del sueño.",
+            "C) Las migrañas crónicas y los dolores de espalda."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los psicofármacos actúan sobre el sistema nervioso para tratar estados de ánimo y problemas de sueño."
+    },
+    {
+        "_id": "PB-TM11-P167",
+        "Enunciado": "Señale algunos efectos secundarios de los psicofármacos al volante:",
+        "Opciones": [
+            "A) Aumento de la salivación y apetito excesivo.",
+            "B) Gran euforia y mejora de la coordinación muscular.",
+            "C) Sueño, pérdida de reflejos, mareos, visión borrosa y confusión."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estos medicamentos tienen una amplia lista de efectos que merman gravemente las capacidades del conductor."
+    },
+    {
+        "_id": "PB-TM11-P168",
+        "Enunciado": "¿Qué riesgo supone realizar una comida muy abundante antes de conducir?",
+        "Opciones": [
+            "A) Puede provocar sueño y fatiga.",
+            "B) Solo es peligroso si se circula por ciudad.",
+            "C) Mejora la resistencia física en viajes largos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Comer demasiado, especialmente alimentos pesados, induce somnolencia y cansancio prematuro."
+    },
+    {
+        "_id": "PB-TM11-P169",
+        "Enunciado": "¿Qué puede ocurrirle al conductor si come muy poca cantidad de alimento?",
+        "Opciones": [
+            "A) No influye en absoluto en su estado físico.",
+            "B) Puede sufrir mareos.",
+            "C) Estará más atento y despejado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La falta de alimento suficiente puede provocar debilidad y mareos, comprometiendo la seguridad."
+    },
+    {
+        "_id": "PB-TM11-P170",
+        "Enunciado": "¿Cuál es la recomendación ideal sobre la alimentación en un viaje por carretera?",
+        "Opciones": [
+            "A) Hacer varias comidas ligeras en vez de una muy fuerte.",
+            "B) Ayunar durante todo el trayecto para evitar el sueño.",
+            "C) Realizar una única comida muy calórica al inicio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Fraccionar la alimentación en pequeñas tomas ligeras ayuda a mantener el nivel de energía sin causar pesadez."
+    },
+    {
+        "_id": "PB-TM11-P171",
+        "Enunciado": "¿Cuánto tiempo se aconseja esperar tras comer antes de iniciar la conducción?",
+        "Opciones": [
+            "A) No hace falta esperar, se puede conducir de inmediato.",
+            "B) Al menos una hora completa.",
+            "C) Entre 15 y 20 minutos aproximadamente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se recomienda un breve periodo de reposo (15-20 min) tras la comida antes de ponerse al volante."
+    },
+    {
+        "_id": "PB-TM11-P172",
+        "Enunciado": "¿Por qué es importante la ingesta de agua o zumos durante el viaje?",
+        "Opciones": [
+            "A) Únicamente para evitar la sensación de sequedad en la garganta.",
+            "B) Para mantener el cuerpo hidratado y reducir el riesgo de sueño o fatiga.",
+            "C) Para evitar tener que parar frecuentemente en áreas de servicio."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una buena hidratación es clave para combatir la fatiga y mantener la alerta mental."
+    },
+    {
+        "_id": "PB-TM11-P173",
+        "Enunciado": "Respecto a la vestimenta para conducir, se debe utilizar ropa:",
+        "Opciones": [
+            "A) Muy ajustada para sentir mejor el contacto con el asiento.",
+            "B) Cómoda y que nunca sea muy ajustada.",
+            "C) De materiales sintéticos que no dejen transpirar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La ropa cómoda y holgada permite libertad de movimientos, necesaria para manejar el vehículo."
+    },
+    {
+        "_id": "PB-TM11-P174",
+        "Enunciado": "¿Qué hábito debe seguir un conductor con su abrigo en invierno?",
+        "Opciones": [
+            "A) Debe llevarlo puesto y bien abrochado en todo momento.",
+            "B) Solo debe quitárselo si el vehículo no tiene calefacción.",
+            "C) Debe quitárselo antes de empezar a conducir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Conducir con abrigo limita los movimientos y puede restarle eficacia al cinturón de seguridad; por ello, debe quitarse."
+    },
+    {
+        "_id": "PB-TM11-P175",
+        "Enunciado": "El calzado ideal para el conductor debe ser:",
+        "Opciones": [
+            "A) De suela muy gruesa para no sentir las vibraciones.",
+            "B) Cómodo y ligero para usar mejor los pedales.",
+            "C) Zapatos de tacón alto para mejorar la palanca sobre el pedal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un calzado ligero y flexible permite un control preciso de los pedales de acelerador, freno y embrague."
+    },
+    {
+        "_id": "PB-TM11-P176",
+        "Enunciado": "¿Por qué es crítica la elección de la ropa al conducir una motocicleta?",
+        "Opciones": [
+            "A) Por una cuestión de estética y visibilidad publicitaria.",
+            "B) Para evitar que el viento ensucie la ropa de calle.",
+            "C) Porque no hay carrocería que proteja al conductor en caso de accidente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En la moto, la ropa es el único elemento de protección externa frente a impactos o abrasiones."
+    },
+    {
+        "_id": "PB-TM11-P177",
+        "Enunciado": "¿Qué es la carrocería?",
+        "Opciones": [
+            "A) La pieza de metal que cubre la mayoría de las partes de un vehículo.",
+            "B) El chasis interno donde se apoya el motor.",
+            "C) El conjunto de ruedas y ejes del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La carrocería es la estructura metálica exterior que envuelve y protege el interior del vehículo."
+    },
+    {
+        "_id": "PB-TM11-P178",
+        "Enunciado": "¿Qué tipo de traje es el más adecuado para un motorista?",
+        "Opciones": [
+            "A) Prendas impermeables de plástico fino y suelto.",
+            "B) Un traje de piel o similar, bien ajustado al cuerpo.",
+            "C) Ropa de algodón muy ancha para que ventile bien."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La piel ofrece gran resistencia a la abrasión y el ajuste ceñido evita que la prenda se mueva en caso de caída."
+    },
+    {
+        "_id": "PB-TM11-P179",
+        "Enunciado": "¿Cómo deben ser los guantes para conducir una moto?",
+        "Opciones": [
+            "A) De piel y con protección.",
+            "B) No son necesarios si el vehículo tiene puños calefactables.",
+            "C) De lana suave para no irritar la piel."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los guantes deben ser resistentes (piel) y contar con protecciones en nudillos y palmas."
+    },
+    {
+        "_id": "PB-TM11-P180",
+        "Enunciado": "¿Qué características debe tener el calzado de un motorista?",
+        "Opciones": [
+            "A) Chanclas que permitan la transpiración del pie.",
+            "B) Zapatillas de deporte bajas para mayor comodidad.",
+            "C) Botas fuertes que sujeten el pie y el tobillo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El calzado de moto debe ser robusto y proteger la articulación del tobillo de posibles lesiones."
+    }
+]

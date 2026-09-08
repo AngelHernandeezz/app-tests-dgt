@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P61",
+        "Enunciado": "¿Qué debe hacer un conductor ante los primeros síntomas de fatiga o somnolencia?",
+        "Opciones": [
+            "A) Aumentar la velocidad para llegar cuanto antes a su destino.",
+            "B) Parar el vehículo en un lugar seguro y dormir entre 20 y 30 minutos.",
+            "C) Lavarse la cara con agua fría y continuar el viaje sin detenerse."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ante los primeros síntomas de cansancio, lo adecuado es detenerse en un lugar seguro y realizar una siesta de 20 o 30 minutos."
+    },
+    {
+        "_id": "PB-TM11-P62",
+        "Enunciado": "Para evitar la fatiga, ¿cada cuánto tiempo es recomendable descansar aunque no se sientan síntomas?",
+        "Opciones": [
+            "A) Cada dos horas o cada 200 kilómetros recorridos.",
+            "B) Cada 5 horas de conducción ininterrumpida.",
+            "C) Únicamente cuando el depósito de combustible esté en reserva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se recomienda descansar entre 20 y 30 minutos cada dos horas o cada 200 kilómetros, incluso si el conductor no se siente fatigado."
+    },
+    {
+        "_id": "PB-TM11-P63",
+        "Enunciado": "Si su vehículo dispone de un detector de fatiga, ¿cómo debe actuar el conductor?",
+        "Opciones": [
+            "A) Debe obedecer a lo que le indique el sistema.",
+            "B) Debe apagarlo para evitar distracciones con las alertas.",
+            "C) Puede ignorarlo si considera que todavía se encuentra en buen estado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor debe seguir siempre las indicaciones y avisos que emita el detector de fatiga de su vehículo."
+    },
+    {
+        "_id": "PB-TM11-P64",
+        "Enunciado": "¿Cómo funciona el sistema de detección de fatiga en un vehículo?",
+        "Opciones": [
+            "A) Mediante una cámara que cuenta las horas que el coche lleva encendido.",
+            "B) A través de sensores que reconocen si la persona está cansada o a punto de dormirse.",
+            "C) Analizando la temperatura del motor y el consumo de aceite."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este sistema utiliza sensores para identificar patrones de cansancio o somnolencia en el conductor."
+    },
+    {
+        "_id": "PB-TM11-P65",
+        "Enunciado": "¿Mediante qué señales avisa el detector de fatiga para que el conductor pare el vehículo?",
+        "Opciones": [
+            "A) Mediante una luz, un sonido o una vibración en el volante.",
+            "B) Bloqueando los frenos de forma progresiva hasta detener el coche.",
+            "C) A través de una llamada automática al número de emergencias 112."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El sistema utiliza alertas visuales, sonoras o táctiles (vibración) para avisar del peligro y pedir que se detenga el vehículo."
+    },
+    {
+        "_id": "PB-TM11-P66",
+        "Enunciado": "Según el glosario del temario, ¿qué es un sensor?",
+        "Opciones": [
+            "A) Un tipo de neumático especial para condiciones de lluvia.",
+            "B) Un mando manual para activar las luces de emergencia.",
+            "C) Dispositivos que captan información de cosas que pasan fuera del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un sensor se define como un dispositivo capaz de captar información sobre eventos externos al vehículo."
+    },
+    {
+        "_id": "PB-TM11-P67",
+        "Enunciado": "¿Es peligroso conducir tras haber ingerido una pequeña cantidad de alcohol?",
+        "Opciones": [
+            "A) Sí, es muy peligroso aunque se beba poca cantidad.",
+            "B) Solo es peligroso si se mezcla con café.",
+            "C) No, las cantidades pequeñas no afectan a la conducción."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cualquier cantidad de alcohol, por mínima que sea, supone un riesgo para la seguridad en la conducción."
+    },
+    {
+        "_id": "PB-TM11-P68",
+        "Enunciado": "¿Cómo se extiende el alcohol por el cuerpo una vez ingerido?",
+        "Opciones": [
+            "A) A través de la sangre.",
+            "B) Únicamente se mantiene en el estómago.",
+            "C) Mediante el sistema respiratorio exclusivamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El alcohol pasa al torrente sanguíneo y desde allí se distribuye por todo el organismo."
+    },
+    {
+        "_id": "PB-TM11-P69",
+        "Enunciado": "¿A qué órganos afecta principalmente el consumo de alcohol?",
+        "Opciones": [
+            "A) Al oído y al sentido del tacto.",
+            "B) Al cerebro y a la vista.",
+            "C) Únicamente al sistema digestivo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El alcohol impacta de manera directa y negativa sobre el cerebro y la capacidad visual del conductor."
+    },
+    {
+        "_id": "PB-TM11-P70",
+        "Enunciado": "¿Qué se entiende por alcoholemia?",
+        "Opciones": [
+            "A) El tiempo que tarda el cuerpo en eliminar una copa de vino.",
+            "B) La cantidad total de alcohol que hay en la sangre después de beber.",
+            "C) La graduación alcohólica de la bebida que se ha ingerido."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La alcoholemia es la cantidad total de alcohol presente en el organismo tras su consumo."
+    },
+    {
+        "_id": "PB-TM11-P71",
+        "Enunciado": "¿Qué es la tasa de alcoholemia?",
+        "Opciones": [
+            "A) El precio de las multas por conducir ebrio.",
+            "B) La cantidad de alcohol que hay en cada litro de sangre.",
+            "C) El porcentaje de alcohol que contiene una cerveza."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La tasa define la proporción o cantidad exacta de alcohol por cada litro de sangre del individuo."
+    },
+    {
+        "_id": "PB-TM11-P72",
+        "Enunciado": "¿De qué dos formas se puede calcular la tasa de alcoholemia?",
+        "Opciones": [
+            "A) Por el color de la piel o por el equilibrio al caminar.",
+            "B) En gramos por litro de sangre o miligramos por litro de aire espirado.",
+            "C) Midiendo la temperatura corporal o la presión arterial."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Existen dos mediciones oficiales: alcohol en sangre (g/l) y alcohol en el aire expulsado de los pulmones (mg/l)."
+    },
+    {
+        "_id": "PB-TM11-P73",
+        "Enunciado": "¿Qué conductores están sujetos a la tasa de alcohol más reducida (0,15 mg/l aire)?",
+        "Opciones": [
+            "A) Todos los conductores mayores de 25 años.",
+            "B) Los que han obtenido su primer permiso hace menos de dos años.",
+            "C) Únicamente los conductores de motocicletas de gran cilindrada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los conductores noveles (menos de dos años de antigüedad) tienen un límite de alcohol más estricto."
+    },
+    {
+        "_id": "PB-TM11-P74",
+        "Enunciado": "¿Qué vehículos de transporte de mercancías están sujetos a la tasa de 0,15 mg/l en aire?",
+        "Opciones": [
+            "A) Solamente los vehículos que transportan alimentos frescos.",
+            "B) Las furgonetas de reparto de menos de 1.500 kilos.",
+            "C) Aquellos con un peso mayor de 3.500 kilos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los conductores de vehículos de mercancías de gran tonelaje (más de 3.500 kg) deben cumplir la tasa reducida."
+    },
+    {
+        "_id": "PB-TM11-P75",
+        "Enunciado": "Los conductores de vehículos destinados al transporte de personas tienen la tasa reducida si transportan a:",
+        "Opciones": [
+            "A) Exactamente cinco personas incluyendo al conductor.",
+            "B) Más de dos personas.",
+            "C) Más de nueve personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El transporte colectivo de más de nueve personas exige la tasa de alcohol de 0,15 mg/l en aire."
+    },
+    {
+        "_id": "PB-TM11-P76",
+        "Enunciado": "¿Qué tasa de alcohol debe respetar el conductor de un vehículo que transporta menores?",
+        "Opciones": [
+            "A) No tiene límite si los menores son sus propios hijos.",
+            "B) La tasa reducida de 0,15 mg/l aire.",
+            "C) La tasa general de 0,25 mg/l aire."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El transporte de menores es uno de los supuestos que obliga a cumplir con la tasa de alcohol más baja."
+    },
+    {
+        "_id": "PB-TM11-P77",
+        "Enunciado": "¿A qué tasa de alcohol están sujetos los conductores de servicios de urgencias?",
+        "Opciones": [
+            "A) 0,5 mg/l en aire.",
+            "B) No se les realizan pruebas de alcoholemia.",
+            "C) 0,15 mg/l en aire."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los profesionales de servicios de urgencia deben respetar el límite de 0,15 mg/l en aire."
+    },
+    {
+        "_id": "PB-TM11-P78",
+        "Enunciado": "¿Qué tasa de alcohol tienen permitida los conductores de vehículos que transportan cargas peligrosas?",
+        "Opciones": [
+            "A) La misma que los conductores noveles (0,15 mg/l aire).",
+            "B) La tasa general (0,25 mg/l aire).",
+            "C) Pueden duplicar la tasa general si el trayecto es corto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El transporte de mercancías peligrosas conlleva la obligación de cumplir con la tasa reducida."
+    },
+    {
+        "_id": "PB-TM11-P79",
+        "Enunciado": "Para los conductores sujetos a la tasa reducida, el límite en miligramos por litro de aire es:",
+        "Opciones": [
+            "A) 0,25 mg/l.",
+            "B) 0,15 mg/l.",
+            "C) 0,50 mg/l."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El límite legal en aire espirado para este grupo es de 0,15 miligramos por litro."
+    },
+    {
+        "_id": "PB-TM11-P80",
+        "Enunciado": "Para los conductores sujetos a la tasa reducida, el límite en gramos por litro de sangre es:",
+        "Opciones": [
+            "A) 0,5 gramos.",
+            "B) 0,15 gramos.",
+            "C) 0,3 gramos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El límite legal en sangre para conductores noveles y profesionales específicos es de 0,3 gramos por litro."
+    },
+    {
+        "_id": "PB-TM11-P81",
+        "Enunciado": "Para el resto de conductores y vehículos, la tasa de alcohol permitida en aire es:",
+        "Opciones": [
+            "A) 0,25 mg/l.",
+            "B) 0,50 mg/l.",
+            "C) 0,15 mg/l."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La tasa general permitida para conductores comunes es de 0,25 miligramos de alcohol por litro de aire."
+    },
+    {
+        "_id": "PB-TM11-P82",
+        "Enunciado": "Para el resto de conductores y vehículos, la tasa de alcohol permitida en sangre es:",
+        "Opciones": [
+            "A) 0,3 gramos.",
+            "B) 1,0 gramo.",
+            "C) 0,5 gramos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La tasa general permitida en sangre para la mayoría de conductores es de 0,5 gramos por litro."
+    },
+    {
+        "_id": "PB-TM11-P83",
+        "Enunciado": "¿Cuál es la única tasa de alcoholemia realmente segura para conducir?",
+        "Opciones": [
+            "A) 0,25 mg/l.",
+            "B) 0,0.",
+            "C) 0,15 mg/l."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario subraya que la única tasa segura es no haber bebido nada de alcohol (0,0)."
+    },
+    {
+        "_id": "PB-TM11-P84",
+        "Enunciado": "¿Afecta el alcohol a todas las personas de la misma forma?",
+        "Opciones": [
+            "A) No, depende de diversos factores personales.",
+            "B) Sí, siempre afecta igual si se bebe la misma cantidad.",
+            "C) Sí, solo varía si se tiene mucha experiencia conduciendo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Existen múltiples factores que hacen que el alcohol afecte de forma distinta a cada individuo."
+    },
+    {
+        "_id": "PB-TM11-P85",
+        "Enunciado": "¿Cómo influye el peso de la persona en la tasa de alcoholemia?",
+        "Opciones": [
+            "A) El alcohol afecta más a las personas delgadas.",
+            "B) El peso no influye, solo la altura.",
+            "C) Las personas gruesas alcanzan tasas más altas con menos bebida."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "A igualdad de alcohol ingerido, las personas con menor peso (delgadas) suelen presentar una tasa de alcoholemia superior."
+    },
+    {
+        "_id": "PB-TM11-P86",
+        "Enunciado": "Respecto al sexo de la persona, ¿a quién suele afectar más el alcohol?",
+        "Opciones": [
+            "A) Suele afectar más a los hombres.",
+            "B) Afecta por igual a hombres y mujeres.",
+            "C) El alcohol suele afectar más a las mujeres."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Por norma general y debido a factores biológicos, el alcohol produce efectos más intensos en las mujeres."
+    },
+    {
+        "_id": "PB-TM11-P87",
+        "Enunciado": "¿Cuándo se alcanza el punto máximo de la tasa de alcoholemia tras haber bebido?",
+        "Opciones": [
+            "A) A las tres horas de haber terminado de beber.",
+            "B) Inmediatamente después de dar el último sorbo.",
+            "C) Una hora después de beber alcohol."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El pico máximo de alcohol en sangre se sitúa aproximadamente una hora después de la ingesta."
+    },
+    {
+        "_id": "PB-TM11-P88",
+        "Enunciado": "¿Qué bebidas hacen que el alcohol llegue más rápido a la sangre?",
+        "Opciones": [
+            "A) Bebidas como la ginebra o el whisky.",
+            "B) El vino y la cerveza.",
+            "C) El agua mineral y los zumos naturales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las bebidas destiladas (ginebra, whisky) se absorben con mayor rapidez que las fermentadas (vino, cerveza)."
+    },
+    {
+        "_id": "PB-TM11-P89",
+        "Enunciado": "¿Qué ocurre si se mezcla el alcohol con tónica o refrescos?",
+        "Opciones": [
+            "A) El cuerpo elimina el alcohol más fácilmente.",
+            "B) La tasa de alcoholemia disminuye a la mitad.",
+            "C) El alcohol llega más rápido a la sangre."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Mezclar bebidas alcohólicas con refrescos gaseosos o tónica acelera el paso del alcohol al torrente sanguíneo."
+    },
+    {
+        "_id": "PB-TM11-P90",
+        "Enunciado": "¿Cómo se elimina el alcohol del cuerpo mientras dormimos?",
+        "Opciones": [
+            "A) Se elimina más despacio.",
+            "B) Se elimina mucho más rápido gracias al descanso.",
+            "C) Se elimina a la misma velocidad que estando despiertos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Durante el sueño, los procesos metabólicos se ralentizan, por lo que el alcohol se elimina con mayor lentitud."
+    }
+]

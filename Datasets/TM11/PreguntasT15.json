@@ -1,0 +1,123 @@
+[
+    {
+        "_id": "PB-TM11-P421",
+        "Enunciado": "Si la zona quemada está en un brazo o una pierna, ¿qué se debe hacer para que se hinche menos?",
+        "Opciones": [
+            "A) Mantener ese brazo o pierna hacia arriba.",
+            "B) Aplicar un torniquete por encima de la quemadura.",
+            "C) Mantener la extremidad por debajo del nivel del suelo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Elevar la extremidad afectada por una quemadura ayuda a reducir la inflamación de la zona."
+    },
+    {
+        "_id": "PB-TM11-P422",
+        "Enunciado": "¿Cuándo se le puede dar agua para beber a un herido por quemaduras?",
+        "Opciones": [
+            "A) En ningún caso se debe dar de beber a un herido por quemaduras.",
+            "B) Siempre que no tenga otras lesiones, esté consciente y no vomite.",
+            "C) Únicamente si el herido ha perdido el conocimiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual permite dar agua a las víctimas de quemaduras bajo condiciones específicas de consciencia y ausencia de otras lesiones o vómitos."
+    },
+    {
+        "_id": "PB-TM11-P423",
+        "Enunciado": "¿Qué es una fractura según el temario?",
+        "Opciones": [
+            "A) La pérdida de sensibilidad en una articulación.",
+            "B) Una herida profunda en la piel que llega al músculo.",
+            "C) Un hueso roto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una fractura se define de forma sencilla como la rotura de un hueso."
+    },
+    {
+        "_id": "PB-TM11-P424",
+        "Enunciado": "Señale algunos de los síntomas comunes de una fractura:",
+        "Opciones": [
+            "A) Dolor intenso, hinchazón, deformidad o dificultad para mover la zona.",
+            "B) Enrojecimiento de la piel y aparición de ampollas con líquido.",
+            "C) Fiebre alta y sudoración de color amarillento."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El dolor, la deformidad de la zona y la imposibilidad de movimiento son signos claros de que puede haber un hueso roto."
+    },
+    {
+        "_id": "PB-TM11-P425",
+        "Enunciado": "¿Qué ocurre cuando la fractura se produce en la columna vertebral?",
+        "Opciones": [
+            "A) El herido siente una gran euforia y ganas de caminar.",
+            "B) La persona no se puede mover y pierde sensibilidad.",
+            "C) El herido recupera la sensibilidad de forma exagerada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las lesiones en la columna vertebral conllevan la pérdida de movilidad y de capacidad sensitiva en el cuerpo del accidentado."
+    },
+    {
+        "_id": "PB-TM11-P426",
+        "Enunciado": "¿Qué es lo primero que debe hacerse en caso de detectar una fractura?",
+        "Opciones": [
+            "A) Realizar un masaje profundo para reducir el dolor.",
+            "B) Intentar colocar el hueso en su sitio con un movimiento rápido.",
+            "C) Dejar inmóvil la zona de la fractura."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La medida de auxilio principal ante una fractura es evitar que la zona afectada se mueva."
+    },
+    {
+        "_id": "PB-TM11-P427",
+        "Enunciado": "Como norma general, para trasladar a los heridos al hospital:",
+        "Opciones": [
+            "A) Siempre hay que esperar a que llegue la ambulancia.",
+            "B) Debe hacerse en el primer vehículo particular que pase.",
+            "C) El herido debe ir caminando para no perder la consciencia."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El traslado debe realizarse en vehículos especializados, por lo que se debe aguardar la llegada de los servicios sanitarios."
+    },
+    {
+        "_id": "PB-TM11-P428",
+        "Enunciado": "¿En qué caso está permitido trasladar a un herido sin esperar a la ambulancia?",
+        "Opciones": [
+            "A) Si el vehículo implicado todavía puede circular.",
+            "B) Si el accidente ha ocurrido en un lugar aislado sin ayuda.",
+            "C) Siempre que el herido lo pida de forma insistente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La ausencia de posibilidad de comunicación en lugares aislados es una excepción a la regla general de esperar a la ambulancia."
+    },
+    {
+        "_id": "PB-TM11-P429",
+        "Enunciado": "También se puede trasladar al herido si los servicios de emergencia tardan más de 30 minutos y:",
+        "Opciones": [
+            "A) El herido tiene fracturas leves en los dedos.",
+            "B) El testigo tiene mucha prisa por continuar su viaje.",
+            "C) El herido está inconsciente o tiene una hemorragia incontrolable."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si la ayuda demora más de media hora y el estado de la víctima es crítico (inconsciencia o sangrado masivo), se autoriza el traslado."
+    },
+    {
+        "_id": "PB-TM11-P430",
+        "Enunciado": "A ser posible, ¿en qué tipo de vehículo debe realizarse el traslado de un herido?",
+        "Opciones": [
+            "A) En una furgoneta o camión para poder tumbar al herido.",
+            "B) En un turismo de tres puertas para que el herido vaya sentado.",
+            "C) En una motocicleta si el herido puede sujetarse bien."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se requieren vehículos con espacio suficiente para que el accidentado viaje en posición horizontal."
+    },
+    {
+        "_id": "PB-TM11-P431",
+        "Enunciado": "¿Cómo se debe conducir el vehículo que traslada a una persona herida?",
+        "Opciones": [
+            "A) Lo más rápido posible, ignorando los baches.",
+            "B) Despacio y de forma suave.",
+            "C) Haciendo sonar el claxon de forma ininterrumpida."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para no agravar las lesiones, la conducción durante el traslado debe ser extremadamente cuidadosa y pausada."
+    }
+]

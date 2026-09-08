@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM12-P267",
+        "Enunciado": "Siguiendo los principios de la visión preventiva, si circula por una autovía a 120 km/h, ¿qué distancia mínima por delante de su vehículo debe supervisar constantemente?",
+        "Opciones": [
+            "A) 440 metros.",
+            "B) 220 metros.",
+            "C) 660 metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual establece que a 120 km/h el conductor debe controlar el espacio que recorrerá en los siguientes 20 segundos, lo que supone una distancia de 660 metros."
+    },
+    {
+        "_id": "PB-TM12-P268",
+        "Enunciado": "Para realizar una conducción preventiva eficaz circulando a 80 km/h, la mirada debe dirigirse a una distancia de:",
+        "Opciones": [
+            "A) 440 metros.",
+            "B) 660 metros.",
+            "C) 220 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "A una velocidad de 80 km/h, el campo de visión preventiva debe alcanzar los 440 metros por delante del vehículo."
+    },
+    {
+        "_id": "PB-TM12-P269",
+        "Enunciado": "En vías urbanas, circulando a 40 km/h, ¿cuál es la distancia de control visual que recomienda la técnica de visión preventiva?",
+        "Opciones": [
+            "A) 440 metros.",
+            "B) 220 metros.",
+            "C) 110 metros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "A 40 km/h, el conductor debe controlar visualmente los siguientes 220 metros de la vía para anticiparse a imprevistos."
+    },
+    {
+        "_id": "PB-TM12-P270",
+        "Enunciado": "En un vehículo de tracción (fuerza delante), si se produce un derrape de las ruedas traseras, ¿cómo debe actuar el conductor?",
+        "Opciones": [
+            "A) No frenar, girar el volante hacia el lado del derrape y acelerar suavemente.",
+            "B) Frenar con suavidad y girar el volante hacia el lado contrario al desplazamiento.",
+            "C) Dejar de acelerar y poner el volante recto de forma inmediata."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La corrección de un derrape trasero en un coche de tracción exige no tocar el freno, acompañar con el volante la dirección del derrape y acelerar con suavidad."
+    },
+    {
+        "_id": "PB-TM12-P271",
+        "Enunciado": "Si circula con un vehículo de propulsión (fuerza atrás) y derrapan las ruedas traseras, ¿qué técnica de corrección es la adecuada?",
+        "Opciones": [
+            "A) Acelerar suavemente para recuperar la tracción del eje posterior.",
+            "B) Frenar de forma enérgica para detener el deslizamiento lateral.",
+            "C) No frenar, dejar de acelerar suavemente y girar el volante hacia el lado del derrape."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En propulsión, ante un derrape trasero, se debe dejar de acelerar suavemente (sin frenar) y girar el volante hacia el mismo lado al que se desplazan las ruedas."
+    },
+    {
+        "_id": "PB-TM12-P272",
+        "Enunciado": "Ante un derrape de las ruedas delanteras en un vehículo de propulsión, el conductor deberá:",
+        "Opciones": [
+            "A) Dejar de acelerar y poner recto el volante hasta recuperar la adherencia.",
+            "B) Frenar suavemente mientras gira el volante en sentido opuesto.",
+            "C) Girar el volante al máximo hacia el lado del derrape y acelerar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para recuperar el guiado delantero en propulsión, el manual instruye dejar de acelerar y alinear las ruedas (volante recto)."
+    },
+    {
+        "_id": "PB-TM12-P273",
+        "Enunciado": "Atendiendo a la conducción eficiente, ¿en qué momento exacto se debe realizar el cambio a la segunda marcha?",
+        "Opciones": [
+            "A) Al alcanzar las 2.500 revoluciones por minuto.",
+            "B) A los pocos segundos de haber iniciado la marcha.",
+            "C) Cuando el vehículo supere los 30 km/h en llano."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La primera marcha debe usarse solo para el inicio del movimiento, pasando a la segunda a los pocos segundos para optimizar el consumo."
+    },
+    {
+        "_id": "PB-TM12-P274",
+        "Enunciado": "¿Qué repercusión técnica tiene intentar arrancar el motor de un vehículo empujándolo cuando la batería está agotada?",
+        "Opciones": [
+            "A) El sistema de frenado asistido queda anulado permanentemente.",
+            "B) El combustible no quemado puede llegar al catalizador y destruirlo.",
+            "C) El alternador puede sufrir un pico de tensión y quemarse."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual prohíbe arrancar empujando porque la gasolina cruda daña de forma irreversible los componentes internos del catalizador."
+    },
+    {
+        "_id": "PB-TM12-P275",
+        "Enunciado": "Dentro de las técnicas de conducción eficiente, ¿a partir de qué velocidad el consumo de combustible se incrementa de forma desproporcionada?",
+        "Opciones": [
+            "A) A partir de los 80 o 90 kilómetros por hora.",
+            "B) Únicamente cuando se superan los 120 kilómetros por hora.",
+            "C) Al rebasar los 50 kilómetros por hora en vías urbanas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Superar los 80-90 km/h implica un aumento notable del consumo debido al esfuerzo del motor contra el aire."
+    },
+    {
+        "_id": "PB-TM12-P276",
+        "Enunciado": "En condiciones nocturnas, cuando dos vehículos se cruzan en una curva, ¿quién tiene la responsabilidad de evitar el deslumbramiento pasando a luz de cruce?",
+        "Opciones": [
+            "A) El vehículo que circula por la parte de dentro de la curva.",
+            "B) Ambos conductores están obligados a cambiar simultáneamente.",
+            "C) El vehículo que circula por el trazado exterior de la curva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El vehículo en el interior de la curva proyecta su haz de luz directamente hacia el sentido contrario, por lo que debe realizar el cambio."
+    },
+    {
+        "_id": "PB-TM12-P277",
+        "Enunciado": "¿Qué información técnica específica se puede consultar escaneando el código QR de un distintivo ambiental?",
+        "Opciones": [
+            "A) El historial de la ITV y el kilometraje actual del vehículo.",
+            "B) El año de matriculación, nivel de emisiones EURO y potencia fiscal.",
+            "C) La fecha de vencimiento del seguro y el nombre del titular."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El código QR incluye datos técnicos como marca, modelo, combustible, categoría, emisiones EURO y potencia fiscal."
+    },
+    {
+        "_id": "PB-TM12-P278",
+        "Enunciado": "Al detenerse en un atasco siendo el último vehículo de la fila, ¿qué distancia de seguridad se recomienda mantener para mitigar riesgos?",
+        "Opciones": [
+            "A) Dos o tres metros, igual que el resto de conductores.",
+            "B) Un máximo de un metro para ganar visibilidad trasera.",
+            "C) Cinco o seis metros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El último de la fila debe ampliar su margen hasta los 5-6 metros como medida de protección ante alcances traseros."
+    },
+    {
+        "_id": "PB-TM12-P279",
+        "Enunciado": "Durante la conducción nocturna, ¿qué maniobra debe realizar un conductor que es adelantado por otro vehículo?",
+        "Opciones": [
+            "A) Mantener las luces de largo alcance encendidas mientras le adelantan.",
+            "B) Apagar todas las luces de carretera para facilitar la visión del adelantante.",
+            "C) Cambiar inmediatamente a luz de cruce en cuanto vea el intermitente ajeno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se deben mantener las luces largas mientras te adelantan porque benefician la visibilidad de ambos conductores."
+    },
+    {
+        "_id": "PB-TM12-P280",
+        "Enunciado": "Ante la aparición de nubes de polvo o de humo de forma repentina en la calzada, el conductor debe:",
+        "Opciones": [
+            "A) Detener el vehículo sobre el carril derecho de forma inmediata.",
+            "B) Acelerar de forma progresiva para atravesar la zona lo antes posible.",
+            "C) Tomar las mismas precauciones que para conducir con niebla."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Dada la drástica reducción de visibilidad, se aplican los protocolos de seguridad de la niebla."
+    },
+    {
+        "_id": "PB-TM12-P281",
+        "Enunciado": "Al circular sobre nieve, ¿qué técnica de arranque se recomienda para evitar el patinado de las ruedas?",
+        "Opciones": [
+            "A) Usar una velocidad que permita arrancar a más velocidad pero con poca fuerza del motor.",
+            "B) Usar la primera marcha acelerando de forma enérgica.",
+            "C) Acelerar en punto muerto antes de engranar la marcha de forma suave."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se buscan marchas largas (como la segunda) para que las ruedas transmitan menos par motor y no deslicen sobre la nieve."
+    },
+    {
+        "_id": "PB-TM12-P282",
+        "Enunciado": "¿Qué peligro adicional conlleva el uso de una baca cargada de equipaje en términos de eficiencia energética?",
+        "Opciones": [
+            "A) Aumenta el consumo porque el vehículo debe luchar con mayor dificultad contra el aire.",
+            "B) Reduce el consumo en bajadas debido a la mayor inercia del vehículo.",
+            "C) No influye en el consumo si se mantiene una velocidad inferior a 100 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La baca rompe la aerodinámica del vehículo, forzando al motor a gastar más combustible para avanzar contra el aire."
+    },
+    {
+        "_id": "PB-TM12-P283",
+        "Enunciado": "Para optimizar el ahorro de combustible en ciudad, ¿qué criterio de selección de ruta es el más adecuado?",
+        "Opciones": [
+            "A) Circular siempre por el centro del casco urbano para evitar semáforos de circunvalación.",
+            "B) Seleccionar la vía con menos tráfico, aunque suponga un trayecto más largo.",
+            "C) Elegir siempre el camino más corto en distancia total."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Evitar atascos eligiendo rutas despejadas, aunque sean más largas, reduce el consumo derivado de parar y arrancar."
+    },
+    {
+        "_id": "PB-TM12-P284",
+        "Enunciado": "¿Qué distancia de separación frontal se considera segura como norma general de tiempo?",
+        "Opciones": [
+            "A) Un segundo exacto.",
+            "B) Dos o tres segundos.",
+            "C) Al menos cinco segundos en autovías."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El manual aconseja mantener una separación temporal de 2 a 3 segundos con el vehículo precedente."
+    },
+    {
+        "_id": "PB-TM12-P285",
+        "Enunciado": "En caso de sufrir un deslumbramiento nocturno persistente, ¿qué acción está prohibida al reducir la velocidad?",
+        "Opciones": [
+            "A) Moverse hacia otros carriles.",
+            "B) Frenar con suavidad de forma intermitente.",
+            "C) Guiarse por la línea del borde derecho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El texto indica expresamente que no se debe cambiar de carril al reducir la velocidad o parar tras un deslumbramiento."
+    },
+    {
+        "_id": "PB-TM12-P286",
+        "Enunciado": "Según las técnicas de eficiencia energética, ¿cuál es la temperatura óptima a la que debe ajustarse el climatizador?",
+        "Opciones": [
+            "A) Entre 18 y 21 grados.",
+            "B) Siempre un 50% por debajo de la temperatura exterior.",
+            "C) A 23 o 24 grados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para evitar un gasto excesivo de combustible derivado del aire acondicionado, se recomienda ajustarlo a 23-24 grados."
+    },
+    {
+        "_id": "PB-TM12-P287",
+        "Enunciado": "Al descender una cuesta nevada, ¿cuál es la forma más segura de controlar la velocidad del vehículo?",
+        "Opciones": [
+            "A) Poner punto muerto para que el coche deslice por su propio peso.",
+            "B) Elegir velocidades cortas (primera o segunda) para que retengan el vehículo.",
+            "C) Usar el freno de servicio de forma continua y suave."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El freno motor en marchas cortas es vital para descender con seguridad y tracción sobre nieve."
+    },
+    {
+        "_id": "PB-TM12-P288",
+        "Enunciado": "Si circula por una zona con hielo, la distancia de seguridad con el vehículo precedente debe ser:",
+        "Opciones": [
+            "A) Menor, para poder ver las marcas de sus neumáticos en el hielo.",
+            "B) Exactamente la misma que en un día seco.",
+            "C) Mucha distancia, mayor que con nieve."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La falta de agarre total del hielo obliga a mantener mucha distancia de seguridad para garantizar la frenada."
+    },
+    {
+        "_id": "PB-TM12-P289",
+        "Enunciado": "¿Qué efecto provoca circular con las ventanillas bajadas a alta velocidad?",
+        "Opciones": [
+            "A) Aumenta el consumo al perjudicar la aerodinámica del vehículo.",
+            "B) Reduce el consumo al mejorar la refrigeración del motor.",
+            "C) Mejora la estabilidad lateral del vehículo en días de viento fuerte."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El aire que entra en el habitáculo frena el avance del vehículo, aumentando el gasto de combustible."
+    },
+    {
+        "_id": "PB-TM12-P290",
+        "Enunciado": "Para una conducción eficiente, ¿cómo se debe proceder al reducir la velocidad?",
+        "Opciones": [
+            "A) Bajar marchas sucesivamente sin soltar el embrague.",
+            "B) Frenar con fuerza para perder inercia rápidamente.",
+            "C) Levantar el pie del acelerador y dejar rodar el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aprovechar la inercia del vehículo levantando el acelerador es el primer paso para ahorrar combustible en las deceleraciones."
+    },
+    {
+        "_id": "PB-TM12-P291",
+        "Enunciado": "En la conducción eficiente, el motor debe apagarse si se prevé que el vehículo estará detenido más de:",
+        "Opciones": [
+            "A) 30 segundos.",
+            "B) 10 minutos.",
+            "C) Un minuto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si la parada va a superar el minuto, resulta más eficiente apagar el motor."
+    },
+    {
+        "_id": "PB-TM12-P292",
+        "Enunciado": "¿En qué relación de marchas el motor consume menos carburante?",
+        "Opciones": [
+            "A) Circulando en punto muerto.",
+            "B) En la cuarta y quinta marcha.",
+            "C) En la primera y segunda marcha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las marchas largas (4ª y 5ª) son las más eficientes porque el motor gira a más velocidad con menos esfuerzo."
+    },
+    {
+        "_id": "PB-TM12-P293",
+        "Enunciado": "¿Qué es el 'punto muerto' en términos mecánicos?",
+        "Opciones": [
+            "A) Una avería crítica de la caja de cambios.",
+            "B) Posición en la que el movimiento del motor no llega a las ruedas.",
+            "C) La velocidad máxima de giro del motor sin carga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En punto muerto, el motor está encendido pero desacoplado de la transmisión a las ruedas."
+    },
+    {
+        "_id": "PB-TM12-P294",
+        "Enunciado": "¿Qué función cumple el sistema 'Modo Eco' en los vehículos modernos?",
+        "Opciones": [
+            "A) Activar automáticamente las luces de bajo consumo.",
+            "B) Desconectar la batería para circular con alternador directo.",
+            "C) Limitar potencia, velocidad y temperatura para ahorrar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El Modo Eco gestiona diversos parámetros del vehículo para priorizar el ahorro de combustible."
+    },
+    {
+        "_id": "PB-TM12-P295",
+        "Enunciado": "Un conductor preventivo, para verificar que no hay vehículos en su ángulo muerto antes de maniobrar, debe:",
+        "Opciones": [
+            "A) Confiar plenamente en el detector BSM.",
+            "B) Girar la cabeza y mirar a través de la ventanilla.",
+            "C) Ajustar el brillo del espejo retrovisor interior."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El giro de cabeza permite visualizar directamente la zona que los espejos no alcanzan a reflejar."
+    },
+    {
+        "_id": "PB-TM12-P296",
+        "Enunciado": "Al circular con mucho viento lateral, ¿qué medida de precaución aerodinámica es necesaria?",
+        "Opciones": [
+            "A) Circular con el maletero ligeramente abierto para aumentar el peso.",
+            "B) Abrir las ventanillas para equilibrar la presión del aire.",
+            "C) Mantener las ventanillas cerradas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cerrar las ventanillas evita turbulencias internas y mejora la estabilidad frente a ráfagas laterales."
+    }
+]

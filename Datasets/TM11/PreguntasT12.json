@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P331",
+        "Enunciado": "¿Qué deben hacer los testigos de un accidente al llegar los servicios de emergencia?",
+        "Opciones": [
+            "A) Abandonar el lugar inmediatamente sin decir nada.",
+            "B) Retirar los vehículos implicados antes de que lleguen.",
+            "C) Explicar qué ha pasado a las autoridades."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una de las tareas de los testigos es informar detalladamente a las autoridades y servicios de emergencia sobre lo ocurrido."
+    },
+    {
+        "_id": "PB-TM11-P332",
+        "Enunciado": "Los testigos de un accidente de tráfico deben facilitar a las autoridades:",
+        "Opciones": [
+            "A) Su nombre y datos de contacto.",
+            "B) El número de su póliza de seguro de hogar.",
+            "C) Una copia de su contrato de trabajo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es obligatorio que las personas presentes en un accidente se identifiquen ante la autoridad y los implicados."
+    },
+    {
+        "_id": "PB-TM11-P333",
+        "Enunciado": "En caso de accidente, ¿qué información adicional deben dar los conductores implicados?",
+        "Opciones": [
+            "A) Únicamente el nombre del propietario del vehículo.",
+            "B) Los datos de su vehículo.",
+            "C) El precio de compra del automóvil."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Además de sus datos personales, los conductores deben proporcionar la identificación del vehículo accidentado."
+    },
+    {
+        "_id": "PB-TM11-P334",
+        "Enunciado": "Si usted presencia un accidente, pero ya han llegado los agentes de tráfico y no puede ayudar:",
+        "Opciones": [
+            "A) Debe quedarse para observar cómo trabajan los agentes.",
+            "B) Lo mejor es seguir circulando para no estorbar.",
+            "C) Debe aparcar su vehículo en el arcén para mirar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si la ayuda ya está presente o no es necesaria, se debe continuar la marcha para evitar atascos o situaciones de peligro en el lugar."
+    },
+    {
+        "_id": "PB-TM11-P335",
+        "Enunciado": "¿Cómo se llama el delito de no intentar ayudar a una persona accidentada?",
+        "Opciones": [
+            "A) Falta de cortesía vial.",
+            "B) Abandono de la vía pública.",
+            "C) Omisión de socorro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "No prestar ayuda en un accidente es un delito tipificado por la ley como omisión de socorro."
+    },
+    {
+        "_id": "PB-TM11-P336",
+        "Enunciado": "¿Qué sanción penal puede recibir una persona por cometer el delito de omisión de socorro?",
+        "Opciones": [
+            "A) Solo una amonestación por escrito.",
+            "B) No tiene sanción penal, solo una multa económica.",
+            "C) Puede ir a la cárcel."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Dada la gravedad de no auxiliar a las víctimas, la ley prevé penas de prisión para quienes cometan este delito."
+    },
+    {
+        "_id": "PB-TM11-P337",
+        "Enunciado": "Se considera omisión de socorro cuando una persona:",
+        "Opciones": [
+            "A) No ayuda a las víctimas cuando puede hacerlo sin ponerse en peligro.",
+            "B) Se detiene a ayudar arriesgando su propia vida.",
+            "C) Ayuda solo a los heridos que son sus familiares."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El deber de auxilio existe siempre que la persona pueda actuar sin comprometer su propia integridad física."
+    },
+    {
+        "_id": "PB-TM11-P338",
+        "Enunciado": "También comete delito de omisión de socorro quien:",
+        "Opciones": [
+            "A) No lleva un botiquín de primeros auxilios en el maletero.",
+            "B) No avisa del accidente para que alguien venga a ayudar.",
+            "C) Se detiene a ayudar aunque no tenga conocimientos médicos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Avisar a los servicios de emergencia es una forma de socorro obligatoria para cualquier testigo."
+    },
+    {
+        "_id": "PB-TM11-P339",
+        "Enunciado": "Respecto a causar un accidente, la omisión de socorro se produce si el responsable:",
+        "Opciones": [
+            "A) Se queda en el lugar pero se niega a mover el vehículo.",
+            "B) Llama al 112 pero no sabe realizar una reanimación.",
+            "C) Se da a la fuga en vez de ayudar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Huir del lugar del siniestro tras haberlo provocado agrava la responsabilidad legal del conductor."
+    },
+    {
+        "_id": "PB-TM11-P340",
+        "Enunciado": "Tras un accidente, el momento en el que se produce la muerte inmediata corresponde a:",
+        "Opciones": [
+            "A) Los 30 minutos posteriores al impacto.",
+            "B) Los primeros segundos después del accidente.",
+            "C) Las primeras dos horas tras el suceso."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La muerte inmediata es el término técnico para los fallecimientos que ocurren de forma instantánea tras el choque."
+    },
+    {
+        "_id": "PB-TM11-P341",
+        "Enunciado": "¿Qué es la 'hora de oro' tras un accidente de tráfico?",
+        "Opciones": [
+            "A) El periodo de una o dos horas después del accidente.",
+            "B) El tiempo que tarda la policía en llegar al lugar.",
+            "C) Las 24 horas siguientes al ingreso hospitalario."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se denomina 'hora de oro' al intervalo de 1-2 horas tras el siniestro donde la atención médica rápida es vital para la supervivencia."
+    },
+    {
+        "_id": "PB-TM11-P342",
+        "Enunciado": "La mortalidad tardía es el riesgo de morir que se produce:",
+        "Opciones": [
+            "A) Durante el traslado en la ambulancia.",
+            "B) Días o semanas después del accidente.",
+            "C) Inmediatamente después de la hora de oro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Este tipo de mortalidad se refiere a los fallecimientos por complicaciones derivadas de las lesiones días o semanas después."
+    },
+    {
+        "_id": "PB-TM11-P343",
+        "Enunciado": "¿Qué significan las siglas de la regla PAS?",
+        "Opciones": [
+            "A) Parar, Analizar y Señalizar.",
+            "B) Proteger, Avisar y Socorrer.",
+            "C) Pedir ayuda, Atender y Salvar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La regla PAS establece el orden de actuación: primero Proteger, después Avisar y finalmente Socorrer."
+    },
+    {
+        "_id": "PB-TM11-P344",
+        "Enunciado": "¿En qué periodo de tiempo es crítico seguir la regla PAS?",
+        "Opciones": [
+            "A) En los primeros 10 minutos después del accidente.",
+            "B) Durante la primera media hora exclusivamente.",
+            "C) Antes de que el vehículo empiece a soltar líquidos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los 10 primeros minutos son determinantes para la vida de los heridos y la seguridad de la zona."
+    },
+    {
+        "_id": "PB-TM11-P345",
+        "Enunciado": "Un beneficio de actuar de forma rápida siguiendo la regla PAS es:",
+        "Opciones": [
+            "A) Obtener una recompensa económica de la aseguradora.",
+            "B) Reducir el coste de la multa por la infracción cometida.",
+            "C) Evitar que se produzca un accidente más grave."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Actuar con celeridad ayuda a contener la situación y prevenir siniestros secundarios o agravamientos."
+    },
+    {
+        "_id": "PB-TM11-P346",
+        "Enunciado": "Dentro de la fase de 'Proteger', ¿a quién se debe proteger primero?",
+        "Opciones": [
+            "A) A ti mismo.",
+            "B) A los vehículos de alta gama implicados.",
+            "C) A las víctimas que no respiran."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La seguridad del auxiliador es la prioridad absoluta para evitar que haya más víctimas."
+    },
+    {
+        "_id": "PB-TM11-P347",
+        "Enunciado": "Además de a uno mismo, ¿qué más se debe proteger según la regla PAS?",
+        "Opciones": [
+            "A) Únicamente los objetos de valor de los heridos.",
+            "B) A las víctimas y el lugar del accidente.",
+            "C) Las pertenencias personales del testigo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Tras asegurar la propia seguridad, hay que velar por la de las víctimas y asegurar el entorno del siniestro."
+    },
+    {
+        "_id": "PB-TM11-P348",
+        "Enunciado": "Señalar bien el lugar del accidente sirve para evitar más choques y para:",
+        "Opciones": [
+            "A) Impedir que los peatones miren lo sucedido.",
+            "B) Guardar el turno de llegada de la policía.",
+            "C) Ayudar a los servicios de emergencia a encontrar el sitio fácilmente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una buena señalización facilita que las ambulancias y bomberos localicen el punto exacto rápidamente."
+    },
+    {
+        "_id": "PB-TM11-P349",
+        "Enunciado": "¿Cuál es el primer paso práctico que debe dar para proteger el lugar?",
+        "Opciones": [
+            "A) Salir corriendo del coche para atender al primer herido.",
+            "B) Mantener la calma y aparcar el vehículo en un lugar seguro.",
+            "C) Tocar el claxon para pedir atención a los vecinos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Mantener el control emocional y estacionar sin obstruir el paso a emergencias es fundamental al inicio."
+    },
+    {
+        "_id": "PB-TM11-P350",
+        "Enunciado": "Al detener su vehículo para ayudar en un accidente, usted debe:",
+        "Opciones": [
+            "A) Parar el motor y encender las luces de emergencia.",
+            "B) Dejar el motor encendido para salir rápido si hay fuego.",
+            "C) Apagar todas las luces para no gastar batería."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es necesario apagar el contacto por seguridad y usar las luces de emergencia para ser visible ante otros conductores."
+    },
+    {
+        "_id": "PB-TM11-P351",
+        "Enunciado": "¿Cuándo debe ponerse el conductor el chaleco reflectante ante un accidente?",
+        "Opciones": [
+            "A) Cuando ya esté en la calzada señalizando con los triángulos.",
+            "B) Solo si es de noche o hay niebla densa.",
+            "C) Antes de salir del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para evitar atropellos, el conductor debe salir del habitáculo ya con el chaleco puesto."
+    },
+    {
+        "_id": "PB-TM11-P352",
+        "Enunciado": "¿De qué colores puede ser el chaleco reflectante homologado?",
+        "Opciones": [
+            "A) Amarillo, naranja o rojo.",
+            "B) Azul, verde o blanco.",
+            "C) Solo puede ser de color verde fosforito."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La normativa permite estos tres colores siempre que el chaleco cumpla con los estándares de homologación."
+    },
+    {
+        "_id": "PB-TM11-P353",
+        "Enunciado": "Según el glosario del temario, ¿qué significa que algo esté homologado?",
+        "Opciones": [
+            "A) Que está registrado oficialmente y cumple con la ley.",
+            "B) Que ha sido fabricado íntegramente en España.",
+            "C) Que tiene un precio regulado por el Estado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La homologación garantiza que un producto de seguridad cumple con las características técnicas exigidas legalmente."
+    },
+    {
+        "_id": "PB-TM11-P354",
+        "Enunciado": "Como parte de la protección, observar la situación sirve para:",
+        "Opciones": [
+            "A) Contar el número de vehículos de gama alta implicados.",
+            "B) Valorar la gravedad y decidir cómo ayudar.",
+            "C) Tomar fotos para enviarlas a las noticias."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un análisis rápido del escenario permite priorizar las acciones de auxilio más necesarias."
+    },
+    {
+        "_id": "PB-TM11-P355",
+        "Enunciado": "Para asegurar que los coches accidentados no se muevan, se debe:",
+        "Opciones": [
+            "A) Colocar piedras grandes bajo todas las ruedas.",
+            "B) Desinflar los neumáticos de los vehículos implicados.",
+            "C) Echar el freno de mano de todos los vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Accionar el freno de mano es la medida de seguridad básica para inmovilizar los automóviles dañados."
+    },
+    {
+        "_id": "PB-TM11-P356",
+        "Enunciado": "¿Qué está prohibido hacer en el lugar de un accidente para evitar incendios?",
+        "Opciones": [
+            "A) Fumar o encender fuego.",
+            "B) Usar el teléfono móvil para avisar al 112.",
+            "C) Encender las luces de cruce de los vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La presencia de combustibles derramados hace que fumar o producir chispas sea extremadamente peligroso."
+    },
+    {
+        "_id": "PB-TM11-P357",
+        "Enunciado": "Si ya hay fuego en el accidente, ¿con qué se puede intentar apagar?",
+        "Opciones": [
+            "A) Soplando con fuerza sobre la base de la llama.",
+            "B) Con un extintor, tierra, arena o mantas.",
+            "C) Con abundante agua fría sobre el motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se deben usar métodos que sofoquen el fuego, como extintores o materiales que corten el paso del oxígeno."
+    },
+    {
+        "_id": "PB-TM11-P358",
+        "Enunciado": "Respecto a los incendios en accidentes, ¿qué no se debe echar nunca sobre el fuego?",
+        "Opciones": [
+            "A) Tierra seca.",
+            "B) Agua.",
+            "C) Arena de la playa."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El agua puede ser contraproducente en incendios de vehículos debido a los componentes químicos y combustibles."
+    },
+    {
+        "_id": "PB-TM11-P359",
+        "Enunciado": "¿Cuándo debe intentar no tocar o mover a las personas accidentadas?",
+        "Opciones": [
+            "A) Cuando haya personas muertas o con heridas muy graves.",
+            "B) Siempre que el herido esté consciente y hable mucho.",
+            "C) Solo si el herido pide que no le toquen."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Manipular a heridos graves sin conocimientos puede agravar sus lesiones irreversibles."
+    },
+    {
+        "_id": "PB-TM11-P360",
+        "Enunciado": "Antes de llamar a los servicios de emergencia (Avisar), lo adecuado es:",
+        "Opciones": [
+            "A) Esperar al menos 15 minutos para ver si los heridos mejoran.",
+            "B) Limpiar la zona de restos de cristales.",
+            "C) Recoger toda la información posible del accidente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Recopilar datos sobre el número de heridos o presencia de peligros ayuda a que la respuesta de emergencias sea eficaz."
+    }
+]

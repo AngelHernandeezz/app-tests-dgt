@@ -1,0 +1,333 @@
+[
+    {
+        "_id": "PB-TM12-P1",
+        "Enunciado": "En la conducción, ¿qué sucede en algunos tramos de la carretera con respecto a la precaución?",
+        "Opciones": [
+            "A) No es necesario variar la precaución si se mantiene la velocidad constante.",
+            "B) Se debe tener más precaución porque pueden aparecer más dificultades.",
+            "C) Se debe circular siempre por el centro de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario indica que en algunos tramos de carretera debes tener más precaución que en otros porque pueden aparecer más dificultades."
+    },
+    {
+        "_id": "PB-TM12-P2",
+        "Enunciado": "¿Cuáles son los lugares específicos donde se debe extremar la precaución según el texto?",
+        "Opciones": [
+            "A) Únicamente los túneles y pasos inferiores.",
+            "B) Las curvas y las zonas de carretera en obras.",
+            "C) Las rectas largas y con buena visibilidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El texto identifica las curvas y las zonas de carretera en obras como lugares donde pueden aparecer más dificultades."
+    },
+    {
+        "_id": "PB-TM12-P3",
+        "Enunciado": "¿Cuál es el motivo principal por el que las curvas se consideran tramos peligrosos?",
+        "Opciones": [
+            "A) Por el riesgo de deslumbramiento constante.",
+            "B) Porque el asfalto suele estar siempre húmedo.",
+            "C) Porque al tomarlas con velocidad se crea una fuerza que puede empujar al vehículo fuera de la curva."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al tomar una curva en velocidad, se crea una fuerza que puede empujar al vehículo fuera de la curva y enviarle hacia el lado que no debe."
+    },
+    {
+        "_id": "PB-TM12-P4",
+        "Enunciado": "¿En qué situación las curvas se vuelven más peligrosas?",
+        "Opciones": [
+            "A) Cuando el vehículo es nuevo y ligero.",
+            "B) Cuando se circula por debajo de la velocidad mínima.",
+            "C) Cuando la curva es muy cerrada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las curvas son más peligrosas cuando son muy cerradas, el vehículo lleva mucho peso o circula muy rápido."
+    },
+    {
+        "_id": "PB-TM12-P5",
+        "Enunciado": "Si se circula muy rápido en una curva cerrada con mucho peso, ¿qué trayectoria puede seguir el vehículo?",
+        "Opciones": [
+            "A) El vehículo girará más de lo que indica el volante.",
+            "B) El vehículo puede seguir recto como si no hubiera curva.",
+            "C) El vehículo se detendrá automáticamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En casos peligrosos, el vehículo puede seguir recto, pudiendo salirse de la carretera o meterse en el carril contrario."
+    },
+    {
+        "_id": "PB-TM12-P6",
+        "Enunciado": "Antes de entrar en una curva, ¿qué acción es necesaria respecto a la velocidad?",
+        "Opciones": [
+            "A) Reducir la velocidad o frenar si es necesario.",
+            "B) Mantenerla para no perder inercia.",
+            "C) Aumentarla para salir antes del tramo peligroso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Como paso previo a la curva, se debe reducir la velocidad o frenar si la situación lo requiere."
+    },
+    {
+        "_id": "PB-TM12-P7",
+        "Enunciado": "Al prepararse para tomar una curva, ¿hacia dónde debe aproximarse el vehículo?",
+        "Opciones": [
+            "A) Al borde izquierdo para ver mejor el trazado.",
+            "B) Lo más posible al borde derecho de la calzada.",
+            "C) Al centro de la calzada para tener margen de maniobra."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Antes de entrar, el conductor debe acercarse lo más posible al borde derecho de la calzada."
+    },
+    {
+        "_id": "PB-TM12-P8",
+        "Enunciado": "¿De qué manera se debe girar el volante una vez se está dentro de la curva?",
+        "Opciones": [
+            "A) De forma rápida y enérgica.",
+            "B) Con movimientos cortos e intermitentes.",
+            "C) De forma suave."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Dentro de la curva, la norma es girar el volante de forma suave."
+    },
+    {
+        "_id": "PB-TM12-P9",
+        "Enunciado": "Dentro de la curva, ¿qué acciones están prohibidas realizar de manera brusca?",
+        "Opciones": [
+            "A) Señalizar con los intermitentes.",
+            "B) Acelerar o frenar.",
+            "C) Consultar los espejos retrovisores."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se especifica que dentro de la curva no se debe acelerar ni frenar de manera brusca."
+    },
+    {
+        "_id": "PB-TM12-P10",
+        "Enunciado": "Para mantener la estabilidad dentro de la curva, ¿cómo se debe acelerar?",
+        "Opciones": [
+            "A) Acelerar poco a poco.",
+            "B) Acelerar a fondo para compensar la fuerza lateral.",
+            "C) No tocar el acelerador hasta salir de la curva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Dentro de la curva, la aceleración debe realizarse poco a poco."
+    },
+    {
+        "_id": "PB-TM12-P11",
+        "Enunciado": "Al salir de la curva, ¿qué debe hacerse con el volante para circular recto?",
+        "Opciones": [
+            "A) Girar con suavidad.",
+            "B) Dar un giro rápido en sentido contrario.",
+            "C) Soltarlo para que recupere su posición solo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Al finalizar el tramo curvo, se debe girar con suavidad el volante para recuperar la trayectoria recta."
+    },
+    {
+        "_id": "PB-TM12-P12",
+        "Enunciado": "¿Cuál es la forma correcta de aumentar la velocidad al salir de una curva?",
+        "Opciones": [
+            "A) De forma inmediata y brusca.",
+            "B) Poco a poco.",
+            "C) No se debe aumentar hasta recorrer 50 metros en recta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al salir de la curva se debe aumentar la velocidad poco a poco."
+    },
+    {
+        "_id": "PB-TM12-P13",
+        "Enunciado": "¿En qué tramos de la vía se produce el derrape con mayor frecuencia?",
+        "Opciones": [
+            "A) Sobre todo en las curvas.",
+            "B) En las rectas con firme seco.",
+            "C) En los estacionamientos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El texto señala que el derrape se produce sobre todo en las curvas debido a las fuerzas que actúan sobre los neumáticos."
+    },
+    {
+        "_id": "PB-TM12-P14",
+        "Enunciado": "Según el glosario del temario, ¿qué significa derrapar?",
+        "Opciones": [
+            "A) Deslizarse o patinar por la carretera.",
+            "B) Girar el volante al máximo de su capacidad.",
+            "C) Frenar con el motor en una pendiente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La definición exacta proporcionada es 'Deslizarse o patinar por la carretera'."
+    },
+    {
+        "_id": "PB-TM12-P15",
+        "Enunciado": "¿Qué sucede con la trayectoria del vehículo cuando este derrapa?",
+        "Opciones": [
+            "A) El vehículo se detiene de forma segura sobre su carril.",
+            "B) Se mantiene estable gracias al sistema de frenado.",
+            "C) Se desvía de la dirección que llevaba y se va hacia otro lado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuando un vehículo derrapa, se desvía de su dirección original y se desplaza hacia otro lado."
+    },
+    {
+        "_id": "PB-TM12-P16",
+        "Enunciado": "De las siguientes opciones, ¿cuál es una causa que puede producir un derrape?",
+        "Opciones": [
+            "A) Conducir muy rápido.",
+            "B) Conducir a la velocidad mínima permitida.",
+            "C) Mantener la presión correcta de inflado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Conducir muy rápido es una de las causas mencionadas que pueden provocar que el vehículo patine."
+    },
+    {
+        "_id": "PB-TM12-P17",
+        "Enunciado": "¿Puede el uso de la dirección causar un derrape?",
+        "Opciones": [
+            "A) Solo si el vehículo carece de dirección asistida.",
+            "B) No, el volante no influye en la adherencia.",
+            "C) Sí, al hacer un giro brusco con el volante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Hacer un giro brusco con el volante es una causa directa de derrape según el temario."
+    },
+    {
+        "_id": "PB-TM12-P18",
+        "Enunciado": "Respecto al uso de los pedales, ¿qué acción puede provocar que el coche patine?",
+        "Opciones": [
+            "A) Pisar muy fuerte el pedal de freno.",
+            "B) Soltar el acelerador progresivamente.",
+            "C) Mantener una presión constante en el freno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Pisar muy fuerte el pedal de freno es una maniobra que puede desencadenar un derrape."
+    },
+    {
+        "_id": "PB-TM12-P19",
+        "Enunciado": "¿Qué elementos del mantenimiento del vehículo influyen en la aparición de derrapes si están en mal estado?",
+        "Opciones": [
+            "A) El sistema de iluminación y el claxon.",
+            "B) Los neumáticos o los amortiguadores.",
+            "C) El aire acondicionado y el filtro de polen."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Llevar neumáticos o amortiguadores deteriorados compromete el agarre y favorece el derrape."
+    },
+    {
+        "_id": "PB-TM12-P20",
+        "Enunciado": "Además de la velocidad y el mantenimiento, ¿qué otro factor puede producir un derrape?",
+        "Opciones": [
+            "A) Conducir con las luces de posición encendidas.",
+            "B) Llevar el depósito de combustible lleno.",
+            "C) Repartir mal la carga en el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un mal reparto de la carga afecta a la estabilidad y puede provocar que el vehículo derrape."
+    },
+    {
+        "_id": "PB-TM12-P21",
+        "Enunciado": "En un vehículo de tracción (fuerza delante), si derrapan las ruedas traseras, ¿qué es lo primero que NO se debe hacer?",
+        "Opciones": [
+            "A) Acelerar.",
+            "B) Frenar.",
+            "C) Girar el volante."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En caso de derrape de las ruedas traseras en un coche de tracción, se debe evitar frenar."
+    },
+    {
+        "_id": "PB-TM12-P22",
+        "Enunciado": "Si el vehículo es de tracción y derrapan las ruedas traseras, ¿hacia dónde se debe girar el volante?",
+        "Opciones": [
+            "A) Hacia el lado al que se desplazan las ruedas.",
+            "B) Hacia el lado contrario al que se desplazan las ruedas.",
+            "C) Siempre hacia el lado derecho por seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La corrección consiste en girar el volante hacia el mismo lado hacia el que se están deslizando las ruedas."
+    },
+    {
+        "_id": "PB-TM12-P23",
+        "Enunciado": "En un vehículo de tracción con derrape trasero, ¿qué acción debe realizarse con el acelerador?",
+        "Opciones": [
+            "A) Acelerar de forma suave.",
+            "B) Pisar a fondo para ganar tracción.",
+            "C) Soltarlo completamente de forma brusca."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Acelerar suavemente ayuda a estabilizar el vehículo de tracción si el eje trasero patina."
+    },
+    {
+        "_id": "PB-TM12-P24",
+        "Enunciado": "En un vehículo de propulsión (fuerza atrás), si derrapan las ruedas traseras, ¿qué acción está prohibida?",
+        "Opciones": [
+            "A) Girar el volante.",
+            "B) Dejar de acelerar.",
+            "C) Frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al igual que en los de tracción, si el eje trasero derrapa en un coche de propulsión, no se debe frenar."
+    },
+    {
+        "_id": "PB-TM12-P25",
+        "Enunciado": "Si derrapan las ruedas traseras de un vehículo de propulsión, el conductor debe:",
+        "Opciones": [
+            "A) Acelerar poco a poco.",
+            "B) Dejar de acelerar de forma suave.",
+            "C) Aumentar la velocidad rápidamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En vehículos de propulsión, la medida correcta es dejar de acelerar con suavidad."
+    },
+    {
+        "_id": "PB-TM12-P26",
+        "Enunciado": "En un coche de propulsión con derrape trasero, el volante debe girarse:",
+        "Opciones": [
+            "A) Hacia el lado al que se desplazan las ruedas traseras.",
+            "B) Manteniéndolo totalmente recto.",
+            "C) En la dirección opuesta al derrape."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para corregir el derrape trasero en propulsión, el volante se gira hacia el lado del desplazamiento de las ruedas traseras."
+    },
+    {
+        "_id": "PB-TM12-P27",
+        "Enunciado": "En un vehículo de propulsión, si lo que derrapan son las ruedas delanteras, ¿qué se debe hacer?",
+        "Opciones": [
+            "A) Acelerar suavemente.",
+            "B) Girar el volante al máximo hacia un lado.",
+            "C) Poner recto el volante hasta que dejen de derrapar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si el derrape es en el eje delantero en un vehículo de propulsión, se debe dejar de acelerar y poner el volante recto."
+    },
+    {
+        "_id": "PB-TM12-P28",
+        "Enunciado": "Ante un derrape de las ruedas delanteras en un coche de propulsión, ¿cómo debe actuar el conductor con el acelerador?",
+        "Opciones": [
+            "A) Acelerar de forma suave.",
+            "B) Mantener la aceleración constante.",
+            "C) Dejar de acelerar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La instrucción específica para este caso es dejar de acelerar."
+    },
+    {
+        "_id": "PB-TM12-P29",
+        "Enunciado": "¿Qué actitud debe tomar siempre un conductor al circular por una carretera en obras?",
+        "Opciones": [
+            "A) Ignorar las señales si no hay trabajadores presentes.",
+            "B) Seguir las indicaciones del personal de obras.",
+            "C) Circular por el arcén izquierdo para evitar el peligro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario subraya que siempre se deben seguir las indicaciones del personal de obras."
+    },
+    {
+        "_id": "PB-TM12-P30",
+        "Enunciado": "¿De qué color son las señales verticales de peligro e información en los tramos de obras?",
+        "Opciones": [
+            "A) De color azul.",
+            "B) De color blanco con bordes rojos.",
+            "C) De color amarillo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las señales verticales en zonas de obras tienen el fondo amarillo para diferenciarlas de las habituales.",
+        "Imagen": true
+    }
+]

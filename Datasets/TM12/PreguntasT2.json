@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM12-P31",
+        "Enunciado": "¿Qué comparación establece el temario entre la conducción nocturna y la diurna?",
+        "Opciones": [
+            "A) Conducir por la noche es más peligroso que conducir de día.",
+            "B) Ambas situaciones son igual de peligrosas.",
+            "C) Conducir de día presenta mayores riesgos por el tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El texto afirma explícitamente que la conducción nocturna conlleva un peligro superior a la realizada durante el día."
+    },
+    {
+        "_id": "PB-TM12-P32",
+        "Enunciado": "Durante la noche, ¿qué elementos se perciben con mayor dificultad?",
+        "Opciones": [
+            "A) Únicamente los vehículos de grandes dimensiones.",
+            "B) Las distancias, las personas, los objetos y los vehículos.",
+            "C) Solo las señales de stop y ceda el paso."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debido a la falta de luz, la percepción de distancias y la visibilidad de peatones, objetos y otros vehículos se ve notablemente mermada."
+    },
+    {
+        "_id": "PB-TM12-P33",
+        "Enunciado": "¿Cuál es uno de los motivos por los que conducir de noche es más peligroso?",
+        "Opciones": [
+            "A) La carretera está menos iluminada.",
+            "B) El asfalto suele estar más frío y resbala más.",
+            "C) No está permitido usar las luces de posición."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La iluminación reducida de la vía es un factor determinante en el aumento del riesgo nocturno."
+    },
+    {
+        "_id": "PB-TM12-P34",
+        "Enunciado": "Respecto a los otros conductores, ¿qué riesgo específico aparece durante la noche?",
+        "Opciones": [
+            "A) Que circulen sin ningún tipo de alumbrado.",
+            "B) Que otros vehículos puedan deslumbrar con sus luces.",
+            "C) Que utilicen el claxon de forma innecesaria."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El deslumbramiento provocado por las luces de otros vehículos es un riesgo característico de la conducción nocturna."
+    },
+    {
+        "_id": "PB-TM12-P35",
+        "Enunciado": "¿En qué momento se debe prestar una atención especial con respecto a la iluminación de la vía?",
+        "Opciones": [
+            "A) Al pasar de una zona bien iluminada a otra mal iluminada.",
+            "B) Al circular por una vía urbana con farolas a ambos lados.",
+            "C) Solo cuando se circula por túneles de más de 500 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El cambio brusco de una zona con buena iluminación a otra deficiente requiere precaución debido al proceso de adaptación del ojo."
+    },
+    {
+        "_id": "PB-TM12-P36",
+        "Enunciado": "¿Cuánto tiempo necesitan los ojos para acostumbrarse a un cambio brusco en la intensidad de la luz?",
+        "Opciones": [
+            "A) No necesitan tiempo, es automático.",
+            "B) Unos segundos.",
+            "C) Al menos un minuto completo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La adaptación visual ante cambios de iluminación no es instantánea, sino que requiere unos segundos de transición."
+    },
+    {
+        "_id": "PB-TM12-P37",
+        "Enunciado": "¿Con qué factores se debe tener especial cuidado al conducir de noche?",
+        "Opciones": [
+            "A) Velocidad, curvas, deslumbramientos y adelantamientos.",
+            "B) Solo con el estado de los frenos y la dirección.",
+            "C) Únicamente con la señalización vertical."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario destaca estos cuatro elementos (velocidad, curvas, deslumbramientos y adelantamientos) como críticos durante la noche."
+    },
+    {
+        "_id": "PB-TM12-P38",
+        "Enunciado": "¿Cómo debe actuar el conductor respecto a la velocidad si la visibilidad nocturna es mala?",
+        "Opciones": [
+            "A) Conducir más despacio.",
+            "B) Aumentarla para atravesar antes la zona sin luz.",
+            "C) Mantener la velocidad máxima permitida por la vía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si no se ve bien la carretera, es obligatorio reducir la velocidad, independientemente de los límites máximos."
+    },
+    {
+        "_id": "PB-TM12-P39",
+        "Enunciado": "¿Cuál es la principal ventaja de circular más despacio cuando no hay buena visibilidad?",
+        "Opciones": [
+            "A) Las luces del vehículo alcanzarán una distancia mayor.",
+            "B) Será más sencillo parar el vehículo ante un peligro o imprevisto.",
+            "C) Se evitará el desgaste excesivo de los neumáticos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una velocidad reducida permite reaccionar a tiempo y detener el vehículo con seguridad ante cualquier obstáculo detectado tarde."
+    },
+    {
+        "_id": "PB-TM12-P40",
+        "Enunciado": "¿Qué le ocurre al conductor cuando sufre un deslumbramiento?",
+        "Opciones": [
+            "A) No puede ver bien la carretera porque entra demasiada luz en sus ojos.",
+            "B) Las pupilas se dilatan para intentar captar más luz.",
+            "C) Empieza a ver siluetas de colores alrededor de los objetos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El deslumbramiento se define como la pérdida parcial de visión de la vía por el exceso de luz en los ojos."
+    },
+    {
+        "_id": "PB-TM12-P41",
+        "Enunciado": "¿Por qué puede molestar la luz de cruce a otros conductores?",
+        "Opciones": [
+            "A) Porque es una luz blanca muy intensa.",
+            "B) Porque siempre debe ir acompañada de la luz de posición.",
+            "C) Porque puede no estar bien regulada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Incluso las luces cortas o de cruce pueden deslumbrar si el haz de luz está orientado más alto de lo debido."
+    },
+    {
+        "_id": "PB-TM12-P42",
+        "Enunciado": "¿Cómo afecta el reparto del peso al deslumbramiento nocturno?",
+        "Opciones": [
+            "A) El peso excesivo hace que los faros apunten demasiado bajo.",
+            "B) El peso no influye en absoluto en el sistema de alumbrado.",
+            "C) Si hay mucho peso atrás, la luz de cruce puede quedar muy alta."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al cargar mucho peso en la parte trasera, el morro del vehículo se eleva, subiendo también la dirección de la luz de cruce."
+    },
+    {
+        "_id": "PB-TM12-P43",
+        "Enunciado": "¿Cuándo debe apagarse la luz de largo alcance y encenderse la de cruce?",
+        "Opciones": [
+            "A) Únicamente al entrar en poblado.",
+            "B) Solo cuando el vehículo que viene de frente esté a menos de 10 metros.",
+            "C) Cuando venga otro vehículo hacia ti desde cualquier dirección."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es obligatorio cambiar a luz de cruce siempre que se aproxime otro vehículo para evitar deslumbrarle."
+    },
+    {
+        "_id": "PB-TM12-P44",
+        "Enunciado": "¿Qué debe hacer el conductor inmediatamente si sufre un deslumbramiento?",
+        "Opciones": [
+            "A) Encender las luces de largo alcance para compensar.",
+            "B) Reducir la velocidad o incluso parar el coche.",
+            "C) Acelerar para salir rápido de la fuente de luz."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ante la pérdida de visibilidad, se debe aminorar la marcha y detenerse si la seguridad lo requiere."
+    },
+    {
+        "_id": "PB-TM12-P45",
+        "Enunciado": "Al reducir la velocidad o parar por un deslumbramiento, ¿qué precaución es necesaria?",
+        "Opciones": [
+            "A) Abrir las ventanillas para orientarse por el sonido.",
+            "B) Encender la luz interior del habitáculo.",
+            "C) No moverse hacia otros carriles."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es fundamental mantener la trayectoria dentro del carril propio para evitar colisiones con otros vehículos."
+    },
+    {
+        "_id": "PB-TM12-P46",
+        "Enunciado": "¿Qué referencia visual puede ayudar al conductor a guiarse si ha sido deslumbrado?",
+        "Opciones": [
+            "A) Los catadióptricos de la izquierda.",
+            "B) La línea del borde derecho.",
+            "C) El centro de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La línea de borde derecho es la guía más segura para no salirse de la calzada ni invadir el carril contrario tras un deslumbramiento."
+    },
+    {
+        "_id": "PB-TM12-P47",
+        "Enunciado": "Si circula de noche y otro vehículo le está adelantando, ¿cómo debe actuar con su alumbrado?",
+        "Opciones": [
+            "A) Cambiar inmediatamente a luz de cruce.",
+            "B) Apagar todas las luces exteriores.",
+            "C) Mantener encendidas las luces de largo alcance mientras le adelantan."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al mantener las luces largas, se facilita la visibilidad de la carretera a ambos conductores durante la maniobra."
+    },
+    {
+        "_id": "PB-TM12-P48",
+        "Enunciado": "Cuando dos vehículos se cruzan de noche en una curva, ¿quién debe cambiar obligatoriamente a luz de cruce?",
+        "Opciones": [
+            "A) El vehículo que circula por la parte de dentro de la curva.",
+            "B) Ambos vehículos deben apagar todas sus luces.",
+            "C) El vehículo que circula por la parte externa de la curva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El conductor que va por el interior de la curva es el que apunta directamente al otro vehículo, por lo que debe realizar el cambio."
+    },
+    {
+        "_id": "PB-TM12-P49",
+        "Enunciado": "¿Por qué el conductor que va por el interior de la curva de noche debe usar la luz de cruce?",
+        "Opciones": [
+            "A) Porque así puede ver mejor el margen derecho.",
+            "B) Porque sus luces pierden potencia al girar.",
+            "C) Porque sus luces alumbran de forma directa la carretera y pueden deslumbrar al otro conductor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En el trazado interior de una curva, el haz de las luces largas incide directamente en la trayectoria del carril contrario."
+    },
+    {
+        "_id": "PB-TM12-P50",
+        "Enunciado": "En una curva nocturna, el vehículo que circula por la parte externa:",
+        "Opciones": [
+            "A) Debe cambiar a luz de cruce siempre, independientemente de si deslumbra.",
+            "B) Puede mantener las luces de largo alcance encendidas.",
+            "C) Debe poner obligatoriamente la luz de posición solamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al ir por el exterior, sus luces apuntan hacia fuera de la calzada, sin riesgo de deslumbrar al vehículo que viene de frente."
+    },
+    {
+        "_id": "PB-TM12-P51",
+        "Enunciado": "¿Cuándo debe cambiar a luz de cruce el conductor que circula por el exterior de una curva de noche?",
+        "Opciones": [
+            "A) Nunca, no tiene esa obligación bajo ninguna circunstancia.",
+            "B) Si ve que en algún momento está deslumbrando a otro conductor.",
+            "C) Solamente si el otro vehículo le hace ráfagas con sus luces."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Aunque inicialmente no deslumbra, si en algún punto del trazado las luces molestan al otro conductor, debe realizar el cambio."
+    },
+    {
+        "_id": "PB-TM12-P52",
+        "Enunciado": "¿Por qué es más difícil conducir con lluvia intensa?",
+        "Opciones": [
+            "A) El peso del agua sobre el techo dificulta el giro.",
+            "B) El motor consume el doble de combustible por la humedad.",
+            "C) Se ve peor la carretera y los neumáticos se agarran menos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La lluvia afecta negativamente a los dos pilares de la seguridad: la visibilidad y la adherencia del vehículo al suelo."
+    },
+    {
+        "_id": "PB-TM12-P53",
+        "Enunciado": "Cuando los neumáticos tienen menos agarre por la lluvia, el vehículo:",
+        "Opciones": [
+            "A) Necesita menos espacio para frenar.",
+            "B) Gira con mayor facilidad en las curvas.",
+            "C) Necesita más espacio para frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al reducirse la fricción con el asfalto mojado, la distancia necesaria para detener el vehículo aumenta considerablemente."
+    },
+    {
+        "_id": "PB-TM12-P54",
+        "Enunciado": "¿Qué elementos deben revisarse periódicamente para circular con lluvia?",
+        "Opciones": [
+            "A) Neumáticos y limpiaparabrisas.",
+            "B) Únicamente los niveles de aceite y refrigerante.",
+            "C) El sistema de sonido y la calefacción."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Unos neumáticos con dibujo y unos limpiaparabrisas eficaces son vitales para garantizar el control y la visión bajo la lluvia."
+    },
+    {
+        "_id": "PB-TM12-P55",
+        "Enunciado": "¿Cómo debe accionarse el freno cuando la calzada está mojada?",
+        "Opciones": [
+            "A) De forma suave.",
+            "B) Pisando a fondo desde el inicio para que actúe el ABS.",
+            "C) De forma brusca para secar las pastillas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se recomienda frenar con suavidad para permitir que las ruedas mantengan el contacto y tengan tiempo de parar sin patinar."
+    },
+    {
+        "_id": "PB-TM12-P56",
+        "Enunciado": "¿Qué comprobación debe hacer el conductor tras atravesar un charco?",
+        "Opciones": [
+            "A) Que los neumáticos no han sufrido cortes.",
+            "B) Que los frenos funcionan bien.",
+            "C) Que el motor no ha perdido potencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El agua puede mojar los componentes de frenado y reducir su eficacia temporalmente, por lo que hay que verificarlos."
+    },
+    {
+        "_id": "PB-TM12-P57",
+        "Enunciado": "Con lluvia, la distancia con el vehículo que circula delante debe ser:",
+        "Opciones": [
+            "A) Menor, para ver mejor sus marcas en el asfalto.",
+            "B) Mayor.",
+            "C) Exactamente la misma que en un día seco."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debido a que el coche tarda más metros en frenar, es obligatorio dejar más separación con el vehículo precedente."
+    },
+    {
+        "_id": "PB-TM12-P58",
+        "Enunciado": "Ante la aparición de la lluvia, la velocidad debe:",
+        "Opciones": [
+            "A) Aumentarse ligeramente para evacuar el agua.",
+            "B) Mantenerse constante.",
+            "C) Reducirse."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La reducción de la velocidad es una medida de precaución fundamental para evitar la pérdida de control por falta de adherencia."
+    },
+    {
+        "_id": "PB-TM12-P59",
+        "Enunciado": "¿En qué momento de la lluvia se debe tener una precaución especial?",
+        "Opciones": [
+            "A) Cuando la lluvia es muy fina y constante.",
+            "B) Cuando lleva lloviendo más de una hora segunida.",
+            "C) Cuando empiezan a caer las primeras gotas de agua."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El inicio de la lluvia es el momento más peligroso debido a la mezcla de agua con suciedad en el asfalto."
+    },
+    {
+        "_id": "PB-TM12-P60",
+        "Enunciado": "¿Por qué las primeras gotas de lluvia facilitan que el vehículo patine?",
+        "Opciones": [
+            "A) Porque forman un barro al mezclarse con polvo, grasa y suciedad.",
+            "B) Porque el asfalto suele estar más caliente y genera vapor.",
+            "C) Porque las gotas iniciales son más pesadas que las de una tormenta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La mezcla del agua inicial con los residuos depositados en la calzada crea una capa deslizante muy peligrosa."
+    }
+]

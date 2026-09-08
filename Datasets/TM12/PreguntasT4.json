@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM12-P91",
+        "Enunciado": "¿Qué luces se deben encender obligatoriamente al conducir con niebla?",
+        "Opciones": [
+            "A) Únicamente las luces de largo alcance.",
+            "B) Solo las luces de posición.",
+            "C) Las luces de cruce y las antiniebla."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para garantizar la visibilidad propia y ser visto por los demás en condiciones de niebla, el temario indica el uso de las luces de cruce y las antiniebla."
+    },
+    {
+        "_id": "PB-TM12-P92",
+        "Enunciado": "Respecto a la velocidad, cuando hay niebla el conductor debe:",
+        "Opciones": [
+            "A) Aumentarla para salir cuanto antes de la zona de baja visibilidad.",
+            "B) Mantener la velocidad máxima de la vía para evitar alcances.",
+            "C) Conducir despacio."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La falta de visibilidad obliga a circular a una velocidad reducida para poder reaccionar ante cualquier obstáculo."
+    },
+    {
+        "_id": "PB-TM12-P93",
+        "Enunciado": "Con niebla, la distancia de seguridad con otros vehículos debe:",
+        "Opciones": [
+            "A) Mantenerse igual que en un día despejado.",
+            "B) Reducirse para no perder de vista al vehículo precedente.",
+            "C) Ser mucha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Debido a que el suelo puede estar húmedo y la visibilidad es mala, es necesario dejar mucha separación con el vehículo de delante."
+    },
+    {
+        "_id": "PB-TM12-P94",
+        "Enunciado": "Al conducir con niebla, ¿a qué elementos se debe prestar mucha atención?",
+        "Opciones": [
+            "A) A las señales y marcas de la carretera.",
+            "B) Solamente a los indicadores del tablero de instrumentos.",
+            "C) Únicamente a los vehículos que circulan en sentido contrario."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales y marcas viales sirven de guía fundamental cuando la visibilidad del entorno es muy reducida."
+    },
+    {
+        "_id": "PB-TM12-P95",
+        "Enunciado": "En condiciones de niebla, ¿qué se recomienda respecto a los adelantamientos?",
+        "Opciones": [
+            "A) Realizarlos rápidamente usando las luces de largo alcance.",
+            "B) Intentar no adelantar si no es necesario.",
+            "C) Están estrictamente prohibidos en cualquier tipo de vía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debido al riesgo que supone la falta de visión del carril contrario, se aconseja evitar los adelantamientos."
+    },
+    {
+        "_id": "PB-TM12-P96",
+        "Enunciado": "¿Qué precaución adicional se debe tomar con niebla al aproximarse a un cruce?",
+        "Opciones": [
+            "A) Usar el claxon de forma ininterrumpida.",
+            "B) Tener más precaución.",
+            "C) Apagar todas las luces para evitar reflejos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los cruces son puntos de conflicto donde la visibilidad es crítica, por lo que con niebla se debe extremar la precaución."
+    },
+    {
+        "_id": "PB-TM12-P97",
+        "Enunciado": "¿Por qué las nubes de polvo o de humo suponen un peligro para la conducción?",
+        "Opciones": [
+            "A) Porque ensucian el filtro de aire de forma inmediata.",
+            "B) Porque aumentan la temperatura del motor.",
+            "C) Porque no permiten ver bien y pueden aparecer de repente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al igual que la niebla, el polvo y el humo anulan la visibilidad y su aparición puede ser inesperada."
+    },
+    {
+        "_id": "PB-TM12-P98",
+        "Enunciado": "¿Qué precauciones se deben tomar al conducir con nubes de polvo o humo?",
+        "Opciones": [
+            "A) Acelerar para atravesarlas lo antes posible.",
+            "B) Únicamente cerrar las entradas de aire del vehículo.",
+            "C) Las mismas que para conducir con niebla."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al tratarse de una situación de visibilidad reducida similar, se aplican las mismas normas de seguridad que con la niebla."
+    },
+    {
+        "_id": "PB-TM12-P99",
+        "Enunciado": "¿Cuál es el principal peligro de conducir con mucho viento, especialmente si sopla de lado?",
+        "Opciones": [
+            "A) Que el vehículo pierda el control, vuelque o se salga de la carretera.",
+            "B) Que el motor se apague por el exceso de aire.",
+            "C) Que el consumo de combustible se duplique."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El viento lateral puede empujar el vehículo lateralmente, llegando a desestabilizarlo por completo."
+    },
+    {
+        "_id": "PB-TM12-P100",
+        "Enunciado": "¿A qué vehículos afecta más el viento durante la conducción?",
+        "Opciones": [
+            "A) A los vehículos que circulan por autopistas.",
+            "B) A los turismos de gran tamaño y pesados.",
+            "C) A los de dos ruedas y a los que llevan un remolque."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las motocicletas (por su inestabilidad) y los remolques (por su efecto vela) son los más vulnerables a las ráfagas de viento."
+    },
+    {
+        "_id": "PB-TM12-P101",
+        "Enunciado": "Además del viento lateral, ¿en qué otra situación es más peligroso conducir con viento?",
+        "Opciones": [
+            "A) Al cruzarte con otro vehículo o adelantar a uno muy grande.",
+            "B) Al conducir a favor del viento en una bajada.",
+            "C) Al circular por túneles bien iluminados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El efecto pantalla al rebasar o cruzarse con otros vehículos grandes puede provocar bandazos peligrosos."
+    },
+    {
+        "_id": "PB-TM12-P102",
+        "Enunciado": "¿Qué sucede al pasar delante de edificios o árboles grandes en un día de mucho viento?",
+        "Opciones": [
+            "A) Que el vehículo acelera de forma automática.",
+            "B) Que el viento desaparece por completo definitivamente.",
+            "C) Que el viento puede aparecer de repente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al dejar de estar protegidos por el obstáculo, la ráfaga de viento puede impactar de golpe contra el vehículo."
+    },
+    {
+        "_id": "PB-TM12-P103",
+        "Enunciado": "Como precaución ante el viento fuerte, el conductor debe sujetar el volante:",
+        "Opciones": [
+            "A) Con firmeza y en la dirección en contra del viento.",
+            "B) Con una sola mano para tener más movilidad.",
+            "C) Muy flojo para que el coche se mueva libremente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Sujetar el volante con fuerza y compensar la dirección hacia donde viene el viento ayuda a mantener la trayectoria."
+    },
+    {
+        "_id": "PB-TM12-P104",
+        "Enunciado": "Al conducir con mucho viento lateral, se recomienda:",
+        "Opciones": [
+            "A) Circular por el centro de los dos carriles.",
+            "B) Mantener las ventanillas cerradas.",
+            "C) Abrir las ventanillas para que el aire pase a través del coche."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cerrar las ventanillas evita turbulencias en el interior y mantiene la aerodinámica del vehículo."
+    },
+    {
+        "_id": "PB-TM12-P105",
+        "Enunciado": "¿Con qué peligro externo se debe contar cuando hace mucho viento?",
+        "Opciones": [
+            "A) Que el sistema de frenado pierda eficacia por el enfriamiento.",
+            "B) Que pueden caerse árboles, ramas o piedras.",
+            "C) Que la carretera se vuelva más rugosa."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El viento puede derribar elementos cercanos a la vía que se conviertan en obstáculos peligrosos."
+    },
+    {
+        "_id": "PB-TM12-P106",
+        "Enunciado": "¿Por qué es peligroso conducir con calor?",
+        "Opciones": [
+            "A) Porque las luces del vehículo iluminan menos.",
+            "B) Porque aparecen antes el sueño y la fatiga.",
+            "C) Porque el aire de los neumáticos pierde presión."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las altas temperaturas agotan físicamente al conductor, favoreciendo la aparición de somnolencia."
+    },
+    {
+        "_id": "PB-TM12-P107",
+        "Enunciado": "El calor excesivo puede provocar en el conductor:",
+        "Opciones": [
+            "A) Una disminución total de la agresividad.",
+            "B) Una mejora en la atención visual.",
+            "C) Necesitar más tiempo para reaccionar ante imprevistos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cansancio por calor ralentiza los reflejos y aumenta el tiempo de reacción."
+    },
+    {
+        "_id": "PB-TM12-P108",
+        "Enunciado": "¿Cómo puede variar el estado de ánimo al conducir con mucho calor?",
+        "Opciones": [
+            "A) No hay ningún cambio psicológico por la temperatura.",
+            "B) Puede aumentar la agresividad hacia otros conductores.",
+            "C) El conductor se vuelve más paciente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La incomodidad térmica genera irritabilidad, lo que puede derivar en conductas agresivas al volante."
+    },
+    {
+        "_id": "PB-TM12-P109",
+        "Enunciado": "Si se usa el aire acondicionado, ¿cuál es la temperatura recomendada para conducir con seguridad?",
+        "Opciones": [
+            "A) Entre 20 y 23 grados.",
+            "B) Entre 15 y 18 grados.",
+            "C) Siempre por debajo de los 15 grados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario sitúa el rango óptimo de confort y seguridad entre los 20 y los 23 grados Celsius."
+    },
+    {
+        "_id": "PB-TM12-P110",
+        "Enunciado": "¿Qué se debe hacer con mayor frecuencia durante un viaje con mucho calor?",
+        "Opciones": [
+            "A) Revisar el estado de la batería.",
+            "B) Hacer más descansos.",
+            "C) Realizar cambios de aceite."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es vital parar a descansar más a menudo para combatir la fatiga provocada por la temperatura."
+    },
+    {
+        "_id": "PB-TM12-P111",
+        "Enunciado": "Para combatir el calor durante el viaje, se aconseja beber mucho/a:",
+        "Opciones": [
+            "A) Agua o zumos.",
+            "B) Bebidas energéticas con gas.",
+            "C) Café muy cargado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La hidratación adecuada con agua o zumos es fundamental para mantener el estado de alerta."
+    },
+    {
+        "_id": "PB-TM12-P112",
+        "Enunciado": "¿Cuándo se debe prestar más atención debido al riesgo de sueño por calor?",
+        "Opciones": [
+            "A) Únicamente durante la noche profunda.",
+            "B) Después de comer.",
+            "C) Justo después de arrancar el vehículo en frío."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La somnolencia postpandrial se ve agravada por las altas temperaturas ambientales."
+    },
+    {
+        "_id": "PB-TM12-P113",
+        "Enunciado": "¿Qué tipo de ropa es la más adecuada para conducir en días calurosos?",
+        "Opciones": [
+            "A) Ropa clara, ligera y amplia.",
+            "B) Trajes de materiales sintéticos e impermeables.",
+            "C) Ropa oscura y muy ajustada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este tipo de vestimenta facilita la transpiración y la comodidad del conductor."
+    },
+    {
+        "_id": "PB-TM12-P114",
+        "Enunciado": "Antes de iniciar un viaje en un turismo o camión de mercancías, el conductor debe:",
+        "Opciones": [
+            "A) Comprobar que lleva determinados elementos de seguridad.",
+            "B) Vaciar el depósito de líquido limpiaparabrisas.",
+            "C) Desmontar los espejos retrovisores exteriores."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Existen elementos obligatorios que deben verificarse siempre antes de emprender la marcha."
+    },
+    {
+        "_id": "PB-TM12-P115",
+        "Enunciado": "¿Qué dispositivos son necesarios para indicar un peligro en la carretera?",
+        "Opciones": [
+            "A) Una linterna de alta potencia únicamente.",
+            "B) Un juego de bengalas de emergencia.",
+            "C) La luz de peligro o los triángulos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe contar con la luz V-16 o los triángulos de preseñalización de peligro."
+    },
+    {
+        "_id": "PB-TM12-P116",
+        "Enunciado": "Además de la señalización de peligro, ¿qué otra prenda es obligatoria llevar en el vehículo?",
+        "Opciones": [
+            "A) Un impermeable de color amarillo.",
+            "B) Guantes de trabajo reforzados.",
+            "C) Un chaleco reflectante."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El chaleco reflectante es un elemento de seguridad obligatorio para que el conductor sea visible si debe bajar del vehículo en la vía."
+    },
+    {
+        "_id": "PB-TM12-P117",
+        "Enunciado": "¿Qué elemento relacionado con los neumáticos se debe comprobar antes de viajar?",
+        "Opciones": [
+            "A) Una rueda de repuesto.",
+            "B) Que lleva un kit de reparación de pinchazos no homologado.",
+            "C) Que todas las ruedas son de diferente marca."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es necesario contar con una rueda de repuesto o un sistema alternativo para poder continuar tras un pinchazo."
+    },
+    {
+        "_id": "PB-TM12-P118",
+        "Enunciado": "Aunque no es obligatorio en todos los casos, el temario indica que es conveniente llevar:",
+        "Opciones": [
+            "A) Un extintor de más de 10 kilogramos.",
+            "B) Un botiquín de primeros auxilios.",
+            "C) Una caja de herramientas completa de taller."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El texto menciona la conveniencia de contar con un botiquín para atender pequeñas emergencias."
+    },
+    {
+        "_id": "PB-TM12-P119",
+        "Enunciado": "Para las personas que usan gafas, ¿cuál es la recomendación del temario?",
+        "Opciones": [
+            "A) Que lleven unas de repuesto.",
+            "B) Usar solo gafas de sol graduadas.",
+            "C) No conducir nunca más de dos horas seguidas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es aconsejable disponer de un segundo par de gafas por si las principales se rompen o pierden durante el viaje."
+    },
+    {
+        "_id": "PB-TM12-P120",
+        "Enunciado": "Al planificar la ruta antes de empezar un viaje, ¿qué herramienta se debe utilizar?",
+        "Opciones": [
+            "A) No se debe planificar, es mejor improvisar sobre la marcha.",
+            "B) Mirar un mapa.",
+            "C) Preguntar únicamente a los vecinos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Consultar un mapa permite conocer el trazado, las vías disponibles y posibles incidencias antes de salir."
+    }
+]

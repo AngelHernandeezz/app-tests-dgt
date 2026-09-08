@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM11-P91",
+    "Enunciado": "¿Cómo influye la velocidad a la que se bebe alcohol en su eliminación?",
+    "Opciones": [
+      "A) El cuerpo elimina mejor el alcohol cuando se bebe despacio que cuando se bebe rápido.",
+      "B) No influye, la velocidad de eliminación es constante.",
+      "C) El cuerpo elimina el alcohol con mayor rapidez si se bebe de un solo trago."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Según el temario, el organismo procesa y elimina mejor el alcohol si la ingesta se realiza de manera lenta."
+  },
+  {
+    "_id": "PB-TM11-P92",
+    "Enunciado": "¿Qué efecto tiene comer antes de ingerir alcohol?",
+    "Opciones": [
+      "A) No tiene ningún efecto sobre el paso del alcohol a la sangre.",
+      "B) Hace que el alcohol se elimine mucho más rápido del organismo.",
+      "C) Ayuda a que el alcohol llegue a la sangre de forma más lenta."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La presencia de comida en el estómago ralentiza la absorción del alcohol por parte del torrente sanguíneo."
+  },
+  {
+    "_id": "PB-TM11-P93",
+    "Enunciado": "¿A qué grupos de edad suele afectar con mayor intensidad el consumo de alcohol?",
+    "Opciones": [
+      "A) Únicamente a los conductores de entre 18 y 25 años.",
+      "B) Principalmente a las personas de mediana edad (entre 30 y 50 años).",
+      "C) A las personas menores de 18 años y a las mayores de 65 años."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La edad es un factor influyente, siendo los menores de 18 y los mayores de 65 los grupos más vulnerables a sus efectos."
+  },
+  {
+    "_id": "PB-TM11-P94",
+    "Enunciado": "Además de la edad o el sexo, ¿qué otra circunstancia personal agrava los efectos del alcohol?",
+    "Opciones": [
+      "A) Estar embarazada, el estrés o tener alguna enfermedad.",
+      "B) Tener una gran experiencia previa al volante.",
+      "C) Realizar ejercicio físico intenso el día anterior."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Circunstancias como el embarazo, el estado de estrés o ciertas enfermedades pueden potenciar los efectos negativos del alcohol."
+  },
+  {
+    "_id": "PB-TM11-P95",
+    "Enunciado": "¿Qué efecto psicológico peligroso produce el alcohol en el comportamiento del conductor?",
+    "Opciones": [
+      "A) Una sensación de miedo constante que impide circular.",
+      "B) Una falsa seguridad en sí mismo.",
+      "C) Un aumento de la prudencia y el respeto a las señales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El alcohol genera una percepción distorsionada de las propias capacidades, creando una falsa confianza que lleva a asumir riesgos."
+  },
+  {
+    "_id": "PB-TM11-P96",
+    "Enunciado": "¿Cómo afecta el alcohol a la toma de riesgos en la carretera?",
+    "Opciones": [
+      "A) No afecta a la conducta, solo a los reflejos físicos.",
+      "B) El conductor se vuelve mucho más conservador y evita riesgos.",
+      "C) El conductor se expone a más riesgos y comete más faltas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Bajo la influencia del alcohol, aumenta la predisposición a arriesgarse y la probabilidad de cometer infracciones."
+  },
+  {
+    "_id": "PB-TM11-P97",
+    "Enunciado": "¿Qué cambio de actitud puede mostrar un conductor ebrio hacia los demás usuarios?",
+    "Opciones": [
+      "A) Puede tratarlos de forma más agresiva o impulsiva.",
+      "B) Ninguno, el alcohol solo afecta a la visión.",
+      "C) Un aumento notable de la cortesía y la paciencia."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La agresividad y la impulsividad hacia otros conductores son efectos conductuales comunes del consumo de alcohol."
+  },
+  {
+    "_id": "PB-TM11-P98",
+    "Enunciado": "Respecto a la visión del entorno, el alcohol hace que el conductor:",
+    "Opciones": [
+      "A) Tenga una visión más nítida de los objetos lejanos.",
+      "B) Vea peor las señales de tráfico y los semáforos.",
+      "C) Vea las señales con un brillo especial que ayuda a identificarlas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Uno de los efectos visuales del alcohol es la pérdida de capacidad para distinguir correctamente señales y semáforos."
+  },
+  {
+    "_id": "PB-TM11-P99",
+    "Enunciado": "¿Cómo afecta el alcohol al cálculo de distancias?",
+    "Opciones": [
+      "A) Hace que el conductor calcule peor la distancia a la que están otros vehículos.",
+      "B) Permite calcular con exactitud la distancia de frenado necesaria.",
+      "C) Mejora la precisión al estimar la separación lateral."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El alcohol distorsiona la percepción espacial, dificultando la estimación correcta de las distancias."
+  },
+  {
+    "_id": "PB-TM11-P100",
+    "Enunciado": "¿Qué ocurre con la visión lateral bajo los efectos del alcohol?",
+    "Opciones": [
+      "A) Se mantiene intacta siempre que se mire al frente.",
+      "B) Aumenta el ángulo de visión, permitiendo ver más objetos a los lados.",
+      "C) Se tiene menos capacidad de ver lo que pasa a un lado y a otro."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El alcohol reduce el campo visual periférico (efecto túnel), impidiendo ver lo que ocurre en los laterales."
+  },
+  {
+    "_id": "PB-TM11-P101",
+    "Enunciado": "En relación con las luces de otros vehículos, el conductor que ha bebido:",
+    "Opciones": [
+      "A) No nota ningún cambio respecto a su estado normal.",
+      "B) Se deslumbra más fácilmente.",
+      "C) Soporta mejor las luces de largo alcance sin molestia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La sensibilidad al deslumbramiento aumenta considerablemente tras el consumo de bebidas alcohólicas."
+  },
+  {
+    "_id": "PB-TM11-P102",
+    "Enunciado": "¿Aumenta el alcohol la probabilidad de distracciones?",
+    "Opciones": [
+      "A) Solo si se conduce de noche por vías urbanas.",
+      "B) No, el alcohol hace que el conductor se fije solo en la carretera.",
+      "C) Sí, existe la posibilidad de sufrir distracciones con elementos del entorno."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El alcohol favorece que el conductor pierda el foco en la conducción y se distraiga con estímulos externos."
+  },
+  {
+    "_id": "PB-TM11-P103",
+    "Enunciado": "¿Qué efecto tiene el alcohol en los movimientos del cuerpo del conductor?",
+    "Opciones": [
+      "A) Los hace más precisos y directos.",
+      "B) Produce dificultad para coordinarlos correctamente.",
+      "C) Aumenta la velocidad de ejecución de las maniobras."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La coordinación psicomotriz se ve gravemente afectada por el alcohol, entorpeciendo los movimientos necesarios para conducir."
+  },
+  {
+    "_id": "PB-TM11-P104",
+    "Enunciado": "¿Cómo influye el alcohol en el tiempo de reacción del conductor?",
+    "Opciones": [
+      "A) El tiempo de reacción no varía si se tiene mucha experiencia.",
+      "B) El tiempo de reacción disminuye, permitiendo frenar antes.",
+      "C) Se necesita más tiempo para reaccionar ante cualquier imprevisto."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Beber alcohol incrementa el tiempo de reacción, lo que significa que el conductor tarda más en responder a un estímulo."
+  },
+  {
+    "_id": "PB-TM11-P105",
+    "Enunciado": "Respecto a la toma de decisiones, el consumo de alcohol provoca:",
+    "Opciones": [
+      "A) Que las decisiones se tomen de forma automática y siempre acertada.",
+      "B) Más probabilidad de tomar malas decisiones o de no saber cómo ejecutarlas.",
+      "C) Una mayor claridad mental para resolver situaciones críticas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El alcohol nubla el juicio, facilitando la elección de maniobras incorrectas o peligrosas."
+  },
+  {
+    "_id": "PB-TM11-P106",
+    "Enunciado": "¿Qué valoración hace el temario sobre el consumo de otras drogas antes de conducir?",
+    "Opciones": [
+      "A) Es una práctica muy peligrosa para la seguridad vial.",
+      "B) No afectan a la conducción si se consumen en pequeñas dosis.",
+      "C) Solo son peligrosas si se mezclan con alcohol."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El manual establece claramente que el consumo de cualquier droga antes de ponerse al volante es extremadamente peligroso."
+  },
+  {
+    "_id": "PB-TM11-P107",
+    "Enunciado": "Según las estadísticas citadas, ¿cuántos fallecidos en accidente habían consumido drogas?",
+    "Opciones": [
+      "A) La mitad de las personas que mueren en carretera.",
+      "B) Uno de cada cien fallecidos.",
+      "C) Una de cada 10 personas que mueren en un accidente de tráfico."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El temario indica que el 10% de las víctimas mortales en accidentes viales dieron positivo en drogas."
+  },
+  {
+    "_id": "PB-TM11-P108",
+    "Enunciado": "¿Está prohibido conducir bajo los efectos de las drogas?",
+    "Opciones": [
+      "A) Sí, está prohibido si las drogas siguen presentes en el organismo.",
+      "B) Solo está prohibido si el conductor causa un accidente grave.",
+      "C) No, siempre que se circule con precaución por el carril derecho."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La ley prohíbe conducir cuando se han ingerido drogas y estas permanecen en el cuerpo del individuo."
+  },
+  {
+    "_id": "PB-TM11-P109",
+    "Enunciado": "¿Cuándo se permite conducir tras haber consumido sustancias controladas?",
+    "Opciones": [
+      "A) En ningún caso, independientemente de quién las haya recetado.",
+      "B) Cuando el conductor siente que ya no le hacen efecto.",
+      "C) Solo si las ha recetado un médico y no afectan negativamente a la conducción."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La única excepción es el uso de fármacos bajo prescripción médica que no interfieran en las capacidades necesarias para conducir."
+  },
+  {
+    "_id": "PB-TM11-P110",
+    "Enunciado": "¿De qué manera el cannabis altera la percepción del entorno?",
+    "Opciones": [
+      "A) Permite ver los objetos con mayor nitidez.",
+      "B) Hace que se vea de otra forma, por ejemplo, los colores se ven distintos.",
+      "C) No altera la percepción de los colores, solo el sonido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El cannabis produce distorsiones sensoriales que cambian la forma en que el conductor percibe lo que le rodea."
+  },
+  {
+    "_id": "PB-TM11-P111",
+    "Enunciado": "Además de las distorsiones visuales, ¿qué otros peligros conlleva el cannabis?",
+    "Opciones": [
+      "A) Mejora de la paciencia y de la capacidad de mantener la atención.",
+      "B) Aumento de la agresividad inmediata y pérdida del sueño.",
+      "C) Calcular peor las distancias, perder la concentración y tardar más en reaccionar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El consumo de cannabis afecta al juicio espacial, la atención y la rapidez de respuesta."
+  },
+  {
+    "_id": "PB-TM11-P112",
+    "Enunciado": "¿Cómo afecta la cocaína al comportamiento del conductor?",
+    "Opciones": [
+      "A) Provoca un estado de relajación profunda y sueño inmediato.",
+      "B) Hace que la persona se vuelva más impulsiva o agresiva.",
+      "C) Mejora la relación y el trato con el resto de conductores."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La cocaína es un estimulante que suele derivar en conductas violentas, competitivas o impacientes."
+  },
+  {
+    "_id": "PB-TM11-P113",
+    "Enunciado": "¿Qué ocurre con la percepción del riesgo bajo los efectos de la cocaína?",
+    "Opciones": [
+      "A) El conductor pierde la sensación de peligro.",
+      "B) El conductor percibe peligros donde no los hay.",
+      "C) El conductor se vuelve extremadamente cauteloso."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Al eliminar la percepción del riesgo, el conductor se atreve a realizar maniobras muy peligrosas."
+  },
+  {
+    "_id": "PB-TM11-P114",
+    "Enunciado": "¿Qué efecto perceptivo grave puede provocar el consumo de éxtasis?",
+    "Opciones": [
+      "A) Una mejora en la visión nocturna.",
+      "B) Sufrir alucinaciones.",
+      "C) Una visión microscópica de la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El éxtasis puede causar alucinaciones, haciendo que el conductor vea cosas que no existen."
+  },
+  {
+    "_id": "PB-TM11-P115",
+    "Enunciado": "En relación con la vista, ¿qué puede sentir una persona que ha tomado éxtasis?",
+    "Opciones": [
+      "A) Una capacidad extraordinaria para leer carteles a larga distancia.",
+      "B) Menor sensibilidad a los deslumbramientos.",
+      "C) Más sensibilidad a la luz o visión borrosa."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El éxtasis afecta a la función ocular, produciendo fotofobia y falta de nitidez visual."
+  },
+  {
+    "_id": "PB-TM11-P116",
+    "Enunciado": "¿Qué estado anímico suele aparecer cuando pasan los efectos del éxtasis?",
+    "Opciones": [
+      "A) Depresión o ansiedad.",
+      "B) Una alegría desbordante y energía renovada.",
+      "C) Una calma absoluta ideal para el descanso."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Tras el efecto inicial, el consumidor de éxtasis suele caer en estados de ánimo negativos como la depresión."
+  },
+  {
+    "_id": "PB-TM11-P117",
+    "Enunciado": "Señale dos efectos peligrosos del consumo de LSD al conducir:",
+    "Opciones": [
+      "A) Pérdida total de la visión lateral y aumento de la paciencia.",
+      "B) Sufrir alucinaciones y reaccionar de forma agresiva.",
+      "C) Somnolencia profunda y movimientos extremadamente precisos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El LSD es un potente alucinógeno que además puede provocar estallidos de agresividad al volante."
+  },
+  {
+    "_id": "PB-TM11-P118",
+    "Enunciado": "Además de la agresividad, el LSD puede provocar en el conductor:",
+    "Opciones": [
+      "A) Ansiedad e incluso pánico.",
+      "B) Un aumento de la sensación de bienestar físico.",
+      "C) Una relajación muscular que facilita la conducción."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los efectos psicológicos del LSD incluyen episodios de miedo intenso y ansiedad incontrolable."
+  },
+  {
+    "_id": "PB-TM11-P119",
+    "Enunciado": "¿Cómo influyen las anfetaminas en el carácter de quien conduce?",
+    "Opciones": [
+      "A) Provocan una excesiva amabilidad con los peatones.",
+      "B) Hacen que pierda la paciencia y tenga comportamientos impulsivos.",
+      "C) Hacen que el conductor sea más reflexivo y pausado."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las anfetaminas generan irritabilidad, impaciencia y reacciones violentas o impulsivas."
+  },
+  {
+    "_id": "PB-TM11-P120",
+    "Enunciado": "¿Qué efecto tienen las anfetaminas sobre la fatiga?",
+    "Opciones": [
+      "A) Provocan un retraso de la fatiga y el sueño.",
+      "B) Aceleran la aparición del cansancio físico.",
+      "C) Eliminan la necesidad de dormir del conductor."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las anfetaminas enmascaran el cansancio, retrasando la aparición de la fatiga y el sueño, lo cual es muy peligroso."
+  }
+]

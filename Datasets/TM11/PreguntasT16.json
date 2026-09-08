@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P432",
+        "Enunciado": "Un conductor que obtuvo su primer permiso de conducir hace 18 meses circula conduciendo un vehículo de urgencias. ¿Cuál es su tasa máxima de alcohol permitida en aire espirado?",
+        "Opciones": [
+            "A) 0,25 miligramos por litro.",
+            "B) 0,15 miligramos por litro.",
+            "C) 0,30 miligramos por litro."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los conductores de servicios de urgencias y los poseedores de un permiso de menos de dos años están sujetos a la tasa reducida de 0,15 mg/l en aire."
+    },
+    {
+        "_id": "PB-TM11-P433",
+        "Enunciado": "Respecto a la eliminación del alcohol, ¿qué factor facilita que el organismo lo procese de forma más eficiente?",
+        "Opciones": [
+            "A) Realizar la ingesta de forma lenta.",
+            "B) Realizar ejercicio físico intenso inmediatamente después de la ingesta.",
+            "C) Dormir profundamente durante las primeras tres horas tras beber."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario especifica que el cuerpo elimina mejor el alcohol cuando se bebe despacio que cuando se bebe rápido."
+    },
+    {
+        "_id": "PB-TM11-P434",
+        "Enunciado": "Tras la ingesta de una bebida alcohólica, ¿en qué momento se alcanza, por norma general, el punto de máxima alcoholemia?",
+        "Opciones": [
+            "A) Inmediatamente después del último sorbo.",
+            "B) A las dos horas, momento en que el alcohol llega al intestino grueso.",
+            "C) Una hora después de beber."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El pico máximo de la tasa de alcoholemia se sitúa aproximadamente una hora después de haber bebido."
+    },
+    {
+        "_id": "PB-TM11-P435",
+        "Enunciado": "De acuerdo con el temario, ¿cuál es el efecto específico del cannabis sobre la percepción visual del conductor?",
+        "Opciones": [
+            "A) Provoca fotofobia o sensibilidad extrema a la luz.",
+            "B) Causa una visión túnel que reduce el campo periférico al 10%.",
+            "C) Altera la percepción de los colores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cannabis hace que se vea el entorno de otra manera, citando el texto como ejemplo que los colores se ven distintos."
+    },
+    {
+        "_id": "PB-TM11-P436",
+        "Enunciado": "Un conductor que muestra comportamientos impulsivos, violentos y una falsa percepción de inexistencia de fatiga, probablemente ha consumido:",
+        "Opciones": [
+            "A) Anfetaminas.",
+            "B) Éxtasis.",
+            "C) LSD."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las anfetaminas provocan comportamientos impulsivos y violentos, además de sufrir un retraso (falsa ausencia) de la fatiga y el sueño."
+    },
+    {
+        "_id": "PB-TM11-P437",
+        "Enunciado": "Al aplicar la regla PAS tras un accidente, ¿cuál debe ser la prioridad del auxiliador dentro del paso 'Proteger'?",
+        "Opciones": [
+            "A) Señalizar el lugar para ayudar a los servicios de emergencia.",
+            "B) Protegerse a sí mismo.",
+            "C) Proteger a las víctimas de mayor gravedad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La primera prioridad en la fase de protección es el propio auxiliador para evitar convertirse en una nueva víctima."
+    },
+    {
+        "_id": "PB-TM11-P438",
+        "Enunciado": "¿Qué síntoma circulatorio es característico de un herido que ha entrado en estado de shock?",
+        "Opciones": [
+            "A) Pulso muy lento pero fácil de localizar.",
+            "B) Pulso rápido y débil.",
+            "C) Pulso fuerte y rítmico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una persona en shock presenta un pulso acelerado (rápido) pero con poca fuerza (débil) debido a la falta de riego sanguíneo."
+    },
+    {
+        "_id": "PB-TM11-P439",
+        "Enunciado": "Si un accidentado presenta una hemorragia porque se le ha clavado un objeto en el cuerpo, el auxiliador debe:",
+        "Opciones": [
+            "A) Retirar el objeto si este impide realizar la compresión directa.",
+            "B) Presionar el objeto hacia adentro para que actúe como tapón.",
+            "C) No intentar sacar el objeto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario prohíbe explícitamente intentar extraer objetos clavados en las víctimas de un accidente."
+    },
+    {
+        "_id": "PB-TM11-P440",
+        "Enunciado": "En la reanimación cardiopulmonar (RCP), ¿cuál es la frecuencia recomendada de compresiones torácicas?",
+        "Opciones": [
+            "A) Unas 100 veces por minuto.",
+            "B) 60 compresiones por minuto.",
+            "C) Exactamente 30 compresiones cada 10 segundos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El ritmo de las compresiones sobre el tórax en la maniobra de RCP debe ser de aproximadamente 100 por minuto."
+    },
+    {
+        "_id": "PB-TM11-P441",
+        "Enunciado": "Ante una hemorragia exteriorizada por el oído, ¿cuál es la actuación correcta?",
+        "Opciones": [
+            "A) Introducir una gasa profundamente para absorber la sangre.",
+            "B) Taparlo con una gasa de forma superficial, sin presionar.",
+            "C) Taponar el conducto auditivo con algodón seco."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En hemorragias por el oído se debe cubrir el orificio de forma laxa, sin ejercer presión que pueda aumentar la tensión interna."
+    },
+    {
+        "_id": "PB-TM11-P442",
+        "Enunciado": "¿Qué proporción de muertes en accidentes de tráfico se atribuye directamente al factor humano?",
+        "Opciones": [
+            "A) Menos del 50 por ciento.",
+            "B) Exactamente el 95 por ciento de los accidentes.",
+            "C) Entre 70 y 90 de cada 100."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El factor humano es la causa principal, estando presente en una horquilla de entre el 70% y el 90% de los siniestros."
+    },
+    {
+        "_id": "PB-TM11-P443",
+        "Enunciado": "Un conductor padece una alergia respiratoria. ¿Cuál de estos consejos de conducción es el más adecuado según el temario?",
+        "Opciones": [
+            "A) No conducir al amanecer ni por zonas húmedas.",
+            "B) Realizar trayectos largos para minimizar el número de arranques del motor.",
+            "C) Abrir las ventanillas para permitir la recirculación natural del aire."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El amanecer y las zonas húmedas son momentos y lugares de riesgo para los alérgicos que deben evitarse al volante."
+    },
+    {
+        "_id": "PB-TM11-P444",
+        "Enunciado": "Respecto a las quemaduras, ¿en qué circunstancia se permite dar agua al herido?",
+        "Opciones": [
+            "A) Únicamente si la quemadura afecta a más del 50% del cuerpo.",
+            "B) Siempre que esté consciente, no tenga otras lesiones y no vomite.",
+            "C) Nunca, el suministro de líquidos está prohibido en quemados por riesgo de infección."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se puede hidratar a la víctima de quemaduras si está consciente y no presenta síntomas de otras lesiones o vómitos."
+    },
+    {
+        "_id": "PB-TM11-P445",
+        "Enunciado": "La 'hora de oro' tras un accidente de tráfico se define como el periodo en el cual:",
+        "Opciones": [
+            "A) La policía realiza el atestado y la reconstrucción de los hechos.",
+            "B) Las labores de reanimación son críticas para salvar la vida (1-2 horas después).",
+            "C) Se producen las muertes inmediatas en los primeros segundos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se denomina 'hora de oro' a las dos primeras horas tras el accidente donde la intervención médica es determinante."
+    },
+    {
+        "_id": "PB-TM11-P446",
+        "Enunciado": "Como norma general, para evitar la fatiga, se debe descansar 20 o 30 minutos:",
+        "Opciones": [
+            "A) Únicamente cuando aparezcan los primeros bostezos.",
+            "B) Cada dos horas o cada 200 kilómetros.",
+            "C) Cada 4 horas de conducción ininterrumpida."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La recomendación preventiva es detenerse cada 2 horas o 200 km, independientemente de si se siente cansancio."
+    },
+    {
+        "_id": "PB-TM11-P447",
+        "Enunciado": "¿Qué frecuencia respiratoria se considera normal en un niño según el manual?",
+        "Opciones": [
+            "A) Entre 15 y 20 respiraciones por minuto.",
+            "B) Entre 30 y 40 respiraciones por minuto.",
+            "C) Entre 26 y 30 respiraciones por minuto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual diferencia entre adultos (15-20), niños (26-30) y bebés (30-40) respiraciones por minuto."
+    },
+    {
+        "_id": "PB-TM11-P448",
+        "Enunciado": "¿Cuál es la tasa de alcohol permitida para un conductor de un vehículo que transporta a 12 pasajeros?",
+        "Opciones": [
+            "A) 0,25 miligramos de alcohol por litro de aire.",
+            "B) 0,15 miligramos de alcohol por litro de aire.",
+            "C) 0,50 miligramos de alcohol por litro de aire."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El transporte de más de nueve personas obliga al conductor a cumplir con la tasa reducida de 0,15 mg/l."
+    },
+    {
+        "_id": "PB-TM11-P449",
+        "Enunciado": "¿Cómo afecta el consumo de cocaína a la toma de riesgos en la conducción?",
+        "Opciones": [
+            "A) Hace que el conductor pierda la sensación de peligro.",
+            "B) Provoca un estado de somnolencia que impide cualquier riesgo.",
+            "C) Aumenta la capacidad de concentración, reduciendo los riesgos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La cocaína elimina la percepción del peligro, lo que deriva en una conducción mucho más arriesgada."
+    },
+    {
+        "_id": "PB-TM11-P450",
+        "Enunciado": "En relación con los accidentes de jóvenes, ¿cuál es el momento del día con mayor siniestralidad?",
+        "Opciones": [
+            "A) A las horas de salida del trabajo por la tarde.",
+            "B) Durante las horas centrales del mediodía.",
+            "C) Por la noche y de madrugada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La mayor parte de los accidentes de conductores jóvenes ocurren en horario nocturno y de madrugada."
+    },
+    {
+        "_id": "PB-TM11-P451",
+        "Enunciado": "Ante una herida que sangra abundantemente en un brazo, ¿qué paso debe darse si la compresión directa con una gasa no funciona?",
+        "Opciones": [
+            "A) Aplicar un torniquete de inmediato.",
+            "B) Realizar una compresión arterial.",
+            "C) Retirar la gasa empapada y aplicar una nueva con más fuerza."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El protocolo ante hemorragias en extremidades es: 1º Compresión directa, 2º Compresión arterial y 3º Torniquete."
+    },
+    {
+        "_id": "PB-TM11-P452",
+        "Enunciado": "¿Qué efecto secundario tienen los medicamentos antitusígenos que afecta a la seguridad vial?",
+        "Opciones": [
+            "A) Fotofobia y visión doble.",
+            "B) Hiperactividad y ver el entorno de otra manera.",
+            "C) Cambios de humor y pérdida de reflejos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los fármacos para calmar la tos pueden alterar el estado de ánimo y ralentizar la capacidad de reacción."
+    },
+    {
+        "_id": "PB-TM11-P453",
+        "Enunciado": "Al realizar un torniquete, ¿cuál de estas acciones es obligatoria según el temario?",
+        "Opciones": [
+            "A) Escribir en un papel la hora a la que se hizo.",
+            "B) Aflojar el torniquete cada 10 minutos para oxigenar la extremidad.",
+            "C) Cubrir el torniquete con vendas para que no se mueva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es imperativo registrar la hora de colocación para que los facultativos médicos dispongan de esa información crítica."
+    },
+    {
+        "_id": "PB-TM11-P454",
+        "Enunciado": "¿Qué caracteriza a la fatiga psicológica frente a la física?",
+        "Opciones": [
+            "A) Provoca sensación de pesadez en las extremidades inferiores.",
+            "B) Produce dificultad para concentrarse.",
+            "C) Genera un aumento inmediato del tiempo de reacción al doble."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario define la fatiga física como cansancio corporal y la psicológica como la pérdida de capacidad de concentración."
+    },
+    {
+        "_id": "PB-TM11-P455",
+        "Enunciado": "Si un conductor novel (menos de 2 años) arroja una tasa de 0,4 g/l de alcohol en sangre, ¿cuál es la consecuencia?",
+        "Opciones": [
+            "A) Ninguna, pues no supera el límite de 0,5 g/l.",
+            "B) Recibe una amonestación pero puede seguir conduciendo.",
+            "C) Comete una falta muy grave al superar el límite de 0,3 g/l."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El límite para noveles en sangre es de 0,3 g/l. Al arrojar 0,4 g/l, el conductor ha superado la tasa permitida."
+    },
+    {
+        "_id": "PB-TM11-P456",
+        "Enunciado": "¿Qué medida de seguridad debe tomar un conductor antes de bajar de su vehículo para evitar un accidente?",
+        "Opciones": [
+            "A) Encender las luces de posición.",
+            "B) Comprobar que no viene otro vehículo.",
+            "C) Ponerse el chaleco reflectante antes de abrir la puerta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La precaución básica antes de descender es verificar visualmente que el paso está libre de otros vehículos o usuarios."
+    },
+    {
+        "_id": "PB-TM11-P457",
+        "Enunciado": "En un herido inconsciente, el primer paso para comprobar su respiración si está boca abajo es:",
+        "Opciones": [
+            "A) Acercar la mejilla a su espalda para sentir el movimiento pulmonar.",
+            "B) Presionar su tórax contra el suelo para forzar la salida de aire.",
+            "C) Girarlo para ponerlo boca arriba y subir su barbilla."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para realizar la evaluación de la respiración, el herido debe estar en decúbito supino (boca arriba) con las vías abiertas."
+    },
+    {
+        "_id": "PB-TM11-P458",
+        "Enunciado": "Respecto a los accidentes de ciclistas, ¿dónde mueren más personas de este colectivo?",
+        "Opciones": [
+            "A) En las carreteras fuera de las ciudades.",
+            "B) En las calles del centro de las ciudades por atropellos.",
+            "C) En los carriles bici situados en parques públicos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Aunque hay más accidentes en ciudad, la mayor letalidad para los ciclistas se da en vías interurbanas."
+    },
+    {
+        "_id": "PB-TM11-P459",
+        "Enunciado": "¿Qué efecto tiene el éxtasis en el estado anímico del conductor una vez que pasan sus efectos iniciales?",
+        "Opciones": [
+            "A) Euforia y falta de sueño persistente.",
+            "B) Depresión o ansiedad.",
+            "C) Agresividad extrema e impulsividad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El éxtasis provoca una fase posterior de bajada caracterizada por síntomas depresivos y ansiedad."
+    },
+    {
+        "_id": "PB-TM11-P460",
+        "Enunciado": "¿Cuándo se considera que un conductor ha cometido el delito de omisión de socorro?",
+        "Opciones": [
+            "A) Cuando ayuda a los heridos sin tener formación médica oficial.",
+            "B) Cuando causa un accidente y se da a la fuga en vez de ayudar.",
+            "C) Cuando traslada a un herido en su propio coche sin esperar a la ambulancia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Darse a la fuga tras provocar un accidente es uno de los supuestos que constituyen el delito de omisión de socorro."
+    },
+    {
+        "_id": "PB-TM11-P461",
+        "Enunciado": "Para evitar el atropello a ciclistas, ¿qué prohibición de adelantamiento establece el temario?",
+        "Opciones": [
+            "A) No adelantar a ciclistas en tramos rectos de gran visibilidad.",
+            "B) No adelantar a otros vehículos si vienen ciclistas en sentido contrario.",
+            "C) No adelantar a más de dos ciclistas que circulen en grupo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Está prohibido realizar adelantamientos a otros vehículos si hay ciclistas circulando en el sentido opuesto por el riesgo que conlleva."
+    }
+]

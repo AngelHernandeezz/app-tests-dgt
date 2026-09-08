@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM11-P361",
+        "Enunciado": "¿A qué número de teléfono se debe llamar para pedir ayuda ante un accidente?",
+        "Opciones": [
+            "A) Al 091 o al 062 directamente.",
+            "B) Al número de emergencias 112.",
+            "C) Al número de información de tráfico 011."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para solicitar auxilio médico o de seguridad ante un siniestro vial, se debe llamar al teléfono de emergencias 112."
+    },
+    {
+        "_id": "PB-TM11-P362",
+        "Enunciado": "Si una persona no tiene teléfono móvil en el lugar del accidente, ¿cómo puede avisar?",
+        "Opciones": [
+            "A) Intentando arreglar el vehículo por sus propios medios.",
+            "B) Esperando a que pase un vehículo con radioaficionado.",
+            "C) Acudiendo al poste SOS más cercano."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En ausencia de teléfono móvil, los postes de auxilio (SOS) situados en las carreteras permiten comunicar la emergencia."
+    },
+    {
+        "_id": "PB-TM11-P363",
+        "Enunciado": "¿Qué debe hacer el testigo tras avisar a los servicios de emergencia?",
+        "Opciones": [
+            "A) Quedarse en el lugar o cerca hasta que lleguen las autoridades.",
+            "B) Continuar su viaje para no colapsar la línea telefónica.",
+            "C) Buscar a los familiares de los heridos por su cuenta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El deber de auxilio incluye permanecer en la zona del accidente hasta que el personal especializado tome el control."
+    },
+    {
+        "_id": "PB-TM11-P364",
+        "Enunciado": "¿En qué consiste el sistema eCall de algunos vehículos?",
+        "Opciones": [
+            "A) Es un sistema de llamadas gratuitas para el mantenimiento del coche.",
+            "B) Permite navegar por internet para buscar el hospital más cercano.",
+            "C) Envía un mensaje automático al 112 en caso de accidente."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El sistema eCall detecta el accidente y avisa automáticamente a emergencias proporcionando la ubicación, incluso si nadie puede llamar."
+    },
+    {
+        "_id": "PB-TM11-P365",
+        "Enunciado": "Dentro de la fase de socorro, ¿qué está prohibido dar a los heridos?",
+        "Opciones": [
+            "A) Medicamentos, alimentos o bebidas.",
+            "B) Ropa de abrigo para que no tengan frío.",
+            "C) Apoyo emocional a través de la palabra."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Por seguridad médica, nunca se debe administrar fármacos, comida o líquidos a las víctimas de un accidente."
+    },
+    {
+        "_id": "PB-TM11-P366",
+        "Enunciado": "Respecto a las heridas de los accidentados, ¿qué medida de higiene se debe evitar?",
+        "Opciones": [
+            "A) Cubrirlas con un pañuelo seco y limpio.",
+            "B) Echar pomadas o alcohol en sus heridas.",
+            "C) Mantener la zona elevada si es posible."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "No se debe aplicar ningún tipo de desinfectante o crema directamente sobre las lesiones en el lugar del accidente."
+    },
+    {
+        "_id": "PB-TM11-P367",
+        "Enunciado": "¿Por qué es importante tapar a los heridos con mantas finas o prendas?",
+        "Opciones": [
+            "A) Para evitar que los curiosos vean sus lesiones.",
+            "B) Para que mantengan la temperatura de su cuerpo.",
+            "C) Únicamente para protegerles de la luz solar directa."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los accidentados pueden entrar en shock y perder calor corporal rápidamente; abrigarlos ayuda a estabilizarlos."
+    },
+    {
+        "_id": "PB-TM11-P368",
+        "Enunciado": "Si tiene dudas sobre cómo actuar médicamente, ¿qué es lo más aconsejable?",
+        "Opciones": [
+            "A) Darles algún calmante suave que tenga a mano.",
+            "B) Realizar maniobras de masaje cardíaco por precaución.",
+            "C) Hablar a los heridos y darles apoyo emocional."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ante la duda, la mejor ayuda es la compañía y el consuelo verbal, evitando intervenciones físicas que puedan ser perjudiciales."
+    },
+    {
+        "_id": "PB-TM11-P369",
+        "Enunciado": "¿Cuál es el riesgo de tocar o mover a un herido si no se está seguro de cómo hacerlo?",
+        "Opciones": [
+            "A) Que se puedan empeorar sus heridas.",
+            "B) Que las autoridades no puedan reconstruir el accidente.",
+            "C) Que el herido se ponga más nervioso de lo normal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una manipulación incorrecta de una víctima de tráfico puede provocar lesiones medulares o agravamientos fatales."
+    },
+    {
+        "_id": "PB-TM11-P370",
+        "Enunciado": "Cuando sea strictly necesario mover a un herido por peligro de muerte, ¿cuántas personas deben hacerlo?",
+        "Opciones": [
+            "A) Siempre un número par de personas para equilibrar el peso.",
+            "B) Una sola persona para evitar descoordinación.",
+            "C) Es preferible hacerlo entre tres personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para garantizar que el cuerpo se desplace como un solo bloque, se recomienda la intervención de tres auxiliadores."
+    },
+    {
+        "_id": "PB-TM11-P371",
+        "Enunciado": "Al mover a un herido en bloque, el objetivo fundamental es:",
+        "Opciones": [
+            "A) Conseguir que la cabeza, el cuello y el cuerpo queden alineados.",
+            "B) Terminar el movimiento en menos de diez segundos.",
+            "C) Que el herido esté lo más cómodo posible durante el trayecto."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Mantener el eje cabeza-cuello-tronco recto es vital para proteger la columna vertebral de la víctima."
+    },
+    {
+        "_id": "PB-TM11-P372",
+        "Enunciado": "Para sacar a una persona herida del interior de un vehículo, el primer paso es:",
+        "Opciones": [
+            "A) Sujetar con fuerza los hombros del accidentado.",
+            "B) Pasar los brazos por debajo de sus axilas, con cuidado.",
+            "C) Tirar de las piernas para deslizarla sobre el asiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La técnica correcta de extracción comienza pasando los brazos bajo las axilas del herido para un mejor control del torso."
+    },
+    {
+        "_id": "PB-TM11-P373",
+        "Enunciado": "Tras pasar los brazos por las axilas del herido para sacarlo, ¿qué se debe sujetar?",
+        "Opciones": [
+            "A) Sujetar ambos brazos cruzados sobre el pecho.",
+            "B) Agarrar firmemente la ropa de la cintura.",
+            "C) Coger su brazo con una mano y sujetar la barbilla con la otra."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Sujetar la barbilla es esencial para evitar que la cabeza caiga o se mueva bruscamente durante la extracción."
+    },
+    {
+        "_id": "PB-TM11-P374",
+        "Enunciado": "La salida de la víctima del vehículo debe realizarse:",
+        "Opciones": [
+            "A) De forma lenta y manteniendo cabeza, cuello y tronco en línea.",
+            "B) De forma muy rápida para evitar explosiones.",
+            "C) Por la puerta del acompañante independientemente de dónde esté sentado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La extracción debe ser pausada y cuidadosa para no romper la alineación del cuerpo del accidentado."
+    },
+    {
+        "_id": "PB-TM11-P375",
+        "Enunciado": "¿Qué partes del cuerpo suelen sufrir más daño en los accidentes de tráfico?",
+        "Opciones": [
+            "A) Las manos y los pies.",
+            "B) La cabeza y las piernas.",
+            "C) El abdomen y la espalda."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Estadísticamente, los traumatismos craneales y las lesiones en extremidades inferiores son los más comunes en siniestros viales."
+    },
+    {
+        "_id": "PB-TM11-P376",
+        "Enunciado": "¿Cuál es el orden correcto para comprobar las constantes vitales de un herido?",
+        "Opciones": [
+            "A) Es indiferente el orden siempre que se miren ambas.",
+            "B) Primero la consciencia y después la respiración.",
+            "C) Primero la respiración y después la consciencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El protocolo de primeros auxilios exige evaluar primero si la persona responde (consciencia) y luego si respira."
+    },
+    {
+        "_id": "PB-TM11-P377",
+        "Enunciado": "Si una persona no contesta a la pregunta '¿Estás bien?', ¿qué puede hacer para ver si está consciente?",
+        "Opciones": [
+            "A) Zarandearla fuertemente por los hombros.",
+            "B) Echarle agua fría en la cara.",
+            "C) Darle un pequeño pellizco para ver si reacciona."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un estímulo doloroso leve, como un pellizco, sirve para verificar si existe algún tipo de respuesta refleja."
+    },
+    {
+        "_id": "PB-TM11-P378",
+        "Enunciado": "Si el herido responde moviéndose o contestando, el auxiliador debe:",
+        "Opciones": [
+            "A) No mover al herido y comprobar si tiene hemorragias o fracturas.",
+            "B) Ayudarle a ponerse de pie inmediatamente.",
+            "C) Darle un masaje en las piernas para mejorar la circulación."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si está consciente, lo prioritario es no moverlo para evitar lesiones secundarias y evaluar otras posibles heridas."
+    },
+    {
+        "_id": "PB-TM11-P379",
+        "Enunciado": "Cuando un accidentado no responde ni se mueve tras los estímulos:",
+        "Opciones": [
+            "A) Está inconsciente y se debe comprobar si respira.",
+            "B) Se debe intentar que beba agua para que recupere el sentido.",
+            "C) Significa que ha fallecido y no se debe hacer nada más."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falta de respuesta indica inconsciencia, lo que obliga a verificar de inmediato la función respiratoria."
+    },
+    {
+        "_id": "PB-TM11-P380",
+        "Enunciado": "Para comprobar la respiración de una persona, el primer paso visual es:",
+        "Opciones": [
+            "A) Observar si hay sudoración en la frente.",
+            "B) Comprobar si tiene las pupilas dilatadas.",
+            "C) Mirar su pecho para ver si se mueve."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El movimiento torácico es el signo más evidente de que la persona está realizando el intercambio de aire."
+    },
+    {
+        "_id": "PB-TM11-P381",
+        "Enunciado": "¿Cómo se deben abrir las vías respiratorias si el herido está boca arriba?",
+        "Opciones": [
+            "A) Colocando una almohada alta debajo de su cabeza.",
+            "B) Subiendo su barbilla.",
+            "C) Bajando la barbilla hacia el pecho."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Elevar la barbilla ayuda a despejar la garganta y facilitar la entrada de aire a los pulmones."
+    },
+    {
+        "_id": "PB-TM11-P382",
+        "Enunciado": "¿Cuál es la frecuencia respiratoria normal de una persona adulta?",
+        "Opciones": [
+            "A) Menos de 5 respiraciones por minuto.",
+            "B) Más de 50 respiraciones por minuto.",
+            "C) Entre 15 y 20 respiraciones por minuto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Un adulto sano en reposo suele realizar entre 15 y 20 ciclos respiratorios cada minuto."
+    },
+    {
+        "_id": "PB-TM11-P383",
+        "Enunciado": "¿Cuántas respiraciones por minuto se consideran normales en un bebé?",
+        "Opciones": [
+            "A) Entre 30 y 40 respiraciones por minuto.",
+            "B) Exactamente 60 respiraciones por minuto.",
+            "C) Entre 10 y 15 respiraciones."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los bebés tienen un ritmo respiratorio mucho más acelerado que los adultos, situándose entre 30 y 40."
+    },
+    {
+        "_id": "PB-TM11-P384",
+        "Enunciado": "La respiración normal de un niño se sitúa entre:",
+        "Opciones": [
+            "A) 10 y 12 respiraciones por minuto.",
+            "B) 26 y 30 respiraciones por minuto.",
+            "C) 45 y 55 respiraciones por minuto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En los niños, la frecuencia respiratoria normal es intermedia, entre 26 y 30 respiraciones por minuto."
+    },
+    {
+        "_id": "PB-TM11-P385",
+        "Enunciado": "Que una persona respire de forma normal después de un accidente es señal de que:",
+        "Opciones": [
+            "A) Ya no corre peligro de entrar en shock.",
+            "B) El corazón funciona.",
+            "C) No tiene ninguna fractura interna."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La presencia de respiración espontánea y eficaz indica que el sistema circulatorio (corazón) está activo."
+    },
+    {
+        "_id": "PB-TM11-P386",
+        "Enunciado": "Si el herido respira pero debe dejarlo solo para atender a otros, ¿en qué posición debe colocarlo?",
+        "Opciones": [
+            "A) Colocarle de lado.",
+            "B) Sentado con la espalda apoyada en un árbol.",
+            "C) Boca abajo con los brazos estirados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La posición lateral de seguridad evita que el herido se asfixie si vomita o si la lengua obstruye la garganta."
+    },
+    {
+        "_id": "PB-TM11-P387",
+        "Enunciado": "Si el herido no respira de forma normal, se debe realizar:",
+        "Opciones": [
+            "A) Únicamente respiración boca a boca sin tocar el pecho.",
+            "B) Un torniquete en el cuello.",
+            "C) La reanimación cardiopulmonar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La ausencia de respiración requiere iniciar maniobras de RCP para mantener la oxigenación de los órganos vitales."
+    },
+    {
+        "_id": "PB-TM11-P388",
+        "Enunciado": "¿A qué ritmo se deben realizar las compresiones en el tórax durante la RCP?",
+        "Opciones": [
+            "A) Una vez cada cinco segundos.",
+            "B) 10 veces por minuto para no cansar al auxiliador.",
+            "C) Unas 100 veces por minuto."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La frecuencia recomendada para las compresiones torácicas es de aproximadamente 100 por minuto."
+    },
+    {
+        "_id": "PB-TM11-P389",
+        "Enunciado": "¿Cuál es la proporción correcta de compresiones y ventilaciones en la reanimación?",
+        "Opciones": [
+            "A) 2 ventilaciones boca a boca cada 30 compresiones.",
+            "B) 10 compresiones y 10 ventilaciones alternativamente.",
+            "C) 30 ventilaciones por cada 2 compresiones lentas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El ciclo de RCP consiste en realizar 30 presiones sobre el tórax seguidas de 2 insuflaciones de aire."
+    },
+    {
+        "_id": "PB-TM11-P390",
+        "Enunciado": "¿Qué es una hemorragia y qué riesgo principal conlleva?",
+        "Opciones": [
+            "A) Es la pérdida de memoria tras un golpe en la cabeza.",
+            "B) Es perder mucha sangre y la persona puede entrar en shock o morir.",
+            "C) Es la rotura de un hueso y el riesgo es la cojera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una hemorragia es la salida de sangre de los vasos sanguíneos, lo cual puede comprometer la vida si es abundante."
+    }
+]

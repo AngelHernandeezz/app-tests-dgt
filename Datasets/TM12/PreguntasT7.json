@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM12-P181",
+        "Enunciado": "Para realizar una conducción eficiente, al arrancar el motor se debe:",
+        "Opciones": [
+            "A) Arrancar el motor sin pisar el acelerador.",
+            "B) Mantener el pedal del freno y el del acelerador pisados a la vez.",
+            "C) Pisar el acelerador a fondo para que el motor caliente antes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una de las técnicas básicas para conducir de forma eficiente es arrancar el motor sin accionar el pedal del acelerador."
+    },
+    {
+        "_id": "PB-TM12-P182",
+        "Enunciado": "¿En qué momento se debe empezar a circular con el vehículo tras encender el motor?",
+        "Opciones": [
+            "A) Únicamente cuando la aguja de la temperatura llegue a su nivel óptimo.",
+            "B) Justo después de encender el motor.",
+            "C) Después de esperar al menos tres minutos con el coche al ralentí."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario indica que se debe empezar a circular con el vehículo justo después de encender el motor."
+    },
+    {
+        "_id": "PB-TM12-P183",
+        "Enunciado": "Al iniciar la marcha con el motor todavía frío, ¿cómo debe ser la velocidad?",
+        "Opciones": [
+            "A) Poca velocidad.",
+            "B) La máxima permitida para que el aceite circule rápido.",
+            "C) Variable, realizando aceleraciones fuertes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se debe empezar circulando a poca velocidad y aumentarla progresivamente conforme el motor se vaya calentando."
+    },
+    {
+        "_id": "PB-TM12-P184",
+        "Enunciado": "¿Qué consecuencias tiene circular a mucha velocidad cuando el motor todavía está frío?",
+        "Opciones": [
+            "A) Que el motor se limpia de residuos internos.",
+            "B) Que se gasta más combustible y el motor se desgasta antes.",
+            "C) Ninguna, el motor alcanza antes su temperatura de funcionamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Exigir velocidad al motor en frío provoca un aumento innecesario del consumo y acelera el desgaste de sus piezas."
+    },
+    {
+        "_id": "PB-TM12-P185",
+        "Enunciado": "¿Cuál es la forma correcta de acelerar según las técnicas de eficiencia?",
+        "Opciones": [
+            "A) Pisando el pedal de forma rápida y profunda.",
+            "B) Acelerar poco a poco pisando el pedal de forma suave.",
+            "C) Mantener el acelerador en una posición fija sin importar la pendiente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La aceleración debe ser progresiva y suave para optimizar el uso del combustible."
+    },
+    {
+        "_id": "PB-TM12-P186",
+        "Enunciado": "Respecto a la primera marcha, el temario especifica que:",
+        "Opciones": [
+            "A) Es la velocidad en la que el motor consume menos.",
+            "B) Debe mantenerse durante al menos 500 metros.",
+            "C) El motor tiene mucha potencia, pero va a muy poca velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La primera velocidad se caracteriza por ofrecer mucha fuerza de empuje (potencia) pero un desarrollo de velocidad muy corto."
+    },
+    {
+        "_id": "PB-TM12-P187",
+        "Enunciado": "¿Cuándo se recomienda cambiar a la segunda marcha?",
+        "Opciones": [
+            "A) A los pocos segundos de haber arrancado.",
+            "B) Cuando el vehículo circule a más de 40 km/h.",
+            "C) Al alcanzar las 4000 revoluciones por minuto."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para ahorrar combustible, se debe pasar a la segunda marcha casi inmediatamente después de iniciar el movimiento."
+    },
+    {
+        "_id": "PB-TM12-P188",
+        "Enunciado": "¿Qué diferencia hay entre la segunda marcha y la primera?",
+        "Opciones": [
+            "A) La segunda tiene más potencia que la primera.",
+            "B) En segunda el motor siempre va a más revoluciones.",
+            "C) El vehículo tiene un poco menos de potencia y va algo más rápido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al subir de marcha, el vehículo pierde algo de fuerza bruta pero gana capacidad de desplazamiento veloz."
+    },
+    {
+        "_id": "PB-TM12-P189",
+        "Enunciado": "Una vez que el vehículo ya circula en segunda marcha, ¿cómo se debe aumentar la velocidad?",
+        "Opciones": [
+            "A) De forma brusca para llegar pronto a la marcha más larga.",
+            "B) No se debe aumentar hasta salir de la zona urbana.",
+            "C) De forma suave y poco a poco."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Tras el cambio a segunda, el incremento de la velocidad debe seguir siendo gradual y suave."
+    },
+    {
+        "_id": "PB-TM12-P190",
+        "Enunciado": "¿En qué marchas el vehículo gasta menos combustible?",
+        "Opciones": [
+            "A) Únicamente cuando se circula en tercera.",
+            "B) En la primera y segunda marcha.",
+            "C) En la cuarta y quinta marcha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El consumo es menor en las marchas largas (cuarta y quinta) porque el motor trabaja a más velocidad con menos esfuerzo (potencia)."
+    },
+    {
+        "_id": "PB-TM12-P191",
+        "Enunciado": "¿Cuál es la recomendación para circular de forma eficiente dentro de la ciudad?",
+        "Opciones": [
+            "A) Usar siempre marchas cortas para poder frenar antes.",
+            "B) Intentar usar la marcha más larga posible, respetando los límites.",
+            "C) Circular siempre en punto muerto en las bajadas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En entorno urbano se debe buscar siempre la marcha más larga que permita el motor sin sobrepasar la velocidad permitida."
+    },
+    {
+        "_id": "PB-TM12-P192",
+        "Enunciado": "¿Qué le ocurre al consumo del vehículo a partir de los 80 o 90 kilómetros por hora?",
+        "Opciones": [
+            "A) Empieza a bajar debido a la inercia del vehículo.",
+            "B) Se mantiene estable y no sube más.",
+            "C) El vehículo consume mucho más combustible y contamina más."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Superar los 80-90 km/h supone un incremento notable en el gasto de carburante y en las emisiones."
+    },
+    {
+        "_id": "PB-TM12-P193",
+        "Enunciado": "¿Qué efecto negativo tiene cambiar la velocidad muchas veces durante la conducción?",
+        "Opciones": [
+            "A) Ayuda a que el motor se mantenga a una temperatura más baja.",
+            "B) Hace que se consuma más combustible y el conductor se canse más.",
+            "C) Mejora la capacidad de atención del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La inconstancia en la velocidad penaliza el consumo y genera una mayor fatiga física y mental en quien conduce."
+    },
+    {
+        "_id": "PB-TM12-P194",
+        "Enunciado": "Para una conducción eficiente, ¿cómo se debe viajar?",
+        "Opciones": [
+            "A) A una velocidad constante, evitando frenadas y acelerones bruscos.",
+            "B) Variando la velocidad constantemente para evitar el sueño.",
+            "C) Manteniendo siempre la velocidad máxima de la vía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La uniformidad en la velocidad es clave para ahorrar combustible y circular con seguridad."
+    },
+    {
+        "_id": "PB-TM12-P195",
+        "Enunciado": "¿Cuál es el primer paso para reducir la velocidad del vehículo de forma eficiente?",
+        "Opciones": [
+            "A) Bajar una marcha inmediatamente.",
+            "B) Pisar el pedal de freno con firmeza.",
+            "C) Levantar el pie del acelerador y dejar rodar el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aprovechar la inercia levantando el pie del acelerador es la forma más eficiente de empezar a perder velocidad."
+    },
+    {
+        "_id": "PB-TM12-P196",
+        "Enunciado": "Al usar el freno para reducir la velocidad, este debe accionarse:",
+        "Opciones": [
+            "A) Únicamente en los últimos 5 metros antes de parar.",
+            "B) Con pisadas cortas y muy fuertes.",
+            "C) De forma suave para reducir la velocidad poco a poco."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El uso del freno debe ser progresivo y suave para complementar la retención del motor."
+    },
+    {
+        "_id": "PB-TM12-P197",
+        "Enunciado": "¿Cuándo se debe apagar el motor para ahorrar combustible según el temario?",
+        "Opciones": [
+            "A) Solo al terminar el viaje y estacionar definitivamente.",
+            "B) Cuando el vehículo vaya a estar más de un minuto parado.",
+            "C) En cada señal de stop aunque no haya tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si la detención va a superar el minuto, es más eficiente apagar el motor que mantenerlo al ralentí."
+    },
+    {
+        "_id": "PB-TM12-P198",
+        "Enunciado": "De las siguientes opciones, ¿cuál no se menciona como causa de un mayor consumo de combustible?",
+        "Opciones": [
+            "A) Circular con las luces de posición durante el día.",
+            "B) No realizar las revisiones periódicas al vehículo.",
+            "C) Usar el aire acondicionado o cargar mucho peso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El aire, la falta de mantenimiento, la ciudad, el aire acondicionado y el peso son los factores citados; el uso de luces no se incluye en esta lista."
+    },
+    {
+        "_id": "PB-TM12-P199",
+        "Enunciado": "¿En qué se emplea la mayor parte del combustible que consume un vehículo?",
+        "Opciones": [
+            "A) En luchar contra el aire que no deja avanzar al vehículo.",
+            "B) En calentar el motor durante los primeros kilómetros.",
+            "C) En mantener el sistema eléctrico y la batería cargados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La resistencia aerodinámica (el aire) es el principal obstáculo que el motor debe vencer, consumiendo energía para ello."
+    },
+    {
+        "_id": "PB-TM12-P200",
+        "Enunciado": "¿Qué elementos externos dificultan el avance del vehículo contra el aire?",
+        "Opciones": [
+            "A) La baca o los deflectores.",
+            "B) Los sensores de aparcamiento delanteros.",
+            "C) Las faldillas de las ruedas traseras."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Accesorios como la baca rompen la aerodinámica del coche, haciendo que gaste más para avanzar contra el viento."
+    },
+    {
+        "_id": "PB-TM12-P201",
+        "Enunciado": "Según el glosario, ¿qué es un deflector?",
+        "Opciones": [
+            "A) Un sensor que detecta la contaminación del aire exterior.",
+            "B) Un sistema que mejora la visión nocturna del conductor.",
+            "C) Accesorio que se pone en el vehículo para desviar el aire."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El deflector es un componente diseñado para desviar la corriente de aire y evitar que entre al interior del coche."
+    },
+    {
+        "_id": "PB-TM12-P202",
+        "Enunciado": "Para evitar el exceso de consumo por el aire, ¿qué se recomienda respecto al equipaje?",
+        "Opciones": [
+            "A) No instalar la baca y llevar las cargas en el maletero.",
+            "B) Llevar la baca siempre instalada aunque no se use.",
+            "C) Colocar los bultos más pesados sobre el techo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es preferible usar el maletero para no perjudicar la aerodinámica del vehículo con una baca."
+    },
+    {
+        "_id": "PB-TM12-P203",
+        "Enunciado": "¿Qué precaución se debe tomar con las ventanillas para no gastar tanto combustible?",
+        "Opciones": [
+            "A) Mantenerlas abiertas solo en las bajadas pronunciadas.",
+            "B) Bajarlas al máximo para que el aire empuje el coche por dentro.",
+            "C) No bajar las ventanillas mientras el vehículo está circulando."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Circular con las ventanillas bajadas crea turbulencias que frenan el vehículo y aumentan el consumo."
+    },
+    {
+        "_id": "PB-TM12-P204",
+        "Enunciado": "El consumo de combustible aumenta al arrastrar un remolque, sobre todo si:",
+        "Opciones": [
+            "A) El remolque está pintado de un color oscuro.",
+            "B) El remolque es más ancho o más alto que el vehículo.",
+            "C) El remolque es más bajo que el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un remolque que sobresale por los lados o por arriba del coche tractor ofrece mucha más resistencia al aire."
+    },
+    {
+        "_id": "PB-TM12-P205",
+        "Enunciado": "¿Cómo influye el mantenimiento del vehículo en el ahorro de combustible?",
+        "Opciones": [
+            "A) Un coche bien mantenido consume más porque el motor tiene más fuerza.",
+            "B) Pasar las revisiones y tener el coche en buen estado ayuda a gastar menos.",
+            "C) No influye, solo sirve para pasar la inspección técnica (ITV)."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un motor y unos sistemas en perfecto estado funcionan de manera más eficiente, reduciendo el gasto de carburante."
+    },
+    {
+        "_id": "PB-TM12-P206",
+        "Enunciado": "Dentro del sistema de encendido, ¿qué piezas deben revisarse siguiendo las instrucciones del fabricante?",
+        "Opciones": [
+            "A) Las bobinas de la radio.",
+            "B) El alternador de corriente continua.",
+            "C) Las bujías."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Unas bujías en buen estado son fundamentales para que la combustión sea eficiente y no se desperdicie energía."
+    },
+    {
+        "_id": "PB-TM12-P207",
+        "Enunciado": "Además del encendido, ¿qué otros sistemas deben revisarse para ahorrar combustible?",
+        "Opciones": [
+            "A) Los sistemas de refrigeración y lubricación.",
+            "B) El ajuste de los asientos y los espejos interiores.",
+            "C) El sistema de climatización y el equipo de música."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tanto el enfriamiento (refrigeración) como el engrasado (lubricación) del motor afectan directamente a su rendimiento y consumo."
+    },
+    {
+        "_id": "PB-TM12-P208",
+        "Enunciado": "Respecto a los neumáticos, para no gastar combustible de más, estos deben:",
+        "Opciones": [
+            "A) Estar bien inflados.",
+            "B) Estar con una presión muy baja para tener más agarre.",
+            "C) Ser de una marca diferente en cada eje."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Llevar la presión correcta de inflado reduce la resistencia a la rodadura y el consumo de combustible."
+    },
+    {
+        "_id": "PB-TM12-P209",
+        "Enunciado": "¿Qué mantenimiento es necesario en el sistema de alimentación para ahorrar combustible?",
+        "Opciones": [
+            "A) No cambiar nunca el filtro para que pase menos aire.",
+            "B) Cambiar el filtro del aire cuando sea necesario.",
+            "C) Limpiar los inyectores con agua jabonosa cada mes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un filtro de aire limpio permite que el motor 'respire' correctamente, optimizando la mezcla y el consumo."
+    },
+    {
+        "_id": "PB-TM12-P210",
+        "Enunciado": "¿Qué es el ralentí?",
+        "Opciones": [
+            "A) La velocidad mínima a la que se puede circular en quinta marcha.",
+            "B) Capacidad que tiene el motor para funcionar sin que el conductor pise el acelerador.",
+            "C) El tiempo que tarda el motor en responder al pisar el pedal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se denomina ralentí al régimen mínimo de revoluciones al que el motor se mantiene encendido por sí solo sin acelerar."
+    }
+]

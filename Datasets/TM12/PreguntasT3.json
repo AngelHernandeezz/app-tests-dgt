@@ -1,0 +1,334 @@
+[
+    {
+        "_id": "PB-TM12-P61",
+        "Enunciado": "¿Qué acción debe realizar el conductor cuando las ruedas del vehículo patinan debido a la lluvia?",
+        "Opciones": [
+            "A) Girar el volante rápidamente hacia el lado contrario.",
+            "B) Frenar con fuerza para detener el deslizamiento.",
+            "C) Levantar el pie del acelerador, pero sin frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario indica que cuando las ruedas patinan se debe levantar el pie del acelerador sin accionar el freno."
+    },
+    {
+        "_id": "PB-TM12-P62",
+        "Enunciado": "Con lluvia, los conductores de motocicleta deben prestar una atención especial a:",
+        "Opciones": [
+            "A) El estado de la cadena de transmisión.",
+            "B) Las líneas de la carretera porque pueden resbalar en ellas.",
+            "C) El nivel de aceite del motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las marcas viales pintadas en el asfalto (líneas) se vuelven especialmente deslizantes para los vehículos de dos ruedas cuando están mojadas."
+    },
+    {
+        "_id": "PB-TM12-P63",
+        "Enunciado": "¿Cómo define el temario el fenómeno del aquaplaning?",
+        "Opciones": [
+            "A) Es el aumento de adherencia de los neumáticos al circular sobre charcos profundos.",
+            "B) Es la técnica de frenado en superficies con mucha agua.",
+            "C) Perder el control del vehículo porque el neumático no puede echar toda el agua que recoge y patina."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El aquaplaning ocurre cuando se crea una película de agua entre el neumático y el asfalto que el dibujo no da abasto a evacuar, provocando la pérdida de control."
+    },
+    {
+        "_id": "PB-TM12-P64",
+        "Enunciado": "¿En qué situación es más fácil que se produzca el aquaplaning y se pierda el control?",
+        "Opciones": [
+            "A) Cuando el vehículo circula a mucha velocidad.",
+            "B) Cuando el vehículo circula a muy poca velocidad.",
+            "C) Cuando los neumáticos están nuevos y tienen mucho dibujo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La velocidad elevada es un factor crítico que favorece que el neumático flote sobre el agua en lugar de desplazarla."
+    },
+    {
+        "_id": "PB-TM12-P65",
+        "Enunciado": "Respecto al estado y tipo de neumáticos, ¿cuándo es más probable sufrir aquaplaning?",
+        "Opciones": [
+            "A) Cuando los neumáticos son muy anchos o están muy desgastados.",
+            "B) Cuando los neumáticos son estrechos y están bien inflados.",
+            "C) Solo cuando el asfalto es rugoso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los neumáticos anchos (más superficie que cubrir) y los desgastados (menos profundidad de dibujo) facilitan este fenómeno."
+    },
+    {
+        "_id": "PB-TM12-P66",
+        "Enunciado": "¿Cuál es la mejor forma de prevenir el aquaplaning?",
+        "Opciones": [
+            "A) Aumentar la velocidad para atravesar el charco lo antes posible.",
+            "B) Circular despacio por las zonas en las que hay agua.",
+            "C) Frenar de forma brusca antes de entrar en la zona de agua."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Circular a velocidad reducida permite que los neumáticos evacuen el agua correctamente y mantengan el contacto con el suelo."
+    },
+    {
+        "_id": "PB-TM12-P67",
+        "Enunciado": "Después de pasar por una zona con agua, ¿qué comprobación es necesaria?",
+        "Opciones": [
+            "A) Comprobar que los frenos funcionan bien.",
+            "B) Verificar que la presión de los neumáticos no ha variado.",
+            "C) Que el sistema de alumbrado funciona correctamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tras circular por agua profunda, se debe verificar la eficacia del sistema de frenado por si se ha visto afectado temporalmente."
+    },
+    {
+        "_id": "PB-TM12-P68",
+        "Enunciado": "¿Por qué motivos es más difícil conducir con nieve?",
+        "Opciones": [
+            "A) Porque las señales pierden su significado legal.",
+            "B) Porque el motor tiende a calentarse en exceso.",
+            "C) Se ve peor la carretera, las señales y los vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La nieve reduce drásticamente la visibilidad de todos los elementos de la vía."
+    },
+    {
+        "_id": "PB-TM12-P69",
+        "Enunciado": "Al conducir con nieve, ¿qué sucede con la adherencia y la frenada?",
+        "Opciones": [
+            "A) La adherencia no varía, pero el sistema de frenado se vuelve más rígido.",
+            "B) Los neumáticos se agarran mejor debido al frío y se frena en menos metros.",
+            "C) Los neumáticos se agarran menos y el vehículo necesita más espacio para frenar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La nieve disminuye el agarre, lo que obliga a disponer de mayor distancia para detener el vehículo."
+    },
+    {
+        "_id": "PB-TM12-P70",
+        "Enunciado": "Al arrancar el vehículo con nieve, ¿cómo deben estar las ruedas?",
+        "Opciones": [
+            "A) Rectas.",
+            "B) Giradas hacia el centro de la calzada.",
+            "C) Giradas hacia el lado de la acera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para facilitar el inicio de la marcha sobre nieve, las ruedas deben estar totalmente rectas."
+    },
+    {
+        "_id": "PB-TM12-P71",
+        "Enunciado": "Para arrancar sobre nieve, ¿qué tipo de velocidad se debe elegir en la caja de cambios?",
+        "Opciones": [
+            "A) Una velocidad que dé mucha fuerza al motor.",
+            "B) El punto muerto para que el coche se deslice solo.",
+            "C) Una que permita arrancar a más velocidad pero con poca fuerza del motor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se busca evitar que las ruedas patinen por exceso de fuerza, utilizando normalmente marchas más largas de lo habitual para arrancar."
+    },
+    {
+        "_id": "PB-TM12-P72",
+        "Enunciado": "Según la definición del texto, ¿qué es la caja de cambios?",
+        "Opciones": [
+            "A) Mecanismo que se encarga de convertir la fuerza del motor en movimiento de las ruedas.",
+            "B) El dispositivo que almacena la energía eléctrica del vehículo.",
+            "C) El sistema que regula la temperatura del habitáculo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La caja de cambios gestiona la relación entre la fuerza del motor y la velocidad de giro de las ruedas."
+    },
+    {
+        "_id": "PB-TM12-P73",
+        "Enunciado": "¿Qué acciones deben evitarse al conducir con nieve?",
+        "Opciones": [
+            "A) Mirar por los espejos retrovisores exteriores.",
+            "B) Hacer movimientos bruscos con el volante o cambiar la velocidad de repente.",
+            "C) Usar el sistema de calefacción del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La suavidad es clave con nieve; los movimientos bruscos provocan fácilmente la pérdida de control."
+    },
+    {
+        "_id": "PB-TM12-P74",
+        "Enunciado": "¿Cómo se debe bajar una cuesta cuando la carretera tiene nieve?",
+        "Opciones": [
+            "A) Usando únicamente el freno de mano.",
+            "B) De forma más lenta de lo normal y eligiendo velocidades cortas.",
+            "C) En punto muerto para no forzar el motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se debe bajar despacio y con marchas cortas (primera o segunda) para que el motor retenga el vehículo."
+    },
+    {
+        "_id": "PB-TM12-P75",
+        "Enunciado": "Para circular con seguridad sobre nieve, la velocidad se debe reducir:",
+        "Opciones": [
+            "A) Poco a poco.",
+            "B) De forma brusca pisando el freno a fondo.",
+            "C) Únicamente cuando sea obligatorio detenerse por completo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Cualquier reducción de velocidad debe ser progresiva para evitar bloqueos y deslizamientos."
+    },
+    {
+        "_id": "PB-TM12-P76",
+        "Enunciado": "Respecto a la distancia de seguridad con nieve, el conductor debe:",
+        "Opciones": [
+            "A) Mantener la misma distancia que en condiciones normales.",
+            "B) Reducirla para aprovechar el calor del vehículo precedente.",
+            "C) Mantener más distancia de seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Es necesario aumentar la separación debido a que la distancia de frenado es mucho mayor."
+    },
+    {
+        "_id": "PB-TM12-P77",
+        "Enunciado": "¿Cómo se debe utilizar el freno en calzadas con nieve?",
+        "Opciones": [
+            "A) Pisando con fuerza rítmicamente.",
+            "B) Lo menos posible y hacerlo de forma suave.",
+            "C) De forma constante para limpiar los discos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se debe evitar el uso del freno para prevenir el bloqueo de ruedas, y si se usa, debe ser muy suavemente."
+    },
+    {
+        "_id": "PB-TM12-P78",
+        "Enunciado": "Al circular con nieve, ¿cuál es la trayectoria recomendada?",
+        "Opciones": [
+            "A) Circular por encima de las marcas que han hecho otros vehículos con sus ruedas.",
+            "B) Circular siempre por el arcén izquierdo.",
+            "C) Buscar las zonas de nieve virgen donde nadie ha pasado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es preferible seguir las huellas o roderas dejadas por otros vehículos para mejorar el guiado y la tracción."
+    },
+    {
+        "_id": "PB-TM12-P79",
+        "Enunciado": "Cuando sale el sol después de nevar, ¿qué accesorio es conveniente usar?",
+        "Opciones": [
+            "A) Guantes térmicos especiales.",
+            "B) Gafas de sol para que la luz no te deslumbre.",
+            "C) El limpiaparabrisas a velocidad máxima."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La nieve refleja mucho la luz solar, lo que puede provocar deslumbramientos peligrosos."
+    },
+    {
+        "_id": "PB-TM12-P80",
+        "Enunciado": "¿Qué indica esta señal circular de fondo azul con el dibujo de una rueda con cadenas?",
+        "Opciones": [
+            "A) Recomendación de usar neumáticos de invierno.",
+            "B) Obligación de colocar cadenas en el vehículo para seguir circulando.",
+            "C) Prohibición de circular con cadenas por riesgo de daños al asfalto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-412 obliga al uso de cadenas o dispositivos autorizados para poder transitar por ese tramo nevado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM12-P81",
+        "Enunciado": "Cuando es obligatorio el uso de cadenas, ¿en qué ruedas deben colocarse como mínimo?",
+        "Opciones": [
+            "A) Por lo menos en las ruedas motrices.",
+            "B) Únicamente en las ruedas delanteras independientemente de la tracción.",
+            "C) En las cuatro ruedas del vehículo obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las cadenas deben ir instaladas en las ruedas que reciben la fuerza del motor (motrices) para permitir el movimiento."
+    },
+    {
+        "_id": "PB-TM12-P82",
+        "Enunciado": "Al colocar cadenas en un eje, ¿cuántas hay que poner?",
+        "Opciones": [
+            "A) Solo es necesario en el lado derecho para no deslumbrar.",
+            "B) Por lo menos una cadena a cada lado del vehículo.",
+            "C) Basta con una cadena en el lado del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se debe garantizar la tracción en ambos lados del eje motriz, colocando una cadena en cada rueda."
+    },
+    {
+        "_id": "PB-TM12-P83",
+        "Enunciado": "¿Qué efecto produce el hielo sobre la conducción?",
+        "Opciones": [
+            "A) Hace que los neumáticos se calienten y se pinchen.",
+            "B) Aumenta el consumo de combustible de forma drástica.",
+            "C) Hace que las ruedas no se puedan agarrar y el vehículo patine mucho."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El hielo anula casi por completo la adherencia entre el neumático y la carretera."
+    },
+    {
+        "_id": "PB-TM12-P84",
+        "Enunciado": "Las precauciones para conducir con hielo son:",
+        "Opciones": [
+            "A) Totalmente distintas a las de la nieve, debiendo circular más rápido.",
+            "B) Solo consisten en encender la luz antiniebla trasera.",
+            "C) Las mismas que para conducir con nieve."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ambas situaciones requieren suavidad extrema, velocidad reducida y aumento de la distancia de seguridad."
+    },
+    {
+        "_id": "PB-TM12-P85",
+        "Enunciado": "¿En qué lugares es más frecuente encontrar placas de hielo durante la noche o madrugada?",
+        "Opciones": [
+            "A) Cerca de las estaciones de servicio.",
+            "B) En los puentes y pasos elevados.",
+            "C) En las autovías de tres o más carriles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los puentes y pasos elevados se enfrían antes al estar expuestos al aire por arriba y por abajo, facilitando la formación de hielo."
+    },
+    {
+        "_id": "PB-TM12-P86",
+        "Enunciado": "¿Qué señales pueden advertir de la presencia de hielo en la carretera?",
+        "Opciones": [
+            "A) Señales redondas de color rojo con un copo de nieve.",
+            "B) Señales de color verde con una montaña blanca.",
+            "C) Las señales P-34 (pavimento deslizante) o P-319 (nieve) con un panel escrito 'Hielo'."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estas señales de advertencia de peligro pueden ir acompañadas de un panel informativo específico para el hielo.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM12-P87",
+        "Enunciado": "Si el hielo se queda en los cristales del vehículo, antes de conducir se debe:",
+        "Opciones": [
+            "A) Esperar a que se derrita solo sin tocarlo.",
+            "B) Rascar el hielo de todos los cristales, sin rayarlos.",
+            "C) Echar agua hirviendo sobre el parabrisas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Es obligatorio garantizar la visibilidad en todos los cristales antes de iniciar la marcha, rascando el hielo con cuidado."
+    },
+    {
+        "_id": "PB-TM12-P88",
+        "Enunciado": "¿Por qué la niebla es muy peligrosa para conducir?",
+        "Opciones": [
+            "A) Porque se ve peor la carretera, las señales y los vehículos.",
+            "B) Porque aumenta la presión de los neumáticos.",
+            "C) Porque anula el funcionamiento de los frenos electrónicos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La niebla reduce la visibilidad y dificulta la detección de peligros y la orientación en la vía."
+    },
+    {
+        "_id": "PB-TM12-P89",
+        "Enunciado": "Además de la visibilidad, ¿qué otro factor afecta la niebla?",
+        "Opciones": [
+            "A) Los neumáticos se agarran menos porque el suelo está húmedo.",
+            "B) El claxon deja de escucharse a larga distancia.",
+            "C) El motor consume un 50% más de combustible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La humedad que deposita la niebla sobre el asfalto reduce la adherencia de los neumáticos."
+    },
+    {
+        "_id": "PB-TM12-P90",
+        "Enunciado": "Para evitar que los cristales se empañen con niebla, se debe:",
+        "Opciones": [
+            "A) Cerrar todas las salidas de aire por completo.",
+            "B) Frotar los cristales con aceite de motor.",
+            "C) Mantener el vehículo bien ventilado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una buena ventilación iguala las temperaturas y evita la condensación de humedad (empañamiento) en el interior de los cristales."
+    }
+]
