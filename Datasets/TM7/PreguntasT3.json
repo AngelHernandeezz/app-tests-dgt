@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM7-P61",
+    "Enunciado": "Para el resto de vehículos especiales no mencionados anteriormente, ¿cuál es la norma en autopistas y autovías?",
+    "Opciones": [
+      "A) Pueden circular a un máximo de 60 kilómetros por hora.",
+      "B) Pueden circular si van acompañados por un vehículo piloto.",
+      "C) No pueden circular por este tipo de vías."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El temario indica que el resto de vehículos especiales no pueden circular por autopistas y autovías."
+  },
+  {
+    "_id": "PB-TM7-P62",
+    "Enunciado": "¿Cuál es la velocidad máxima permitida para el resto de vehículos especiales en carreteras?",
+    "Opciones": [
+      "A) 40 kilómetros por hora.",
+      "B) 30 kilómetros por hora.",
+      "C) 50 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En carreteras, la velocidad máxima para el resto de vehículos especiales es de 40 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P63",
+    "Enunciado": "¿A qué velocidad máxima pueden circular el resto de vehículos especiales por los caminos?",
+    "Opciones": [
+      "A) 15 kilómetros por hora.",
+      "B) 25 kilómetros por hora.",
+      "C) 30 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad máxima permitida en caminos para el resto de vehículos especiales es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P64",
+    "Enunciado": "¿Pueden los ciclos (bicicletas) circular por una autopista?",
+    "Opciones": [
+      "A) Sí, si el ciclista es mayor de 14 años.",
+      "B) Sí, siempre por el arcén.",
+      "C) No pueden circular."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las bicicletas tienen prohibida la circulación por autopistas según el cuadro de velocidades."
+  },
+  {
+    "_id": "PB-TM7-P65",
+    "Enunciado": "¿Cuál es la velocidad máxima permitida para las bicicletas en una autovía?",
+    "Opciones": [
+      "A) 60 kilómetros por hora.",
+      "B) 45 kilómetros por hora.",
+      "C) 50 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En autovía, los ciclos tienen un límite de velocidad máxima de 45 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P66",
+    "Enunciado": "¿A qué velocidad máxima pueden circular los ciclos por carreteras?",
+    "Opciones": [
+      "A) 45 kilómetros por hora.",
+      "B) 50 kilómetros por hora.",
+      "C) 40 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad máxima para ciclos en carreteras es de 45 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P67",
+    "Enunciado": "¿Cuál es el límite máximo de velocidad para las bicicletas en los caminos?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 25 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los caminos, el límite de velocidad máxima para los ciclos es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P68",
+    "Enunciado": "¿Existe alguna circunstancia bajo la cual las bicicletas puedan superar sus límites de velocidad?",
+    "Opciones": [
+      "A) Sí, si las circunstancias lo permiten.",
+      "B) Nunca, bajo ninguna circunstancia.",
+      "C) Solo en competiciones autorizadas por la policía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El temario especifica que las bicicletas pueden superar estas velocidades si las circunstancias lo permiten."
+  },
+  {
+    "_id": "PB-TM7-P69",
+    "Enunciado": "¿Qué vehículos tienen prohibido circular por autopista y autovía según el séptimo grupo de la tabla?",
+    "Opciones": [
+      "A) Solo los ciclomotores de dos ruedas.",
+      "B) Ciclomotores de 2 y 3 ruedas, cuadriciclos ligeros y vehículos de movilidad reducida.",
+      "C) Únicamente los vehículos para personas con poca movilidad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Este grupo, que incluye ciclomotores, cuadriciclos ligeros y vehículos de movilidad reducida, no puede circular por autopista ni autovía."
+  },
+  {
+    "_id": "PB-TM7-P70",
+    "Enunciado": "¿Cuál es la velocidad máxima permitida en carretera para ciclomotores y cuadriciclos ligeros?",
+    "Opciones": [
+      "A) 40 kilómetros por hora.",
+      "B) 45 kilómetros por hora.",
+      "C) 50 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad máxima en carretera para ciclomotores de dos o tres ruedas, cuadriciclos ligeros y vehículos de movilidad reducida es de 45 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P71",
+    "Enunciado": "¿Cuál es el límite de velocidad máxima para un vehículo de movilidad reducida en un camino?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 35 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los caminos, el límite de velocidad máxima para estos vehículos es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P72",
+    "Enunciado": "Para vehículos de transporte escolar con niños o mercancías peligrosas, ¿cuál es la norma general de velocidad?",
+    "Opciones": [
+      "A) Su límite es de 10 kilómetros menos que para el resto de vehículos.",
+      "B) Tienen el mismo límite que los turismos.",
+      "C) Deben circular siempre a la velocidad mínima de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para estos vehículos, el límite de velocidad máxima es de 10 kilómetros menos que para el resto de vehículos."
+  },
+  {
+    "_id": "PB-TM7-P73",
+    "Enunciado": "Si el límite en carretera para un autobús es de 90 km/h, ¿cuál será el de un autobús que transporta niños?",
+    "Opciones": [
+      "A) 80 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 85 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Al ser transporte escolar, se le restan 10 km/h al límite genérico, quedando en 80 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P74",
+    "Enunciado": "¿Cuál es la velocidad máxima para todos los vehículos en calles donde calzada y acera están a la misma altura?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calles sin bordillos donde calzada y acera están a la misma altura, el límite es de 20 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P75",
+    "Enunciado": "¿A qué velocidad máxima se puede circular en calles con un solo carril para cada sentido?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 30 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El límite de velocidad máxima en calles con un solo carril para cada sentido es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P76",
+    "Enunciado": "En calles con varios carriles en cada sentido, ¿cuál es la velocidad máxima permitida con carácter general?",
+    "Opciones": [
+      "A) 40 kilómetros por hora.",
+      "B) 50 kilómetros por hora.",
+      "C) 30 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calles con varios carriles por sentido, el límite general es de 50 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P77",
+    "Enunciado": "En calles sin bordillos (misma altura), ¿cuál es el límite para vehículos con mercancías peligrosas?",
+    "Opciones": [
+      "A) 15 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 10 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para vehículos de mercancías peligrosas o vehículos especiales que no alcanzan 60 km/h, el límite en estas calles es de 20 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P78",
+    "Enunciado": "¿Qué velocidad máxima rige para vehículos con mercancías peligrosas en calles de un solo carril por sentido?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 25 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En calles de un solo carril por sentido, el límite para mercancías peligrosas es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P79",
+    "Enunciado": "En calles de ciudad con varios carriles, ¿cuál es el límite para vehículos con mercancías peligrosas?",
+    "Opciones": [
+      "A) 45 kilómetros por hora.",
+      "B) 50 kilómetros por hora.",
+      "C) 40 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para vehículos que transportan mercancías peligrosas en calles con varios carriles, el límite se reduce a 40 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P80",
+    "Enunciado": "Para ciclomotores y bicicletas, ¿cuál es el límite de velocidad en calles de plataforma única (sin bordillos)?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 15 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El límite para ciclos, ciclomotores y vehículos de movilidad reducida en estas calles es de 20 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P81",
+    "Enunciado": "¿Cuál es la velocidad máxima para una bicicleta o un ciclomotor en una calle con un carril por sentido?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 40 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En calles con un carril para cada sentido, el límite para ciclos y ciclomotores es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P82",
+    "Enunciado": "En calles con varios carriles por sentido, ¿qué velocidad máxima tienen ciclos y ciclomotores?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 40 kilómetros por hora.",
+      "C) 45 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En calles con varios carriles, el límite para ciclos, ciclomotores, cuadriciclos ligeros y movilidad reducida es de 45 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P83",
+    "Enunciado": "En una calle sin bordillos, ¿a qué velocidad máxima puede circular un Vehículo de Movilidad Personal (VMP)?",
+    "Opciones": [
+      "A) 15 kilómetros por hora.",
+      "B) 10 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para VMP, vehículos especiales con remolque y vehículos sin luces de freno, el límite en estas calles es de 20 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P84",
+    "Enunciado": "¿Cuál es el límite para un VMP en calles de ciudad con un solo carril para cada sentido?",
+    "Opciones": [
+      "A) 20 kilómetros por hora.",
+      "B) 30 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En calles con un solo carril para cada sentido, el límite para VMP y vehículos especiales con remolque es de 25 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P85",
+    "Enunciado": "Para un vehículo sin luces de freno en una calle de ciudad con varios carriles, ¿cuál es el límite de velocidad?",
+    "Opciones": [
+      "A) 40 kilómetros por hora.",
+      "B) 25 kilómetros por hora.",
+      "C) 30 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calles con varios carriles por sentido, el límite para VMP, vehículos especiales con remolque o sin luces de freno es de 25 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P86",
+    "Enunciado": "¿Cuál es la velocidad máxima para todos los vehículos en autopistas y autovías que transcurren dentro de poblado?",
+    "Opciones": [
+      "A) 100 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 80 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad máxima para todos los vehículos en autopistas y autovías dentro de un pueblo o ciudad es de 80 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P87",
+    "Enunciado": "¿Puede ser diferente el límite de 80 km/h en autopistas urbanas?",
+    "Opciones": [
+      "A) Solo puede ser menor, nunca mayor.",
+      "B) Sí, si está señalizada de otra manera.",
+      "C) No, es un límite fijo infranqueable."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El límite de 80 km/h se aplica si la vía no está señalizada de otra manera."
+  },
+  {
+    "_id": "PB-TM7-P88",
+    "Enunciado": "¿Cuál es la velocidad mínima permitida en autopistas y autovías (dentro y fuera de poblado)?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 45 kilómetros por hora.",
+      "C) 60 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En autopistas y autovías, la velocidad mínima permitida es de 60 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P89",
+    "Enunciado": "En el resto de vías que no son autopista ni autovía, ¿cómo se determina la velocidad mínima?",
+    "Opciones": [
+      "A) No existe velocidad mínima en el resto de vías.",
+      "B) Según cada vehículo (normalmente la mitad de su velocidad máxima).",
+      "C) Es siempre de 45 kilómetros por hora para todos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En el resto de vías, la velocidad mínima permitida es según cada vehículo (por ejemplo, 45 km/h si la máxima es 90)."
+  },
+  {
+    "_id": "PB-TM7-P90",
+    "Enunciado": "¿Está permitido conducir por debajo de la velocidad mínima si no hay más vehículos en la carretera?",
+    "Opciones": [
+      "A) No, está prohibido.",
+      "B) Sí, pero solo durante las horas del día.",
+      "C) Sí, si el conductor lo considera seguro."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Está prohibido conducir por debajo de la velocidad mínima, aunque no haya más vehículos en la carretera."
+  }
+]

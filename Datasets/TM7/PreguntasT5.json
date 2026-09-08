@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM7-P121",
+        "Enunciado": "Según el temario, ¿qué sucede con la distancia de reacción si el vehículo circula más rápido?",
+        "Opciones": [
+            "A) El conductor tendrá más distancia para reaccionar con calma.",
+            "B) El vehículo tendrá menos distancia de reacción.",
+            "C) La distancia de reacción se mantiene siempre igual."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cuanto más rápido va un vehículo menos distancia de reacción tendrá porque recorrerá más distancia en menos tiempo."
+    },
+    {
+        "_id": "PB-TM7-P122",
+        "Enunciado": "¿Cuál es la consecuencia directa de ir a alta velocidad respecto a los peligros en la vía?",
+        "Opciones": [
+            "A) Se evitan los obstáculos con mayor facilidad de maniobra.",
+            "B) El vehículo tarda más tiempo en alcanzar el punto de peligro.",
+            "C) El vehículo llegará antes al peligro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al recorrer más distancia en menos tiempo debido a la velocidad, el vehículo llegará antes al peligro."
+    },
+    {
+        "_id": "PB-TM7-P123",
+        "Enunciado": "¿Cómo se define la distancia de frenado?",
+        "Opciones": [
+            "A) Espacio recorrido desde que ves un obstáculo hasta que pones el pie en el pedal.",
+            "B) Distancia total entre dos vehículos que circulan en el mismo sentido.",
+            "C) Espacio que recorre el vehículo desde que pisas el freno hasta que se para por completo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La distancia de frenado es el espacio que recorre el vehículo desde que pisas el freno hasta que se para por completo."
+    },
+    {
+        "_id": "PB-TM7-P124",
+        "Enunciado": "¿Qué relación existe entre la velocidad y la distancia de frenado?",
+        "Opciones": [
+            "A) Cuanto más rápido vaya el vehículo, necesitará más espacio para frenar.",
+            "B) A mayor velocidad, menor es el espacio necesario para detener el coche.",
+            "C) La velocidad no influye en la capacidad de frenada del sistema técnico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La velocidad es un motivo por el que cambia la distancia de frenado: a más rapidez, más espacio se necesita."
+    },
+    {
+        "_id": "PB-TM7-P125",
+        "Enunciado": "Respecto a la carga del vehículo, ¿cómo afecta a la frenada?",
+        "Opciones": [
+            "A) Un vehículo con mucha carga tarda más en parar.",
+            "B) Los vehículos con mucha carga frenan en menos metros por el peso.",
+            "C) Un vehículo vacío tarda el mismo tiempo en parar que uno lleno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La carga es un factor determinante; un vehículo con mucha carga tarda más tiempo en detenerse."
+    },
+    {
+        "_id": "PB-TM7-P126",
+        "Enunciado": "Además de la velocidad y la carga, ¿qué otro factor técnico influye en la distancia de frenado?",
+        "Opciones": [
+            "A) El color de la carrocería y la aerodinámica exterior.",
+            "B) Las condiciones técnicas del vehículo.",
+            "C) Únicamente el tipo de combustible que utiliza el motor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las condiciones técnicas del vehículo son uno de los motivos por los que puede cambiar la distancia de frenado."
+    },
+    {
+        "_id": "PB-TM7-P127",
+        "Enunciado": "¿Qué partes específicas del vehículo menciona el texto como influyentes en la frenada?",
+        "Opciones": [
+            "A) Solo el tamaño del volante y la sensibilidad de los pedales.",
+            "B) El sistema de escape y el nivel de aceite del motor.",
+            "C) El estado de sus frenos y de otras partes como los neumáticos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Dentro de las condiciones técnicas, influye el estado de los frenos y de los neumáticos."
+    },
+    {
+        "_id": "PB-TM7-P128",
+        "Enunciado": "¿Cómo influye el clima en la distancia de frenado según el temario?",
+        "Opciones": [
+            "A) En un suelo mojado el vehículo puede necesitar más distancia de frenado.",
+            "B) El clima solo influye en la visibilidad, no en la distancia de frenado.",
+            "C) En días de mucho sol, el asfalto se derrite y el coche frena antes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El clima afecta a la frenada; por ejemplo, con el suelo mojado la distancia necesaria aumenta."
+    },
+    {
+        "_id": "PB-TM7-P129",
+        "Enunciado": "Además del clima, ¿qué otro factor del entorno afecta a la distancia de frenado?",
+        "Opciones": [
+            "A) Las condiciones de la carretera.",
+            "B) La presencia de edificios pegados a la calzada.",
+            "C) El número de señales de tráfico que haya en el tramo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las condiciones de la carretera son un motivo por el cual la distancia de frenado puede cambiar."
+    },
+    {
+        "_id": "PB-TM7-P130",
+        "Enunciado": "¿Influye el conductor en la distancia de frenado de su vehículo?",
+        "Opciones": [
+            "A) Solo influye si el conductor no lleva puesto el cinturón.",
+            "B) No, solo influyen factores mecánicos y ambientales.",
+            "C) Sí, influyen las características del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las características del conductor también son un factor que puede hacer cambiar la distancia de frenado."
+    },
+    {
+        "_id": "PB-TM7-P131",
+        "Enunciado": "¿Qué ejemplos de características del conductor afectan a la distancia de frenado?",
+        "Opciones": [
+            "A) Su estatura, peso corporal y nivel de estudios.",
+            "B) Únicamente los años que lleve con el permiso de conducir.",
+            "C) Su edad, estado físico o estado psicológico."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario cita la edad y el estado físico o psicológico como características del conductor que influyen."
+    },
+    {
+        "_id": "PB-TM7-P132",
+        "Enunciado": "¿Qué es la distancia de detención?",
+        "Opciones": [
+            "A) Espacio desde que detectas un obstáculo hasta que paras el vehículo por completo.",
+            "B) Espacio que se deja con el vehículo de delante para circular seguro.",
+            "C) Espacio que recorre el vehículo mientras el conductor tiene el pie en el freno."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La distancia de detención es el espacio total desde la detección del obstáculo hasta la parada completa."
+    },
+    {
+        "_id": "PB-TM7-P133",
+        "Enunciado": "¿Cuál es el ejemplo que da el texto para ilustrar la distancia de detención?",
+        "Opciones": [
+            "A) Tiempo desde que pisas el freno hasta que el coche se detiene en un stop.",
+            "B) Tiempo desde que ves un semáforo en rojo hasta que paras el vehículo por completo.",
+            "C) Tiempo que tardas en reaccionar ante el claxon de otro conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Un ejemplo es el tiempo (y espacio) desde que ves el semáforo en rojo hasta que el vehículo queda totalmente parado."
+    },
+    {
+        "_id": "PB-TM7-P134",
+        "Enunciado": "¿Cómo se calcula matemáticamente la distancia de detención?",
+        "Opciones": [
+            "A) Es la diferencia entre la distancia de frenado y la de reacción.",
+            "B) Es la suma de la distancia de reacción y la de frenado.",
+            "C) Es el doble de la distancia de reacción del conductor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La distancia de detención es el resultado de sumar la distancia de reacción y la distancia de frenado."
+    },
+    {
+        "_id": "PB-TM7-P135",
+        "Enunciado": "¿Qué es la separación lateral?",
+        "Opciones": [
+            "A) Distancia necesaria entre dos vehículos que se cruzan o conducen uno al lado del otro.",
+            "B) Espacio libre que debe quedar entre el techo del vehículo y un túnel.",
+            "C) Distancia que se deja con el bordillo al estacionar en batería."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La separación lateral es la distancia de separación entre vehículos que se cruzan o circulan en paralelo."
+    },
+    {
+        "_id": "PB-TM7-P136",
+        "Enunciado": "¿Cuál es el objetivo principal de mantener una separación lateral?",
+        "Opciones": [
+            "A) Que siempre haya separación suficiente para evitar cualquier peligro.",
+            "B) Facilitar que otros vehículos puedan adelantarnos por la derecha.",
+            "C) Permitir que los peatones puedan cruzar entre los coches en marcha."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Siempre debe haber la separación lateral suficiente entre vehículos para evitar cualquier peligro."
+    },
+    {
+        "_id": "PB-TM7-P137",
+        "Enunciado": "¿En qué situación de conducción debes guardar más distancia de separación lateral?",
+        "Opciones": [
+            "A) Cuando circulas por una zona residencial a 20 km/h.",
+            "B) Cuando conduces rápido.",
+            "C) Solo cuando el vehículo que viene de frente es una bicicleta."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debes guardar más distancia de separación lateral cuando conduces rápido."
+    },
+    {
+        "_id": "PB-TM7-P138",
+        "Enunciado": "¿Cómo influye el estado de la vía en la separación lateral?",
+        "Opciones": [
+            "A) No influye; la separación solo depende del ancho del carril.",
+            "B) Debes reducir la distancia para evitar los baches del arcén.",
+            "C) Debes dejar más distancia si la carretera está en mal estado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe aumentar la separación lateral si la carretera está en mal estado."
+    },
+    {
+        "_id": "PB-TM7-P139",
+        "Enunciado": "Si te encuentras en una vía con mucho flujo de tráfico, ¿qué debes hacer con la separación lateral?",
+        "Opciones": [
+            "A) Reducirla para que quepan más vehículos en el mismo tramo.",
+            "B) Mantener la misma distancia exacta que si la carretera estuviera vacía.",
+            "C) Guardar más distancia cuando se cruzan muchos vehículos con el tuyo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Debes guardar más distancia lateral cuando se cruzan muchos vehículos con el tuyo."
+    },
+    {
+        "_id": "PB-TM7-P140",
+        "Enunciado": "¿Qué fenómenos atmosféricos u otros elementos obligan a aumentar la separación lateral?",
+        "Opciones": [
+            "A) Solo cuando hay un sol muy fuerte que deslumbra lateralmente.",
+            "B) Lluvia, nieve, niebla, viento o humo.",
+            "C) Únicamente si hay granizo de gran tamaño."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debes guardar más distancia lateral ante lluvia, nieve, niebla, viento o humo."
+    },
+    {
+        "_id": "PB-TM7-P141",
+        "Enunciado": "¿Cómo se define la distancia de seguridad?",
+        "Opciones": [
+            "A) Espacio que debe dejar un peatón al caminar por el arcén de la carretera.",
+            "B) Distancia máxima a la que se puede ver la luz de freno de otro coche.",
+            "C) Espacio mínimo con el vehículo de delante para no chocar en caso de frenado brusco."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La distancia de seguridad es el espacio mínimo que debes dejar con el vehículo de delante para no chocar en caso de frenado brusco e inesperado."
+    },
+    {
+        "_id": "PB-TM7-P142",
+        "Enunciado": "¿Cuándo debes dejar más distancia de seguridad con el conductor de delante?",
+        "Opciones": [
+            "A) Cuando circulas por una calle con muchos semáforos.",
+            "B) Cuando aumentas la velocidad.",
+            "C) Al entrar en un túnel iluminado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al aumentar la velocidad se debe dejar más distancia de seguridad con el vehículo precedente."
+    },
+    {
+        "_id": "PB-TM7-P143",
+        "Enunciado": "¿Qué factor visual obliga a aumentar la distancia de seguridad?",
+        "Opciones": [
+            "A) Llevar puestas gafas de sol durante el día.",
+            "B) Que el vehículo de delante tenga los cristales tintados.",
+            "C) Cuando la carretera se ve mal."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe dejar más distancia de seguridad cuando la carretera se ve mal."
+    },
+    {
+        "_id": "PB-TM7-P144",
+        "Enunciado": "¿Cómo afecta la adherencia del vehículo a la distancia de seguridad?",
+        "Opciones": [
+            "A) No afecta; la distancia de seguridad es una medida fija para cada vía.",
+            "B) Debes dejar más distancia si el vehículo no se agarra bien a la carretera.",
+            "C) Debes acercarte más al vehículo de delante para seguir su huella."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debes dejar más distancia de seguridad cuando el vehículo no se agarra bien a la carretera."
+    },
+    {
+        "_id": "PB-TM7-P145",
+        "Enunciado": "¿En qué circunstancia personal del conductor se debe aumentar la distancia de seguridad?",
+        "Opciones": [
+            "A) Cuando no estás en buena forma física o psicológica.",
+            "B) Si el conductor tiene prisa por llegar a su destino.",
+            "C) Únicamente si el conductor es menor de 25 años."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La falta de buena forma física o psicológica obliga a dejar más distancia de seguridad."
+    },
+    {
+        "_id": "PB-TM7-P146",
+        "Enunciado": "¿En qué lugar específico se debe mantener una distancia que permita detenerse sin chocar?",
+        "Opciones": [
+            "A) Únicamente en los polígonos industriales.",
+            "B) Dentro de un pueblo o ciudad.",
+            "C) Solo en las travesías de menos de 500 metros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Dentro de un pueblo o ciudad debes mantener una distancia que te permita detenerte en caso de frenado brusco."
+    },
+    {
+        "_id": "PB-TM7-P147",
+        "Enunciado": "¿Qué restricción de adelantamiento obliga a mantener distancia para evitar choques por frenada brusca?",
+        "Opciones": [
+            "A) Solo cuando hay una línea continua de color amarillo.",
+            "B) Únicamente en los puentes y pasos subterráneos.",
+            "C) En las zonas en las que está prohibido adelantar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se debe mantener la distancia de seguridad en las zonas en las que está prohibido adelantar."
+    },
+    {
+        "_id": "PB-TM7-P148",
+        "Enunciado": "En lugares donde sí se puede adelantar, ¿qué distancia debes dejar?",
+        "Opciones": [
+            "A) La mínima posible para aprovechar el rebufo del vehículo delantero.",
+            "B) Suficiente para adelantar o permitir que otro vehículo te adelante con comodidad.",
+            "C) Una distancia de exactamente 100 metros en cualquier tipo de carretera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En lugares donde se permite el adelantamiento, hay que dejar espacio para adelantar o ser adelantado con comodidad."
+    },
+    {
+        "_id": "PB-TM7-P149",
+        "Enunciado": "¿Qué separación mínima deben dejar los vehículos de más de 3.500 kg o más de 10 metros de largo?",
+        "Opciones": [
+            "A) 50 metros de separación.",
+            "B) 30 metros de separación.",
+            "C) 20 metros de separación."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos de más de 3.500 kg o conjuntos de más de 10 metros deben dejar una separación mínima de 50 metros."
+    },
+    {
+        "_id": "PB-TM7-P150",
+        "Enunciado": "Respecto a las bicicletas, ¿qué norma especial existe sobre la distancia de seguridad entre ellas?",
+        "Opciones": [
+            "A) Pueden viajar sin guardar la distancia de seguridad entre ciclista y ciclista.",
+            "B) Solo pueden ir sin distancia de seguridad si circulan por el arcén.",
+            "C) Deben guardar al menos 5 metros de seguridad entre cada bicicleta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las bicicletas son los únicos vehículos que pueden viajar sin guardar la distancia de seguridad entre ciclista y ciclista."
+    }
+]

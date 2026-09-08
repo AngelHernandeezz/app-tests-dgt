@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P121",
+    "Enunciado": "¿Cuál es la norma general sobre circular marcha atrás?",
+    "Opciones": [
+      "A) Se permite únicamente para aparcar en vías urbanas.",
+      "B) Está permitido si se hace a una velocidad muy reducida.",
+      "C) Está prohibido circular marcha atrás en cualquier vía o camino."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El reglamento prohíbe de forma general la circulación hacia atrás en todo tipo de vías y caminos."
+  },
+  {
+    "_id": "PB-TM6-P122",
+    "Enunciado": "¿Qué debe hacer el conductor ante cualquier situación de peligro mientras da marcha atrás?",
+    "Opciones": [
+      "A) Aumentar la velocidad para terminar pronto el movimiento.",
+      "B) Detener el vehículo y dejar de dar marcha atrás.",
+      "C) Avisar con ráfagas de luz pero continuar la maniobra."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La seguridad es prioritaria; ante cualquier riesgo, se debe detener el vehículo inmediatamente y cesar la marcha atrás."
+  },
+  {
+    "_id": "PB-TM6-P123",
+    "Enunciado": "Si alguien le hace señales con el claxon mientras da marcha atrás, ¿cómo debe actuar?",
+    "Opciones": [
+      "A) Puede seguir si comprueba que el claxon no es para él.",
+      "B) Debe indicar con el brazo que tiene la maniobra controlada.",
+      "C) Debe detener el vehículo de inmediato."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las señales sonoras de otros usuarios son un aviso de peligro que obliga a detener la marcha atrás."
+  },
+  {
+    "_id": "PB-TM6-P124",
+    "Enunciado": "Si nota que se acerca una persona o un animal mientras retrocede, el conductor debe...",
+    "Opciones": [
+      "A) Detener el vehículo.",
+      "B) Tocar el claxon para que se aparten.",
+      "C) Maniobrar hacia el lado contrario para esquivarlos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La aproximación de peatones o animales es una situación de peligro que exige la detención inmediata del vehículo."
+  },
+  {
+    "_id": "PB-TM6-P125",
+    "Enunciado": "¿Cuál es la regla sobre la marcha atrás en autopistas y autovías?",
+    "Opciones": [
+      "A) Se permite si el conductor se ha pasado su salida.",
+      "B) Se permite solo para facilitar el paso a vehículos de emergencia.",
+      "C) Está prohibida siempre."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En las vías rápidas como autopistas y autovías, realizar la marcha atrás está terminantemente prohibido en cualquier circunstancia."
+  },
+  {
+    "_id": "PB-TM6-P126",
+    "Enunciado": "¿Qué tipo de situaciones pueden obligar a detener el vehículo por emergencia?",
+    "Opciones": [
+      "A) La necesidad de consultar una dirección en el navegador.",
+      "B) Querer realizar una llamada telefónica urgente.",
+      "C) Un accidente, una avería o que un pasajero se encuentre mal."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las detenciones por emergencia están justificadas por causas imprevistas que afecten a la seguridad o salud de los ocupantes."
+  },
+  {
+    "_id": "PB-TM6-P127",
+    "Enunciado": "Además de las emergencias, ¿por qué otro motivo relacionado con el tráfico se puede detener el vehículo?",
+    "Opciones": [
+      "A) Para dejar paso a un vehículo que quiere adelantar.",
+      "B) Para descansar tras dos horas de conducción.",
+      "C) Porque hay muchos vehículos en la carretera y se producen atascos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las retenciones y la saturación del tráfico son causas legales y necesarias para la detención del vehículo durante la marcha."
+  },
+  {
+    "_id": "PB-TM6-P128",
+    "Enunciado": "¿En qué caso es obligatorio detener el vehículo por orden externa?",
+    "Opciones": [
+      "A) Siempre que veamos a un peatón esperando en la acera.",
+      "B) Por indicación de las señales o de los agentes de tráfico.",
+      "C) Si un conductor de otro vehículo nos hace señales con la mano."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La obediencia a la señalización vial y a las órdenes de los agentes de tráfico es una obligación que conlleva la detención cuando se indique."
+  },
+  {
+    "_id": "PB-TM6-P129",
+    "Enunciado": "Al detener el vehículo en una autopista o autovía, ¿qué luces debe encender?",
+    "Opciones": [
+      "A) Las luces de emergencia y las de posición.",
+      "B) Únicamente las luces de largo alcance.",
+      "C) Las luces de cruce y los antinieblas delanteros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En vías rápidas, la detención requiere activar las luces de emergencia y posición para garantizar la máxima visibilidad del vehículo parado."
+  },
+  {
+    "_id": "PB-TM6-P130",
+    "Enunciado": "Si tiene que detener el vehículo en un lugar donde no se ve bien, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Salir del vehículo inmediatamente sin señalizar.",
+      "B) Encender las luces de emergencia y posición.",
+      "C) Tocar el claxon de forma intermitente para avisar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En zonas de visibilidad reducida o lugares cerrados, es obligatorio usar la iluminación de emergencia y posición al detenerse."
+  },
+  {
+    "_id": "PB-TM6-P131",
+    "Enunciado": "Si el vehículo funciona pero no alcanza la velocidad necesaria y estorba, ¿cómo debe actuar?",
+    "Opciones": [
+      "A) Debe detenerse en el mismo carril donde se encuentre.",
+      "B) Debe seguir circulando por el centro del carril a baja velocidad.",
+      "C) Debe realizar una serie de acciones según el peso y tipo de vía."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Un vehículo lento que obstaculiza el tráfico por avería debe seguir un protocolo específico de seguridad dependiendo de sus características."
+  },
+  {
+    "_id": "PB-TM6-P132",
+    "Enunciado": "Un vehículo de menos de 3.500 kilos que obstaculiza el tráfico por avería debe...",
+    "Opciones": [
+      "A) Circular por el arcén de la derecha.",
+      "B) Mantenerse en la calzada pegado a la línea continua.",
+      "C) Circular por el arcén de la izquierda."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si el vehículo pesa menos de 3.500 kg, tiene la obligación de usar el arcén derecho si existe y es transitable."
+  },
+  {
+    "_id": "PB-TM6-P133",
+    "Enunciado": "Si el vehículo averiado obstaculiza y no hay arcén, ¿dónde debe colocarse?",
+    "Opciones": [
+      "A) Justo en el centro de la calzada para que le vean bien.",
+      "B) Lo más posible a la derecha de la carretera.",
+      "C) En el carril de la izquierda para tener mejor visibilidad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A falta de arcén, el vehículo debe situarse lo más arrimado posible al borde derecho de la calzada."
+  },
+  {
+    "_id": "PB-TM6-P134",
+    "Enunciado": "Si el vehículo tiene problemas en una autopista o autovía, ¿qué debe hacer el conductor?",
+    "Opciones": [
+      "A) Cruzar la mediana si el vehículo todavía puede girar.",
+      "B) Esperar en el arcén a que llegue la patrulla de tráfico.",
+      "C) Salir por la primera salida."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Por seguridad en vías de alta velocidad, se debe abandonar la vía en cuanto sea posible utilizando la primera salida disponible."
+  },
+  {
+    "_id": "PB-TM6-P135",
+    "Enunciado": "Cuando el vehículo funciona pero necesita un servicio de auxilio, el conductor debe...",
+    "Opciones": [
+      "A) Detenerse en el arcén y esperar sin moverse.",
+      "B) Seguir circulando hasta encontrar un taller, sin importar la distancia.",
+      "C) Salir de la carretera por la primera salida usando el arcén derecho."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Incluso si el vehículo se mueve, si requiere asistencia técnica, debe buscarse la salida más próxima de forma segura."
+  },
+  {
+    "_id": "PB-TM6-P136",
+    "Enunciado": "Si el vehículo no puede seguir circulando, ¿dónde se debe aparcar?",
+    "Opciones": [
+      "A) En cualquier lugar donde el conductor considere que no molesta.",
+      "B) En el arcén derecho o donde estorbe menos.",
+      "C) Únicamente en el arcén izquierdo si es más ancho."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La prioridad es el arcén derecho, pero si no es posible, se buscará el lugar de menor interferencia para el resto."
+  },
+  {
+    "_id": "PB-TM6-P137",
+    "Enunciado": "Como alternativa al arcén derecho, ¿qué lugares se mencionan para dejar un coche que no puede circular?",
+    "Opciones": [
+      "A) El arcén izquierdo o la mediana.",
+      "B) Encima de una acera o en un paso de peatones.",
+      "C) Un carril bus o un carril para ciclistas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Excepcionalmente, el arcén izquierdo o la mediana pueden usarse si son los puntos de menor obstaculización."
+  },
+  {
+    "_id": "PB-TM6-P138",
+    "Enunciado": "¿Qué deben hacer las personas que viajan en un vehículo que se ha quedado parado?",
+    "Opciones": [
+      "A) Ayudar al conductor a empujar el coche fuera de la vía.",
+      "B) Salir del vehículo y colocarse en un lugar seguro.",
+      "C) Caminar por el arcén hasta la gasolinera más cercana."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La seguridad personal es clave; los pasajeros deben abandonar el vehículo y situarse fuera de la zona de peligro."
+  },
+  {
+    "_id": "PB-TM6-P139",
+    "Enunciado": "¿Qué prenda es obligatoria ponerse antes de salir de un vehículo averiado en la carretera?",
+    "Opciones": [
+      "A) Los chalecos amarillos.",
+      "B) Una chaqueta de color oscuro.",
+      "C) Guantes de protección para las manos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Todos los conductores deben llevar y usar chalecos reflectantes amarillos para ser visibles al bajar del vehículo en la vía."
+  },
+  {
+    "_id": "PB-TM6-P140",
+    "Enunciado": "Si no hay un lugar seguro al que ir, ¿qué deben hacer los pasajeros del coche averiado?",
+    "Opciones": [
+      "A) Quedarse dentro con el cinturón de seguridad abrochado.",
+      "B) Sentarse en el arcén lo más cerca posible del tráfico.",
+      "C) Caminar por la calzada buscando una salida."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si el entorno es peligroso, el interior del vehículo con el cinturón puesto es el lugar de refugio más seguro."
+  },
+  {
+    "_id": "PB-TM6-P141",
+    "Enunciado": "¿Qué luces hay que encender para indicar que hay un vehículo parado en la carretera?",
+    "Opciones": [
+      "A) Las luces antiniebla delanteras fijas.",
+      "B) Las luces de emergencia.",
+      "C) Solo la luz de posición derecha."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las luces de emergencia (cuatro intermitentes) son la señal luminosa principal para advertir de un vehículo inmovilizado."
+  },
+  {
+    "_id": "PB-TM6-P142",
+    "Enunciado": "¿Qué dispositivo es obligatorio colocar arriba del coche tras una avería?",
+    "Opciones": [
+      "A) Una bandera roja de advertencia.",
+      "B) La luz de preseñalización de peligro (luz naranja).",
+      "C) Un cartel con la palabra 'AVERO' escrita."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es obligatorio el uso de la señal luminosa V-16 (luz naranja) colocada en la parte superior del vehículo."
+  },
+  {
+    "_id": "PB-TM6-P143",
+    "Enunciado": "Si se decide usar los triángulos de señalización, ¿a qué distancia del vehículo se colocan?",
+    "Opciones": [
+      "A) A diez metros para que se vean bien cerca.",
+      "B) A 150 metros para avisar con mucha antelación.",
+      "C) A 50 metros del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La distancia reglamentaria para la colocación de los triángulos de peligro es de 50 metros."
+  },
+  {
+    "_id": "PB-TM6-P144",
+    "Enunciado": "¿A qué distancia mínima deben ser visibles los triángulos de señalización?",
+    "Opciones": [
+      "A) Se tienen que ver a 100 metros de distancia.",
+      "B) Deben ser visibles desde 500 metros.",
+      "C) Basta con que se vean a 20 metros de distancia."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los triángulos deben colocarse de forma que los conductores que se aproximan puedan verlos desde al menos 100 metros."
+  },
+  {
+    "_id": "PB-TM6-P145",
+    "Enunciado": "¿Quién puede recoger y remolcar a los vehículos averiados en la carretera?",
+    "Opciones": [
+      "A) Vehículos preparados para el auxilio (grúas).",
+      "B) Cualquier vehículo que tenga una cuerda resistente.",
+      "C) Solo vehículos conducidos por familiares del averiado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El remolque de vehículos en carretera debe ser realizado exclusivamente por servicios especializados de auxilio."
+  },
+  {
+    "_id": "PB-TM6-P146",
+    "Enunciado": "¿Cómo se define la maniobra de 'parar' el vehículo?",
+    "Opciones": [
+      "A) Dejar el vehículo detenido durante menos de dos minutos.",
+      "B) Detener el vehículo para dormir un máximo de una hora.",
+      "C) Detener el vehículo durante cinco minutos exactos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La parada es una inmovilización del vehículo por un tiempo inferior a los dos minutos."
+  },
+  {
+    "_id": "PB-TM6-P147",
+    "Enunciado": "Durante una parada, ¿qué debe hacer el conductor respecto al vehículo?",
+    "Opciones": [
+      "A) No sale del vehículo o se queda cerca de él.",
+      "B) Debe alejarse al menos diez metros por seguridad.",
+      "C) Puede marcharse libremente si deja las luces encendidas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En la parada, el conductor debe permanecer en el interior del coche o en sus proximidades inmediatas."
+  },
+  {
+    "_id": "PB-TM6-P148",
+    "Enunciado": "¿Cuándo se considera que la maniobra es un 'estacionamiento'?",
+    "Opciones": [
+      "A) Cuando el vehículo se detiene para que baje un pasajero.",
+      "B) Cuando el vehículo se queda sin moverse más de dos minutos.",
+      "C) Cuando el vehículo se queda parado menos de un minuto."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Toda inmovilización que supere los dos minutos de duración tiene la consideración legal de estacionamiento."
+  },
+  {
+    "_id": "PB-TM6-P149",
+    "Enunciado": "En un estacionamiento, ¿qué está permitido al conductor?",
+    "Opciones": [
+      "A) No puede apagar el motor bajo ninguna circunstancia.",
+      "B) Puede salir del vehículo y marcharse a otro lugar.",
+      "C) Debe quedarse obligatoriamente sentado al volante."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A diferencia de la parada, en el estacionamiento el conductor puede abandonar el vehículo y alejarse de él."
+  },
+  {
+    "_id": "PB-TM6-P150",
+    "Enunciado": "Como norma general, ¿cómo se debe parar o estacionar el vehículo respecto al borde?",
+    "Opciones": [
+      "A) En perpendicular montando las ruedas sobre la acera.",
+      "B) En diagonal para aprovechar mejor el espacio disponible.",
+      "C) En línea paralela al borde de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La posición reglamentaria habitual para parar o estacionar es en línea paralela al borde de la vía."
+  }
+]

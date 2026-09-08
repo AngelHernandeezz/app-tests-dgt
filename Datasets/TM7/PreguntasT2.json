@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM7-P31",
+    "Enunciado": "¿Cuál es la velocidad máxima permitida para turismos y motocicletas en carreteras convencionales?",
+    "Opciones": [
+      "A) 90 kilómetros por hora.",
+      "B) 80 kilómetros por hora.",
+      "C) 100 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para el primer grupo de vehículos (turismos y motocicletas), la velocidad máxima en carreteras convencionales es de 90 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P32",
+    "Enunciado": "En algunas carreteras convencionales, ¿a cuánto puede ascender el límite de velocidad para turismos y motocicletas?",
+    "Opciones": [
+      "A) A 100 kilómetros por hora.",
+      "B) A 110 kilómetros por hora.",
+      "C) A 120 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El temario especifica que en algunas carreteras el límite para estos vehículos puede ser de 100 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P33",
+    "Enunciado": "¿Cuál es la velocidad máxima para turismos y motos en los caminos?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 40 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad máxima permitida para turismos y motocicletas en caminos es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P34",
+    "Enunciado": "¿Cuál es la velocidad mínima para turismos y motocicletas en autopista y autovía?",
+    "Opciones": [
+      "A) 45 kilómetros por hora.",
+      "B) 60 kilómetros por hora.",
+      "C) 50 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad mínima permitida en autopista y autovía para este grupo de vehículos es de 60 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P35",
+    "Enunciado": "¿Qué velocidad mínima deben respetar los turismos y motos en las carreteras?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 40 kilómetros por hora.",
+      "C) 45 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad mínima para turismos y motocicletas en carreteras es de 45 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P36",
+    "Enunciado": "¿Cuál es la velocidad mínima en caminos para turismos y motocicletas?",
+    "Opciones": [
+      "A) 15 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 10 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En los caminos, la velocidad mínima para turismos y motocicletas es de 15 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P37",
+    "Enunciado": "¿Qué vehículos integran el segundo grupo en la tabla de límites de velocidad fuera de poblado?",
+    "Opciones": [
+      "A) Camiones, furgonetas y vehículos articulados.",
+      "B) Autobuses, vehículos derivados de turismos y vehículos mixtos adaptables.",
+      "C) Ciclomotores, ciclos y vehículos para personas de movilidad reducida."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El segundo grupo está formado por autobuses, vehículos derivados de turismos y vehículos mixtos adaptables."
+  },
+  {
+    "_id": "PB-TM7-P38",
+    "Enunciado": "¿Cuál es la velocidad máxima permitida en autopista y autovía para los autobuses, derivados de turismos y mixtos adaptables?",
+    "Opciones": [
+      "A) 120 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 100 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para el segundo grupo (autobuses, derivados y mixtos), la velocidad máxima en autopista y autovía es de 100 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P39",
+    "Enunciado": "¿Cuál es la velocidad mínima para el grupo de autobuses en autopista y autovía?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 60 kilómetros por hora.",
+      "C) 70 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad mínima en autopista y autovía para este segundo grupo es de 60 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P40",
+    "Enunciado": "Para los vehículos mixtos adaptables y autobuses, ¿cuál es la velocidad máxima en carreteras convencionales?",
+    "Opciones": [
+      "A) 80 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 100 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad máxima en carreteras convencionales para el segundo grupo de vehículos es de 90 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P41",
+    "Enunciado": "¿A qué velocidad mínima deben circular los autobuses y vehículos mixtos en carretera?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 40 kilómetros por hora.",
+      "C) 45 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad mínima para el segundo grupo en carreteras es de 45 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P42",
+    "Enunciado": "¿Cuál es la velocidad máxima en caminos para autobuses y vehículos derivados de turismos?",
+    "Opciones": [
+      "A) 25 kilómetros por hora.",
+      "B) 30 kilómetros por hora.",
+      "C) 35 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad máxima permitida en caminos para el segundo grupo de vehículos es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P43",
+    "Enunciado": "¿Cuál es la velocidad mínima en caminos para el grupo de autobuses y mixtos adaptables?",
+    "Opciones": [
+      "A) 10 kilómetros por hora.",
+      "B) 15 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En caminos, la velocidad mínima para el segundo grupo de vehículos es de 15 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P44",
+    "Enunciado": "¿Qué tipos de vehículos componen el tercer grupo de límites de velocidad?",
+    "Opciones": [
+      "A) Camiones, tractocamiones, furgonetas, autocaravanas >3.500kg, articulados y con remolque.",
+      "B) Únicamente vehículos especiales y tractores agrícolas.",
+      "C) Solo camiones y furgonetas de hasta 3.500 kilos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El tercer grupo incluye camiones, tractocamiones, furgonetas, autocaravanas de más de 3.500 kilos, vehículos articulados y vehículos con remolque."
+  },
+  {
+    "_id": "PB-TM7-P45",
+    "Enunciado": "¿Cuál es la velocidad máxima en autopista y autovía para camiones y furgonetas?",
+    "Opciones": [
+      "A) 80 kilómetros por hora.",
+      "B) 100 kilómetros por hora.",
+      "C) 90 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad máxima en autopista y autovía para el tercer grupo (camiones, furgonetas, etc.) es de 90 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P46",
+    "Enunciado": "¿Cuál es la velocidad mínima en autopista y autovía para vehículos con remolque o camiones?",
+    "Opciones": [
+      "A) 45 kilómetros por hora.",
+      "B) 60 kilómetros por hora.",
+      "C) 50 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad mínima en autopista y autovía para el tercer grupo es de 60 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P47",
+    "Enunciado": "¿A qué velocidad máxima pueden circular los camiones y articulados por carreteras convencionales?",
+    "Opciones": [
+      "A) 80 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 70 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad máxima en carreteras para el tercer grupo de vehículos es de 80 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P48",
+    "Enunciado": "¿Cuál es la velocidad mínima para camiones y furgonetas en las carreteras?",
+    "Opciones": [
+      "A) 45 kilómetros por hora.",
+      "B) 40 kilómetros por hora.",
+      "C) 35 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad mínima permitida en carreteras para el tercer grupo de vehículos es de 40 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P49",
+    "Enunciado": "¿Cuál es el límite máximo de velocidad en caminos para camiones y vehículos con remolque?",
+    "Opciones": [
+      "A) 25 kilómetros por hora.",
+      "B) 30 kilómetros por hora.",
+      "C) 35 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad máxima en caminos para el tercer grupo de vehículos es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P50",
+    "Enunciado": "Para los camiones y tractocamiones, ¿cuál es la velocidad mínima en los caminos?",
+    "Opciones": [
+      "A) 20 kilómetros por hora.",
+      "B) 10 kilómetros por hora.",
+      "C) 15 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad mínima en caminos para el tercer grupo es de 15 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P51",
+    "Enunciado": "¿Qué vehículos forman el cuarto grupo mencionado en el temario?",
+    "Opciones": [
+      "A) Ciclos y bicicletas en general.",
+      "B) Ciclomotores de dos ruedas y vehículos de movilidad personal.",
+      "C) Vehículos de 3 ruedas no motos, cuadriciclos pesados y vehículos especiales que alcancen 60 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El cuarto grupo está compuesto por vehículos de tres ruedas que no son motocicletas, cuadriciclos pesados y vehículos especiales que pueden alcanzar 60 km/h en llano."
+  },
+  {
+    "_id": "PB-TM7-P52",
+    "Enunciado": "¿Cuál es la velocidad máxima para cuadriciclos pesados y vehículos de 3 ruedas (no motos) en autopista y autovía?",
+    "Opciones": [
+      "A) 80 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 70 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad máxima en autopista y autovía para este cuarto grupo es de 70 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P53",
+    "Enunciado": "¿Qué velocidad mínima deben mantener los cuadriciclos pesados en autopista y autovía?",
+    "Opciones": [
+      "A) 60 kilómetros por hora.",
+      "B) 45 kilómetros por hora.",
+      "C) 50 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad mínima en autopista y autovía para este cuarto grupo de vehículos es de 60 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P54",
+    "Enunciado": "En carreteras, ¿cuál es la velocidad máxima para los vehículos de tres ruedas que no son motocicletas?",
+    "Opciones": [
+      "A) 60 kilómetros por hora.",
+      "B) 70 kilómetros por hora.",
+      "C) 80 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad máxima en carreteras para el cuarto grupo de vehículos es de 70 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P55",
+    "Enunciado": "¿Cuál es la velocidad mínima en carreteras para el grupo de cuadriciclos pesados?",
+    "Opciones": [
+      "A) 35 kilómetros por hora.",
+      "B) 45 kilómetros por hora.",
+      "C) 40 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad mínima permitida en carreteras para el cuarto grupo es de 40 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P56",
+    "Enunciado": "¿Cuál es la velocidad máxima en caminos para los vehículos especiales que pueden alcanzar los 60 km/h?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 35 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad máxima en caminos para el cuarto grupo de vehículos es de 30 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P57",
+    "Enunciado": "¿Qué velocidad mínima rige en los caminos para los cuadriciclos pesados?",
+    "Opciones": [
+      "A) 15 kilómetros por hora.",
+      "B) 10 kilómetros por hora.",
+      "C) 20 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En caminos, la velocidad mínima para este cuarto grupo es de 15 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P58",
+    "Enunciado": "¿Qué vehículos integran el quinto grupo de límites específicos?",
+    "Opciones": [
+      "A) Vehículos especiales sin luces de freno, con remolque y motocultores.",
+      "B) Ambulancias y vehículos de protección civil.",
+      "C) Autobuses escolares y camiones de basura."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El quinto grupo incluye vehículos especiales sin luces de freno, vehículos especiales con remolque y motocultores."
+  },
+  {
+    "_id": "PB-TM7-P59",
+    "Enunciado": "¿Pueden circular los motocultores o vehículos especiales sin luces de freno por autopista y autovía?",
+    "Opciones": [
+      "A) Sí, pero solo durante las horas del día.",
+      "B) Sí, respetando el límite de 60 km/h.",
+      "C) No pueden circular."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El temario indica explícitamente que los vehículos del quinto grupo no pueden circular por autopista y autovía."
+  },
+  {
+    "_id": "PB-TM7-P60",
+    "Enunciado": "¿Cuál es la velocidad máxima (y mínima) para vehículos especiales con remolque en carreteras y caminos?",
+    "Opciones": [
+      "A) 20 kilómetros por hora.",
+      "B) 30 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para el quinto grupo (vehículos especiales sin luces de freno, con remolque o motocultores), la velocidad máxima y mínima en carreteras y caminos es de 25 kilómetros por hora."
+  }
+]

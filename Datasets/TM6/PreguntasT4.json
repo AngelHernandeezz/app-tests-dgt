@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P91",
+    "Enunciado": "Para realizar un cambio de dirección con el vehículo, ¿qué debe asegurar el conductor respecto a los vehículos que vienen de frente?",
+    "Opciones": [
+      "A) Que han encendido las luces de emergencia para cederle el paso.",
+      "B) Que se detienen totalmente antes de que él inicie la maniobra.",
+      "C) Que están lejos y llevan una velocidad que permite girar sin peligro."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Antes de cambiar de dirección, es obligatorio verificar que la distancia y velocidad del tráfico en sentido contrario permiten realizar el giro con total seguridad."
+  },
+  {
+    "_id": "PB-TM6-P92",
+    "Enunciado": "¿Está permitido realizar un cambio de dirección si los vehículos contrarios están muy cerca o vienen muy rápido?",
+    "Opciones": [
+      "A) Sí, siempre que se señalice con mucha antelación.",
+      "B) Solo si se realiza de forma muy rápida para no estorbar.",
+      "C) No se puede hacer el cambio de dirección."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Si la proximidad o la velocidad de los vehículos que se acercan suponen un riesgo, la maniobra de cambio de dirección está prohibida."
+  },
+  {
+    "_id": "PB-TM6-P93",
+    "Enunciado": "Si el cambio de dirección es hacia la izquierda pero la visibilidad es reducida, ¿cuál es la norma?",
+    "Opciones": [
+      "A) Solo se puede hacer si otro conductor nos indica que el paso está libre.",
+      "B) Tampoco puedes hacerlo.",
+      "C) Se puede realizar extremando la precaución al máximo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La falta de visibilidad es una causa de prohibición para realizar un cambio de dirección hacia el lado izquierdo."
+  },
+  {
+    "_id": "PB-TM6-P94",
+    "Enunciado": "Si en la vía existe un lugar adaptado como una raqueta o elemento parecido, ¿dónde debe realizarse el cambio?",
+    "Opciones": [
+      "A) Es opcional usarla o girar directamente desde el carril principal.",
+      "B) Solo es obligatorio usarla para vehículos de grandes dimensiones.",
+      "C) El cambio se tiene que realizar ahí obligatoriamente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Cuando la vía dispone de un acondicionamiento físico como una raqueta, el conductor está obligado a utilizarla para la maniobra."
+  },
+  {
+    "_id": "PB-TM6-P95",
+    "Enunciado": "Si existe una raqueta pero también hay una señal de tráfico para el giro, ¿qué debe seguir el conductor?",
+    "Opciones": [
+      "A) Se debe seguir lo que indica la señal.",
+      "B) Siempre la raqueta por ser un elemento físico de la vía.",
+      "C) El conductor puede elegir libremente qué opción seguir."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Aunque exista una raqueta, la señalización específica de la vía tiene prioridad y es la que debe ser obedecida."
+  },
+  {
+    "_id": "PB-TM6-P96",
+    "Enunciado": "Para realizar un cambio de dirección hacia la derecha, ¿cómo debe colocarse el vehículo?",
+    "Opciones": [
+      "A) En el centro de la calzada para tener más ángulo de giro.",
+      "B) Lo más cerca posible del borde izquierdo para no pisar el arcén.",
+      "C) Lo más cerca posible al borde de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para girar a la derecha, el conductor debe ceñirse todo lo posible al borde correspondiente de la calzada."
+  },
+  {
+    "_id": "PB-TM6-P97",
+    "Enunciado": "Al cambiar de dirección a la izquierda en una calzada de un solo sentido, ¿dónde debe situarse?",
+    "Opciones": [
+      "A) Justo en el centro de la vía para dejar paso por ambos lados.",
+      "B) Lo más cerca posible del borde izquierdo de la calzada.",
+      "C) En el borde derecho para girar con mayor amplitud."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calles de sentido único, el posicionamiento correcto para girar a la izquierda es el borde izquierdo de la calzada."
+  },
+  {
+    "_id": "PB-TM6-P98",
+    "Enunciado": "En una calzada de doble sentido con línea blanca de separación, ¿dónde se debe colocar para girar a la izquierda?",
+    "Opciones": [
+      "A) Junto a la línea blanca de separación entre carriles.",
+      "B) Totalmente a la derecha, invadiendo el arcén si es necesario.",
+      "C) Encima de la línea blanca para que los demás le vean bien."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En vías de doble sentido con marcas, el vehículo debe aproximarse a la línea central de separación sin invadir el sentido opuesto."
+  },
+  {
+    "_id": "PB-TM6-P99",
+    "Enunciado": "Si no hay línea blanca en una vía de doble sentido, ¿dónde se sitúa para girar a la izquierda?",
+    "Opciones": [
+      "A) Lo más cerca posible del carril contrario, pero sin pisarlo.",
+      "B) En el arcén derecho para esperar el hueco de seguridad.",
+      "C) En el centro exacto de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "A falta de marcas viales, el conductor debe arrimarse al eje imaginario de la calzada sin ocupar el espacio del sentido contrario."
+  },
+  {
+    "_id": "PB-TM6-P100",
+    "Enunciado": "En una vía de doble sentido con tres carriles separados por líneas blancas, ¿desde dónde se hace el giro a la izquierda?",
+    "Opciones": [
+      "A) Desde el carril situado más a la izquierda del todo.",
+      "B) En el carril central.",
+      "C) Desde el carril de la derecha obligatoriamente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En las vías de tres carriles y doble sentido, el carril central está destinado específicamente para realizar los giros a la izquierda."
+  },
+  {
+    "_id": "PB-TM6-P101",
+    "Enunciado": "Al realizar el giro físico para cambiar de dirección en un cruce, ¿cómo debe proceder?",
+    "Opciones": [
+      "A) Pasando por el lado derecho del centro del cruce.",
+      "B) Realizando una diagonal directa hacia la nueva calle.",
+      "C) Debes pasar por el centro del cruce y dejarlo a tu izquierda."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Reglamentariamente, se debe rodear el centro del cruce dejándolo a la izquierda para ejecutar la maniobra correctamente."
+  },
+  {
+    "_id": "PB-TM6-P102",
+    "Enunciado": "Respecto a la trayectoria del vehículo al girar en un cruce, ¿qué acción no debes realizar?",
+    "Opciones": [
+      "A) Girar a una velocidad inferior a 20 km/h.",
+      "B) No debes cruzarlo en diagonal.",
+      "C) Usar el intermitente antes de empezar a frenar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Está prohibido realizar el giro trazando una diagonal; se debe mantener la trayectoria adecuada alrededor del centro."
+  },
+  {
+    "_id": "PB-TM6-P103",
+    "Enunciado": "En vías interurbanas, ¿dónde deben colocarse los ciclos para girar a la izquierda?",
+    "Opciones": [
+      "A) Pegados a la línea central de la carretera como los coches.",
+      "B) A la derecha del carril y fuera de la calzada si es posible.",
+      "C) En el carril de la izquierda junto a la mediana."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Fuera de poblado, los ciclos deben situarse a la derecha y fuera de la corriente de tráfico para iniciar el giro a la izquierda."
+  },
+  {
+    "_id": "PB-TM6-P104",
+    "Enunciado": "¿Qué deben hacer los ciclos en carretera antes de realizar el giro a la izquierda?",
+    "Opciones": [
+      "A) Cruzar la calzada caminando con la bicicleta en la mano siempre.",
+      "B) Avisar con el brazo y cruzar rápidamente sin mirar.",
+      "C) Esperar a que sea seguro hacer el giro."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Deben aguardar en el lado derecho hasta que las condiciones del tráfico permitan el cruce con total seguridad."
+  },
+  {
+    "_id": "PB-TM6-P105",
+    "Enunciado": "Al realizar finalmente el cambio de dirección, los ciclos deben...",
+    "Opciones": [
+      "A) Pasar también por el centro del cruce.",
+      "B) Circular por detrás de todos los vehículos que esperan.",
+      "C) Pasar por el arcén del sentido contrario."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Al igual que el resto de vehículos, los ciclos tienen la obligación de pasar por el centro del cruce al girar."
+  },
+  {
+    "_id": "PB-TM6-P106",
+    "Enunciado": "¿En qué consiste exactamente la maniobra de cambio de sentido?",
+    "Opciones": [
+      "A) En circular marcha atrás durante una distancia considerable.",
+      "B) En girar a la izquierda para entrar en una calle diferente.",
+      "C) En dar media vuelta para seguir circulando hacia el otro lado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Cambiar el sentido es dar media vuelta para circular en dirección opuesta por la misma carretera o camino."
+  },
+  {
+    "_id": "PB-TM6-P107",
+    "Enunciado": "¿En qué lugares de la carretera se puede realizar el cambio de sentido?",
+    "Opciones": [
+      "A) En cualquier paso de peatones que esté despejado.",
+      "B) Únicamente en los cruces que tengan semáforos.",
+      "C) En una rotonda o raqueta de la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las rotondas y las raquetas son infraestructuras adecuadas para facilitar esta maniobra con seguridad."
+  },
+  {
+    "_id": "PB-TM6-P108",
+    "Enunciado": "Según el temario, ¿qué es una raqueta?",
+    "Opciones": [
+      "A) Desvío en forma de medio círculo para cambiar de dirección o de sentido.",
+      "B) Un carril de aceleración situado en el lado izquierdo.",
+      "C) Una señal vertical que prohíbe los giros de 180 grados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La raqueta es un acondicionamiento de la vía en forma semicircular destinado a facilitar cambios de rumbo."
+  },
+  {
+    "_id": "PB-TM6-P109",
+    "Enunciado": "¿Cómo se debe hacer la maniobra de cambio de sentido por norma general?",
+    "Opciones": [
+      "A) Usando la marcha atrás para ajustar el ángulo si es necesario.",
+      "B) Con un solo giro del vehículo y sin usar la marcha atrás.",
+      "C) En tres movimientos rápidos invadiendo el arcén opuesto."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La maniobra debe completarse de un solo giro fluido, estando prohibido el uso de la marcha atrás de forma general."
+  },
+  {
+    "_id": "PB-TM6-P110",
+    "Enunciado": "¿Cuándo se puede usar excepcionalmente la marcha atrás para cambiar de sentido?",
+    "Opciones": [
+      "A) Solo si el conductor es novel y necesita más espacio.",
+      "B) En circunstancias en las que no se puede hacer otra cosa.",
+      "C) Siempre que no se aproximen vehículos a menos de 50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Solo se permite retroceder para cambiar el sentido cuando es la única opción posible, como en una calle cortada por obras."
+  },
+  {
+    "_id": "PB-TM6-P111",
+    "Enunciado": "¿Dónde debes empezar el cambio de sentido en la calzada?",
+    "Opciones": [
+      "A) Junto a la línea blanca de la carretera que separa los carriles.",
+      "B) En el centro de su propio carril sin variar la posición.",
+      "C) Totalmente en el borde derecho invadiendo el arcén."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El conductor debe aproximarse al eje de la calzada (línea divisoria) para iniciar el giro hacia el lado contrario."
+  },
+  {
+    "_id": "PB-TM6-P112",
+    "Enunciado": "¿Está prohibido cambiar de sentido en curvas y cambios de rasante en los que no se ve bien?",
+    "Opciones": [
+      "A) Sí, está prohibido.",
+      "B) Solo si hay una señal específica que lo prohíba.",
+      "C) No, se puede hacer extremando la precaución."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La falta de visibilidad en curvas o rasantes hace que la maniobra sea peligrosa y esté prohibida."
+  },
+  {
+    "_id": "PB-TM6-P113",
+    "Enunciado": "¿En qué condiciones meteorológicas está prohibido cambiar de sentido?",
+    "Opciones": [
+      "A) Solo cuando el viento fuerte es de costado.",
+      "B) Cuando hay niebla o mucha lluvia.",
+      "C) Únicamente cuando la temperatura es inferior a cero grados."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Fenómenos que reduzcan la visibilidad, como niebla o lluvia intensa, impiden realizar el cambio de sentido."
+  },
+  {
+    "_id": "PB-TM6-P114",
+    "Enunciado": "¿Se puede realizar un cambio de sentido en los pasos a nivel?",
+    "Opciones": [
+      "A) No, está prohibido.",
+      "B) Solo si las barreras están totalmente levantadas.",
+      "C) Sí, siempre que se compruebe que no viene ningún tren."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El cambio de sentido está terminantemente prohibido en los pasos a nivel."
+  },
+  {
+    "_id": "PB-TM6-P115",
+    "Enunciado": "¿Cuál es la norma respecto al cambio de sentido en los túneles?",
+    "Opciones": [
+      "A) Solo pueden realizarlo los vehículos de emergencia.",
+      "B) Está prohibido.",
+      "C) Se permite si el túnel está bien iluminado y no hay tráfico."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Por razones de seguridad en espacios cerrados, está prohibido cambiar el sentido de la marcha dentro de un túnel."
+  },
+  {
+    "_id": "PB-TM6-P116",
+    "Enunciado": "¿Se puede cambiar de sentido en las autopistas y autovías?",
+    "Opciones": [
+      "A) Está totalmente prohibido realizarlo en este tipo de vías.",
+      "B) Sí se puede hacer en los lugares preparados para ello.",
+      "C) Sí, en cualquier tramo con línea discontinua en la mediana."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En autopistas y autovías, el cambio de sentido solo debe hacerse en los enlaces habilitados a tal efecto."
+  },
+  {
+    "_id": "PB-TM6-P117",
+    "Enunciado": "¿Está permitido el cambio de sentido en calzadas y caminos de sentido único?",
+    "Opciones": [
+      "A) No, está prohibido.",
+      "B) Solo si no vienen otros vehículos por detrás.",
+      "C) Sí, si el camino es lo suficientemente ancho para girar."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En vías de sentido único no se puede dar media vuelta, ya que implicaría circular en dirección prohibida."
+  },
+  {
+    "_id": "PB-TM6-P118",
+    "Enunciado": "¿Se puede cambiar de sentido en los lugares donde está prohibido adelantar?",
+    "Opciones": [
+      "A) No, excepto si hay una señal que indica que sí se puede.",
+      "B) Solo si se hace de noche para no molestar al tráfico.",
+      "C) Sí, porque son maniobras totalmente diferentes."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Como norma general, si no se puede adelantar por riesgo, tampoco se puede cambiar de sentido, salvo señalización contraria."
+  },
+  {
+    "_id": "PB-TM6-P119",
+    "Enunciado": "¿Puedes hacer un cambio de sentido si obligas a otros conductores a reducir su velocidad?",
+    "Opciones": [
+      "A) Sí, siempre que pidas paso con ráfagas de luz.",
+      "B) Solo si el cambio de sentido es muy urgente.",
+      "C) No puedes hacerlo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La maniobra no debe interferir con la velocidad ni la fluidez de los conductores que vienen detrás o de frente."
+  },
+  {
+    "_id": "PB-TM6-P120",
+    "Enunciado": "Si al intentar cambiar de sentido puedes ser un peligro para otros, ¿qué debes hacer?",
+    "Opciones": [
+      "A) Tocar el claxon repetidamente para avisar de tu intención.",
+      "B) Aumentar la velocidad para terminar el giro antes de que lleguen.",
+      "C) Parar en el arcén de tu derecha y esperar a que sea seguro."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En caso de riesgo u obstrucción, el conductor debe apartarse al arcén derecho y esperar el momento oportuno para girar."
+  }
+]

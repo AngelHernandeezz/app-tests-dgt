@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM7-P211",
+    "Enunciado": "En una vía donde está permitido adelantar, ¿qué separación debe dejarse con el vehículo precedente?",
+    "Opciones": [
+      "A) Suficiente para adelantar o para permitir que otro vehículo le adelante con comodidad.",
+      "B) Una distancia fija de 50 metros independientemente de la velocidad.",
+      "C) Únicamente la necesaria para no chocar en caso de frenado brusco."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En lugares donde se permite el adelantamiento, se debe dejar espacio suficiente no solo para frenar, sino para que otros puedan adelantarnos con seguridad."
+  },
+  {
+    "_id": "PB-TM7-P212",
+    "Enunciado": "Un cuadriciclo ligero circula por una calle urbana con tres carriles para su sentido. ¿Cuál es su límite máximo de velocidad?",
+    "Opciones": [
+      "A) 50 kilómetros por hora.",
+      "B) 30 kilómetros por hora.",
+      "C) 45 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Aunque la velocidad general para esa calle es 50, los cuadriciclos ligeros tienen un límite específico de 45 km/h en calles con varios carriles."
+  },
+  {
+    "_id": "PB-TM7-P213",
+    "Enunciado": "Si duplicamos la carga de nuestro vehículo, ¿cómo se ve afectada técnicamente la distancia de frenado?",
+    "Opciones": [
+      "A) El vehículo tardará más tiempo en parar.",
+      "B) La distancia de frenado se reduce por el mayor agarre de los neumáticos.",
+      "C) La carga solo afecta a la distancia de reacción, no a la de frenado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La carga es un factor determinante en la distancia de frenado; a mayor peso, más espacio y tiempo se necesita para detener el vehículo."
+  },
+  {
+    "_id": "PB-TM7-P214",
+    "Enunciado": "Un ciclista mayor de 14 años desea circular por una autopista. ¿Le está permitido según el manual?",
+    "Opciones": [
+      "A) No, las bicicletas tienen prohibida la circulación por autopistas.",
+      "B) Sí, siempre que circule estrictamente por el arcén.",
+      "C) Sí, pero solo en tramos que no superen los 10 kilómetros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Según la tabla de velocidades, los ciclos tienen prohibido circular por autopistas (sección de prohibición de circulación)."
+  },
+  {
+    "_id": "PB-TM7-P215",
+    "Enunciado": "Al circular de noche, las luces de un camión que viene de frente le deslumbran. ¿Qué medida debe tomar?",
+    "Opciones": [
+      "A) Conducir despacio e incluso llegar a parar el vehículo.",
+      "B) Realizar ráfagas con la luz de largo alcance para avisar al otro conductor.",
+      "C) Mantener la velocidad para no sorprender a los vehículos que vienen detrás."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El manual establece que se debe conducir despacio e incluso parar el vehículo cuando te deslumbran las luces de otro vehículo."
+  },
+  {
+    "_id": "PB-TM7-P216",
+    "Enunciado": "En una calle urbana con un único carril para su sentido de circulación, ¿a qué velocidad máxima puede ir un VMP?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 25 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En calles con un solo carril para cada sentido, el límite para los Vehículos de Movilidad Personal (VMP) es de 25 km/h."
+  },
+  {
+    "_id": "PB-TM7-P217",
+    "Enunciado": "¿Cuál es la velocidad máxima para un vehículo especial que arrastra un remolque por una autovía?",
+    "Opciones": [
+      "A) 60 kilómetros por hora.",
+      "B) 25 kilómetros por hora.",
+      "C) No pueden circular por este tipo de vías."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los vehículos especiales con remolque tienen prohibido circular por autopistas y autovías."
+  },
+  {
+    "_id": "PB-TM7-P218",
+    "Enunciado": "En una carretera donde la máxima para turismos es 90, usted circula a 40 km/h sin causa justificada. ¿Es correcto?",
+    "Opciones": [
+      "A) No, circula a una velocidad anormalmente reducida.",
+      "B) Sí, porque la velocidad mínima solo es obligatoria en autopistas.",
+      "C) Sí, siempre que no haya otros vehículos circulando en ese momento."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En carreteras convencionales, la mínima es la mitad de la máxima (45 km/h). Ir a 40 es velocidad anormalmente reducida."
+  },
+  {
+    "_id": "PB-TM7-P219",
+    "Enunciado": "Circula por una zona donde el adelantamiento está prohibido. ¿Qué distancia de seguridad debe mantener?",
+    "Opciones": [
+      "A) Una distancia mínima de 50 metros.",
+      "B) La distancia que permita que otros vehículos le adelanten con comodidad.",
+      "C) La que permita detenerse sin chocar en caso de frenado brusco."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En zonas donde está prohibido adelantar, solo es obligatorio mantener la distancia de seguridad para no chocar (no la de facilitar el adelantamiento)."
+  },
+  {
+    "_id": "PB-TM7-P220",
+    "Enunciado": "¿Cuál es el límite genérico de velocidad para un vehículo tipo 'pick-up' en una autovía?",
+    "Opciones": [
+      "A) 100 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 120 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las pick-up están en el primer grupo de vehículos junto a los turismos, por lo que su límite en autovía es 120 km/h."
+  },
+  {
+    "_id": "PB-TM7-P221",
+    "Enunciado": "Un conjunto de vehículos de 11 metros de longitud circula fuera de poblado. ¿Qué separación mínima debe mantener?",
+    "Opciones": [
+      "A) 20 metros.",
+      "B) 100 metros.",
+      "C) 50 metros."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los conjuntos de vehículos de más de 10 metros deben dejar una separación mínima de 50 metros con el vehículo precedente."
+  },
+  {
+    "_id": "PB-TM7-P222",
+    "Enunciado": "Según el manual, ¿qué diferencia fundamental existe entre la velocidad adecuada y la máxima?",
+    "Opciones": [
+      "A) La adecuada se ajusta a todas las circunstancias del momento, siempre dentro de los límites.",
+      "B) La adecuada es la que permite circular consumiendo el mínimo combustible.",
+      "C) La adecuada es siempre 10 km/h inferior a la máxima permitida."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad adecuada es la que está dentro de los límites y es adecuada para las condiciones del clima, carretera, vehículo y conductor."
+  },
+  {
+    "_id": "PB-TM7-P223",
+    "Enunciado": "Al circular a 65 km/h, ¿qué ángulo de visión periférica tiene el conductor aproximadamente?",
+    "Opciones": [
+      "A) 180 grados.",
+      "B) 30 grados.",
+      "C) 70 grados."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Según el gráfico de visión, a 65 km/h el ángulo se reduce a 70 grados por la visión tunel."
+  },
+  {
+    "_id": "PB-TM7-P224",
+    "Enunciado": "Un autobús que transporta mercancías peligrosas circula por una carretera convencional. ¿A qué velocidad máxima puede ir?",
+    "Opciones": [
+      "A) 80 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 70 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La máxima para autobuses es 90, pero al llevar mercancías peligrosas se reduce 10 km/h, resultando en 80 km/h."
+  },
+  {
+    "_id": "PB-TM7-P225",
+    "Enunciado": "¿Qué espacio se considera exactamente como 'distancia de reacción'?",
+    "Opciones": [
+      "A) El recorrido total desde que se ve el peligro hasta que el coche se detiene.",
+      "B) El recorrido desde que se pisa el freno hasta que las ruedas se bloquean.",
+      "C) El recorrido desde que se detecta el imprevisto hasta que se puede reaccionar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La distancia de reacción es el espacio recorrido desde detectar el imprevisto hasta que se inicia la acción de reaccionar (como pisar el freno)."
+  },
+  {
+    "_id": "PB-TM7-P226",
+    "Enunciado": "En una calle residencial sin bordillos y plataforma única, ¿cuál es el límite para un ciclomotor?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 20 kilómetros por hora.",
+      "C) 45 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calles donde calzada y acera están a la misma altura, el límite es 20 km/h para todos, incluyendo ciclomotores."
+  },
+  {
+    "_id": "PB-TM7-P227",
+    "Enunciado": "¿Qué se entiende técnicamente por velocidad inadecuada?",
+    "Opciones": [
+      "A) Aquella que es siempre inferior a la velocidad mínima permitida.",
+      "B) Aquella que, aun cumpliendo los límites, es excesiva para las condiciones existentes.",
+      "C) Aquella que es superior a la velocidad de diseño de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad inadecuada es la que está dentro de los límites permitidos pero no es adecuada por las condiciones (hielo, cansancio, etc.)."
+  },
+  {
+    "_id": "PB-TM7-P228",
+    "Enunciado": "Para calcular la distancia de detención del vehículo, ¿qué operación debemos realizar?",
+    "Opciones": [
+      "A) Multiplicar el tiempo de reacción por la velocidad de frenado.",
+      "B) Sumar la distancia de reacción y la de frenado.",
+      "C) Restar la distancia de frenado al espacio de seguridad lateral."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La distancia de detención es el resultado de la suma de la distancia de reacción y la de frenado."
+  },
+  {
+    "_id": "PB-TM7-P229",
+    "Enunciado": "En una autovía urbana, ¿cuál es el límite de velocidad si no existe señalización específica?",
+    "Opciones": [
+      "A) 100 kilómetros por hora.",
+      "B) 120 kilómetros por hora.",
+      "C) 80 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En autopistas y autovías dentro de poblado, la velocidad máxima es de 80 km/h si no está señalizada de otra manera."
+  },
+  {
+    "_id": "PB-TM7-P230",
+    "Enunciado": "¿Cuándo es obligatorio el uso de la luz de emergencia relacionado con la velocidad?",
+    "Opciones": [
+      "A) Si no se alcanza la velocidad mínima y hay peligro de accidente.",
+      "B) Únicamente cuando el vehículo está totalmente inmovilizado por avería.",
+      "C) Siempre que circulemos a menos de 60 km/h en autopista."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Debes encender la luz de emergencia si no puedes alcanzar la velocidad mínima y existe peligro de accidente."
+  },
+  {
+    "_id": "PB-TM7-P231",
+    "Enunciado": "Un camión de 3.000 kg que transporta gasolina circula por autopista. ¿Cuál es su límite máximo?",
+    "Opciones": [
+      "A) 90 kilómetros por hora.",
+      "B) 70 kilómetros por hora.",
+      "C) 80 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El camión en autopista tiene un límite de 90, pero por mercancías peligrosas se reduce a 80 km/h."
+  },
+  {
+    "_id": "PB-TM7-P232",
+    "Enunciado": "En condiciones de fuerte viento lateral, ¿cómo debe ser la separación con el resto de vehículos?",
+    "Opciones": [
+      "A) Mayor de lo habitual para evitar peligros.",
+      "B) Menor para evitar el efecto pantalla de otros vehículos.",
+      "C) Exactamente igual a la que se mantiene en un día despejado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El manual indica que se debe guardar más distancia de separación lateral ante condiciones de viento."
+  },
+  {
+    "_id": "PB-TM7-P233",
+    "Enunciado": "¿Qué distancia de seguridad mínima deben mantener entre sí dos ciclistas que circulan en grupo?",
+    "Opciones": [
+      "A) La distancia de reacción multiplicada por dos.",
+      "B) Ninguna, están exentos de guardar esta distancia entre ellos.",
+      "C) 1,5 metros como mínimo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las bicicletas pueden viajar sin guardar distancia de seguridad entre ellas (ciclista y ciclista)."
+  },
+  {
+    "_id": "PB-TM7-P234",
+    "Enunciado": "¿A qué efecto se denomina 'visión túnel'?",
+    "Opciones": [
+      "A) Al deslumbramiento producido al entrar y salir de un túnel.",
+      "B) A la reducción de la capacidad visual lateral por circular a alta velocidad.",
+      "C) A la fatiga ocular producida por conducir de noche."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La visión túnel es el efecto de ver solo lo que hay enfrente, perdiendo visión lateral al aumentar la velocidad."
+  },
+  {
+    "_id": "PB-TM7-P235",
+    "Enunciado": "Un cuadriciclo pesado circula por una carretera convencional. ¿A qué velocidad máxima puede ir?",
+    "Opciones": [
+      "A) 90 kilómetros por hora.",
+      "B) 70 kilómetros por hora.",
+      "C) 80 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los cuadriciclos pesados tienen un límite genérico de 70 km/h en carreteras convencionales."
+  },
+  {
+    "_id": "PB-TM7-P236",
+    "Enunciado": "Al aproximarse a una glorieta en la que no se tiene prioridad, ¿cuál es la velocidad máxima obligatoria?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 50 kilómetros por hora.",
+      "C) 40 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En cruces y rotondas donde no se tiene prioridad, el límite de velocidad máxima es de 50 km/h."
+  },
+  {
+    "_id": "PB-TM7-P237",
+    "Enunciado": "¿A qué velocidad máxima puede circular un motocultor por una carretera convencional?",
+    "Opciones": [
+      "A) 40 kilómetros por hora.",
+      "B) 25 kilómetros por hora.",
+      "C) No puede circular por carretera."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los motocultores tienen un límite máximo de velocidad de 25 km/h en carreteras."
+  },
+  {
+    "_id": "PB-TM7-P238",
+    "Enunciado": "¿Cuál es el límite máximo de velocidad para un vehículo derivado de turismo en autopista?",
+    "Opciones": [
+      "A) 100 kilómetros por hora.",
+      "B) 90 kilómetros por hora.",
+      "C) 120 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos derivados de turismos tienen un límite de 100 km/h en autopistas y autovías."
+  },
+  {
+    "_id": "PB-TM7-P239",
+    "Enunciado": "En una calle con dos carriles por cada sentido, ¿cuál es el límite de velocidad general?",
+    "Opciones": [
+      "A) 30 kilómetros por hora.",
+      "B) 50 kilómetros por hora.",
+      "C) 40 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En calles con varios carriles en cada sentido, el límite general de velocidad es 50 km/h."
+  },
+  {
+    "_id": "PB-TM7-P240",
+    "Enunciado": "De los siguientes factores, ¿cuál influye directamente en el tiempo de reacción del conductor?",
+    "Opciones": [
+      "A) El estado de los neumáticos y los frenos.",
+      "B) Sus reflejos, estado físico y psicológico.",
+      "C) La carga que transporte el vehículo en ese momento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El tiempo de reacción depende exclusivamente de factores humanos y del entorno, no de factores técnicos del vehículo."
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P61",
+    "Enunciado": "Fuera de poblado, cuando un vehículo de dos ruedas quiere adelantar a cualquier otro, ¿qué separación debe dejar?",
+    "Opciones": [
+      "A) Al menos un metro y medio.",
+      "B) No hay una medida fija, basta con no tocar al otro vehículo.",
+      "C) Al menos un metro."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En carreteras fuera de poblado, los conductores de vehículos de dos ruedas tienen la obligación de dejar una separación mínima de 1,5 metros al adelantar."
+  },
+  {
+    "_id": "PB-TM6-P62",
+    "Enunciado": "Al conducir cualquier vehículo fuera de poblado, ¿qué distancia mínima se debe dejar al adelantar a personas o animales?",
+    "Opciones": [
+      "A) Al menos un metro y medio.",
+      "B) Tres metros para evitar que los animales se asusten.",
+      "C) Medio metro es suficiente si se circula despacio."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La norma exige dejar al menos 1,5 metros de separación lateral al adelantar a peatones o animales en vías interurbanas."
+  },
+  {
+    "_id": "PB-TM6-P63",
+    "Enunciado": "¿Qué separación lateral es obligatoria al adelantar a motocicletas o vehículos parados en la carretera fuera de poblado?",
+    "Opciones": [
+      "A) Al menos un metro y medio.",
+      "B) Al menos un metro.",
+      "C) La que el conductor considere segura según su velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En vías interurbanas, el adelantamiento a motocicletas y vehículos inmovilizados requiere una separación mínima de 1,5 metros."
+  },
+  {
+    "_id": "PB-TM6-P64",
+    "Enunciado": "Al adelantar a vehículos que realizan labores de auxilio, como grúas o ambulancias, fuera de poblado, ¿qué distancia se debe guardar?",
+    "Opciones": [
+      "A) Al menos un metro y medio.",
+      "B) No es necesario dejar una distancia mínima específica.",
+      "C) Al menos dos metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos de auxilio en carretera también deben ser adelantados respetando el margen lateral de 1,5 metros fuera de poblado."
+  },
+  {
+    "_id": "PB-TM6-P65",
+    "Enunciado": "En los casos donde no hay una distancia mínima fijada, ¿de qué depende el espacio que debe dejar el conductor al adelantar?",
+    "Opciones": [
+      "A) Únicamente de la potencia del motor del vehículo que adelanta.",
+      "B) De la velocidad y de las condiciones de la carretera.",
+      "C) Del color de la calzada y la visibilidad de las señales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Cuando no se aplica la regla del metro y medio, el espacio de seguridad debe adaptarse a la velocidad de los vehículos y al estado de la vía."
+  },
+  {
+    "_id": "PB-TM6-P66",
+    "Enunciado": "¿Cuál es la obligación principal del conductor del vehículo al que otro conductor está adelantando?",
+    "Opciones": [
+      "A) Aumentar la velocidad para que el adelantamiento termine antes.",
+      "B) Cambiarse al carril de la izquierda para dejar sitio.",
+      "C) Permitir al otro conductor que le adelante y facilitarle la maniobra."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El conductor que está siendo adelantado debe colaborar y facilitar la maniobra al vehículo que pretende sobrepasarle."
+  },
+  {
+    "_id": "PB-TM6-P67",
+    "Enunciado": "¿Qué acción está prohibida realizar mientras otro vehículo le está adelantando?",
+    "Opciones": [
+      "A) Reducir la velocidad suavemente.",
+      "B) Aumentar la velocidad en ese momento.",
+      "C) Mantener la trayectoria recta."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Está expresamente prohibido incrementar la velocidad cuando otro vehículo ha iniciado ya la maniobra de adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P68",
+    "Enunciado": "¿Dónde debe colocar su vehículo el conductor que está siendo adelantado?",
+    "Opciones": [
+      "A) En el borde izquierdo del carril para facilitar el paso por la derecha.",
+      "B) En el borde derecho del carril.",
+      "C) En el centro del carril para que el otro vea mejor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe ceñir el vehículo al borde derecho de su carril para dejar el máximo espacio posible al vehículo adelantador."
+  },
+  {
+    "_id": "PB-TM6-P69",
+    "Enunciado": "Al arrimarse al borde derecho durante un adelantamiento ajeno, ¿qué precaución debe tomar el conductor?",
+    "Opciones": [
+      "A) Debe frenar bruscamente para que el otro pase rápido.",
+      "B) Debe circular por el arcén si es transitable.",
+      "C) No debe pasar al arcén."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El conductor debe colocarse a la derecha de su carril, pero sin invadir el arcén del vehículo."
+  },
+  {
+    "_id": "PB-TM6-P70",
+    "Enunciado": "¿Qué debe hacer el conductor adelantado si surge una situación de peligro durante la maniobra?",
+    "Opciones": [
+      "A) Aumentar la velocidad para cerrar el paso.",
+      "B) Reducir la velocidad del vehículo.",
+      "C) Tocar el claxon de forma continuada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Ante un peligro repentino mientras le adelantan, el conductor debe aminorar la marcha para facilitar la resolución de la maniobra."
+  },
+  {
+    "_id": "PB-TM6-P71",
+    "Enunciado": "Una vez que el otro vehículo ha terminado de adelantar, ¿qué debe permitirle el conductor adelantado?",
+    "Opciones": [
+      "A) Que se detenga en el centro de la calzada.",
+      "B) Que circule por el carril izquierdo todo el tiempo que quiera.",
+      "C) Volver a su carril."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El conductor debe facilitar la reincorporación al carril derecho del vehículo que acaba de realizar el adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P72",
+    "Enunciado": "¿Cómo deben actuar los conductores de vehículos muy grandes o pesados que no pueden arrimarse a la derecha?",
+    "Opciones": [
+      "A) Encender las luces de emergencia y detenerse en el carril.",
+      "B) Mantener la velocidad constante y no hacer ninguna señal.",
+      "C) Reducir la velocidad e indicar al conductor de atrás que le puede adelantar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Si por sus dimensiones no pueden ceñirse a la derecha, deben frenar un poco y avisar de que el paso está libre."
+  },
+  {
+    "_id": "PB-TM6-P73",
+    "Enunciado": "¿Cuál es la señal manual que hace un vehículo pesado para indicar que se le puede adelantar?",
+    "Opciones": [
+      "A) Brazo extendido moviendo la palma de la mano hacia atrás y hacia adelante.",
+      "B) Brazo extendido hacia abajo totalmente rígido.",
+      "C) Brazo doblado hacia arriba con la palma abierta."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El movimiento de la palma del brazo extendido hacia adelante y atrás es la señal para indicar que el conductor de atrás puede adelantar."
+  },
+  {
+    "_id": "PB-TM6-P74",
+    "Enunciado": "¿Qué luz del vehículo puede usar un camión grande para indicar que se le puede adelantar con seguridad?",
+    "Opciones": [
+      "A) La luz intermitente derecha del vehículo.",
+      "B) La luz antiniebla trasera.",
+      "C) Los dos intermitentes a la vez (emergencia)."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El uso del intermitente derecho por parte de un vehículo pesado indica al conductor que le sigue que tiene visibilidad para adelantar."
+  },
+  {
+    "_id": "PB-TM6-P75",
+    "Enunciado": "Como norma general, ¿cuándo está prohibido adelantar?",
+    "Opciones": [
+      "A) Siempre que el vehículo delantero circule a la velocidad máxima.",
+      "B) Únicamente durante la noche en carreteras sin farolas.",
+      "C) Cuando no puedes ver bien toda la carretera por delante."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La falta de visibilidad del tramo delantero de la carretera es el motivo principal para prohibir la maniobra de adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P76",
+    "Enunciado": "¿En qué caso se puede adelantar aunque no se vea bien la carretera por delante?",
+    "Opciones": [
+      "A) Solo si el vehículo que adelantamos es una motocicleta.",
+      "B) Si el conductor de delante nos lo permite con señales de luces.",
+      "C) Si los carriles están pintados y no tienes que entrar al carril contrario."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Si la vía tiene carriles delimitados y el adelantamiento no implica invadir el sentido opuesto, se permite rebasar aunque la visibilidad sea reducida."
+  },
+  {
+    "_id": "PB-TM6-P77",
+    "Enunciado": "Respecto a las curvas, ¿cuándo está prohibido realizar un adelantamiento?",
+    "Opciones": [
+      "A) Solo si la curva tiene una señal de prohibido adelantar.",
+      "B) En las curvas en las que no se ve bien.",
+      "C) En todas las curvas de la carretera sin excepción."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La prohibición de adelantar en curvas está vinculada directamente a la visibilidad que tenga el conductor."
+  },
+  {
+    "_id": "PB-TM6-P78",
+    "Enunciado": "¿Por qué está prohibido adelantar en cambios de rasante con mala visibilidad?",
+    "Opciones": [
+      "A) Porque las ruedas pierden adherencia al llegar arriba.",
+      "B) Porque el vehículo consume más combustible en las subidas.",
+      "C) Porque el conductor no puede ver si vienen vehículos en sentido contrario."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los cambios de rasante ciegos, el riesgo de colisión frontal es muy alto al no ver el tráfico que se aproxima."
+  },
+  {
+    "_id": "PB-TM6-P79",
+    "Enunciado": "¿Qué condiciones meteorológicas prohíben adelantar si no dejan ver bien?",
+    "Opciones": [
+      "A) Niebla, mucha lluvia o cuando el sol deslumbra.",
+      "B) Solo la nieve intensa cuando cuaja en la calzada.",
+      "C) Únicamente el viento fuerte de costado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cualquier fenómeno (niebla, lluvia, deslumbramiento) que impida ver la vía con claridad prohíbe el adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P80",
+    "Enunciado": "¿Por qué no se puede adelantar circulando detrás de un vehículo que ya está adelantando?",
+    "Opciones": [
+      "A) Porque el vehículo delantero es más rápido que el nuestro.",
+      "B) Porque ese vehículo no deja ver la carretera por delante.",
+      "C) Porque se gasta más el embrague al acelerar dos veces."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Adelantar 'en cadena' está prohibido porque el primer vehículo oculta la visibilidad necesaria para el segundo conductor."
+  },
+  {
+    "_id": "PB-TM6-P81",
+    "Enunciado": "¿Cuándo está permitido adelantar a varios vehículos a la vez?",
+    "Opciones": [
+      "A) Únicamente en autopistas con tres carriles.",
+      "B) Cuando puedas volver a la derecha en cualquier momento sin molestar.",
+      "C) Siempre que el carril izquierdo esté libre durante un kilómetro."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se permite adelantar a varios vehículos si existe espacio suficiente para reincorporarse a la derecha entre ellos sin causar molestias."
+  },
+  {
+    "_id": "PB-TM6-P82",
+    "Enunciado": "Si tienes que entrar al carril contrario para adelantar, ¿está permitido adelantar a un vehículo que ya está adelantando a otro?",
+    "Opciones": [
+      "A) Solo si se avisa con el claxon previamente.",
+      "B) Sí, siempre que se haga rápidamente.",
+      "C) Está prohibido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Está prohibido iniciar un adelantamiento que requiera invadir el sentido contrario si el vehículo precedente ya ha iniciado un adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P83",
+    "Enunciado": "Respecto a otros conductores, ¿en qué situación está prohibido adelantar?",
+    "Opciones": [
+      "A) Cuando el vehículo de delante es de autoescuela.",
+      "B) Cuando puedas poner en peligro a los ciclistas del carril contrario.",
+      "C) Cuando el vehículo de delante lleva el equipaje en la baca."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La seguridad de los ciclistas que vienen de frente es prioritaria; si el adelantamiento los pone en riesgo, no debe realizarse."
+  },
+  {
+    "_id": "PB-TM6-P84",
+    "Enunciado": "¿En qué lugares específicos está prohibido el adelantamiento como norma general?",
+    "Opciones": [
+      "A) Solo en las entradas de los garajes señalizados.",
+      "B) Pasos de peatones, cruces de vías ciclistas y pasos a nivel.",
+      "C) Cerca de los colegios en horario de salida."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los pasos de peatones, pasos ciclistas y pasos a nivel son zonas de riesgo donde el adelantamiento está restringido."
+  },
+  {
+    "_id": "PB-TM6-P85",
+    "Enunciado": "¿Se puede adelantar cerca de un paso a nivel?",
+    "Opciones": [
+      "A) Está prohibido.",
+      "B) Solo si las barreras están totalmente levantadas.",
+      "C) Sí, si se circula a menos de 40 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La prohibición de adelantar se extiende tanto al paso a nivel como a sus proximidades."
+  },
+  {
+    "_id": "PB-TM6-P86",
+    "Enunciado": "En un paso a nivel, ¿a qué vehículos se puede adelantar de forma excepcional?",
+    "Opciones": [
+      "A) A los tractores agrícolas que van muy lentos.",
+      "B) A los camiones que transportan mercancías peligrosas.",
+      "C) A los vehículos de dos ruedas que dejan ver bien."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se permite adelantar a vehículos de dos ruedas en pasos a nivel porque su reducido tamaño no obstruye la visibilidad del tren."
+  },
+  {
+    "_id": "PB-TM6-P87",
+    "Enunciado": "Para adelantar a un vehículo de dos ruedas en un paso a nivel, ¿qué requisito debe cumplirse?",
+    "Opciones": [
+      "A) Avisar con señales acústicas (claxon) u ópticas.",
+      "B) Reducir la velocidad hasta los 20 km/h.",
+      "C) No usar nunca el intermitente para no confundir."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El adelantamiento permitido en pasos a nivel requiere avisar previamente al conductor del vehículo de dos ruedas."
+  },
+  {
+    "_id": "PB-TM6-P88",
+    "Enunciado": "¿A qué usuarios se puede adelantar en cualquier camino o carretera, incluso con línea continua?",
+    "Opciones": [
+      "A) Solo a las personas que caminan por el arcén.",
+      "B) Únicamente a los tractores y excavadoras.",
+      "C) Peatones, bicicletas, ciclos, ciclomotores y animales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El reglamento permite adelantar a usuarios lentos como peatones, ciclos, ciclomotores y animales en cualquier tipo de vía."
+  },
+  {
+    "_id": "PB-TM6-P89",
+    "Enunciado": "Además de peatones y animales, ¿a qué otro tipo de transporte se puede adelantar en cualquier vía?",
+    "Opciones": [
+      "A) A los vehículos arrastrados por animales.",
+      "B) A las grúas cuando llevan un coche encima.",
+      "C) A los coches de policía cuando van sin luces."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los vehículos de tracción animal se incluyen en la lista de usuarios a los que se puede adelantar de forma general."
+  },
+  {
+    "_id": "PB-TM6-P90",
+    "Enunciado": "Antes de adelantar a peatones o animales, ¿qué debe asegurar el conductor?",
+    "Opciones": [
+      "A) Que el animal lleva un chip de identificación visible.",
+      "B) Que no hay peligro para ellos o para otros conductores.",
+      "C) Que los peatones están mirando directamente al coche."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La seguridad de los usuarios vulnerables y del resto del tráfico es la comprobación indispensable antes de iniciar la maniobra."
+  }
+]

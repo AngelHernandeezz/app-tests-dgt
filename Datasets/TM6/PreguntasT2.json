@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P31",
+    "Enunciado": "¿En qué consiste exactamente la maniobra de adelantar?",
+    "Opciones": [
+      "A) En circular por el arcén para rebasar a un vehículo lento.",
+      "B) En sobrepasar a otros vehículos que circulan más lento.",
+      "C) En cambiar de carril para facilitar la entrada de otros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El adelantamiento se define como la acción de sobrepasar a otros usuarios de la vía que se desplazan a una velocidad inferior a la nuestra."
+  },
+  {
+    "_id": "PB-TM6-P32",
+    "Enunciado": "Como norma general, ¿por qué lado se debe adelantar a otros vehículos?",
+    "Opciones": [
+      "A) Por cualquier lado, siempre que se señalice previamente.",
+      "B) Por el lado izquierdo del vehículo que se pretende adelantar.",
+      "C) Por el lado derecho siempre que haya espacio suficiente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La regla general en la circulación establece que los adelantamientos deben realizarse por la izquierda del vehículo rebasado."
+  },
+  {
+    "_id": "PB-TM6-P33",
+    "Enunciado": "¿Cuándo está permitido adelantar a un tranvía por el lado derecho?",
+    "Opciones": [
+      "A) Nunca, los tranvías solo se adelantan por la izquierda por seguridad.",
+      "B) Cuando el tranvía circule por la zona central de una vía con dos sentidos.",
+      "C) Únicamente en los días festivos por falta de tráfico."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Si un tranvía circula por el centro de una vía de doble sentido, se permite excepcionalmente el adelantamiento por su derecha."
+  },
+  {
+    "_id": "PB-TM6-P34",
+    "Enunciado": "Si el conductor de delante indica que va a girar a la izquierda, ¿por dónde se le puede adelantar?",
+    "Opciones": [
+      "A) Únicamente por la izquierda cuando termine su maniobra.",
+      "B) Por el arcén izquierdo si es transitable.",
+      "C) Por el lado derecho."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Está permitido adelantar por la derecha a un vehículo que señaliza claramente su intención de girar a la izquierda o parar en ese lado."
+  },
+  {
+    "_id": "PB-TM6-P35",
+    "Enunciado": "Dentro de un poblado, ¿cuándo se puede adelantar por la derecha?",
+    "Opciones": [
+      "A) Siempre que el vehículo de delante circule por debajo de 30 km/h.",
+      "B) Solo si el carril de la izquierda está ocupado por un autobús.",
+      "C) Si hay al menos dos carriles en el mismo sentido delimitados por líneas blancas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En zona urbana, con carriles pintados para el mismo sentido, se permite adelantar por la derecha de forma segura."
+  },
+  {
+    "_id": "PB-TM6-P36",
+    "Enunciado": "En carreteras con atascos, si un carril avanza más rápido que otro, ¿se considera adelantamiento?",
+    "Opciones": [
+      "A) No se considera adelantamiento en estas situaciones.",
+      "B) Sí, y debe señalizarse con los intermitentes.",
+      "C) Solo si se adelanta a más de cinco vehículos seguidos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En retenciones, el hecho de que una fila de vehículos circule más veloz que la otra no tiene consideración legal de adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P37",
+    "Enunciado": "En una situación de atasco, ¿está permitido cambiar de carril para adelantar?",
+    "Opciones": [
+      "A) Está prohibido cambiar de carril para adelantar.",
+      "B) Solo si se hace por el carril de la derecha.",
+      "C) Sí, para agilizar el movimiento de los vehículos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En condiciones de tráfico saturado, los conductores deben mantener su carril y evitar maniobras de cambio para ganar posiciones."
+  },
+  {
+    "_id": "PB-TM6-P38",
+    "Enunciado": "¿Es adelantamiento circular más rápido por los carriles de entrada o salida que los vehículos de la vía?",
+    "Opciones": [
+      "A) Solo si se supera la velocidad del vehículo de la izquierda.",
+      "B) No se considera adelantamiento.",
+      "C) Sí, y es una maniobra de alto riesgo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Circular por carriles de aceleración o deceleración a velocidad distinta del tronco central no cuenta como maniobra de adelantar."
+  },
+  {
+    "_id": "PB-TM6-P39",
+    "Enunciado": "Si un autobús va más rápido por su carril reservado que los coches de otros carriles, ¿es adelantamiento?",
+    "Opciones": [
+      "A) Sí, es un adelantamiento especial urbano.",
+      "B) No se considera adelantamiento.",
+      "C) Se considera adelantamiento si el autobús usa el carril izquierdo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos en carriles reservados (como bus o taxi) no realizan adelantamientos aunque rebasen a otros usuarios por su carril."
+  },
+  {
+    "_id": "PB-TM6-P40",
+    "Enunciado": "Cuando los ciclistas circulan en grupo y se pasan unos a otros, ¿se considera adelantamiento?",
+    "Opciones": [
+      "A) Solo si lo hacen fuera de vías urbanas.",
+      "B) No se considera adelantamiento.",
+      "C) Sí, y deben guardar un metro y medio entre ellos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El intercambio de posiciones entre ciclistas de un mismo grupo no tiene la consideración legal de maniobra de adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P41",
+    "Enunciado": "¿Qué consideración tiene pasar a un vehículo parado en la carretera por avería?",
+    "Opciones": [
+      "A) No se considera adelantamiento.",
+      "B) Se considera adelantamiento solo si se invade el carril contrario.",
+      "C) Es un adelantamiento forzoso por obstáculo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Rebasar a un vehículo inmovilizado por causas accidentales no se define como la maniobra de adelantar."
+  },
+  {
+    "_id": "PB-TM6-P42",
+    "Enunciado": "Para rebasar un obstáculo en la carretera, ¿se puede invadir el carril contrario?",
+    "Opciones": [
+      "A) No, está totalmente prohibido en cualquier caso.",
+      "B) Solo si un agente de tráfico nos da paso.",
+      "C) Sí, aunque tengas que pasar al carril contrario."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se permite rebasar obstáculos invadiendo el sentido opuesto con precaución, y esta acción no cuenta como adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P43",
+    "Enunciado": "En carreteras de doble sentido con tres carriles separados por líneas discontinuas, ¿cómo se adelanta?",
+    "Opciones": [
+      "A) Por el carril de la izquierda, pisando el sentido contrario.",
+      "B) Por el carril de la derecha obligatoriamente.",
+      "C) Por el carril central siempre que no esté ocupado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En estas vías el carril central se utiliza específicamente para realizar adelantamientos en ambos sentidos de la marcha."
+  },
+  {
+    "_id": "PB-TM6-P44",
+    "Enunciado": "En vías con dos o más carriles para el mismo sentido, ¿puede el conductor seguir por la izquierda tras adelantar?",
+    "Opciones": [
+      "A) No, debe volver a la derecha inmediatamente.",
+      "B) Solo si circula a la velocidad máxima de la vía.",
+      "C) Sí, si tiene intención de seguir adelantando."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se permite continuar en el carril izquierdo si se van a realizar varios adelantamientos sucesivos sin entorpecer."
+  },
+  {
+    "_id": "PB-TM6-P45",
+    "Enunciado": "¿Cuándo debe volver obligatoriamente a la derecha un conductor que circula por el carril izquierdo?",
+    "Opciones": [
+      "A) En cuanto vea una señal de curva peligrosa.",
+      "B) Si viene otro vehículo por detrás que circula más rápido.",
+      "C) Al cabo de un minuto de haber terminado el adelantamiento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es obligatorio dejar libre el carril izquierdo para facilitar el paso a los vehículos que se aproximen con mayor velocidad."
+  },
+  {
+    "_id": "PB-TM6-P46",
+    "Enunciado": "¿Cuál es el primer paso de la lista de pasos a seguir para adelantar?",
+    "Opciones": [
+      "A) Señalizar con el intermitente.",
+      "B) Aumentar la velocidad bruscamente.",
+      "C) Preparación."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La secuencia correcta para un adelantamiento seguro comienza siempre con la fase de preparación."
+  },
+  {
+    "_id": "PB-TM6-P47",
+    "Enunciado": "Durante la preparación del adelantamiento, el conductor debe...",
+    "Opciones": [
+      "A) Mantener una distancia adecuada con el vehículo que quiere adelantar.",
+      "B) Encender las luces de emergencia para avisar.",
+      "C) Pegarse lo máximo posible al vehículo de delante."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Guardar una distancia de seguridad previa es vital para tener visibilidad y margen de maniobra antes de adelantar."
+  },
+  {
+    "_id": "PB-TM6-P48",
+    "Enunciado": "Para preparar el adelantamiento, el conductor debe valorar de los vehículos en sentido contrario...",
+    "Opciones": [
+      "A) Su color y tamaño para saber si son pesados.",
+      "B) Su distancia y la velocidad a la que se acercan.",
+      "C) Únicamente si llevan las luces antiniebla."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es fundamental calcular el tiempo y espacio disponible según la velocidad de aproximación del tráfico opuesto."
+  },
+  {
+    "_id": "PB-TM6-P49",
+    "Enunciado": "¿Qué límites debe tener presentes el conductor al preparar un adelantamiento?",
+    "Opciones": [
+      "A) La distancia hasta el próximo poste de auxilio.",
+      "B) Los límites de velocidad permitidos en esa carretera.",
+      "C) Solo la capacidad de aceleración de su motor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Cualquier maniobra de adelantamiento debe respetar escrupulosamente los límites de velocidad legales de la vía."
+  },
+  {
+    "_id": "PB-TM6-P50",
+    "Enunciado": "¿Qué debe comprobar respecto al conductor de delante antes de iniciar el adelantamiento?",
+    "Opciones": [
+      "A) Si ha señalado con luces o el brazo que se va a desplazar hacia ese lado.",
+      "B) Si el vehículo de delante tiene la ITV en vigor.",
+      "C) El número de personas que viajan en el interior."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Antes de salir, hay que verificar que el vehículo precedente no tiene intención de moverse hacia nuestro carril."
+  },
+  {
+    "_id": "PB-TM6-P51",
+    "Enunciado": "Si el vehículo de delante indica su intención de desplazarse hacia nuestro lado, ¿qué debemos hacer?",
+    "Opciones": [
+      "A) Adelantar por el lado contrario al que ha señalado.",
+      "B) Esperar a que él haga su maniobra antes de adelantarle.",
+      "C) Tocar el claxon y adelantar más rápido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La prioridad es del vehículo que ha señalizado primero su intención; debemos esperar a que concluya su movimiento."
+  },
+  {
+    "_id": "PB-TM6-P52",
+    "Enunciado": "Antes de adelantar, es obligatorio comprobar que se podrá volver al carril...",
+    "Opciones": [
+      "A) Únicamente si el otro conductor nos hace señales con la mano.",
+      "B) Solo si no hay una línea continua en ese tramo.",
+      "C) Sin riesgo para los demás vehículos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe asegurar espacio suficiente para reincorporarse al carril original sin comprometer la seguridad ajena."
+  },
+  {
+    "_id": "PB-TM6-P53",
+    "Enunciado": "¿Qué debe comprobar el conductor respecto al carril por el que va a adelantar?",
+    "Opciones": [
+      "A) Que no esté ocupado por otro vehículo que también quiere adelantar.",
+      "B) Que no haya ningún radar en los próximos dos kilómetros.",
+      "C) Que el asfalto sea de color negro intenso."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es necesario mirar por los retrovisores para confirmar que nadie de detrás ha iniciado el adelantamiento antes que nosotros."
+  },
+  {
+    "_id": "PB-TM6-P54",
+    "Enunciado": "¿Cómo se puede pedir paso para adelantar utilizando las luces?",
+    "Opciones": [
+      "A) Poniendo las luces de largo alcance fijas.",
+      "B) Encendiendo la luz de posición trasera.",
+      "C) Haciendo señales con las luces del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las ráfagas o destellos luminosos son una forma reglamentaria de advertir nuestra intención de adelantar al conductor delantero."
+  },
+  {
+    "_id": "PB-TM6-P55",
+    "Enunciado": "¿En qué lugares están permitidas las señales sonoras para pedir paso en un adelantamiento?",
+    "Opciones": [
+      "A) Solo fuera de pueblos y ciudades.",
+      "B) En cualquier vía, siempre que no sea de noche.",
+      "C) Únicamente dentro de los núcleos urbanos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El uso del claxon para advertir un adelantamiento está limitado legalmente a las vías interurbanas."
+  },
+  {
+    "_id": "PB-TM6-P56",
+    "Enunciado": "Durante la ejecución de la maniobra de adelantar, ¿qué acción debe realizar el conductor?",
+    "Opciones": [
+      "A) Aumentar la velocidad del vehículo.",
+      "B) Reducir la marcha para observar mejor el lateral.",
+      "C) Mantener la velocidad exactamente igual a la del otro."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para que el adelantamiento dure el menor tiempo posible, es necesario incrementar la velocidad respecto al vehículo rebasado."
+  },
+  {
+    "_id": "PB-TM6-P57",
+    "Enunciado": "Al aumentar la velocidad para adelantar, ¿qué norma es fundamental respetar?",
+    "Opciones": [
+      "A) Superar en 20 km/h la velocidad del vehículo adelantado.",
+      "B) No hacer ruido excesivo con el tubo de escape.",
+      "C) No sobrepasar el límite de velocidad máxima permitida."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Incluso adelantando, el conductor tiene prohibido exceder los límites de velocidad genéricos o específicos de la vía."
+  },
+  {
+    "_id": "PB-TM6-P58",
+    "Enunciado": "Al adelantar a un ciclo o ciclomotor, ¿qué separación lateral mínima se debe dejar?",
+    "Opciones": [
+      "A) Al menos un metro y medio.",
+      "B) Medio metro es suficiente por su reducido tamaño.",
+      "C) Una distancia igual a la longitud del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La seguridad de los ciclistas exige dejar un margen lateral mínimo de 1,5 metros en cualquier vía."
+  },
+  {
+    "_id": "PB-TM6-P59",
+    "Enunciado": "Para adelantar a un ciclo, ¿qué debe hacer el conductor respecto al carril?",
+    "Opciones": [
+      "A) Cambiarse al carril de la izquierda.",
+      "B) Circular por el arcén izquierdo para dejarle sitio.",
+      "C) Mantenerse en el mismo carril si es ancho."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es obligatorio cambiar de carril para garantizar la distancia de seguridad con ciclos o ciclomotores."
+  },
+  {
+    "_id": "PB-TM6-P60",
+    "Enunciado": "¿Está permitido adelantar a un ciclo o ciclomotor por el mismo carril por el que este circula?",
+    "Opciones": [
+      "A) Solo si el ciclista nos lo indica con el brazo.",
+      "B) Sí, siempre que se haga a menos de 20 km/h.",
+      "C) No, no se puede adelantar por el mismo carril."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La norma exige ocupar el carril contiguo para proteger la integridad del usuario del ciclo o ciclomotor."
+  }
+]

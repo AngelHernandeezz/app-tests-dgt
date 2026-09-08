@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM7-P1",
+    "Enunciado": "Para evitar peligros y accidentes de tráfico, ¿qué es muy importante al conducir?",
+    "Opciones": [
+      "A) Conducir utilizando únicamente la marcha más larga disponible.",
+      "B) Conducir a la velocidad adecuada.",
+      "C) Conducir siempre a la velocidad máxima permitida por la vía."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es muy importante conducir a la velocidad adecuada para evitar peligros y accidentes de tráfico."
+  },
+  {
+    "_id": "PB-TM7-P2",
+    "Enunciado": "Según el temario, ¿cuántos tipos de velocidad hay al conducir?",
+    "Opciones": [
+      "A) Hay distintos tipos de velocidad.",
+      "B) Solo existe la velocidad máxima y la mínima.",
+      "C) Existe un único tipo de velocidad según el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El manual indica que hay distintos tipos de velocidad al conducir: máxima, mínima, inadecuada y adecuada."
+  },
+  {
+    "_id": "PB-TM7-P3",
+    "Enunciado": "¿Cómo se define la velocidad máxima?",
+    "Opciones": [
+      "A) La velocidad a la que el conductor decide circular por seguridad.",
+      "B) El límite técnico de velocidad que puede alcanzar el motor del vehículo.",
+      "C) Máximo de velocidad permitido que puede alcanzar un vehículo en la carretera por la que circula."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad máxima es el máximo de velocidad permitido que puede alcanzar un vehículo en la carretera por la que circula."
+  },
+  {
+    "_id": "PB-TM7-P4",
+    "Enunciado": "¿Qué ocurre cuando un vehículo va a más velocidad de la máxima permitida?",
+    "Opciones": [
+      "A) Circula con velocidad anormalmente reducida.",
+      "B) Circula con velocidad inadecuada.",
+      "C) Circula con exceso de velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Cuando el vehículo va a más velocidad de la máxima permitida, circula con exceso de velocidad."
+  },
+  {
+    "_id": "PB-TM7-P5",
+    "Enunciado": "Si la velocidad máxima permitida es de 90 kilómetros por hora y un vehículo circula a 100 kilómetros por hora, ¿qué tipo de infracción comete?",
+    "Opciones": [
+      "A) Exceso de velocidad.",
+      "B) Velocidad anormalmente reducida.",
+      "C) Velocidad inadecuada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es exceso de velocidad circular a una velocidad de 100 kilómetros por hora en una carretera en la que la velocidad máxima permitida es de 90 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P6",
+    "Enunciado": "¿Qué es la velocidad mínima?",
+    "Opciones": [
+      "A) Mínimo de velocidad a la que debe ir un vehículo en la carretera por la que circula.",
+      "B) La velocidad por debajo de la cual el motor del vehículo se cala.",
+      "C) La velocidad que recomienda el fabricante para consumir menos combustible."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad mínima es el mínimo de velocidad a la que debe ir un vehículo en la carretera por la que circula."
+  },
+  {
+    "_id": "PB-TM7-P7",
+    "Enunciado": "¿Cómo se denomina la circulación a una velocidad menor de la permitida?",
+    "Opciones": [
+      "A) Velocidad anormalmente reducida.",
+      "B) Velocidad inadecuada por exceso.",
+      "C) Velocidad máxima permitida."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cuando un vehículo circula a una velocidad menor de la permitida lleva una velocidad anormalmente reducida."
+  },
+  {
+    "_id": "PB-TM7-P8",
+    "Enunciado": "En una autopista con velocidad mínima de 60 kilómetros por hora, ¿qué supone conducir a 40 kilómetros por hora?",
+    "Opciones": [
+      "A) Una velocidad anormalmente reducida.",
+      "B) Un exceso de velocidad.",
+      "C) Una velocidad adecuada a la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es velocidad anormalmente reducida conducir a 40 kilómetros por hora en una autopista en la que la velocidad mínima permitida es de 60 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P9",
+    "Enunciado": "¿Qué es la velocidad inadecuada?",
+    "Opciones": [
+      "A) Velocidad que está dentro de los límites permitidos pero que no es adecuada por las circunstancias existentes.",
+      "B) La velocidad que es siempre inferior a la mínima permitida.",
+      "C) Aquella que supera siempre los límites máximos de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La velocidad inadecuada es la velocidad que está dentro de los límites permitidos pero que no es adecuada por las condiciones del conductor, clima, carretera o vehículo."
+  },
+  {
+    "_id": "PB-TM7-P10",
+    "Enunciado": "¿Qué factores pueden convertir una velocidad permitida en inadecuada?",
+    "Opciones": [
+      "A) Solo el estado de ánimo del conductor.",
+      "B) Únicamente el límite de velocidad marcado por la señalización.",
+      "C) Las condiciones del conductor, del clima, de la carretera o del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad inadecuada depende de las condiciones del conductor, del clima, el estado de la carretera, o las circunstancias del vehículo."
+  },
+  {
+    "_id": "PB-TM7-P11",
+    "Enunciado": "Si circulamos a 70 kilómetros por hora en una carretera con placas de hielo donde esa velocidad está permitida, ¿qué tipo de velocidad llevamos?",
+    "Opciones": [
+      "A) Una velocidad mínima permitida.",
+      "B) Una velocidad adecuada porque está dentro de los límites.",
+      "C) Una velocidad inadecuada (excesiva para las circunstancias)."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Conducir a 70 km/h con hielo es una velocidad excesiva e inadecuada dadas las circunstancias, aunque esté dentro de los límites."
+  },
+  {
+    "_id": "PB-TM7-P12",
+    "Enunciado": "¿Cuál es una de las principales causas de accidentes de tráfico según el texto?",
+    "Opciones": [
+      "A) El uso de vehículos eléctricos en carreteras secundarias.",
+      "B) Conducir a velocidad inadecuada o excesiva.",
+      "C) La falta de iluminación en los pasos de cebra."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Conducir a velocidad inadecuada o excesiva es una de las principales causas de accidentes de tráfico."
+  },
+  {
+    "_id": "PB-TM7-P13",
+    "Enunciado": "¿Cómo se define la velocidad adecuada?",
+    "Opciones": [
+      "A) Es la velocidad máxima que puede alcanzar el vehículo técnicamente.",
+      "B) Aquella que se sitúa siempre exactamente en el límite mínimo de la vía.",
+      "C) Velocidad dentro de los límites permitidos y adecuada a todas las condiciones y circunstancias."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad adecuada es la que está dentro de los límites permitidos y es adecuada para las condiciones del clima, la carretera, el vehículo y el conductor."
+  },
+  {
+    "_id": "PB-TM7-P14",
+    "Enunciado": "¿Qué ventaja principal ofrece circular a una velocidad adecuada?",
+    "Opciones": [
+      "A) Garantiza llegar siempre antes al destino.",
+      "B) Permite controlar mejor el vehículo ante imprevistos.",
+      "C) Reduce el desgaste de los neumáticos a la mitad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad adecuada permite controlar mejor el vehículo ante imprevistos."
+  },
+  {
+    "_id": "PB-TM7-P15",
+    "Enunciado": "Respecto a la mortalidad en accidentes, ¿cuándo es más probable que las personas mueran?",
+    "Opciones": [
+      "A) Cuando el vehículo circula a velocidad excesiva.",
+      "B) Cuando el vehículo circula por vías con varios carriles.",
+      "C) Cuando el vehículo circula a la velocidad mínima permitida."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es más probable que las personas mueran en un accidente cuando el vehículo circula a velocidad excesiva que cuando lo hace a velocidad adecuada."
+  },
+  {
+    "_id": "PB-TM7-P16",
+    "Enunciado": "¿Qué debe tenerse en cuenta para circular a una velocidad adecuada?",
+    "Opciones": [
+      "A) Las condiciones del clima, carretera, vehículo y estado del conductor.",
+      "B) Únicamente la hora del día en la que se circula.",
+      "C) Solo el color del vehículo y su marca comercial."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para circular a velocidad adecuada hay que considerar las condiciones del clima, carretera, circunstancias del vehículo y estado del conductor."
+  },
+  {
+    "_id": "PB-TM7-P17",
+    "Enunciado": "¿Cuándo se debe conducir despacio e incluso parar el vehículo respecto a los peatones?",
+    "Opciones": [
+      "A) Solo si los peatones están cruzando por un paso con semáforo en verde.",
+      "B) Cuando hay peatones en la carretera o pueden pasar por ella.",
+      "C) Únicamente si el peatón nos lo indica con una señal manual."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Debes conducir despacio e incluso parar cuando hay peatones en la carretera o pueden pasar por ella."
+  },
+  {
+    "_id": "PB-TM7-P18",
+    "Enunciado": "¿Ante qué grupos de peatones se debe extremar la precaución y reducir la velocidad?",
+    "Opciones": [
+      "A) Únicamente ante grupos de más de cinco personas.",
+      "B) Niños, personas mayores, personas con discapacidad visual o física.",
+      "C) Solo ante personas que lleven ropa de colores llamativos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe extremar la precaución especialmente cuando hay niños, personas mayores, personas que no ven o con otro tipo de discapacidad física."
+  },
+  {
+    "_id": "PB-TM7-P19",
+    "Enunciado": "¿Cómo se debe actuar cerca de vías reservadas para ciclistas?",
+    "Opciones": [
+      "A) Aumentando la velocidad para rebasarlos cuanto antes.",
+      "B) Conduciendo despacio e incluso parando el vehículo.",
+      "C) Manteniendo la velocidad máxima genérica de la vía sin variaciones."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe conducir despacio cerca de vías reservadas para ciclistas y en todos los lugares en los que circulan ciclistas."
+  },
+  {
+    "_id": "PB-TM7-P20",
+    "Enunciado": "¿Qué precaución se debe tomar en los pasos de peatones sin semáforo ni agente?",
+    "Opciones": [
+      "A) Mantener la velocidad habitual para no entorpecer el tráfico.",
+      "B) Conducir despacio e incluso parar el vehículo.",
+      "C) Tocar el claxon para avisar de nuestra llegada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe conducir despacio en los pasos de peatones en los que no hay semáforo ni agente de tráfico."
+  },
+  {
+    "_id": "PB-TM7-P21",
+    "Enunciado": "¿En qué lugares específicos, por la posible presencia de niños, se debe conducir despacio?",
+    "Opciones": [
+      "A) Solo en las calles peatonales de los centros urbanos.",
+      "B) Únicamente en carreteras nacionales de un solo carril.",
+      "C) Cerca de mercados, escuelas y otros lugares similares."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe conducir despacio cerca de mercados, escuelas y otros lugares en los que puede haber niños."
+  },
+  {
+    "_id": "PB-TM7-P22",
+    "Enunciado": "¿Qué debe hacerse en carreteras o caminos donde hay animales o pueden aparecer?",
+    "Opciones": [
+      "A) Encender las luces de largo alcance de forma constante.",
+      "B) Conducir despacio e incluso parar el vehículo.",
+      "C) Acelerar para evitar que el animal se asuste y se cruce."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe conducir despacio en las carreteras o caminos en los que hay animales o pueden aparecer."
+  },
+  {
+    "_id": "PB-TM7-P23",
+    "Enunciado": "¿Por qué se debe conducir despacio en tramos con edificios pegados a la carretera?",
+    "Opciones": [
+      "A) Porque pueden salir personas o animales de esos edificios.",
+      "B) Por el riesgo de desprendimientos de las fachadas de los edificios.",
+      "C) Para permitir que los residentes puedan cruzar por cualquier punto."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En tramos con edificios pegados a la carretera pueden salir personas o animales de esos edificios."
+  },
+  {
+    "_id": "PB-TM7-P24",
+    "Enunciado": "¿Cómo actuar al acercarse a un autobús parado, especialmente si es de transporte escolar?",
+    "Opciones": [
+      "A) Conducir despacio e incluso parar el vehículo.",
+      "B) Realizar un adelantamiento rápido para no quedar bloqueado.",
+      "C) Mantener la velocidad máxima permitida en ese tramo de vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Debes conducir despacio al acercarte a un autobús que está parado, especialmente si transporta niños."
+  },
+  {
+    "_id": "PB-TM7-P25",
+    "Enunciado": "¿Ante qué vehículos parados o en circulación debemos reducir la velocidad?",
+    "Opciones": [
+      "A) Solo ante camiones de gran tonelaje que circulen por el arcén.",
+      "B) Únicamente ante ambulancias que lleven las sirenas apagadas.",
+      "C) Cualquier vehículo parado, de emergencias y bicicletas en el carril o arcén."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe conducir despacio al acercarse a cualquier vehículo parado, vehículos de emergencias y bicicletas que circulan por tu carril o arcén."
+  },
+  {
+    "_id": "PB-TM7-P26",
+    "Enunciado": "¿Qué materiales en la carretera obligan a conducir despacio?",
+    "Opciones": [
+      "A) Solo si hay asfalto nuevo recién puesto.",
+      "B) Únicamente si hay restos de aceite de un accidente previo.",
+      "C) Agua, gravilla u otros materiales, o si la carretera patina."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe conducir despacio cuando la carretera patina o hay en ella agua, gravilla u otros materiales."
+  },
+  {
+    "_id": "PB-TM7-P27",
+    "Enunciado": "¿Qué es la velocidad genérica?",
+    "Opciones": [
+      "A) La velocidad que cada conductor elige como segura para su vehículo.",
+      "B) La velocidad media de todos los vehículos que circulan por una vía.",
+      "C) Límite de velocidad que debe cumplir cada tipo de vehículo en cada carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La velocidad genérica es el límite de velocidad que debe cumplir cada tipo de vehículo en cada carretera."
+  },
+  {
+    "_id": "PB-TM7-P28",
+    "Enunciado": "Respecto a la velocidad genérica, ¿qué tipos existen?",
+    "Opciones": [
+      "A) Existen velocidades genéricas solo para vehículos pesados.",
+      "B) Solo existen velocidades genéricas recomendadas.",
+      "C) Hay velocidades genéricas máximas y mínimas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Hay velocidades genéricas máximas y mínimas."
+  },
+  {
+    "_id": "PB-TM7-P29",
+    "Enunciado": "¿Qué vehículos forman el primer grupo para los límites de velocidad fuera de poblado?",
+    "Opciones": [
+      "A) Camiones, vehículos articulados y vehículos con remolque.",
+      "B) Turismos, motos, vehículos de 3 ruedas, autocaravanas <3500kg y pick-up.",
+      "C) Autobuses, furgonetas y vehículos mixtos adaptables."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El primer grupo incluye turismos, motocicletas, vehículos de tres ruedas, autocaravanas de menos de 3.500 kilos y pick up."
+  },
+  {
+    "_id": "PB-TM7-P30",
+    "Enunciado": "¿Cuál es la velocidad máxima en autopista y autovía para turismos y motocicletas?",
+    "Opciones": [
+      "A) 100 kilómetros por hora.",
+      "B) 120 kilómetros por hora.",
+      "C) 90 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La velocidad máxima en autopista y autovía para turismos y motocicletas es de 120 kilómetros por hora."
+  }
+]

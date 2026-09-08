@@ -1,0 +1,145 @@
+[
+  {
+    "_id": "PB-TM6-P181",
+    "Enunciado": "¿Está permitido parar o estacionar en carriles o partes de las vías reservadas para otros vehículos?",
+    "Opciones": [
+      "A) Solo se permite la parada si dura menos de un minuto.",
+      "B) Sí, siempre que no circule el vehículo para el que está reservado.",
+      "C) No, está prohibido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El reglamento prohíbe tanto parar como estacionar en cualquier carril destinado exclusivamente a otros tipos de vehículos."
+  },
+  {
+    "_id": "PB-TM6-P182",
+    "Enunciado": "¿Qué norma se aplica a la parada y estacionamiento en los cruces de vías?",
+    "Opciones": [
+      "A) Solo está prohibido parar si hay un semáforo en el cruce.",
+      "B) Se permite estacionar si el cruce es lo suficientemente ancho.",
+      "C) Está prohibido en los cruces o cerca de ellos si no se deja girar a otros vehículos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "No se puede realizar una inmovilización voluntaria en un cruce o sus proximidades si esto impide que otros usuarios realicen giros."
+  },
+  {
+    "_id": "PB-TM6-P183",
+    "Enunciado": "Respecto al tranvía, ¿dónde está prohibido parar y estacionar?",
+    "Opciones": [
+      "A) Sobre los raíles del tranvía o muy cerca de ellos.",
+      "B) A una distancia superior a cinco metros de los raíles.",
+      "C) Únicamente en las paradas señalizadas para los pasajeros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para no entorpecer la marcha del tranvía, está prohibido parar o estacionar sobre su zona de paso o en las inmediaciones que afecten a su trayectoria."
+  },
+  {
+    "_id": "PB-TM6-P184",
+    "Enunciado": "¿Se puede estacionar el vehículo en un lugar donde no deje ver las señales a otros conductores?",
+    "Opciones": [
+      "A) Solo si se trata de señales de indicación de color azul.",
+      "B) No, está prohibido parar y estacionar en esos lugares.",
+      "C) Sí, si el vehículo tiene puestas las luces de emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La visibilidad de las señales es prioritaria; por ello, está prohibida cualquier inmovilización que las oculte a los demás usuarios."
+  },
+  {
+    "_id": "PB-TM6-P185",
+    "Enunciado": "¿En qué lugares específicos de las autopistas o autovías se permite parar o estacionar?",
+    "Opciones": [
+      "A) En cualquier tramo recto con buena visibilidad.",
+      "B) En el arcén derecho siempre que sea transitable.",
+      "C) Solo en las áreas de descanso o de servicio."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En las vías de alta velocidad, la parada y el estacionamiento voluntarios están restringidos exclusivamente a las zonas habilitadas para ello."
+  },
+  {
+    "_id": "PB-TM6-P186",
+    "Enunciado": "¿Está permitido parar y estacionar en los carriles reservados para autobuses, taxis o bicicletas?",
+    "Opciones": [
+      "A) Solo se permite estacionar si es fuera del horario de servicio.",
+      "B) Está prohibido.",
+      "C) Se permite parar para dejar a un pasajero rápidamente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El uso de estos carriles es exclusivo para los vehículos mencionados, por lo que las paradas y estacionamientos de otros vehículos están prohibidos."
+  },
+  {
+    "_id": "PB-TM6-P187",
+    "Enunciado": "¿Qué consideración tiene la parada y estacionamiento en las zonas reservadas para personas con discapacidad?",
+    "Opciones": [
+      "A) Se permite estacionar si el vehículo lleva la señal V-16.",
+      "B) Está prohibido parar y estacionar.",
+      "C) Se permite parar si el conductor no baja del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Estas zonas son de uso restrictivo y no se permite ningún tipo de inmovilización voluntaria por parte de vehículos no autorizados."
+  },
+  {
+    "_id": "PB-TM6-P188",
+    "Enunciado": "En las zonas de carga y descarga, ¿qué maniobra está permitida realizar?",
+    "Opciones": [
+      "A) Se puede parar, pero no estacionar.",
+      "B) Está prohibido tanto parar como estacionar.",
+      "C) Se puede estacionar si dura menos de cinco minutos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las zonas de carga y descarga admiten la parada (menos de 2 min), pero el estacionamiento está prohibido para vehículos particulares."
+  },
+  {
+    "_id": "PB-TM6-P189",
+    "Enunciado": "Respecto a las aceras, paseos y otras zonas de peatones, ¿cuál es la norma sobre la parada y estacionamiento?",
+    "Opciones": [
+      "A) Está prohibido realizar cualquier maniobra siempre.",
+      "B) Se puede parar, pero no estacionar.",
+      "C) Se puede estacionar si el vehículo no ocupa toda la acera."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Por norma general, en estas zonas peatonales se permite la maniobra de parada, pero nunca el estacionamiento."
+  },
+  {
+    "_id": "PB-TM6-P190",
+    "Enunciado": "¿Cuándo pueden estacionar los vehículos de dos ruedas sobre las aceras?",
+    "Opciones": [
+      "A) Únicamente si no hay plazas de aparcamiento libres en la calzada.",
+      "B) Siempre que la acera tenga más de cinco metros de ancho.",
+      "C) Siempre que esté regulado por el municipio y no estorben a los peatones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El estacionamiento de motos en aceras es una excepción que depende de la ordenanza municipal y de no entorpecer el paso peatonal."
+  },
+  {
+    "_id": "PB-TM6-P191",
+    "Enunciado": "¿Qué está permitido hacer delante de un vado que tiene una señal de vado?",
+    "Opciones": [
+      "A) Se puede parar, pero no estacionar.",
+      "B) Está prohibido tanto parar como estacionar siempre.",
+      "C) Se permite estacionar si el vehículo es del dueño del vado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La normativa permite la parada (menos de 2 min) frente a un vado, pero prohíbe el estacionamiento."
+  },
+  {
+    "_id": "PB-TM6-P192",
+    "Enunciado": "¿Cuál es la norma sobre la inmovilización voluntaria en doble fila?",
+    "Opciones": [
+      "A) Se puede parar, pero no estacionar.",
+      "B) Se permite estacionar si se deja el motor en marcha.",
+      "C) Está prohibido parar y estacionar en doble fila."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La doble fila solo es apta para realizar paradas breves; el estacionamiento en esta posición es ilegal."
+  },
+  {
+    "_id": "PB-TM6-P193",
+    "Enunciado": "En lugares con permiso de aparcamiento temporal u horario, ¿qué puede hacer un conductor sin dicho permiso?",
+    "Opciones": [
+      "A) Podrá parar, pero no estacionar.",
+      "B) Puede estacionar un máximo de diez minutos.",
+      "C) No podrá realizar ninguna maniobra."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Sin el título o permiso necesario (como el tique de zona azul), solo se permite realizar la maniobra de parada."
+  }
+]

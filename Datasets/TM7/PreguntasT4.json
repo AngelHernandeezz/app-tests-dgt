@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM7-P91",
+    "Enunciado": "¿En qué circunstancias se puede circular por debajo de la velocidad mínima permitida?",
+    "Opciones": [
+      "A) Solo si el conductor tiene poca experiencia con el vehículo.",
+      "B) Únicamente durante la noche si la visibilidad es excelente.",
+      "C) Cuando hay mucho tráfico, avería del vehículo o la carretera está en mal estado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se puede circular más despacio de la velocidad mínima permitida cuando hay mucho tráfico, el vehículo sufre una avería o la carretera está en mal estado."
+  },
+  {
+    "_id": "PB-TM7-P92",
+    "Enunciado": "¿Qué vehículos están exentos de cumplir la velocidad mínima de la vía?",
+    "Opciones": [
+      "A) Los turismos nuevos en periodo de rodaje.",
+      "B) Solo los camiones de transporte de animales vivos.",
+      "C) Ciclos, vehículos de tracción animal o vehículos especiales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se puede conducir más despacio de la velocidad mínima cuando el vehículo es un ciclo, es arrastrado por animales o es un vehículo especial."
+  },
+  {
+    "_id": "PB-TM7-P93",
+    "Enunciado": "Además de los vehículos especiales, ¿quién más puede circular por debajo de la velocidad mínima?",
+    "Opciones": [
+      "A) Únicamente las motocicletas de baja cilindrada.",
+      "B) Los vehículos que acompañan a otros, como en competiciones ciclistas.",
+      "C) Cualquier conductor que se sienta cansado."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Pueden circular por debajo de la mínima los vehículos que acompañan a otros vehículos, como los que acompañan a ciclistas en una competición."
+  },
+  {
+    "_id": "PB-TM7-P94",
+    "Enunciado": "Si no alcanzas la velocidad mínima y existe peligro de accidente, ¿qué debes hacer?",
+    "Opciones": [
+      "A) Detener el vehículo inmediatamente en el carril izquierdo.",
+      "B) Tocar el claxon de forma intermitente y constante.",
+      "C) Encender la luz de emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Si tu vehículo no puede alcanzar la velocidad mínima y hay peligro de accidente, debes encender la luz de emergencia."
+  },
+  {
+    "_id": "PB-TM7-P95",
+    "Enunciado": "¿Cuándo es obligatorio encender la luz de emergencia según el ejemplo del texto?",
+    "Opciones": [
+      "A) Al circular por una calle con edificios muy pegados.",
+      "B) Si tienes una avería y debes conducir más despacio de lo permitido.",
+      "C) Siempre que circulemos a la velocidad máxima permitida."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Debes encender la luz de emergencia si, por ejemplo, tu vehículo tiene una avería y tienes que conducir más despacio de lo permitido."
+  },
+  {
+    "_id": "PB-TM7-P96",
+    "Enunciado": "¿Para qué se marcan los límites de velocidad en las carreteras?",
+    "Opciones": [
+      "A) Para reducir el consumo de petróleo a nivel nacional.",
+      "B) Únicamente para recaudar dinero mediante sanciones.",
+      "C) Para circular con seguridad y de forma fácil y cómoda."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los límites de velocidad se marcan para que todos los vehículos puedan circular con seguridad y de forma fácil y cómoda."
+  },
+  {
+    "_id": "PB-TM7-P97",
+    "Enunciado": "¿Qué condición se tiene en cuenta para marcar un límite de velocidad?",
+    "Opciones": [
+      "A) El número de habitantes de la población más cercana.",
+      "B) La marca y modelo de los vehículos más vendidos.",
+      "C) El tipo de carretera y sus condiciones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Una de las condiciones que se tienen en cuenta para marcar la velocidad es el tipo de carretera y sus condiciones."
+  },
+  {
+    "_id": "PB-TM7-P98",
+    "Enunciado": "¿Qué representa el límite marcado en una carretera?",
+    "Opciones": [
+      "A) La velocidad máxima a la que se puede conducir de forma segura en esa vía.",
+      "B) La velocidad media de todos los conductores de la zona.",
+      "C) La velocidad a la que es imposible tener un accidente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El límite indica la velocidad máxima a la que se puede conducir de forma segura en esa carretera."
+  },
+  {
+    "_id": "PB-TM7-P99",
+    "Enunciado": "¿Cuál es la velocidad máxima general dentro de pueblos y ciudades?",
+    "Opciones": [
+      "A) Siempre 30 kilómetros por hora.",
+      "B) Menos de 50 kilómetros por hora.",
+      "C) Exactamente 60 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Dentro de pueblos y ciudades se debe conducir a menos de 50 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P100",
+    "Enunciado": "¿Qué efecto tiene conducir a poca velocidad en caso de atropello?",
+    "Opciones": [
+      "A) Aumenta el riesgo de lesiones cervicales para el peatón.",
+      "B) No tiene ningún efecto en la gravedad de las lesiones.",
+      "C) El peatón tendrá más posibilidades de sobrevivir."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En caso de atropellar a un peatón, tendrá más posibilidades de sobrevivir si el vehículo va a poca velocidad."
+  },
+  {
+    "_id": "PB-TM7-P101",
+    "Enunciado": "¿Cuál es el límite máximo en carreteras que no son autopista ni autovía?",
+    "Opciones": [
+      "A) 90 kilómetros por hora.",
+      "B) 100 kilómetros por hora.",
+      "C) 80 kilómetros por hora."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En carreteras que no son autopista ni autovía no se debe conducir a más de 90 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P102",
+    "Enunciado": "¿Cuál es el objetivo de limitar la velocidad a 90 km/h en carreteras convencionales?",
+    "Opciones": [
+      "A) Reducir la contaminación acústica en las zonas rurales.",
+      "B) Que los accidentes sean menos graves.",
+      "C) Evitar que los neumáticos se calienten en exceso."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El límite de 90 km/h se establece para que los accidentes sean menos graves."
+  },
+  {
+    "_id": "PB-TM7-P103",
+    "Enunciado": "¿Cuándo hay más posibilidades de sobrevivir en autopista y autovía?",
+    "Opciones": [
+      "A) Cuando se circula a 130 kilómetros por hora.",
+      "B) Cuando el vehículo circula a menos de 120 kilómetros por hora.",
+      "C) Únicamente si el vehículo lleva activado el control de crucero."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En autopista y autovía hay más posibilidades de sobrevivir a un accidente cuando el vehículo circula a menos de 120 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM7-P104",
+    "Enunciado": "¿Qué sucede con la capacidad de reacción si conduces muy rápido?",
+    "Opciones": [
+      "A) Es más difícil reaccionar ante imprevistos.",
+      "B) Los reflejos mejoran por el aumento de la atención.",
+      "C) No afecta a la reacción pero sí a la frenada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Conducir muy rápido hace que sea más difícil reaccionar ante imprevistos."
+  },
+  {
+    "_id": "PB-TM7-P105",
+    "Enunciado": "¿A qué puede llevar la dificultad de reacción por alta velocidad?",
+    "Opciones": [
+      "A) A un ahorro significativo de combustible.",
+      "B) A una mejora de la visión lateral del conductor.",
+      "C) A cometer errores que pueden costar la vida de las personas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La dificultad para reaccionar hace que se cometan muchos errores que pueden costar la vida."
+  },
+  {
+    "_id": "PB-TM7-P106",
+    "Enunciado": "¿Cómo se llama el efecto de ver menos lo que pasa a los lados al ir rápido?",
+    "Opciones": [
+      "A) Efecto borroso lateral.",
+      "B) Visión periférica reducida.",
+      "C) Visión túnel."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A este efecto de tener menos capacidad de ver lo que pasa a los lados se le llama visión túnel."
+  },
+  {
+    "_id": "PB-TM7-P107",
+    "Enunciado": "¿Por qué se produce la visión túnel?",
+    "Opciones": [
+      "A) Por la falta de luz en el interior del habitáculo.",
+      "B) Porque solo ves lo que hay enfrente de ti.",
+      "C) Por el cansancio acumulado tras muchas horas de viaje."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se llama visión túnel porque solo ves lo que hay enfrente de ti, como si pasaras por un túnel."
+  },
+  {
+    "_id": "PB-TM7-P108",
+    "Enunciado": "¿Qué ángulo de visión tiene una persona a 0 km/h?",
+    "Opciones": [
+      "A) 180 grados.",
+      "B) 30 grados.",
+      "C) 70 grados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Según el gráfico del temario, a 0 km/h el ángulo de visión es de 180 grados."
+  },
+  {
+    "_id": "PB-TM7-P109",
+    "Enunciado": "A una velocidad de 65 km/h, ¿cuál es el ángulo de visión?",
+    "Opciones": [
+      "A) 30 grados.",
+      "B) 70 grados.",
+      "C) 180 grados."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A 65 km/h, el ángulo de visión se reduce a 70 grados."
+  },
+  {
+    "_id": "PB-TM7-P110",
+    "Enunciado": "¿A cuánto se reduce el ángulo de visión al circular a 130 km/h?",
+    "Opciones": [
+      "A) 70 grados.",
+      "B) 30 grados.",
+      "C) 10 grados."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A 130 km/h, el ángulo de visión disminuye drásticamente hasta los 30 grados."
+  },
+  {
+    "_id": "PB-TM7-P111",
+    "Enunciado": "¿Qué efectos psicológicos produce conducir rápido durante mucho tiempo?",
+    "Opciones": [
+      "A) Fatiga y agresividad por la tensión.",
+      "B) Relajación profunda y euforia.",
+      "C) Mayor agudeza visual y mental."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Conducir rápido mucho tiempo puede causar fatiga y agresividad debido a la tensión."
+  },
+  {
+    "_id": "PB-TM7-P112",
+    "Enunciado": "¿Qué percepción puede tener un conductor al ir rápido por una carretera en buen estado?",
+    "Opciones": [
+      "A) Pensar que va a menos velocidad de la real.",
+      "B) Estimar que la velocidad es el doble de la marcada.",
+      "C) No notar ninguna diferencia en la sensación de velocidad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Conducir muy rápido por una carretera en buen estado puede hacer que pienses que vas a menos velocidad de la que en realidad vas."
+  },
+  {
+    "_id": "PB-TM7-P113",
+    "Enunciado": "Respecto a las competiciones de velocidad, ¿qué norma existe?",
+    "Opciones": [
+      "A) Están permitidas si se realizan de noche.",
+      "B) Se pueden realizar si los vehículos son eléctricos.",
+      "C) Está prohibido hacerlas en cualquier carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Está prohibido hacer competiciones de velocidad en cualquier carretera."
+  },
+  {
+    "_id": "PB-TM7-P114",
+    "Enunciado": "¿Cuándo se permiten excepcionalmente las competiciones?",
+    "Opciones": [
+      "A) Cuando las autoridades lo autoricen y tomen las medidas necesarias.",
+      "B) Si se celebran en fin de semana por carreteras secundarias.",
+      "C) Siempre que no superen los 10 vehículos participantes."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las competiciones solo se permiten con autorización de las autoridades y medidas de seguridad."
+  },
+  {
+    "_id": "PB-TM7-P115",
+    "Enunciado": "¿Qué sanción recibe quien participe en carreras no autorizadas?",
+    "Opciones": [
+      "A) Perderá puntos del permiso de conducir.",
+      "B) La prohibición de comprar un vehículo nuevo en un año.",
+      "C) Solo una advertencia verbal por parte de los agentes."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La persona que participe en carreras no autorizadas perderá puntos del permiso de conducir."
+  },
+  {
+    "_id": "PB-TM7-P116",
+    "Enunciado": "¿Cómo se define la distancia de reacción?",
+    "Opciones": [
+      "A) Espacio recorrido desde que pisas el freno hasta que paras.",
+      "B) Espacio recorrido desde que detectas un imprevisto hasta que puedes reaccionar.",
+      "C) Espacio total para detener el vehículo ante un obstáculo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La distancia de reacción es el espacio recorrido desde detectar un imprevisto hasta poder reaccionar."
+  },
+  {
+    "_id": "PB-TM7-P117",
+    "Enunciado": "¿Qué elementos pueden disparar el inicio de la distancia de reacción?",
+    "Opciones": [
+      "A) Únicamente la visión de una señal de STOP.",
+      "B) Un obstáculo, una señal o un ruido.",
+      "C) Solo el contacto físico con otro vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La distancia de reacción empieza al detectar un imprevisto, como un obstáculo, una señal o un ruido."
+  },
+  {
+    "_id": "PB-TM7-P118",
+    "Enunciado": "¿Cuál es el ejemplo de reacción que da el texto?",
+    "Opciones": [
+      "A) Tiempo desde que suena el claxon hasta que giras el volante.",
+      "B) Tiempo que tardas en encender los limpiaparabrisas al llover.",
+      "C) Tiempo desde que ves un semáforo en rojo hasta que pisas el freno."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Un ejemplo es el tiempo desde que ves un semáforo en rojo hasta que pisas el freno."
+  },
+  {
+    "_id": "PB-TM7-P119",
+    "Enunciado": "¿Cuál es el tiempo de reacción normal de una persona?",
+    "Opciones": [
+      "A) Suele ser de 0,75 segundos.",
+      "B) Exactamente 2 segundos.",
+      "C) Aproximadamente 1,5 segundos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El tiempo de reacción normal de una persona ante un imprevisto suele ser de 0,75 segundos, casi un segundo."
+  },
+  {
+    "_id": "PB-TM7-P120",
+    "Enunciado": "¿De qué depende el tiempo de reacción de una persona?",
+    "Opciones": [
+      "A) Sus reflejos, estado físico, psicológico y el entorno.",
+      "B) Exclusivamente del tipo de frenos que tenga el vehículo.",
+      "C) Únicamente de la marca de los neumáticos instalados."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El tiempo de reacción depende de reflejos, estado físico y psicológico y el entorno."
+  }
+]

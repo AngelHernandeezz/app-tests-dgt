@@ -1,0 +1,332 @@
+[
+    {
+        "_id": "PB-TM7-P151",
+        "Enunciado": "Al acercarte a un paso a nivel en el que no tienes prioridad, ¿cuál debe ser tu velocidad máxima?",
+        "Opciones": [
+            "A) 40 kilómetros por hora.",
+            "B) 30 kilómetros por hora.",
+            "C) 50 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Al acercarte a pasos a nivel, rotondas o cruces en los que no tienes prioridad, la velocidad máxima debe ser de 50 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM7-P152",
+        "Enunciado": "¿Qué precaución de velocidad se debe tomar al acercarse a lugares estrechos?",
+        "Opciones": [
+            "A) Conducir despacio e incluso parar el vehículo.",
+            "B) Mantener la velocidad constante para evitar bloqueos.",
+            "C) Acelerar ligeramente para pasar en el menor tiempo posible."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se debe conducir despacio al acercarse a lugares estrechos o en los que se ve mal."
+    },
+    {
+        "_id": "PB-TM7-P153",
+        "Enunciado": "¿Cómo actuar al cruzarte con otro vehículo en una curva de una carretera estrecha?",
+        "Opciones": [
+            "A) Tocar el claxon y continuar a la velocidad permitida.",
+            "B) Conducir despacio e incluso parar el vehículo.",
+            "C) Mantener la prioridad si circulamos por el carril derecho."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Debes conducir despacio al cruzarte con otro vehículo cuando las circunstancias no permiten hacerlo de forma segura, como en una curva estrecha."
+    },
+    {
+        "_id": "PB-TM7-P154",
+        "Enunciado": "Si las luces de otro vehículo te deslumbran, ¿qué medida de seguridad debes tomar?",
+        "Opciones": [
+            "A) Conducir despacio e incluso parar el vehículo.",
+            "B) Cerrar los ojos parcialmente para filtrar la luz.",
+            "C) Activar las luces de largo alcance para compensar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se debe reducir la velocidad o parar cuando te deslumbran las luces de otro vehículo."
+    },
+    {
+        "_id": "PB-TM7-P155",
+        "Enunciado": "¿Qué otros fenómenos, además de la lluvia y la nieve, obligan a conducir despacio?",
+        "Opciones": [
+            "A) El exceso de polen en primavera.",
+            "B) Únicamente el viento lateral fuerte.",
+            "C) La niebla y el humo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Debes conducir despacio cuando hay mucha niebla, lluvia, nieve o humo."
+    },
+    {
+        "_id": "PB-TM7-P156",
+        "Enunciado": "Respecto a los límites de velocidad genéricos, ¿qué categorías existen?",
+        "Opciones": [
+            "A) Únicamente existen velocidades máximas obligatorias.",
+            "B) Hay velocidades genéricas máximas y mínimas.",
+            "C) Solo existen velocidades genéricas para turismos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La velocidad genérica incluye tanto límites máximos como mínimos para cada tipo de vehículo y carretera."
+    },
+    {
+        "_id": "PB-TM7-P157",
+        "Enunciado": "Aunque el límite general en carretera convencional sea 90 km/h, ¿puede ser mayor en algún caso?",
+        "Opciones": [
+            "A) No, 90 es el límite absoluto para cualquier carretera convencional.",
+            "B) Sí, en algunas carreteras el límite puede ser de 110.",
+            "C) Sí, en algunas carreteras el límite puede ser de 100."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El manual señala que en algunas carreteras el límite de velocidad máxima puede ser de 100 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM7-P158",
+        "Enunciado": "¿Bajo qué condición pueden los ciclos superar sus límites de velocidad máxima?",
+        "Opciones": [
+            "A) Solo si circulan por el arcén de una autovía.",
+            "B) Únicamente si van en grupo de más de diez ciclistas.",
+            "C) Si las circunstancias lo permiten."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las bicicletas pueden superar sus velocidades máximas si las circunstancias lo permiten."
+    },
+    {
+        "_id": "PB-TM7-P159",
+        "Enunciado": "¿Cuál es la norma de velocidad para vehículos que transportan mercancías peligrosas?",
+        "Opciones": [
+            "A) Su límite es de 10 kilómetros menos que para el resto de vehículos.",
+            "B) Tienen prohibido superar los 70 kilómetros por hora en cualquier vía.",
+            "C) Deben circular a la misma velocidad que los autobuses escolares."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Para los vehículos que llevan mercancías peligrosas, el límite de velocidad máxima es de 10 kilómetros menos que para el resto."
+    },
+    {
+        "_id": "PB-TM7-P160",
+        "Enunciado": "Si un autobús escolar circula por una carretera con un límite genérico de 90 km/h, ¿a qué velocidad máxima debe ir?",
+        "Opciones": [
+            "A) A 90 kilómetros por hora.",
+            "B) A 80 kilómetros por hora.",
+            "C) A 70 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al ser transporte escolar, se le restan 10 km/h al límite de 90 km/h, resultando en 80 km/h."
+    },
+    {
+        "_id": "PB-TM7-P161",
+        "Enunciado": "¿Cuál es el límite para un Vehículo de Movilidad Personal (VMP) en calles con un solo carril para cada sentido?",
+        "Opciones": [
+            "A) 20 kilómetros por hora.",
+            "B) 30 kilómetros por hora.",
+            "C) 25 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En calles con un solo carril por sentido, los VMP tienen un límite de 25 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM7-P162",
+        "Enunciado": "En calles con varios carriles por sentido, ¿cuál es la velocidad máxima para un VMP?",
+        "Opciones": [
+            "A) 30 kilómetros por hora.",
+            "B) 45 kilómetros por hora.",
+            "C) 25 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Para los VMP en calles de varios carriles, el límite de velocidad máxima es de 25 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM7-P163",
+        "Enunciado": "¿Qué límite de velocidad tiene un vehículo especial con remolque en una calle con varios carriles?",
+        "Opciones": [
+            "A) 25 kilómetros por hora.",
+            "B) 50 kilómetros por hora.",
+            "C) 40 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos especiales con remolque tienen un límite de 25 kilómetros por hora en calles con varios carriles."
+    },
+    {
+        "_id": "PB-TM7-P164",
+        "Enunciado": "¿Cuál es la velocidad mínima permitida en autopistas y autovías?",
+        "Opciones": [
+            "A) 45 kilómetros por hora.",
+            "B) 60 kilómetros por hora.",
+            "C) 50 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En autopistas y autovías, la velocidad mínima permitida es de 60 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM7-P165",
+        "Enunciado": "Si un turismo circula por una carretera con un límite máximo de 90 km/h, ¿cuál es su velocidad mínima?",
+        "Opciones": [
+            "A) 45 kilómetros por hora.",
+            "B) 60 kilómetros por hora.",
+            "C) 40 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el resto de vías, la mínima es la mitad de la máxima; por tanto, si la máxima es 90, la mínima es 45 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM7-P166",
+        "Enunciado": "¿Se permite conducir por debajo de la mínima si la carretera está en mal estado?",
+        "Opciones": [
+            "A) Sí, es uno de los casos permitidos.",
+            "B) No, se debe mantener siempre la velocidad mínima.",
+            "C) Solo si se circula por el arcén."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se puede conducir más despacio de la mínima cuando la carretera está en mal estado."
+    },
+    {
+        "_id": "PB-TM7-P167",
+        "Enunciado": "Si un vehículo sufre una avería, ¿puede circular a una velocidad anormalmente reducida?",
+        "Opciones": [
+            "A) Solo si es un vehículo de tracción animal.",
+            "B) No, debe ser retirado inmediatamente de la vía.",
+            "C) Sí, está permitido por avería del vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Una avería en el vehículo es una de las causas que permiten circular por debajo de la velocidad mínima."
+    },
+    {
+        "_id": "PB-TM7-P168",
+        "Enunciado": "¿Qué tipo de vehículos pueden circular siempre por debajo de la velocidad mínima?",
+        "Opciones": [
+            "A) Motocicletas de menos de 125 centímetros cúbicos.",
+            "B) Ciclos, vehículos de tracción animal o vehículos especiales.",
+            "C) Turismos con el motor en rodaje."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Ciclos, vehículos arrastrados por animales y vehículos especiales pueden ir más despacio de la mínima."
+    },
+    {
+        "_id": "PB-TM7-P169",
+        "Enunciado": "¿Pueden los vehículos que acompañan a ciclistas en competición ir a menos de la velocidad mínima?",
+        "Opciones": [
+            "A) Solo si llevan una bandera roja.",
+            "B) Sí, está permitido para vehículos que acompañan a otros.",
+            "C) Únicamente durante los fines de semana."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vehículos que acompañan a otros, como a ciclistas en competición, pueden circular por debajo de la mínima."
+    },
+    {
+        "_id": "PB-TM7-P170",
+        "Enunciado": "Respecto a la seguridad vial, ¿qué ventaja tiene circular a poca velocidad ante un atropello?",
+        "Opciones": [
+            "A) Se evita por completo cualquier tipo de lesión.",
+            "B) El vehículo sufrirá menos daños en la carrocería.",
+            "C) El peatón tendrá más posibilidades de sobrevivir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En caso de atropello, un peatón tiene más posibilidades de sobrevivir si el vehículo va a poca velocidad."
+    },
+    {
+        "_id": "PB-TM7-P171",
+        "Enunciado": "¿Cuál es uno de los motivos por los que se marcan los límites de velocidad?",
+        "Opciones": [
+            "A) Para evitar el calentamiento excesivo de los frenos.",
+            "B) Para circular con seguridad y de forma fácil y cómoda.",
+            "C) Para organizar los turnos de vigilancia de los agentes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los límites se establecen para que todos los vehículos circulen con seguridad y comodidad."
+    },
+    {
+        "_id": "PB-TM7-P172",
+        "Enunciado": "¿A qué se refiere el término 'visión túnel' al conducir rápido?",
+        "Opciones": [
+            "A) A la pérdida de visión en el ojo derecho por el cansancio.",
+            "B) A la necesidad de encender las luces en tramos despejados.",
+            "C) A tener menos capacidad de ver lo que pasa a los lados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La visión túnel es el efecto de ver solo lo que hay enfrente, perdiendo la capacidad de ver los laterales."
+    },
+    {
+        "_id": "PB-TM7-P173",
+        "Enunciado": "¿Qué efecto psicológico puede causar conducir rápido durante mucho tiempo?",
+        "Opciones": [
+            "A) Fatiga y agresividad.",
+            "B) Sueño profundo inmediato.",
+            "C) Exceso de confianza y relajación."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Conducir rápido mucho tiempo puede provocar fatiga y agresividad por la tensión acumulada."
+    },
+    {
+        "_id": "PB-TM7-P174",
+        "Enunciado": "¿Cuál es el ángulo de visión de un conductor que circula a 65 km/h?",
+        "Opciones": [
+            "A) 70 grados.",
+            "B) 30 grados.",
+            "C) 180 grados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el gráfico del temario, a 65 km/h el ángulo de visión es de 70 grados."
+    },
+    {
+        "_id": "PB-TM7-P175",
+        "Enunciado": "Para realizar una competición de velocidad en carretera, ¿qué se requiere?",
+        "Opciones": [
+            "A) Que la carretera sea privada o de uso restringido.",
+            "B) Que las autoridades lo autoricen y tomen medidas necesarias.",
+            "C) Que los participantes tengan más de diez años de carné."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las competiciones están prohibidas salvo autorización oficial y medidas de seguridad adecuadas."
+    },
+    {
+        "_id": "PB-TM7-P176",
+        "Enunciado": "¿Por qué un vehículo que va más rápido tiene menos distancia de reacción?",
+        "Opciones": [
+            "A) Porque el cerebro del conductor se bloquea por la velocidad.",
+            "B) Porque recorrerá más distancia en menos tiempo.",
+            "C) Porque los frenos actúan de forma más tardía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al ir más rápido, el vehículo recorre más distancia en el mismo tiempo de reacción, llegando antes al peligro."
+    },
+    {
+        "_id": "PB-TM7-P177",
+        "Enunciado": "¿Cómo influye la carga en la distancia de frenado?",
+        "Opciones": [
+            "A) Un vehículo con mucha carga tarda más en parar.",
+            "B) El peso ayuda a que los neumáticos agarren mejor y pare antes.",
+            "C) La carga solo influye si no está correctamente distribuida."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La carga es un factor que aumenta el tiempo y el espacio necesario para detener el vehículo."
+    },
+    {
+        "_id": "PB-TM7-P178",
+        "Enunciado": "¿Puede el estado psicológico del conductor afectar a la distancia de frenado?",
+        "Opciones": [
+            "A) No, solo afecta al tiempo de reacción.",
+            "B) Sí, es una característica del conductor que influye.",
+            "C) Solo si el conductor padece una enfermedad crónica."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las características del conductor, incluyendo su estado psicológico, pueden hacer cambiar la distancia de frenado."
+    },
+    {
+        "_id": "PB-TM7-P179",
+        "Enunciado": "¿Cómo se obtiene la distancia de detención?",
+        "Opciones": [
+            "A) Multiplicando la distancia de seguridad por la velocidad.",
+            "B) Restando la distancia de reacción a la de frenado.",
+            "C) Sumando la distancia de reacción y la de frenado."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La distancia de detención es la suma de la distancia de reacción y la de frenado."
+    },
+    {
+        "_id": "PB-TM7-P180",
+        "Enunciado": "¿Qué separación mínima deben dejar los vehículos de más de 3.500 kg en zonas de adelantamiento permitido?",
+        "Opciones": [
+            "A) 50 metros.",
+            "B) 30 metros.",
+            "C) 20 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los vehículos de más de 3.500 kg o conjuntos de más de 10 metros deben dejar una separación mínima de 50 metros."
+    }
+]

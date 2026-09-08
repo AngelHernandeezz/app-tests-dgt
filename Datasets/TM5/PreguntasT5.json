@@ -1,0 +1,333 @@
+[
+    {
+        "_id": "PB-TM5-P106",
+        "Enunciado": "En esta imagen, ¿Quién debe pasar primero?",
+        "Opciones": [
+            "A) El turismo blanco, por la norma general de prioridad a la derecha.",
+            "C) Pasa primero el vehículo que circule por la vía más ancha.",
+            "B) El tranvía, porque los vehículos sobre raíles tienen preferencia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Aunque en la imagen no hay señales y rige la norma general, los vehículos ferroviarios son una excepción y siempre tienen preferencia sobre los automóviles en estos cruces.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM5-P107",
+        "Enunciado": "Usted conduce un camión de 4.500 kg de M.M.A. dentro de un túnel con un carril por sentido. ¿Qué distancia de seguridad debe mantener como mínimo?",
+        "Opciones": [
+            "B) 100 metros o 4 segundos.",
+            "A) 150 metros o 6 segundos.",
+            "C) 50 metros, si no tiene intención de adelantar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para vehículos con una masa máxima autorizada superior a 3.500 kg, la normativa de túneles exige ampliar la distancia de seguridad hasta los 150 metros o un intervalo de 6 segundos."
+    },
+    {
+        "_id": "PB-TM5-P108",
+        "Enunciado": "En un tramo estrecho en cuesta con mucha pendiente, se encuentran un turismo que sube y un conjunto de vehículos que baja. Si no hay señales, ¿quién tiene la prioridad?",
+        "Opciones": [
+            "C) El que tenga el apartadero más alejado de su posición actual.",
+            "A) El turismo, por el hecho de circular en sentido ascendente.",
+            "B) El conjunto de vehículos, por ocupar un puesto superior en el orden de preferencia de vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En cuestas estrechas, si hay duda sobre la entrada, se aplica el orden de jerarquía de vehículos. Los conjuntos de vehículos (puesto 2) tienen prioridad sobre los turismos (puesto 7) independientemente de quién suba o baje."
+    },
+    {
+        "_id": "PB-TM5-P109",
+        "Enunciado": "Si su vehículo queda inmovilizado en un paso a nivel y el motor no arranca, ¿qué debe hacer el conductor tras haber bajado el resto de pasajeros?",
+        "Opciones": [
+            "C) Correr en dirección contraria a la que vendría el tren para ganar tiempo.",
+            "B) Bajar del vehículo e intentar avisar de la situación a los maquinistas de los trenes.",
+            "A) Quedarse dentro del coche intentando el arranque hasta que vea el tren."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una vez asegurada la vida de los pasajeros fuera del coche, el conductor debe tratar de avisar del obstáculo a los trenes y otros conductores para evitar la colisión."
+    },
+    {
+        "_id": "PB-TM5-P110",
+        "Enunciado": "En una glorieta si el primer ciclista ya está dentro de la glorieta. ¿Tiene usted prioridad si pretende entrar en ella frente a los ciclistas que aún no han entrado?",
+        "Opciones": [
+            "A) Sí, porque usted se aproxima por la derecha del grupo de ciclistas.",
+            "B) No, debe esperar a que pase todo el grupo de ciclistas.",
+            "C) Solo si el carril por el que circulan los ciclistas está señalizado como carril-bici."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si el primer ciclista ya ha iniciado el cruce; en este caso, el grupo se considera una sola unidad y todos los ciclistas adquieren la preferencia de paso."
+    },
+    {
+        "_id": "PB-TM5-P111",
+        "Enunciado": "¿Qué luces debe dejar encendidas si queda detenido dentro de un túnel debido a una retención de tráfico?",
+        "Opciones": [
+            "C) Las luces de corto alcance y las antiniebla.",
+            "B) Solo las luces de emergencia.",
+            "A) Las luces de posición."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En atascos dentro de túneles se debe apagar el motor para no acumular gases, pero las luces de posición deben permanecer encendidas para garantizar que el coche sea visible."
+    },
+    {
+        "_id": "PB-TM5-P112",
+        "Enunciado": "En un estrechamiento sin señales se encuentran un autobús y un camión rígido. Coinciden al llegar. ¿Quién pasa primero?",
+        "Opciones": [
+            "A) El camión rígido.",
+            "B) El autobús.",
+            "C) El que deba recorrer menos metros marcha atrás."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Según la jerarquía de vehículos en zonas estrechas, el autobús (puesto 5) tiene preferencia sobre los camiones y furgones (puesto 6)."
+    },
+    {
+        "_id": "PB-TM5-P113",
+        "Enunciado": "Si coche particular circula con luces de emergencia y agita un pañuelo llega a un semaforo en rojo, ¿que debe hacer?",
+        "Opciones": [
+            "A) Puede pasar en rojo siempre que asegure que no pone en peligro a nadie.",
+            "B) Debe detenerse obligatoriamente y respetar la fase roja.",
+            "C) Debe tocar el claxon de forma intermitente para obligar al resto a detenerse."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En una emergencia privada, estos conductores no tienen permiso para saltarse las normas de circulación, especialmente semáforos y cruces."
+    },
+    {
+        "_id": "PB-TM5-P114",
+        "Enunciado": "Usted circula por una autopista y ve a un vehículo que intenta entrar por el carril de aceleración. ¿Quién goza de prioridad?",
+        "Opciones": [
+            "C) El vehículo que circule a la velocidad mínima permitida (60 km/h).",
+            "A) El vehículo que entra por el carril de aceleración.",
+            "B) Usted, por circular ya por el interior de la autopista."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los conductores que ya se encuentran dentro del tronco principal de la autopista tienen preferencia sobre los que pretenden incorporarse."
+    },
+    {
+        "_id": "PB-TM5-P115",
+        "Enunciado": "En un tramo estrecho sin señales, se encuentran un turismo y un vehículo de tracción animal. ¿Quién debe ceder el paso?",
+        "Opciones": [
+            "B) El turismo.",
+            "C) El que tenga mayor facilidad para dar marcha atrás.",
+            "A) El vehículo de tracción animal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el orden de preferencia, los vehículos arrastrados por animales (puesto 3) pasan antes que los turismos (puesto 7)."
+    },
+    {
+        "_id": "PB-TM5-P116",
+        "Enunciado": "¿Qué conducta debe seguir si se produce un incendio en su vehículo dentro de un túnel?",
+        "Opciones": [
+            "A) Detener el coche, apagar el motor y dejar las llaves puestas.",
+            "C) Cerrar el vehículo con llave para evitar que el fuego se propague al habitáculo.",
+            "B) Salir del túnel marcha atrás si el fuego está en la parte delantera."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es vital dejar las llaves puestas y las puertas sin cerrar con llave para que los equipos de rescate puedan mover el coche si fuera necesario."
+    },
+    {
+        "_id": "PB-TM5-P117",
+        "Enunciado": "Si se aproxima a un puente móvil cuyas barreras están en movimiento. ¿Qué debe hacer?",
+        "Opciones": [
+            "A) Acelerar para cruzar antes de que se cierren totalmente.",
+            "C) Tocar el claxon para que el operario detenga el movimiento.",
+            "B) Detenerse obligatoriamente en su carril."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Está prohibido iniciar el cruce si las barreras están en movimiento, ya sea para abrir o para cerrar el paso."
+    },
+    {
+        "_id": "PB-TM5-P118",
+        "Enunciado": "Al girar con su turismo para entrar en otra calle, hay animales cruzando. ¿Quién tiene preferencia de paso?",
+        "Opciones": [
+            "A) El turismo, por circular por la vía pública pavimentada.",
+            "C) El conductor, si ha señalizado el giro con antelación suficiente.",
+            "B) Los animales."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El cambio de dirección para entrar en una vía nueva obliga al conductor a ceder el paso a los animales que ya la están cruzando."
+    },
+    {
+        "_id": "PB-TM5-P119",
+        "Enunciado": "En un estrechamiento sin señales se encuentran dos camiones iguales. El primero debe retroceder 20 metros y el segundo 15 metros. ¿Quién pasa?",
+        "Opciones": [
+            "B) El primer camión.",
+            "C) El que sea más ancho y transporte más carga.",
+            "A) El segundo camión."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "A igualdad de tipo de vehículo, tiene preferencia el que tenga que dar marcha atrás durante más distancia. En este caso, el primero retrocede más, por lo que él tiene la preferencia."
+    },
+    {
+        "_id": "PB-TM5-P120",
+        "Enunciado": "Si hay una excursión de escolares caminando por el arcén y usted quiere pasar, ¿qué debe hacer?",
+        "Opciones": [
+            "B) Debe cederles el paso por tratarse de un grupo de personas organizado.",
+            "A) Tiene prioridad, ya que el arcén no es zona de tránsito peatonal.",
+            "C) Solo debe ceder el paso si cruzan por un paso de peatones señalizado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los colectivos organizados que se desplazan juntos tienen prioridad sobre los vehículos aunque no se trate de una vía peatonal."
+    },
+    {
+        "_id": "PB-TM5-P121",
+        "Enunciado": "Si circula con su turismo por un túnel y quiere adelantar a otro vehículo, ¿qué distancia mínima de seguridad debe mantener?",
+        "Opciones": [
+            "B) Solo la distancia necesaria para no colisionar en caso de frenado brusco.",
+            "A) Al menos 100 metros o 4 segundos.",
+            "C) 150 metros en todo momento, pretenda o no adelantar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La norma de los 100 metros en túneles se aplica cuando NO se pretende adelantar. Si se va a adelantar, basta con la distancia de seguridad estándar."
+    },
+    {
+        "_id": "PB-TM5-P122",
+        "Enunciado": "En un cruce sin señales, ¿tiene preferencia un coche que viene por la derecha por un camino sin pavimentar sobre usted, que circula por una carretera asfaltada?",
+        "Opciones": [
+            "B) No, los vehículos en vías pavimentadas tienen preferencia.",
+            "A) Sí, la prioridad a la derecha prevalece sobre el tipo de suelo.",
+            "C) Solo si el camino de tierra es una vía pecuaria (cañada)."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Es una de las excepciones a la norma de la derecha: la carretera pavimentada otorga prioridad sobre la que no lo está."
+    },
+    {
+        "_id": "PB-TM5-P123",
+        "Enunciado": "Usted llega a un paso de peatones y los vehículos de delante están parados. ¿Puede detenerse encima de las marcas viales si no hay peatones?",
+        "Opciones": [
+            "C) Solo si el semáforo está en verde para los vehículos.",
+            "A) Sí, para aprovechar el espacio en la calzada.",
+            "B) No, nunca debe quedar detenido sobre un paso de peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Está prohibido bloquear pasos de peatones o ciclistas aunque el semáforo esté en verde si se prevé que el vehículo quedará inmovilizado sobre ellos."
+    },
+    {
+        "_id": "PB-TM5-P124",
+        "Enunciado": "Un vehículo de bomberos en servicio urgente. ¿Debe obedecer a un agente de tráfico si este le indica que se detenga?",
+        "Opciones": [
+            "C) Solo si el agente utiliza señales luminosas además de las manuales.",
+            "B) Sí, los conductores de urgencia deben obedecer siempre a los agentes.",
+            "A) No, su prioridad de urgencia le exime de obedecer cualquier señal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los agentes de tráfico son la única autoridad y señal que los conductores de vehículos de urgencia deben respetar obligatoriamente en todo momento."
+    },
+    {
+        "_id": "PB-TM5-P125",
+        "Enunciado": "¿Qué vehículo tiene preferencia en un estrechamiento sin señales: un turismo con un remolque de 400 kg o una autocaravana?",
+        "Opciones": [
+            "C) Tienen la misma preferencia y se decide por distancia de marcha atrás.",
+            "B) La autocaravana.",
+            "A) El turismo con remolque ligero."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Ambos vehículos comparten el puesto número 4 en la jerarquía de estrechamientos, por lo que el desempate se realiza por la distancia de retroceso."
+    },
+    {
+        "_id": "PB-TM5-P126",
+        "Enunciado": "Al evacuar un túnel por un incendio, ¿en qué dirección debe caminar respecto al fuego?",
+        "Opciones": [
+            "C) Hacia la salida de emergencia más alejada para evitar aglomeraciones.",
+            "B) Siempre en el sentido contrario al del fuego.",
+            "A) En el sentido de la marcha de los vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La norma es clara: para evitar el humo y las llamas, se debe caminar siempre en dirección opuesta a donde se encuentra el incendio."
+    },
+    {
+        "_id": "PB-TM5-P127",
+        "Enunciado": "Un grupo de personas bajando de un autobús. ¿Tienen preferencia para llegar a la acera?",
+        "Opciones": [
+            "C) No, los peatones deben esperar a que el tráfico se detenga por completo.",
+            "B) Sí, tienen preferencia hasta la zona peatonal más próxima.",
+            "A) Solo si el autobús tiene encendidas las luces de emergencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los pasajeros de transporte público gozan de prioridad frente a los vehículos en el trayecto desde el vehículo hasta la acera segura."
+    },
+    {
+        "_id": "PB-TM5-P128",
+        "Enunciado": "Usted circula por un túnel y tiene una averíapero puede continuar lentamente. ¿Qué debe hacer?",
+        "Opciones": [
+            "A) Detenerse inmediatamente para no forzar la mecánica.",
+            "B) Conducir hasta salir del túnel o llegar a una zona de emergencia.",
+            "C) Parar en el centro del carril y poner los triángulos de advertencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Si el vehículo es capaz de desplazarse, lo más seguro es intentar sacarlo del túnel o llevarlo a un apartadero específico para emergencias."
+    },
+    {
+        "_id": "PB-TM5-P129",
+        "Enunciado": "En un estrechamiento se encuentran un camión de bomberos en servicio urgente y un vehículo especial de dimensiones excepcionales. ¿Quién pasa primero?",
+        "Opciones": [
+            "B) El vehículo especial excepcional.",
+            "C) El que haya llegado primero al centro del tramo.",
+            "A) El camión de bomberos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos de urgencia oficiales en servicio prioritario tienen preferencia sobre cualquier otro vehículo en todas las vías."
+    },
+    {
+        "_id": "PB-TM5-P130",
+        "Enunciado": "En un paso a nivel sin barreras ni semáforos. ¿Cuál es la obligación del conductor?",
+        "Opciones": [
+            "C) Tocar el claxon para avisar al maquinista de su paso.",
+            "A) Cruzar sin reducir la velocidad para evitar que el coche se cale.",
+            "B) Comprobar que no viene un tren o tranvía antes de cruzar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Ante la ausencia de señales automáticas, el conductor asume la responsabilidad de vigilar la vía férrea antes de atravesarla."
+    },
+    {
+        "_id": "PB-TM5-P131",
+        "Enunciado": "¿Qué indica una señal de peligro con un animal doméstico y un cartel inferior con la palabra 'cañada'?",
+        "Opciones": [
+            "B) Que el conductor debe reducir la velocidad a 20 km/h.",
+            "A) Que los animales tienen preferencia absoluta de paso.",
+            "C) Que está prohibida la circulación de vehículos pesados."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Esta combinación específica de señales otorga la prioridad total a los animales sobre los vehículos de motor."
+    },
+    {
+        "_id": "PB-TM5-P132",
+        "Enunciado": "En un estrechamiento sin señales se encuentran un turismo y un furgón. Hay dudas sobre quién entró primero. ¿Quién pasa?",
+        "Opciones": [
+            "A) El furgón.",
+            "C) Se decide por cortesía entre conductores.",
+            "B) El turismo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En caso de duda, el furgón (puesto 6) tiene prioridad sobre el turismo (puesto 7) debido a su mayor dificultad de maniobra."
+    },
+    {
+        "_id": "PB-TM5-P133",
+        "Enunciado": "Al aproximarse a una rotonda, ¿debe ceder el paso a un ciclista que ya está circulando por el interior?",
+        "Opciones": [
+            "A) Sí, los vehículos dentro de la glorieta tienen preferencia.",
+            "B) No, los ciclistas siempre deben ceder a los vehículos de motor.",
+            "C) Solo si el ciclista circula por el carril exterior."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En las rotondas, la prioridad es de quien ya circula por el anillo, independientemente del tipo de vehículo que sea."
+    },
+    {
+        "_id": "PB-TM5-P134",
+        "Enunciado": "Un conductor debe cruzar un arcén por el que caminan peatones porque no hay aceras. ¿Quién tiene prioridad?",
+        "Opciones": [
+            "B) Los peatones ya que al no tener vía peatonal el arcén cuenta como una.",
+            "C) Pasa el que llegue primero al punto de intersección, para evitar entorpecimientos.",
+            "A) El vehículo, por circular por la vía principal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si no existen aceras, los peatones tienen preferencia en el arcén frente a los vehículos que deban atravesarlo."
+    },
+    {
+        "_id": "PB-TM5-P135",
+        "Enunciado": "Usted circula por un túnel y observa una señal verde con una figura corriendo y la flecha hacia la derecha. ¿Qué indica?",
+        "Opciones": [
+            "B) La dirección hacia el refugio o salida de emergencia más próxima.",
+            "C) Que a continuación hay un carril para vehículos lentos.",
+            "A) Que está permitido correr por el arcén en ese sentido."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se trata de una señal de salvamento que orienta a los usuarios hacia el lugar seguro de evacuación en caso de emergencia."
+    }
+]

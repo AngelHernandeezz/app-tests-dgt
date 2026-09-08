@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P151",
+    "Enunciado": "¿Qué deben hacer los conductores de un vehículo a motor antes de abandonarlo?",
+    "Opciones": [
+      "A) Parar el motor.",
+      "B) Abrir las ventanillas para evitar la condensación.",
+      "C) Dejar las luces de posición encendidas si es de día."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es una obligación fundamental apagar el motor del vehículo antes de salir de él para garantizar la seguridad."
+  },
+  {
+    "_id": "PB-TM6-P152",
+    "Enunciado": "¿Qué sistema se debe desconectar antes de dejar el vehículo estacionado?",
+    "Opciones": [
+      "A) El sistema que permite que el vehículo circule.",
+      "B) El sistema de climatización del habitáculo.",
+      "C) Únicamente el equipo de sonido y la radio."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se debe interrumpir el sistema de encendido o el mecanismo que permite la puesta en marcha del vehículo."
+  },
+  {
+    "_id": "PB-TM6-P153",
+    "Enunciado": "¿Qué freno es obligatorio poner antes de abandonar el coche?",
+    "Opciones": [
+      "A) El freno de estacionamiento.",
+      "B) El freno de pie de forma intermitente.",
+      "C) No es obligatorio poner ningún freno si la vía es llana."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El freno de estacionamiento (freno de mano) debe quedar accionado para asegurar que el vehículo no se desplace."
+  },
+  {
+    "_id": "PB-TM6-P154",
+    "Enunciado": "Al aparcar en una cuesta hacia arriba, ¿qué velocidad se debe dejar puesta?",
+    "Opciones": [
+      "A) El punto muerto o neutro.",
+      "B) La primera velocidad.",
+      "C) La segunda velocidad para mayor resistencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En pendientes ascendentes, se deja engranada la primera marcha como medida de seguridad adicional al freno."
+  },
+  {
+    "_id": "PB-TM6-P155",
+    "Enunciado": "Al estacionar en una cuesta hacia abajo, ¿qué marcha hay que dejar puesta?",
+    "Opciones": [
+      "A) La primera velocidad.",
+      "B) El punto muerto.",
+      "C) La marcha hacia atrás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En pendientes descendentes, se debe dejar puesta la marcha atrás para bloquear el movimiento del vehículo."
+  },
+  {
+    "_id": "PB-TM6-P156",
+    "Enunciado": "¿Qué posición debe seleccionarse si el vehículo es automático al estacionarlo?",
+    "Opciones": [
+      "A) La posición 'N' de punto muerto.",
+      "B) La posición 'D' de conducción normal.",
+      "C) La posición de estacionamiento (P)."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los vehículos automáticos disponen de una posición específica (P) para bloquear la transmisión al estacionar."
+  },
+  {
+    "_id": "PB-TM6-P157",
+    "Enunciado": "¿Qué obligación adicional tienen los conductores de conjuntos de vehículos al estacionar en una cuesta?",
+    "Opciones": [
+      "A) Encender las luces de emergencia durante todo el estacionamiento.",
+      "B) Desenganchar el remolque obligatoriamente.",
+      "C) Dejar su vehículo bien sujeto."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Dada su mayor masa, los conjuntos de vehículos deben asegurar una sujeción perfecta en pendientes."
+  },
+  {
+    "_id": "PB-TM6-P158",
+    "Enunciado": "¿De qué maneras se puede asegurar un conjunto de vehículos en una pendiente?",
+    "Opciones": [
+      "A) Solo se permite apoyando el vehículo contra otro ya estacionado.",
+      "B) Colocando calzos adecuados o apoyando una de las ruedas delanteras en el bordillo.",
+      "C) Únicamente mediante el uso de cables de acero."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Existen dos métodos reglamentarios: el uso de calzos técnicos o el apoyo estratégico de las ruedas contra el bordillo."
+  },
+  {
+    "_id": "PB-TM6-P159",
+    "Enunciado": "¿Está permitido usar piedras u otros elementos improvisados como calzos?",
+    "Opciones": [
+      "A) Solo en caso de que no se disponga de calzos homologados.",
+      "B) No se pueden usar piedras ni otros elementos.",
+      "C) Sí, siempre que sean lo suficientemente grandes para frenar la rueda."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El reglamento prohíbe taxativamente el uso de piedras o elementos naturales; deben usarse cuñas diseñadas para tal fin."
+  },
+  {
+    "_id": "PB-TM6-P160",
+    "Enunciado": "¿Cómo define el temario un 'calzo'?",
+    "Opciones": [
+      "A) Un adhesivo que se pega a la superficie del neumático.",
+      "B) Una cuña que se pone entre el vehículo y la carretera.",
+      "C) Una barra de metal que se introduce entre los radios de la llanta."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Un calzo es una cuña física que impide mecánicamente el giro de la rueda al apoyarse en el suelo."
+  },
+  {
+    "_id": "PB-TM6-P161",
+    "Enunciado": "Al aparcar en una cuesta hacia arriba apoyando la rueda en el bordillo, ¿hacia dónde debe inclinarse la rueda?",
+    "Opciones": [
+      "A) Debe mantenerse totalmente recta.",
+      "B) Hacia el centro de la calzada.",
+      "C) Hacia el lado de la acera."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En subida, la rueda se inclina hacia el centro para que, si el vehículo cae, el bordillo lo frene de inmediato."
+  },
+  {
+    "_id": "PB-TM6-P162",
+    "Enunciado": "En una cuesta hacia abajo, al apoyar la rueda en el bordillo, ¿hacia dónde se debe inclinar?",
+    "Opciones": [
+      "A) Hacia arriba, en sentido contrario a la pendiente.",
+      "B) Hacia afuera (hacia el bordillo).",
+      "C) Hacia el centro de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En bajada, se debe girar la rueda hacia el bordillo para que sirva de tope físico de seguridad."
+  },
+  {
+    "_id": "PB-TM6-P163",
+    "Enunciado": "¿Cuándo se considera que una parada o estacionamiento es peligroso respecto a otros vehículos?",
+    "Opciones": [
+      "A) Cuando no permite el paso de otros vehículos.",
+      "B) Si el color del vehículo es poco visible en la sombra.",
+      "C) Únicamente si se realiza de noche sin luces."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cualquier inmovilización que bloquee la trayectoria de los demás usuarios se define como peligrosa."
+  },
+  {
+    "_id": "PB-TM6-P164",
+    "Enunciado": "Si un vehículo estacionado está a menos de tres metros de la línea continua que separa los sentidos...",
+    "Opciones": [
+      "A) Se considera una situación peligrosa porque no podrán pasar algunos vehículos.",
+      "B) Solo es peligroso si la carretera es de gravilla.",
+      "C) No hay peligro si el conductor deja un teléfono de contacto visible."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Dejar menos de 3 metros de espacio libre impide el paso de vehículos grandes y se considera una infracción peligrosa."
+  },
+  {
+    "_id": "PB-TM6-P165",
+    "Enunciado": "¿Es peligroso estacionar a menos de tres metros del lado contrario de la carretera?",
+    "Opciones": [
+      "A) Sí, se considera una situación peligrosa.",
+      "B) Solo si es una vía urbana con mucha iluminación.",
+      "C) No, siempre que no haya una línea continua pintada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La norma de los tres metros se aplica para garantizar que siempre haya espacio suficiente para la circulación."
+  },
+  {
+    "_id": "PB-TM6-P166",
+    "Enunciado": "¿Qué consideración tiene estacionar si impide que otro vehículo que está parado vuelva a la carretera?",
+    "Opciones": [
+      "A) Es una maniobra recomendada para evitar accidentes.",
+      "B) Es una situación de estacionamiento peligroso.",
+      "C) No tiene ninguna consideración especial en el reglamento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Bloquear a otros vehículos e impedir su reincorporación al tráfico es una falta de seguridad vial."
+  },
+  {
+    "_id": "PB-TM6-P167",
+    "Enunciado": "Si un vehículo impide que personas o animales entren o salgan de sus casas, ¿cómo se define la situación?",
+    "Opciones": [
+      "A) Como una infracción leve por molestias vecinales.",
+      "B) Como una parada o estacionamiento peligroso.",
+      "C) Como un estacionamiento permitido si dura menos de una hora."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Impedir el acceso a inmuebles se considera una situación de riesgo y obstaculización grave."
+  },
+  {
+    "_id": "PB-TM6-P168",
+    "Enunciado": "¿Se considera peligroso cuando los vehículos no pueden usar un vado que está señalizado?",
+    "Opciones": [
+      "A) Solo si el vado es de un edificio público u oficial.",
+      "B) No, el vado solo otorga preferencia pero no prohíbe.",
+      "C) Sí, es una de las situaciones peligrosas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Obstaculizar un vado correctamente señalizado es una maniobra peligrosa según la normativa de tráfico."
+  },
+  {
+    "_id": "PB-TM6-P169",
+    "Enunciado": "¿Es peligroso cuando un vehículo es un obstáculo para que personas con discapacidad entren o salgan de la carretera?",
+    "Opciones": [
+      "A) Solo si el vehículo estacionado es un camión de gran tamaño.",
+      "B) Solo si no hay otras rampas en la misma calle.",
+      "C) Sí, en las zonas preparadas para ello se considera peligroso."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Bloquear accesos para personas con movilidad reducida es una situación de peligro y falta de civismo vial."
+  },
+  {
+    "_id": "PB-TM6-P170",
+    "Enunciado": "¿Se puede parar o estacionar en lugares que sirven para regular el tráfico, como isletas?",
+    "Opciones": [
+      "A) No, se considera peligroso.",
+      "B) Se permite solo para realizar llamadas telefónicas cortas.",
+      "C) Sí, si se hace con las luces de emergencia puestas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las isletas y elementos de canalización de tráfico deben estar siempre libres de vehículos parados o estacionados."
+  },
+  {
+    "_id": "PB-TM6-P171",
+    "Enunciado": "¿Cuándo se considera peligroso un estacionamiento respecto a los giros?",
+    "Opciones": [
+      "A) Siempre que el giro sea hacia la derecha en una calle estrecha.",
+      "B) Cuando impide que otro vehículo pueda girar por el lugar que indica la señal.",
+      "C) Cuando el vehículo estacionado es de un color que confunde."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Impedir la realización de giros señalizados a otros conductores es una forma de obstaculización peligrosa."
+  },
+  {
+    "_id": "PB-TM6-P172",
+    "Enunciado": "¿En qué horario se considera peligroso aparcar en una zona de carga y descarga?",
+    "Opciones": [
+      "A) En los días festivos cuando los comercios están cerrados.",
+      "B) Únicamente durante la noche, por falta de luz.",
+      "C) En horas que no está permitido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Hacer uso de estas zonas fuera del horario habilitado para particulares se considera un estacionamiento peligroso."
+  },
+  {
+    "_id": "PB-TM6-P173",
+    "Enunciado": "¿Qué condición debe cumplirse para que el estacionamiento en doble fila se considere peligroso?",
+    "Opciones": [
+      "A) Que el conductor se haya ido del vehículo.",
+      "B) Que la calle tenga menos de tres carriles.",
+      "C) Que el vehículo de la primera fila sea un camión."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Abandonar el vehículo en doble fila sin el conductor presente es una situación peligrosa y sancionable."
+  },
+  {
+    "_id": "PB-TM6-P174",
+    "Enunciado": "¿Qué consideración tiene estacionar en una parada de transporte público como la de un autobús?",
+    "Opciones": [
+      "A) Está permitido solo para dejar a un pasajero rápidamente.",
+      "B) Se considera un estacionamiento peligroso.",
+      "C) Se permite si la parada no tiene marquesina."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Ocupar el espacio destinado a las paradas de autobús o transporte colectivo pone en riesgo la seguridad de los usuarios."
+  },
+  {
+    "_id": "PB-TM6-P175",
+    "Enunciado": "¿Es peligroso estacionar en lugares donde hay una señal que prohíbe estacionar?",
+    "Opciones": [
+      "A) Sí, se considera estacionamiento peligroso.",
+      "B) Solo si la señal es de 'prohibido parar'.",
+      "C) No, es solo una infracción administrativa leve."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Desobedecer la señalización de prohibición de estacionamiento se clasifica como una acción peligrosa."
+  },
+  {
+    "_id": "PB-TM6-P176",
+    "Enunciado": "¿Qué consideración tiene estacionar en un lugar reservado para ambulancias?",
+    "Opciones": [
+      "A) Está permitido si el vehículo es de un médico particular.",
+      "B) Solo es peligroso si se hace en la puerta de un hospital.",
+      "C) Se considera peligroso por ser reservado para servicios de urgencias y seguridad."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Ocupar plazas reservadas para emergencias entorpece servicios vitales y es una maniobra peligrosa."
+  },
+  {
+    "_id": "PB-TM6-P177",
+    "Enunciado": "¿Qué consideración tiene aparcar un vehículo en medio de la calzada?",
+    "Opciones": [
+      "A) Se considera una parada de emergencia si dura menos de dos minutos.",
+      "B) Se permite si se encienden las luces de emergencia.",
+      "C) Se considera un estacionamiento peligroso."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Dejar el vehículo en el centro de la vía bloquea totalmente el tráfico y es una situación de riesgo extremo."
+  },
+  {
+    "_id": "PB-TM6-P178",
+    "Enunciado": "¿En qué lugares con mala visibilidad está prohibido parar y estacionar?",
+    "Opciones": [
+      "A) En curvas y cambios de rasante.",
+      "B) En las cercanías de los parques públicos.",
+      "C) Únicamente en los tramos rectos con mucha sombra."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La falta de visibilidad en curvas y rasantes prohíbe cualquier tipo de inmovilización voluntaria por seguridad."
+  },
+  {
+    "_id": "PB-TM6-P179",
+    "Enunciado": "¿Cuál es la norma sobre parar y estacionar en los túneles?",
+    "Opciones": [
+      "A) Se permite estacionar en el lado derecho del túnel.",
+      "B) Se permite parar si el túnel mide menos de cien metros.",
+      "C) Está prohibido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Por razones de seguridad en espacios confinados, no se permite ni parar ni estacionar dentro de los túneles."
+  },
+  {
+    "_id": "PB-TM6-P180",
+    "Enunciado": "¿En qué tipos de pasos está prohibido realizar la parada y el estacionamiento?",
+    "Opciones": [
+      "A) Únicamente en los pasos elevados sobre autopistas.",
+      "B) Solo en los pasos subterráneos para peatones.",
+      "C) Pasos a nivel, pasos de peatones y pasos para ciclistas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La prohibición abarca todos los pasos destinados al cruce de otros usuarios (trenes, peatones o ciclistas)."
+  }
+]

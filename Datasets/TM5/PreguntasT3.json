@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM5-P61",
+    "Enunciado": "En el sexto lugar de la lista de preferencia de paso en zonas estrechas encontramos a:",
+    "Opciones": [
+      "A) Los turismos y vehículos derivados.",
+      "B) Autobuses, trolebús y tranvías.",
+      "C) Camiones, tractocamiones y furgones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Este grupo tiene prioridad sobre los vehículos ligeros pero debe ceder ante autobuses o conjuntos de vehículos. Por ejemplo, un camión de reparto pasará antes que un coche en un puente estrecho."
+  },
+  {
+    "_id": "PB-TM5-P62",
+    "Enunciado": "Dentro de la jerarquía establecida para tramos estrechos, ¿qué vehículos ocupan el séptimo puesto por detrás del camión?",
+    "Opciones": [
+      "A) Los vehículos especiales que cumplen medidas estándar.",
+      "B) Turismos y vehículos derivados de turismos.",
+      "C) Las motocicletas y ciclomotores de dos ruedas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los turismos convencionales tienen prioridad sobre vehículos de tres o dos ruedas. Por ejemplo, tu coche pasará antes que una motocicleta con sidecar si ambos llegan a la vez a un estrechamiento."
+  },
+  {
+    "_id": "PB-TM5-P63",
+    "Enunciado": "¿Qué preferencia tiene un tractor frente a un turismo en una zona estrecha sin señales?",
+    "Opciones": [
+      "A) El tractor tiene preferencia por ser un vehículo especial.",
+      "B) La prioridad la tiene el turismo por ser un vehículo más liviano.",
+      "C) Pasan a la vez ya que pertenecen a la misma categoría."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los tractores y vehículos especiales de dimensiones normales (puesto 8) van después que los turismos (puesto 7)."
+  },
+  {
+    "_id": "PB-TM5-P64",
+    "Enunciado": "¿En qué posición de la lista se encuentran los ciclomotores de tres ruedas y motocicletas con sidecar?",
+    "Opciones": [
+      "A) En el séptimo lugar junto a los turismos.",
+      "B) En el octavo lugar con los vehículos especiales.",
+      "C) En el noveno lugar después de los vehículos especiales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Este grupo solo tiene prioridad sobre los vehículos de dos ruedas. Por ejemplo, una moto con sidecar debe esperar a que pase un turismo antes de entrar en un tramo estrecho."
+  },
+  {
+    "_id": "PB-TM5-P65",
+    "Enunciado": "¿Qué vehículos ocupan el décimo y último lugar de la preferencia en zonas estrechas?",
+    "Opciones": [
+      "A) Los vehículos arrastrados por animales domésticos.",
+      "B) Motocicletas, ciclomotores de dos ruedas y bicicletas.",
+      "C) Los cuadriciclos pesados y ligeros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Al ser los más fáciles de apartar y maniobrar, cierran la lista. Por ejemplo, un ciclista debe facilitar siempre el paso a cualquier otro vehículo en un estrechamiento."
+  },
+  {
+    "_id": "PB-TM5-P66",
+    "Enunciado": "Si dos vehículos del mismo tipo se encuentran en un estrechamiento, ¿quién tiene preferencia?",
+    "Opciones": [
+      "A) El vehículo que tenga que dar marcha atrás más distancia.",
+      "B) El vehículo que circule por la derecha del carril.",
+      "C) El conductor que tenga más antigüedad en su permiso de conducir."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se busca la solución que requiera menos maniobra total. Por ejemplo, si un coche debe retroceder 50 metros y el otro solo 10, pasará el que tiene la marcha atrás más larga."
+  },
+  {
+    "_id": "PB-TM5-P67",
+    "Enunciado": "Si dos vehículos iguales deben retroceder la misma distancia, ¿cuál de ellos pasará primero?",
+    "Opciones": [
+      "A) El conductor que sea más joven para agilizar la maniobra.",
+      "B) El vehículo que circule en sentido descendente.",
+      "C) El vehículo que sea más ancho, más largo o tenga más carga."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es el último criterio de desempate. Por ejemplo, entre dos turismos, si uno lleva un remolque de carga y el otro no, pasará primero el que tiene el remolque."
+  },
+  {
+    "_id": "PB-TM5-P68",
+    "Enunciado": "En una cuesta con mucha inclinación y un tramo estrecho, ¿quién tiene preferencia de paso?",
+    "Opciones": [
+      "A) El vehículo que circula cuesta abajo para no forzar los frenos.",
+      "B) El vehículo que circula cuesta arriba.",
+      "C) El vehículo que sea más pesado independientemente del sentido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Reanudar la marcha hacia arriba es más difícil. Por ejemplo, si te encuentras a un camión bajando mientras tú subes una pendiente fuerte, el camión debe dejarte pasar."
+  },
+  {
+    "_id": "PB-TM5-P69",
+    "Enunciado": "¿Cuál es la excepción a la prioridad del vehículo que sube en una cuesta estrecha?",
+    "Opciones": [
+      "A) Que tenga más cerca un lugar seguro en el que parar.",
+      "B) Que el vehículo que baja sea un transporte escolar.",
+      "C) Que el vehículo que sube sea un turismo y el que baja un camión."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si el que sube puede apartarse más fácilmente, debe hacerlo. Por ejemplo, si a 2 metros tienes un ensanchamiento de la calzada, debes parar ahí para dejar bajar al otro."
+  },
+  {
+    "_id": "PB-TM5-P70",
+    "Enunciado": "En caso de duda en una cuesta estrecha sobre quién entró primero, ¿qué norma se aplica?",
+    "Opciones": [
+      "A) La del vehículo de mayor peso siempre.",
+      "B) La misma norma que en las zonas estrechas que no están en cuesta.",
+      "C) Se decide por cortesía entre ambos conductores mediante señales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se vuelve a la jerarquía de los 10 tipos de vehículos. Por ejemplo, si un autobús sube y un conjunto de vehículos baja, pasará el conjunto de vehículos."
+  },
+  {
+    "_id": "PB-TM5-P71",
+    "Enunciado": "Al acercarse a un paso a nivel o puente móvil, ¿qué conducta es obligatoria?",
+    "Opciones": [
+      "A) Encender las ráfagas de luz de largo alcance para avisar.",
+      "B) Aumentar la velocidad para cruzar antes del cierre.",
+      "C) Reducir la velocidad y conducir con más prudencia."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La aproximación debe ser cautelosa. Por ejemplo, al ver las señales de proximidad de vía férrea, debemos empezar a frenar suavemente para observar el entorno."
+  },
+  {
+    "_id": "PB-TM5-P72",
+    "Enunciado": "Además de cuando está cerrado, ¿cuándo está prohibido cruzar un paso a nivel?",
+    "Opciones": [
+      "A) Cuando las barreras están en movimiento para abrir o cerrar.",
+      "B) Cuando no se escuche ninguna señal acústica de tren cerca.",
+      "C) Solo durante las horas nocturnas si no hay iluminación."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El movimiento de barreras indica peligro inminente. Por ejemplo, aunque parezca que están terminando de subir, debes esperar a que se detengan por completo."
+  },
+  {
+    "_id": "PB-TM5-P73",
+    "Enunciado": "¿Qué indica un semáforo encendido en un paso a nivel?",
+    "Opciones": [
+      "A) Que se puede pasar si no se observa ningún tren en las vías.",
+      "B) Que el paso está libre para los vehículos ligeros.",
+      "C) Que debes detenerte."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es una orden de parada absoluta. Por ejemplo, al ver la luz roja intermitente, debes frenar y esperar antes de la barrera aunque esta siga levantada."
+  },
+  {
+    "_id": "PB-TM5-P74",
+    "Enunciado": "Mientras esperan a que el paso a nivel se abra, ¿cómo deben colocarse los vehículos?",
+    "Opciones": [
+      "A) En paralelo aprovechando el ancho de la calzada.",
+      "B) En su carril, uno detrás de otro.",
+      "C) En el arcén derecho para dejar libre la vía principal."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe mantener el orden de fila única. Por ejemplo, si hay tres coches esperando, deben formar una línea recta sin invadir el sentido contrario."
+  },
+  {
+    "_id": "PB-TM5-P75",
+    "Enunciado": "Una vez que el paso a nivel queda libre, ¿de qué forma se debe realizar el cruce?",
+    "Opciones": [
+      "A) Rápido.",
+      "B) Muy despacio para no dañar la suspensión con los raíles.",
+      "C) Con las luces de emergencia encendidas durante el tramo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El objetivo es despejar la zona de riesgo cuanto antes. Por ejemplo, tras verificar que no hay peligro, acelera de forma decidida para salir del paso."
+  },
+  {
+    "_id": "PB-TM5-P76",
+    "Enunciado": "Si llega a un paso a nivel que no tiene barreras ni semáforos, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Cruzar sin detenerse para evitar que el coche se cale en las vías.",
+      "B) Tocar el claxon repetidamente mientras realiza el cruce.",
+      "C) Comprobar que no viene un tren o tranvía antes de cruzar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La vigilancia es responsabilidad total del conductor. Por ejemplo, detén el vehículo un momento, mira a ambos lados y escucha si hay sonido de motores ferroviarios."
+  },
+  {
+    "_id": "PB-TM5-P77",
+    "Enunciado": "Si un vehículo queda atrapado en las vías, ¿quién debe bajar primero del vehículo?",
+    "Opciones": [
+      "A) Solo el conductor para buscar ayuda telefónica.",
+      "B) Todas las personas que viajan en él, menos el conductor.",
+      "C) Nadie debe bajar hasta que se vea el tren acercarse."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se prioriza la vida de los ocupantes. Por ejemplo, ordena a todos los pasajeros salir inmediatamente y alejarse de las vías antes de intentar nada más."
+  },
+  {
+    "_id": "PB-TM5-P78",
+    "Enunciado": "Una vez que los pasajeros han bajado del coche atrapado, ¿qué hará el conductor?",
+    "Opciones": [
+      "A) Intentar poner en marcha el vehículo.",
+      "B) Caminar por la vía en dirección al tren para avisar.",
+      "C) Desinflar las ruedas para ganar tracción sobre el metal."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es el último intento de salvar el vehículo. Por ejemplo, trata de arrancar el motor para desplazarlo fuera de la zona de impacto."
+  },
+  {
+    "_id": "PB-TM5-P79",
+    "Enunciado": "Si el conductor no consigue arrancar el coche atrapado en el paso a nivel, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Quedarse dentro del coche haciendo ráfagas de luz.",
+      "B) Entrar de nuevo en el coche y esperar al impacto con el cinturón puesto.",
+      "C) Bajar e intentar avisar de la situación a los trenes y otros conductores."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se trata de evitar la colisión. Por ejemplo, haz señales con los brazos o usa una linterna para que el maquinista del tren pueda frenar con antelación."
+  },
+  {
+    "_id": "PB-TM5-P80",
+    "Enunciado": "¿En qué situación tiene prohibida la entrada un vehículo a un túnel?",
+    "Opciones": [
+      "A) Siempre que sea de noche y el túnel carezca de iluminación propia.",
+      "B) Cuando en la entrada hay un semáforo que prohíbe el paso.",
+      "C) Solo si se trata de un vehículo de transporte de mercancías pesadas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El semáforo rojo en la boca del túnel es una orden tajante. Por ejemplo, si ves el semáforo en rojo, detente fuera para evitar quedar atrapado en un posible incendio o accidente interior."
+  },
+  {
+    "_id": "PB-TM5-P81",
+    "Enunciado": "Como norma general, ¿qué distancia de seguridad debe guardar con el coche de delante en un túnel?",
+    "Opciones": [
+      "A) Al menos 100 metros o 4 segundos.",
+      "B) 50 metros o un intervalo de 2 segundos.",
+      "C) 150 metros si el túnel tiene más de un carril por sentido."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es vital para evitar colisiones múltiples. Por ejemplo, usa los postes o marcas del túnel para calcular que pasan 4 segundos desde que el coche de delante pisa una marca hasta que la pisas tú."
+  },
+  {
+    "_id": "PB-TM5-P82",
+    "Enunciado": "Si conduce un camión de más de 3.500 kg en un túnel, ¿qué distancia debe mantener?",
+    "Opciones": [
+      "A) 100 metros, igual que el resto de automóviles.",
+      "B) 200 metros para facilitar el adelantamiento de turismos.",
+      "C) 150 metros o 6 segundos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los vehículos pesados necesitan más espacio de frenado. Por ejemplo, un camión de gran tonelaje debe dejar un hueco mucho más amplio para garantizar la seguridad."
+  },
+  {
+    "_id": "PB-TM5-P83",
+    "Enunciado": "Si el tráfico se detiene por completo dentro de un túnel, ¿qué deben hacer los pasajeros?",
+    "Opciones": [
+      "A) Salir del coche para estirar las piernas mientras el tráfico avanza.",
+      "B) Quedarse dentro del vehículo.",
+      "C) Dirigirse a pie hacia la boca del túnel para informar de la retención."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En detenciones por tráfico, lo más seguro es permanecer dentro. Por ejemplo, si hay un atasco, no permitas que nadie baje del coche para evitar atropellos accidentales."
+  },
+  {
+    "_id": "PB-TM5-P84",
+    "Enunciado": "Durante una retención en un túnel donde los vehículos no avanzan, ¿qué debe hacer el conductor?",
+    "Opciones": [
+      "A) Parar el motor.",
+      "B) Mantener el motor encendido para usar el aire acondicionado.",
+      "C) Poner el motor a altas revoluciones para que se oiga su presencia."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Evita la acumulación de gases tóxicos. Por ejemplo, en cuanto veas que el tráfico se queda parado de forma prolongada, gira la llave y apaga el motor."
+  },
+  {
+    "_id": "PB-TM5-P85",
+    "Enunciado": "Al quedar detenido por tráfico en un túnel, ¿qué luces deben quedar encendidas?",
+    "Opciones": [
+      "A) Las luces de largo alcance para iluminar bien el túnel.",
+      "B) Ninguna, para no agotar la batería del vehículo.",
+      "C) Las luces de posición."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es necesario que el vehículo siga siendo visible. Por ejemplo, aunque apagues el motor, asegúrate de que el mando de luces esté en la posición de posición."
+  },
+  {
+    "_id": "PB-TM5-P86",
+    "Enunciado": "¿Cómo debe avisar a los conductores de atrás si tiene que frenar por una retención en un túnel?",
+    "Opciones": [
+      "A) Haciendo ráfagas con la luz antiniebla trasera.",
+      "B) Encendiendo un momento las luces de emergencia.",
+      "C) Sacando el brazo por la ventanilla moviéndolo de arriba abajo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es una señal de alerta visual rápida. Por ejemplo, pulsa el botón del triángulo rojo un par de segundos mientras frenas para que el de atrás sepa que te detienes."
+  },
+  {
+    "_id": "PB-TM5-P87",
+    "Enunciado": "Si tiene una avería y debe detener el coche por emergencia en un túnel, ¿qué es lo primero que hará?",
+    "Opciones": [
+      "A) Apagar el motor.",
+      "B) Salir corriendo hacia la salida de emergencia más próxima.",
+      "C) Intentar empujar el coche hasta fuera del túnel."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es el paso inicial de seguridad. Por ejemplo, detén el coche con suavidad a la derecha y corta el contacto inmediatamente."
+  },
+  {
+    "_id": "PB-TM5-P88",
+    "Enunciado": "¿Qué luces debe dejar encendidas en una detención por emergencia dentro de un túnel?",
+    "Opciones": [
+      "A) Solo la luz de cruce para no deslumbrar.",
+      "B) Las luces de corto alcance y las de niebla.",
+      "C) Las luces de posición y las de emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Combinación para máxima visibilidad estática. Por ejemplo, deja el coche señalizado con los cuatro intermitentes y las luces de posición puestas."
+  },
+  {
+    "_id": "PB-TM5-P89",
+    "Enunciado": "¿Dónde debe colocar el vehículo averiado en un túnel si no hay zona reservada de emergencia?",
+    "Opciones": [
+      "A) En el carril de la izquierda para no estorbar el arcén derecho.",
+      "B) Acercarlo lo más posible al borde derecho de la carretera.",
+      "C) En el mismo carril por el que circulaba, sin moverlo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para dejar paso libre al resto y a los equipos de rescate. Por ejemplo, intenta arrimar el coche al muro derecho lo máximo posible."
+  },
+  {
+    "_id": "PB-TM5-P90",
+    "Enunciado": "Para señalizar el peligro de su coche averiado en el túnel, ¿qué debe colocar en la calzada?",
+    "Opciones": [
+      "A) La luz de peligro o los triángulos que indican peligro.",
+      "B) Una prenda de ropa de color llamativo sobre el asfalto.",
+      "C) Nada, las luces del vehículo son suficientes dentro de un túnel."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es obligatorio señalizar el obstáculo físicamente. Por ejemplo, baja del coche con el chaleco puesto y coloca el dispositivo de emergencia para avisar a los demás."
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM5-P1",
+    "Enunciado": "De acuerdo con las normas generales, ¿de qué manera debe reducir la velocidad un conductor para ceder el paso?",
+    "Opciones": [
+      "A) Únicamente cuando falten menos de 2 metros para el cruce.",
+      "B) Poco a poco.",
+      "C) De forma brusca para asegurar la detención."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La reducción progresiva de la velocidad permite que los demás usuarios comprendan nuestra intención. Por ejemplo, al acercarse a un ceda el paso, levantar el pie del acelerador con antelación ayuda a que el vehículo con prioridad no tenga que frenar."
+  },
+  {
+    "_id": "PB-TM5-P2",
+    "Enunciado": "¿Cuál es el motivo principal por el que se debe reducir la velocidad paulatinamente al ceder el paso?",
+    "Opciones": [
+      "A) Para evitar el desgaste excesivo de los neumáticos.",
+      "B) Para que el conductor del otro vehículo se dé cuenta de la cesión.",
+      "C) Para permitir que el motor recupere potencia antes de reanudar la marcha."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se trata de una medida de comunicación vial. Si frenamos suavemente, el conductor que tiene la preferencia percibe visualmente que le estamos dejando pasar y puede continuar su trayectoria con seguridad."
+  },
+  {
+    "_id": "PB-TM5-P3",
+    "Enunciado": "Al ceder el paso, ¿hasta qué momento debe el conductor quedarse parado o conducir despacio?",
+    "Opciones": [
+      "A) Hasta que el otro conductor haya pasado y pueda circular sin peligro.",
+      "B) Hasta que el otro conductor le dé una señal con las luces.",
+      "C) Solo hasta que el vehículo prioritario haya iniciado el cruce."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La maniobra no termina hasta que el conflicto de trayectorias desaparece por completo. Un ejemplo sería esperar a que un camión termine de pasar totalmente en un cruce estrecho antes de avanzar nosotros."
+  },
+  {
+    "_id": "PB-TM5-P4",
+    "Enunciado": "En los cruces donde no existen señales de tráfico, ¿a qué vehículos se debe ceder el paso por norma general?",
+    "Opciones": [
+      "A) A los vehículos que circulan por la vía que parece principal.",
+      "B) A los vehículos de mayor tamaño por ser menos maniobrables.",
+      "C) A los vehículos que vienen por la derecha."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A falta de señales, rige la regla básica de prioridad a la derecha. Por ejemplo, si llegas a un cruce de calles iguales en una urbanización, debes dejar pasar a cualquier coche que aparezca por tu lado derecho."
+  },
+  {
+    "_id": "PB-TM5-P5",
+    "Enunciado": "Si llega a un cruce sin señales y el vehículo de su derecha circula por una carretera en mal estado, ¿quién tiene preferencia?",
+    "Opciones": [
+      "A) El vehículo que viene por la derecha.",
+      "B) El vehículo que circule a mayor velocidad para despejar la zona.",
+      "C) Usted, porque su vía está mejor pavimentada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La norma de la derecha es independiente del estado de la calzada o de su anchura. Incluso si la calle de la derecha tiene baches o es muy estrecha, el vehículo que sale de ella sigue teniendo la prioridad."
+  },
+  {
+    "_id": "PB-TM5-P6",
+    "Enunciado": "Dentro de las excepciones en cruces sin señales, ¿qué vehículos pasan primero ante los que circulan por carretera?",
+    "Opciones": [
+      "A) Los vehículos destinados al servicio de limpieza municipal.",
+      "B) Los vehículos que circulan por raíles.",
+      "C) Los vehículos de auxilio en carretera que van con luces amarillas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los vehículos ferroviarios tienen prioridad. Un ejemplo cotidiano es el tranvía en una ciudad; siempre debemos cederle el paso en las intersecciones que no estén reguladas por otra señalización."
+  },
+  {
+    "_id": "PB-TM5-P7",
+    "Enunciado": "En un cruce no señalizado donde coinciden un vehículo por vía pavimentada y otro por vía sin pavimentar, ¿quién tiene preferencia?",
+    "Opciones": [
+      "A) El vehículo que circula por la carretera pavimentada.",
+      "B) El vehículo que circule por la vía más ancha de las dos.",
+      "C) El vehículo que venga por la derecha independientemente del suelo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Esta es una excepción a la regla de la derecha. Un coche que circula por asfalto tiene preferencia sobre uno que pretende entrar desde un camino de tierra, como sucede frecuentemente en las salidas de fincas agrícolas."
+  },
+  {
+    "_id": "PB-TM5-P8",
+    "Enunciado": "Según la definición del temario, ¿en qué consiste pavimentar una calle o carretera?",
+    "Opciones": [
+      "A) En instalar señales horizontales y verticales de tráfico.",
+      "B) En limpiar y desbrozar los márgenes y arcenes.",
+      "C) En cubrir el suelo con asfalto y otros materiales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Pavimentar es el proceso de aplicar una capa de materiales como asfalto para crear una superficie lisa. Esto permite, por ejemplo, que los frenos de un coche funcionen de forma más eficaz que sobre un suelo de tierra."
+  },
+  {
+    "_id": "PB-TM5-P9",
+    "Enunciado": "¿Cuál es la finalidad principal de pavimentar las vías públicas?",
+    "Opciones": [
+      "A) Reducir los costes de mantenimiento anual de la vía.",
+      "B) Mejorar la estética del paisaje urbano e interurbano.",
+      "C) Permitir el paso de vehículos y personas de forma más segura."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El pavimento proporciona adherencia y regularidad. Un ejemplo de seguridad es que evita que se levante polvo que impida la visión o que el barro provoque deslizamientos peligrosos al caminar o conducir."
+  },
+  {
+    "_id": "PB-TM5-P10",
+    "Enunciado": "Al aproximarse a una rotonda, ¿qué conductores tienen la preferencia de paso?",
+    "Opciones": [
+      "A) Los vehículos que se incorporan por la derecha.",
+      "B) Los vehículos que ya están dentro de la rotonda.",
+      "C) Los vehículos pesados como camiones o autobuses."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En las glorietas la prioridad es circular. Si quieres entrar en una rotonda y viene un coche por el anillo interior, debes detenerte y esperar a que pase antes de iniciar tu entrada."
+  },
+  {
+    "_id": "PB-TM5-P11",
+    "Enunciado": "¿Quién tiene prioridad de paso al entrar en una autopista?",
+    "Opciones": [
+      "A) El vehículo que entra por el carril de aceleración.",
+      "B) Los vehículos que ya están dentro de la autopista.",
+      "C) El vehículo que circule a mayor velocidad en ese tramo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los conductores que ya transitan por la autopista tienen la preferencia. El conductor que se incorpora debe facilitar la maniobra sin obligar a los que ya están dentro a cambiar bruscamente de carril o frenar."
+  },
+  {
+    "_id": "PB-TM5-P12",
+    "Enunciado": "En los cruces que disponen de señales de tráfico, ¿qué instrucciones debe seguir el conductor?",
+    "Opciones": [
+      "A) Las de la norma general de la derecha si la señal es solo de advertencia.",
+      "B) Las que indique esa señal siempre.",
+      "C) Las de cortesía si el tráfico es muy denso."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La señalización prevalece sobre las reglas generales. Por ejemplo, si en un cruce tienes un Stop, debes detenerte aunque no venga nadie por la derecha, ya que la señal manda sobre la norma."
+  },
+  {
+    "_id": "PB-TM5-P13",
+    "Enunciado": "Si llega a un cruce señalizado pero no existen líneas en el suelo, ¿desde dónde debe ceder el paso?",
+    "Opciones": [
+      "A) Desde el centro de la intersección para ser visto.",
+      "B) Deteniéndose exactamente a 5 metros de la esquina.",
+      "C) Desde el lugar donde mejor vea el cruce y los vehículos que llegan."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A falta de marcas viales como la línea de detención, hay que buscar el punto con máxima visibilidad. Un ejemplo sería avanzar despacio hasta el borde de la calle transversal donde se vea bien si vienen coches."
+  },
+  {
+    "_id": "PB-TM5-P14",
+    "Enunciado": "¿Cuándo tiene prohibido un conductor entrar en un cruce, paso de peatones o paso de ciclistas?",
+    "Opciones": [
+      "A) Cuando no haya señales verticales que regulen el paso.",
+      "B) Si cree que su vehículo se va a quedar atrapado en medio interrumpiendo.",
+      "C) Solo cuando el semáforo esté en fase roja."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Está prohibido bloquear la circulación transversal. Por ejemplo, si hay un atasco al otro lado de un paso de cebra, debes esperar antes de las rayas para no impedir que los peatones crucen si te quedas parado."
+  },
+  {
+    "_id": "PB-TM5-P15",
+    "Enunciado": "Usted llega a un paso de peatones y hay vehículos justo delante que no le van a dejar pasar. ¿Cómo debe actuar?",
+    "Opciones": [
+      "A) Avanzar hasta quedar encima del paso para presionar al de delante.",
+      "B) Detenerse en el arcén derecho para no estorbar.",
+      "C) Debe esperar antes del paso de peatones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Incluso con semáforo en verde, si ves que la fila de coches no avanza y te vas a quedar encima de las rayas blancas, debes quedarte fuera del paso para permitir que los peatones puedan usarlo libremente."
+  },
+  {
+    "_id": "PB-TM5-P16",
+    "Enunciado": "Si queda parado en un cruce con semáforo y su vehículo es un obstáculo para otros, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Salir del cruce por donde sea posible.",
+      "B) Dar marcha atrás inmediatamente con las luces de emergencia.",
+      "C) Mantenerse inmóvil hasta que su semáforo vuelva a ponerse verde."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si bloqueas un cruce por error, debes despejarlo cuanto antes hacia cualquier dirección segura. Un ejemplo sería girar a la derecha en lugar de seguir recto si eso libera la intersección para los demás."
+  },
+  {
+    "_id": "PB-TM5-P17",
+    "Enunciado": "Al salir de un cruce donde ha quedado bloqueado estorbando, ¿qué condición debe cumplirse?",
+    "Opciones": [
+      "A) Que no vengan vehículos de frente.",
+      "B) Que un agente de tráfico le autorice verbalmente el movimiento.",
+      "C) Que el semáforo de los peatones esté en fase roja."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para evacuar un cruce bloqueado, puedes moverte incluso si no es tu ruta prevista, siempre que no pongas en riesgo a quienes circulan en sentido contrario."
+  },
+  {
+    "_id": "PB-TM5-P18",
+    "Enunciado": "¿Cómo se debe circular por una rotonda según la normativa?",
+    "Opciones": [
+      "A) Siguiendo una norma especial única para vías circulares.",
+      "B) De la misma forma que en el resto de vías (urbanas, interurbanas, etc.).",
+      "C) Siempre por el carril exterior independientemente del destino."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "No hay reglas excepcionales para circular dentro. Por ejemplo, si la rotonda está en poblado, se aplican las normas de circulación urbana para elegir carril y señalizar giros."
+  },
+  {
+    "_id": "PB-TM5-P19",
+    "Enunciado": "¿En qué situaciones tienen los ciclistas preferencia de paso?",
+    "Opciones": [
+      "A) Únicamente en los tramos de carretera con pendiente ascendente.",
+      "B) Cuando circulan por carril bici, paso ciclista o arcén bien señalizado.",
+      "C) Solo cuando circulan por el centro de la calzada en ciudad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los ciclistas son prioritarios en sus espacios reservados. Un ejemplo es cuando cruzan por un paso para ciclistas señalizado; el conductor del coche debe detenerse y esperar a que pasen."
+  },
+  {
+    "_id": "PB-TM5-P20",
+    "Enunciado": "Si un vehículo quiere girar a derecha o izquierda y hay ciclistas cerca, ¿quién tiene preferencia?",
+    "Opciones": [
+      "A) El vehículo, por ser más rápido para despejar la vía.",
+      "B) El conductor que señalice la maniobra primero con el intermitente.",
+      "C) Los ciclistas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Al realizar un cambio de dirección para entrar en otra vía, debemos vigilar las proximidades. Por ejemplo, si vas a girar a la derecha para entrar en un parking, debes dejar pasar antes al ciclista que viene recto por tu lado."
+  },
+  {
+    "_id": "PB-TM5-P21",
+    "Enunciado": "¿Cuándo adquiere todo un grupo de ciclistas la preferencia en un cruce?",
+    "Opciones": [
+      "A) Cuando uno de ellos ya ha entrado en el cruce.",
+      "B) Solo cuando el ciclista que va en última posición levanta el brazo.",
+      "C) Solo si el grupo está compuesto por más de 10 personas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El pelotón se considera una unidad. Si el primer ciclista ya ha iniciado el cruce, todos los demás tienen prioridad y los coches deben esperar a que pase el último del grupo."
+  },
+  {
+    "_id": "PB-TM5-P22",
+    "Enunciado": "Si el primer ciclista de un pelotón ha entrado en una intersección, ¿qué deben hacer los conductores de los demás vehículos?",
+    "Opciones": [
+      "A) Esperar a que pase todo el grupo de ciclistas.",
+      "B) Tienen prioridad si vienen por la derecha del grupo de ciclistas.",
+      "C) Pueden pasar si encuentran un hueco entre dos ciclistas del grupo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Está prohibido cortar el paso a un grupo de ciclistas una vez que el primero ha entrado en el cruce. Debemos tener paciencia y esperar a que el grupo completo termine su maniobra."
+  },
+  {
+    "_id": "PB-TM5-P23",
+    "Enunciado": "¿En qué lugares específicos gozan los peatones de prioridad de paso?",
+    "Opciones": [
+      "A) En pasos de peatones, aceras y demás zonas peatonales.",
+      "B) En cualquier calzada donde la velocidad máxima sea de 20 km/h.",
+      "C) Únicamente en los pasos de peatones regulados por semáforo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los peatones son los protagonistas en sus zonas. Por ejemplo, si un peatón está caminando por la acera, un coche no puede obligarle a apartarse ni estorbar su camino."
+  },
+  {
+    "_id": "PB-TM5-P24",
+    "Enunciado": "Un vehículo gira para entrar en otra vía y hay peatones cruzándola. ¿Tienen ellos preferencia?",
+    "Opciones": [
+      "A) Solo si existe un paso de peatones señalizado con marcas blancas.",
+      "B) No, el peatón siempre debe esperar a que pase el vehículo de motor.",
+      "C) Sí, tienen preferencia en esta situación."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Al girar para entrar en una calle nueva, los peatones que ya están cruzando esa calle tienen prioridad, aunque no haya un paso de cebra pintado en ese punto concreto."
+  },
+  {
+    "_id": "PB-TM5-P25",
+    "Enunciado": "Si un vehículo cruza un arcén por el que caminan peatones al no haber aceras, ¿quién tiene prioridad?",
+    "Opciones": [
+      "A) El vehículo, siempre que mantenga una distancia lateral de 1,5 metros.",
+      "B) El vehículo, por circular por la vía principal pavimentada.",
+      "C) Los peatones."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Cuando el peatón se ve obligado a usar el arcén por falta de espacio reservado, el conductor que deba atravesar ese arcén para girar o entrar en una finca debe cederle el paso siempre."
+  },
+  {
+    "_id": "PB-TM5-P26",
+    "Enunciado": "¿Qué norma se aplica cuando un vehículo necesita cruzar una zona peatonal?",
+    "Opciones": [
+      "A) El vehículo tiene preferencia por incorporarse a la circulación.",
+      "B) Pasa primero el que llegue antes al punto de intersección.",
+      "C) Los peatones tienen preferencia para pasar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La zona peatonal es de uso exclusivo para viandantes. Si un vehículo debe atravesarla, pierde toda prioridad y debe esperar a que no haya peatones estorbando su trayectoria."
+  },
+  {
+    "_id": "PB-TM5-P27",
+    "Enunciado": "¿Qué ejemplo de cruce de zona peatonal por un vehículo menciona el texto?",
+    "Opciones": [
+      "A) La acera que debe cruzar un coche al salir de un garaje.",
+      "B) Un camión de reparto subiendo a una plaza mayor.",
+      "C) Un coche circulando por una calle residencial S-28."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es el caso más común: al salir de un parking privado, debes atravesar la acera. En ese momento, cualquier peatón que camine por ella tiene la preferencia sobre tu coche."
+  },
+  {
+    "_id": "PB-TM5-P28",
+    "Enunciado": "Además de a peatones y ciclistas, ¿a qué otros grupos deben ceder el paso los conductores?",
+    "Opciones": [
+      "A) Solo a grupos que vayan escoltados por la policía local.",
+      "B) A colectivos de trabajadores de obras en la calzada.",
+      "C) A un grupo de personas organizado que van todos juntos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los grupos que se desplazan de forma compacta y organizada tienen prioridad. Por ejemplo, una comitiva festiva o una procesión que ocupa parte de la calzada debe ser respetada."
+  },
+  {
+    "_id": "PB-TM5-P29",
+    "Enunciado": "¿Qué ejemplo específico de grupo organizado se cita en el temario?",
+    "Opciones": [
+      "A) Un grupo de niños en una excursión con su escuela.",
+      "B) Una manifestación autorizada por la Delegación de Gobierno.",
+      "C) Un pelotón de entrenamiento de triatlón."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si te encuentras con una fila de niños de colegio cruzando o caminando por la vía, debes cederles el paso ya que se consideran un grupo organizado prioritario."
+  },
+  {
+    "_id": "PB-TM5-P30",
+    "Enunciado": "Respecto a las personas que bajan del autobús, ¿hasta cuándo mantienen su preferencia de paso?",
+    "Opciones": [
+      "A) Mientras el autobús mantenga las luces de emergencia encendidas.",
+      "B) Hasta que llegan a la zona peatonal más próxima.",
+      "C) Solo mientras tengan un pie dentro del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La prioridad protege al pasajero en su trayecto desde la puerta del autobús hasta la acera. Un ejemplo es cuando bajan en una parada situada en un refugio central y deben cruzar un carril para llegar a la acera."
+  }
+]

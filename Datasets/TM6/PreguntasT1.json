@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P1",
+    "Enunciado": "¿Qué es exactamente la regla de seguridad R.S.M.?",
+    "Opciones": [
+      "A) Es una norma técnica sobre el mantenimiento del motor.",
+      "B) Es el conjunto de normas y pasos a seguir al realizar cualquier maniobra.",
+      "C) Es un protocolo de actuación en caso de accidente grave."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La regla R.S.M. (Retrovisor, Señal, Maniobra) es el procedimiento obligatorio para ejecutar cualquier movimiento con el vehículo de forma segura."
+  },
+  {
+    "_id": "PB-TM6-P2",
+    "Enunciado": "¿En cuántos pasos se divide la regla de seguridad R.S.M.?",
+    "Opciones": [
+      "A) Se divide en cuatro fases diferenciadas.",
+      "B) Se divide en tres pasos.",
+      "C) Se divide en dos pasos principales."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Esta regla consta de tres fases consecutivas: observación por el retrovisor, señalización de la intención y ejecución de la maniobra."
+  },
+  {
+    "_id": "PB-TM6-P3",
+    "Enunciado": "Dentro de la regla R.S.M., ¿en qué consiste 'Observar la vía'?",
+    "Opciones": [
+      "A) En comprobar únicamente el estado del asfalto antes de girar.",
+      "B) En mirar con atención el tráfico y la vía de forma directa y por los espejos.",
+      "C) En mirar solo hacia adelante para mantener la trayectoria."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La observación debe ser completa, combinando la visión directa con el uso de los espejos retrovisores."
+  },
+  {
+    "_id": "PB-TM6-P4",
+    "Enunciado": "¿Cuál es el objetivo de observar la vía antes de iniciar una maniobra?",
+    "Opciones": [
+      "A) Confirmar que el vehículo tiene las luces encendidas.",
+      "B) Saludar a los conductores que circulan cerca.",
+      "C) Asegurarse de que se puede hacer el movimiento en ese momento."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La observación previa sirve para verificar si el tráfico y las condiciones de la vía permiten realizar la maniobra sin riesgo."
+  },
+  {
+    "_id": "PB-TM6-P5",
+    "Enunciado": "Tras comprobar que no hay peligro, ¿qué debe hacer el conductor según la regla R.S.M.?",
+    "Opciones": [
+      "A) Iniciar el giro del volante inmediatamente.",
+      "B) Aumentar la velocidad para terminar pronto.",
+      "C) Avisar a los demás conductores de lo que va a hacer."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El segundo paso tras la observación segura es la señalización o aviso a los demás usuarios."
+  },
+  {
+    "_id": "PB-TM6-P6",
+    "Enunciado": "¿Con qué elementos se puede avisar de una maniobra a los demás conductores?",
+    "Opciones": [
+      "A) Con las luces del vehículo o con el brazo.",
+      "B) Únicamente con el claxon en vías urbanas.",
+      "C) Solo mediante el uso de los intermitentes."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El reglamento permite señalizar las maniobras tanto con los dispositivos luminosos como mediante señales manuales con el brazo."
+  },
+  {
+    "_id": "PB-TM6-P7",
+    "Enunciado": "Si se hacen correctamente y son visibles, ¿qué validez tienen las señales con el brazo?",
+    "Opciones": [
+      "A) Tienen más validez que las señales hechas con las luces.",
+      "B) Tienen la misma validez y queda a elección del conductor.",
+      "C) Tienen menos validez legal que las luces del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las señales manuales realizadas correctamente tienen prioridad sobre las indicaciones luminosas del vehículo."
+  },
+  {
+    "_id": "PB-TM6-P8",
+    "Enunciado": "Al usar las luces para señalizar, ¿cuánto tiempo deben estar encendidas?",
+    "Opciones": [
+      "A) Un minuto antes de empezar para que todos lo vean.",
+      "B) Durante todo el tiempo que dura la maniobra.",
+      "C) Solo durante los dos primeros segundos del movimiento."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La señal luminosa debe mantenerse activa desde el inicio de la intención hasta la finalización total de la maniobra."
+  },
+  {
+    "_id": "PB-TM6-P9",
+    "Enunciado": "¿En qué momento exacto se deben quitar las luces de señalización?",
+    "Opciones": [
+      "A) Diez metros antes de terminar el giro.",
+      "B) En el momento en que se termina la maniobra.",
+      "C) Deben dejarse encendidas un rato después de finalizar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Para no inducir a error a otros conductores, la señal debe desactivarse justo al concluir el movimiento."
+  },
+  {
+    "_id": "PB-TM6-P10",
+    "Enunciado": "Para indicar con el brazo que se moverá el vehículo a la izquierda, ¿cómo se coloca?",
+    "Opciones": [
+      "A) Brazo extendido en horizontal con la palma hacia atrás.",
+      "B) Brazo en horizontal con la mano extendida hacia abajo.",
+      "C) Brazo doblado hacia arriba con la palma extendida."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La posición horizontal del brazo con la mano hacia abajo señaliza un desplazamiento lateral hacia el lado izquierdo."
+  },
+  {
+    "_id": "PB-TM6-P11",
+    "Enunciado": "¿Cómo se indica con el brazo la intención de mover el vehículo hacia la derecha?",
+    "Opciones": [
+      "A) Brazo doblado hacia arriba con la mano extendida también hacia arriba.",
+      "B) Movimientos rápidos del brazo de arriba abajo.",
+      "C) Brazo extendido horizontalmente sin moverlo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El brazo doblado en ángulo recto hacia arriba es la señal manual para un giro o cambio hacia la derecha."
+  },
+  {
+    "_id": "PB-TM6-P12",
+    "Enunciado": "Para señalizar la marcha atrás con el brazo, ¿qué posición es la correcta?",
+    "Opciones": [
+      "A) Brazo doblado hacia arriba con movimientos circulares.",
+      "B) Brazo en horizontal con la mano extendida hacia abajo.",
+      "C) Brazo extendido en horizontal con la palma de la mano hacia atrás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Mostrar la palma de la mano hacia atrás con el brazo extendido horizontalmente indica la intención de retroceder."
+  },
+  {
+    "_id": "PB-TM6-P13",
+    "Enunciado": "¿Qué movimiento del brazo indica que el conductor va a frenar?",
+    "Opciones": [
+      "A) Brazo extendido hacia adelante señalando el suelo.",
+      "B) Brazo totalmente vertical y estático.",
+      "C) Movimientos del brazo de arriba abajo con movimientos cortos y rápidos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los movimientos cortos y rápidos de arriba abajo con el brazo advierten de una reducción de velocidad o frenado."
+  },
+  {
+    "_id": "PB-TM6-P14",
+    "Enunciado": "Para indicar un cambio de carril con las luces, ¿qué debe hacer el conductor?",
+    "Opciones": [
+      "A) Encender las luces de posición y las de gálibo.",
+      "B) Poner los cuatro intermitentes de emergencia.",
+      "C) Encender la luz de dirección del lado hacia el que se va a desplazar."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe utilizar el intermitente correspondiente al lado hacia el cual se pretende realizar el desplazamiento."
+  },
+  {
+    "_id": "PB-TM6-P15",
+    "Enunciado": "¿Cómo se señaliza la marcha atrás mediante los dispositivos del vehículo?",
+    "Opciones": [
+      "A) Encendiendo las luces antiniebla delanteras.",
+      "B) Encendiendo la luz de marcha atrás.",
+      "C) Haciendo ráfagas cortas con la luz de cruce."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El vehículo dispone de una luz blanca específica que se activa al engranar la marcha atrás para avisar a otros usuarios."
+  },
+  {
+    "_id": "PB-TM6-P16",
+    "Enunciado": "¿De qué forma se avisa con luces de que se va a frenar?",
+    "Opciones": [
+      "A) Encendiendo la luz de posición trasera fija.",
+      "B) Activando la luz antiniebla trasera de forma intermitente.",
+      "C) Encendiendo varias veces las luces de frenado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Accionar el freno de forma repetida y suave hace que las luces de frenado parpadeen, avisando de la intención de detenerse."
+  },
+  {
+    "_id": "PB-TM6-P17",
+    "Enunciado": "Tras observar y señalizar, ¿cuál es el tercer paso de la regla de seguridad?",
+    "Opciones": [
+      "A) Hacer la maniobra.",
+      "B) Apagar el motor del vehículo.",
+      "C) Revisar la presión de los neumáticos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La ejecución física de la maniobra es el último paso, una vez garantizada la seguridad e informada la intención."
+  },
+  {
+    "_id": "PB-TM6-P18",
+    "Enunciado": "Al realizar la maniobra finalmente, ¿cómo debe proceder el conductor?",
+    "Opciones": [
+      "A) Lo más rápido posible para que nadie se moleste.",
+      "B) De forma correcta, a velocidad adecuada y sin poner en peligro a otros.",
+      "C) Siempre a la mínima velocidad que permita el motor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La ejecución debe ser segura, fluida y adaptada a las circunstancias del tráfico en ese instante."
+  },
+  {
+    "_id": "PB-TM6-P19",
+    "Enunciado": "¿Qué importancia tiene seguir la regla R.S.M. al entrar a una carretera?",
+    "Opciones": [
+      "A) Es una recomendación opcional para conductores noveles.",
+      "B) Es muy importante seguir los pasos de esta regla al entrar con el vehículo.",
+      "C) Solo es obligatoria si hay señales de stop en la entrada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La incorporación a una carretera es una maniobra crítica que exige cumplir estrictamente con los pasos de observación, señal y ejecución."
+  },
+  {
+    "_id": "PB-TM6-P20",
+    "Enunciado": "Al incorporarse a una carretera, el conductor debe asegurarse siempre de que...",
+    "Opciones": [
+      "A) Su entrada no supone un peligro para los demás conductores.",
+      "B) Su vehículo tiene el combustible suficiente para el trayecto.",
+      "C) Lleva puesto el cinturón de seguridad y el chaleco reflectante."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La prioridad absoluta al entrar en una vía es no comprometer la seguridad de quienes ya circulan por ella."
+  },
+  {
+    "_id": "PB-TM6-P21",
+    "Enunciado": "¿Qué obligaciones tiene el conductor al hacer la maniobra de entrada a una carretera?",
+    "Opciones": [
+      "A) Tocar el claxon para que le dejen espacio libre.",
+      "B) Ceder el paso, no ser un obstáculo e ir a la velocidad adecuada.",
+      "C) Entrar rápido para que los demás frenen por él."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La maniobra requiere ceder el paso, evitar entorpecer el tráfico y ajustar la velocidad al flujo de la vía principal."
+  },
+  {
+    "_id": "PB-TM6-P22",
+    "Enunciado": "Si debe ceder el paso en un carril de aceleración, ¿dónde debe detener el vehículo?",
+    "Opciones": [
+      "A) Justo al final, donde termina el carril e empieza la carretera.",
+      "B) En el arcén derecho, fuera del carril de aceleración.",
+      "C) Al principio del carril hasta que pase el vehículo de la carretera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Detenerse al principio permite tener espacio suficiente para ganar velocidad una vez que el tráfico esté libre."
+  },
+  {
+    "_id": "PB-TM6-P23",
+    "Enunciado": "Tras ceder el paso en el carril de aceleración, ¿cómo se debe entrar a la carretera?",
+    "Opciones": [
+      "A) Adaptándose a la velocidad de los demás vehículos.",
+      "B) Entrando por el arcén hasta alcanzar 80 km/h.",
+      "C) A la velocidad mínima permitida en esa vía específica."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La incorporación debe ser armoniosa, igualando la velocidad propia a la del tráfico que ya circula por la carretera."
+  },
+  {
+    "_id": "PB-TM6-P24",
+    "Enunciado": "¿Qué deber tienen los conductores que ya circulan por la vía respecto a los que entran?",
+    "Opciones": [
+      "A) Deben acelerar para pasar rápido y dejar el hueco detrás.",
+      "B) Ninguno, el que entra debe esperar siempre parado.",
+      "C) Tienen la obligación de permitir y, si pueden, facilitar la maniobra de entrada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La colaboración entre conductores es clave; se debe facilitar la entrada de otros siempre que sea posible con seguridad."
+  },
+  {
+    "_id": "PB-TM6-P25",
+    "Enunciado": "¿A qué vehículos se debe facilitar especialmente la entrada cuando están en una parada?",
+    "Opciones": [
+      "A) A los vehículos grandes de transporte de personas, como un autobús.",
+      "B) A los camiones de reparto que llevan luces de emergencia.",
+      "C) A las motocicletas de gran cilindrada que circulan por ciudad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los autobuses en paradas señalizadas tienen prioridad para reincorporarse al tráfico en beneficio del transporte colectivo."
+  },
+  {
+    "_id": "PB-TM6-P26",
+    "Enunciado": "Para facilitar que un autobús salga de su parada, ¿qué pueden hacer otros conductores?",
+    "Opciones": [
+      "A) Desplazarse hacia un lado para dejarles más sitio, cuando sea posible.",
+      "B) Aumentar la velocidad para no bloquear el paso del autobús.",
+      "C) Hacer ráfagas de luz para que el autobús se espere."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Facilitar el espacio lateral ayuda a que los vehículos de grandes dimensiones se incorporen con mayor seguridad."
+  },
+  {
+    "_id": "PB-TM6-P27",
+    "Enunciado": "Al cambiar de carril, ¿a qué distancia se debe empezar la maniobra?",
+    "Opciones": [
+      "A) A una distancia fija de cinco metros siempre.",
+      "B) Lo más cerca posible del vehículo que queremos rebasar.",
+      "C) A distancia suficiente de otros vehículos o cualquier otro obstáculo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Mantener un margen de seguridad inicial es fundamental para realizar el desplazamiento lateral sin riesgos."
+  },
+  {
+    "_id": "PB-TM6-P28",
+    "Enunciado": "¿Cómo se debe realizar el movimiento físico del vehículo al cambiar de carril?",
+    "Opciones": [
+      "A) Haciendo la maniobra poco a poco, sin movimientos bruscos.",
+      "B) De forma rápida y seca para ocupar el hueco cuanto antes.",
+      "C) Siempre acelerando al máximo para no entorpecer."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La progresividad en el giro del volante evita pérdidas de control y sustos innecesarios a los demás conductores."
+  },
+  {
+    "_id": "PB-TM6-P29",
+    "Enunciado": "Al realizar un cambio de carril, ¿qué norma fundamental debe cumplirse respecto a otros?",
+    "Opciones": [
+      "A) No estorbar a los vehículos que circulan por ese carril ni cortarles el paso.",
+      "B) Obligar a los demás a frenar para que nos dejen entrar.",
+      "C) Avisar con el claxon para que el carril se quede libre."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El cambio de carril no debe interferir con la trayectoria ni la velocidad de los conductores que ya están en dicho carril."
+  },
+  {
+    "_id": "PB-TM6-P30",
+    "Enunciado": "¿Por qué tienen preferencia los vehículos que ya circulan por un carril frente a los que entran?",
+    "Opciones": [
+      "A) Porque circulan por el lado derecho de la calzada.",
+      "B) Porque tienen motores más potentes por norma general.",
+      "C) Porque ellos ya estaban en ese carril."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La prioridad de paso la ostentan los usuarios que ya se encuentran circulando por el carril al que otro pretende incorporarse."
+  }
+]

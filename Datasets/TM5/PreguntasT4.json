@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "PB-TM5-P91",
+    "Enunciado": "Si se ve obligado a detener su vehículo por una emergencia en un túnel, ¿a través de qué medio debe solicitar auxilio?",
+    "Opciones": [
+      "A) Esperando a que el sistema de cámaras del túnel detecte la parada.",
+      "B) Únicamente mediante su teléfono móvil personal.",
+      "C) Utilizando el poste de socorro más cercano."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los postes de socorro están diseñados para comunicar directamente con el centro de control, facilitando la ubicación exacta del incidente. Por ejemplo, al pulsar el botón del poste SOS, el operador sabrá en qué kilómetro y carril se encuentra usted."
+  },
+  {
+    "_id": "PB-TM5-P92",
+    "Enunciado": "Una vez que ha solicitado ayuda a través del poste de socorro en un túnel, ¿cómo debe actuar?",
+    "Opciones": [
+      "A) Debe caminar hacia la salida del túnel sin esperar respuesta.",
+      "B) Debe seguir las instrucciones que le indiquen a través del poste.",
+      "C) Debe regresar a su vehículo y esperar dentro con el cinturón puesto."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El personal de emergencias conoce el estado del tráfico y los riesgos del túnel, por lo que sus indicaciones son vitales para la seguridad. Por ejemplo, pueden indicarle que se desplace a un refugio específico o que espere a un vehículo de escolta."
+  },
+  {
+    "_id": "PB-TM5-P93",
+    "Enunciado": "En caso de detención por emergencia en un túnel, ¿qué deben hacer los ocupantes del vehículo?",
+    "Opciones": [
+      "A) Permanecer en el interior del coche con las luces de posición encendidas.",
+      "B) Solo el conductor debe bajar para revisar la avería del motor.",
+      "C) Todas las personas que viajan en el vehículo deben salir de él."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Por seguridad ante posibles colisiones de otros vehículos o incendios, es obligatorio que todos los pasajeros abandonen el habitáculo. Por ejemplo, todos deben bajar con el chaleco reflectante puesto y alejarse del carril de circulación."
+  },
+  {
+    "_id": "PB-TM5-P94",
+    "Enunciado": "Tras abandonar el vehículo por una emergencia en el túnel, ¿hacia dónde deben dirigirse las personas?",
+    "Opciones": [
+      "A) Hacia la entrada del túnel para avisar a los conductores que entran.",
+      "B) Al refugio o salida más próxima.",
+      "C) Al centro de la calzada para ser vistos por los sistemas de vigilancia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe buscar el lugar más seguro y cercano que esté protegido del tráfico. Por ejemplo, siguiendo los carteles luminosos que marcan la distancia hacia la galería de evacuación o la salida exterior."
+  },
+  {
+    "_id": "PB-TM5-P95",
+    "Enunciado": "Si su vehículo sufre una avería en un túnel pero todavía se puede mover, ¿cuál es la conducta correcta?",
+    "Opciones": [
+      "A) Conducir hasta salir del túnel o llegar a una zona de emergencia.",
+      "B) Detenerse inmediatamente para no agravar el problema mecánico.",
+      "C) Circular marcha atrás por el arcén para abandonar el túnel cuanto antes."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es fundamental no bloquear el interior del túnel si el vehículo es funcional. Por ejemplo, si el coche ratea pero avanza, debe intentar alcanzar el exterior o un apartadero para no crear un obstáculo peligroso."
+  },
+  {
+    "_id": "PB-TM5-P96",
+    "Enunciado": "En caso de incendio dentro de un túnel, ¿hacia qué lado debe desplazar el vehículo el conductor?",
+    "Opciones": [
+      "A) Hacia el carril izquierdo para dejar libre el arcén de servicio.",
+      "B) Debe dejarlo en el centro de su carril para no perder tiempo.",
+      "C) Debe llevar el vehículo hacia la derecha."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El objetivo es dejar despejado el centro de la vía para facilitar la llegada de los servicios de extinción. Por ejemplo, arrimar el coche al borde derecho permite que el camión de bomberos pase rápidamente por el centro."
+  },
+  {
+    "_id": "PB-TM5-P97",
+    "Enunciado": "Si detiene su vehículo por un incendio en el túnel, ¿qué debe hacer con el motor?",
+    "Opciones": [
+      "A) Mantenerlo al ralentí para poder mover el coche rápido si el fuego se acerca.",
+      "B) Dejarlo encendido para que el sistema de ventilación del coche funcione.",
+      "C) Apagar el motor."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Apagar el motor evita la emisión de gases y calor adicional en una situación crítica. Una vez que el coche está en el borde derecho, se debe cortar el contacto de inmediato."
+  },
+  {
+    "_id": "PB-TM5-P98",
+    "Enunciado": "Al evacuar un vehículo por incendio en un túnel, ¿cómo deben quedar las llaves?",
+    "Opciones": [
+      "A) El conductor debe llevarlas consigo por seguridad.",
+      "B) Se deben dejar guardadas en un lugar oculto del habitáculo.",
+      "C) Se debe dejar la llave puesta en el contacto."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las llaves deben estar disponibles para que los equipos de rescate puedan desplazar el vehículo si estorba. Por ejemplo, si el coche impide el acceso a un hidrante, los bomberos podrán moverlo sin tener que forzarlo."
+  },
+  {
+    "_id": "PB-TM5-P99",
+    "Enunciado": "Respecto a las puertas del vehículo durante un incendio en un túnel, ¿cuál es la norma?",
+    "Opciones": [
+      "A) Deben desmontarse si el diseño del vehículo lo permite.",
+      "B) Deben quedar cerradas con llave para evitar robos.",
+      "C) Deben quedar abiertas, es decir, no cerradas con llave."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las puertas deben estar desbloqueadas para permitir el acceso rápido al interior. Esto facilita que cualquier operario de emergencia pueda entrar al coche y gestionarlo según sea necesario."
+  },
+  {
+    "_id": "PB-TM5-P100",
+    "Enunciado": "¿Quiénes tienen la obligación de salir del vehículo si se produce un incendio en el túnel?",
+    "Opciones": [
+      "A) Únicamente los pasajeros, mientras el conductor intenta apagar el fuego.",
+      "B) Todas las personas que viajan en el vehículo.",
+      "C) Nadie, deben protegerse dentro del coche subiendo las ventanillas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La vida humana es la prioridad absoluta y el habitáculo de un coche no protege contra el humo tóxico. Por tanto, cada ocupante debe abandonar el vehículo sin demora."
+  },
+  {
+    "_id": "PB-TM5-P101",
+    "Enunciado": "Al caminar hacia una salida de emergencia por un incendio, ¿qué dirección deben tomar los ocupantes?",
+    "Opciones": [
+      "A) Hacia la salida más alejada para evitar aglomeraciones de personas.",
+      "B) Siempre en el sentido de la marcha de los vehículos que circulan.",
+      "C) Siempre en el sentido contrario al del fuego."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Para evitar la asfixia y las quemaduras, hay que alejarse del foco del incendio. Por ejemplo, si el fuego está por delante de su posición, debe retroceder hacia la salida que esté a sus espaldas."
+  },
+  {
+    "_id": "PB-TM5-P102",
+    "Enunciado": "¿Qué indica el panel verde con el dibujo de una persona corriendo hacia una puerta?",
+    "Opciones": [
+      "A) La dirección y cercanía de un refugio o salida de emergencia.",
+      "B) Que está prohibido caminar por esa zona del túnel.",
+      "C) La ubicación de un extintor de incendios manual."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es una señal de salvamento. Por ejemplo, ayuda a orientarse rápidamente en condiciones de poca visibilidad por humo, indicando el camino hacia la zona segura."
+  },
+  {
+    "_id": "PB-TM5-P103",
+    "Enunciado": "Si en un cartel de salida de emergencia del túnel aparece la cifra '100 m', ¿qué significa?",
+    "Opciones": [
+      "A) Que la salida o refugio se encuentra a esa distancia.",
+      "B) Que el túnel tiene una longitud total de 100 metros.",
+      "C) Que está prohibido correr a más de esa velocidad durante la evacuación."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Informa al peatón de cuánto trayecto le falta para alcanzar la zona de seguridad. Esto permite gestionar el esfuerzo y la calma durante el desplazamiento a pie por el túnel."
+  },
+  {
+    "_id": "PB-TM5-P104",
+    "Enunciado": "Durante un incendio, ¿por qué es fundamental dejar paso libre a los vehículos de emergencia?",
+    "Opciones": [
+      "A) Porque tienen prohibido circular si hay otros coches en su camino.",
+      "B) Porque sus conductores tienen la obligación de respetar siempre el carril izquierdo.",
+      "C) Para que puedan llegar al foco del fuego y realizar rescates rápido."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En incendios en túneles, cada segundo cuenta para la extinción y el salvamento. Facilitar el acceso a los bomberos es clave para evitar que el incendio se propague a otros vehículos."
+  },
+  {
+    "_id": "PB-TM5-P105",
+    "Enunciado": "De acuerdo con las normas de evacuación, ¿cuál es el destino final al que deben dirigirse los ocupantes?",
+    "Opciones": [
+      "A) Al refugio o salida más próxima en sentido contrario al fuego.",
+      "B) Al centro del túnel, lejos de las paredes laterales.",
+      "C) Al arcén del lado opuesto de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El objetivo es alcanzar un entorno estanco al humo y las llamas o el aire libre. Un ejemplo sería entrar en una galería de interconexión con otro túnel paralelo que no esté afectado."
+  }
+]

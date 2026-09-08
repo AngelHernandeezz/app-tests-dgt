@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM6-P194",
+    "Enunciado": "Si las señales hechas con el brazo y las luces de un vehículo indican maniobras contrarias, ¿cuál debe obedecer?",
+    "Opciones": [
+      "A) La señal realizada con las luces, por ser un dispositivo homologado del vehículo.",
+      "B) La señal hecha con el brazo, siempre que sea perceptible y se haga correctamente.",
+      "C) Ninguna de las dos; se debe esperar a que el vehículo se detenga para mayor seguridad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Según el temario, las señales realizadas con el brazo tienen más validez que las luminosas si están bien hechas y son visibles para el resto de conductores."
+  },
+  {
+    "_id": "PB-TM6-P195",
+    "Enunciado": "Al entrar en una autopista por un carril de aceleración, si es necesario ceder el paso, ¿dónde debe detener el vehículo?",
+    "Opciones": [
+      "A) Al final del carril, para aprovechar el máximo de aceleración después.",
+      "B) En la mediana, para no molestar a los vehículos que ya circulan.",
+      "C) Al principio del carril, para tener espacio suficiente para ganar velocidad después."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es un error común pensar que hay que detenerse al final; el reglamento indica que debe ser al principio del carril para poder adaptarse luego a la velocidad de la vía."
+  },
+  {
+    "_id": "PB-TM6-P196",
+    "Enunciado": "En una carretera con mucho tráfico donde un carril avanza más rápido que otro, ¿se permite cambiar de carril para adelantar?",
+    "Opciones": [
+      "A) No, en situaciones de saturación o atasco está prohibido cambiar de carril para adelantar.",
+      "B) Sí, siempre que se señalice con el intermitente y se haga progresivamente.",
+      "C) Solo si el carril de la derecha está completamente libre."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cuando la velocidad depende del movimiento de los vehículos de delante (atascos), no se considera adelantamiento y está prohibido zigzaguear para ganar posiciones."
+  },
+  {
+    "_id": "PB-TM6-P197",
+    "Enunciado": "Para realizar un adelantamiento a un ciclista fuera de poblado, ¿cuál es la norma respecto al carril?",
+    "Opciones": [
+      "A) Se puede adelantar por el mismo carril si se guarda la distancia de un metro y medio.",
+      "B) Es obligatorio cambiarse al carril de la izquierda y no adelantar por el mismo carril.",
+      "C) Solo es obligatorio cambiar de carril si el ciclista circula por el centro de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El reglamento exige ocupar el carril contiguo al adelantar a ciclos o ciclomotores para garantizar la seguridad, prohibiendo hacerlo por el mismo carril."
+  },
+  {
+    "_id": "PB-TM6-P198",
+    "Enunciado": "Un vehículo de menos de 3.500 kg que sufre una avería en autopista y no puede alcanzar la velocidad mínima, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Detenerse inmediatamente en el carril derecho y poner los triángulos.",
+      "B) Circular por el arcén derecho y abandonar la vía por la primera salida.",
+      "C) Circular por el carril de la derecha con las luces de emergencia puestas hasta el próximo taller."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Si el vehículo obstaculiza el tráfico y pesa menos de 3.500 kg, debe usar el arcén y salir de la autopista en cuanto sea posible."
+  },
+  {
+    "_id": "PB-TM6-P199",
+    "Enunciado": "¿Cuándo se considera técnicamente que un vehículo está 'estacionado'?",
+    "Opciones": [
+      "A) Cuando se detiene por un tiempo superior a dos minutos.",
+      "B) Siempre que el conductor abandone el puesto de mando, sin importar el tiempo.",
+      "C) Cuando la detención se prolonga durante más de cinco minutos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La diferencia clave es el tiempo: menos de dos minutos es parada; más de dos minutos se considera estacionamiento."
+  },
+  {
+    "_id": "PB-TM6-P200",
+    "Enunciado": "Al estacionar en una pendiente descendente (cuesta abajo), ¿cuál es la obligación del conductor respecto a la transmisión?",
+    "Opciones": [
+      "A) Dejar puesta la primera velocidad para bloquear el motor.",
+      "B) Dejar el vehículo en punto muerto con el freno de mano al máximo.",
+      "C) Dejar puesta la marcha hacia atrás."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En cuestas hacia abajo es obligatorio dejar puesta la marcha atrás; la primera velocidad se reserva para las cuestas hacia arriba."
+  },
+  {
+    "_id": "PB-TM6-P201",
+    "Enunciado": "¿En qué situación se considera peligroso un estacionamiento en relación con la línea continua?",
+    "Opciones": [
+      "A) Cuando el vehículo está a menos de tres metros de la línea continua que separa los sentidos.",
+      "B) Cuando el vehículo pisa la línea continua con las ruedas izquierdas.",
+      "C) Solo si la línea continua está en una curva de visibilidad reducida."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Dejar menos de 3 metros entre el vehículo y el borde opuesto o la línea continua impide el paso de otros vehículos y se define como peligroso."
+  },
+  {
+    "_id": "PB-TM6-P202",
+    "Enunciado": "¿Está permitido el adelantamiento en un paso a nivel si se adelanta a una motocicleta?",
+    "Opciones": [
+      "A) No, el adelantamiento en pasos a nivel está prohibido para todo tipo de vehículos.",
+      "B) Sí, siempre que el vehículo adelantado sea de dos ruedas y no impida la visibilidad.",
+      "C) Solo si se hace a una velocidad inferior a 20 km/h y el tren no está cerca."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Excepcionalmente se permite adelantar a vehículos de dos ruedas en pasos a nivel porque no obstruyen la visión del entorno."
+  },
+  {
+    "_id": "PB-TM6-P203",
+    "Enunciado": "Para realizar un cambio de sentido, ¿en qué circunstancia se permite usar la marcha atrás?",
+    "Opciones": [
+      "A) En ninguna, el cambio de sentido debe hacerse siempre de un solo giro.",
+      "B) Solo cuando la vía sea de sentido único y el giro sea imposible.",
+      "C) Solo en circunstancias donde no se pueda hacer otra cosa, como una calle cortada."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La norma prohíbe la marcha atrás para cambios de sentido, salvo en situaciones excepcionales de bloqueo total de la vía."
+  },
+  {
+    "_id": "PB-TM6-P204",
+    "Enunciado": "Al cambiar de dirección hacia la izquierda en una vía de doble sentido con tres carriles delimitados, ¿desde dónde se debe girar?",
+    "Opciones": [
+      "A) Desde el carril de la derecha, cruzando los otros dos cuando no venga nadie.",
+      "B) Desde el carril central.",
+      "C) Desde el carril situado más a la izquierda del todo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En vías de tres carriles y doble sentido, el carril central está habilitado específicamente para realizar giros a la izquierda en ambos sentidos."
+  },
+  {
+    "_id": "PB-TM6-P205",
+    "Enunciado": "¿Qué luces son obligatorias encender al detener el vehículo por emergencia en una autovía?",
+    "Opciones": [
+      "A) Únicamente las luces de emergencia (intermitentes).",
+      "B) Las luces de emergencia y las luces de posición.",
+      "C) Las luces de corto alcance y las de emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En autopistas, autovías y lugares con poca visibilidad, la detención exige activar simultáneamente emergencia y posición."
+  },
+  {
+    "_id": "PB-TM6-P206",
+    "Enunciado": "Si un camión pesado no puede ceñirse al borde derecho para facilitar un adelantamiento, ¿cómo debe avisar al vehículo de atrás?",
+    "Opciones": [
+      "A) Encendiendo el intermitente izquierdo de forma insistente.",
+      "B) Moviendo el brazo de arriba abajo con movimientos cortos.",
+      "C) Con el brazo extendido moviendo la palma de la mano hacia atrás y hacia adelante."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Este movimiento manual o el intermitente derecho son las señales reglamentarias para indicar que el paso está libre."
+  },
+  {
+    "_id": "PB-TM6-P207",
+    "Enunciado": "¿Se considera adelantamiento circular más rápido que los demás por un carril reservado para autobuses?",
+    "Opciones": [
+      "A) No se considera adelantamiento.",
+      "B) Sí, y es una maniobra sancionable si se hace por la derecha.",
+      "C) Solo si se rebasan más de dos vehículos consecutivos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Circular por carriles reservados a distinta velocidad que el resto del tráfico no tiene la consideración de maniobra de adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P208",
+    "Enunciado": "Para pedir paso antes de un adelantamiento fuera de poblado, ¿qué señales están permitidas?",
+    "Opciones": [
+      "A) Únicamente señales luminosas (destellos).",
+      "B) Tanto señales luminosas como señales sonoras (claxon).",
+      "C) Solo el intermitente izquierdo mantenido durante 5 segundos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Fuera de poblado se permite el uso del claxon y las ráfagas de luz para advertir la intención de adelantar."
+  },
+  {
+    "_id": "PB-TM6-P209",
+    "Enunciado": "Al realizar un giro para cambiar de dirección en un cruce, ¿cuál es la trayectoria correcta?",
+    "Opciones": [
+      "A) Pasar por el centro del cruce y dejarlo a la izquierda del vehículo.",
+      "B) Cruzar el centro del cruce en diagonal para terminar antes.",
+      "C) Pasar por el centro del cruce dejándolo a la derecha para no invadir el sentido contrario."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La norma indica rodear el centro dejándolo a la izquierda y prohíbe taxativamente realizar el giro en diagonal."
+  },
+  {
+    "_id": "PB-TM6-P210",
+    "Enunciado": "¿En qué lugares está prohibido el cambio de sentido de forma general?",
+    "Opciones": [
+      "A) En todos los lugares donde esté prohibido adelantar, salvo señal que lo autorice.",
+      "B) Únicamente en los túneles y pasos a nivel.",
+      "C) Solo en las vías de sentido único y autopistas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Existe una prohibición vinculante: si el tramo es peligroso para adelantar, también lo es para cambiar de sentido."
+  },
+  {
+    "_id": "PB-TM6-P211",
+    "Enunciado": "¿Qué maniobra está permitida realizar delante de un vado señalizado?",
+    "Opciones": [
+      "A) Está permitido estacionar si no se obstaculiza la salida de vehículos.",
+      "B) Se permite la parada, pero no el estacionamiento.",
+      "C) Está prohibido tanto parar como estacionar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Delante de un vado se puede realizar una parada (menos de 2 minutos sin abandonar el coche), pero nunca estacionar."
+  },
+  {
+    "_id": "PB-TM6-P212",
+    "Enunciado": "¿Se considera estacionamiento peligroso aparcar en doble fila?",
+    "Opciones": [
+      "A) No, es una infracción leve siempre que se dejen las luces puestas.",
+      "B) Sí, en cualquier circunstancia es un estacionamiento peligroso.",
+      "C) Se considera peligroso si el conductor se ha ido del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El peligro reside en el abandono del vehículo; si el conductor está presente, se considera parada (si es menos de 2 minutos)."
+  },
+  {
+    "_id": "PB-TM6-P213",
+    "Enunciado": "Respecto a los ciclistas en grupo, ¿es adelantamiento si uno sobrepasa a otro?",
+    "Opciones": [
+      "A) No, el intercambio de posiciones entre ciclistas del mismo grupo no es adelantamiento.",
+      "B) Sí, y deben mantener la distancia lateral de seguridad de 1,5 metros.",
+      "C) Solo si circulan por una carretera convencional fuera de poblado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los movimientos internos dentro de un grupo de ciclistas no se definen legalmente como maniobras de adelantamiento."
+  },
+  {
+    "_id": "PB-TM6-P214",
+    "Enunciado": "Al detenerse en autopista por emergencia, ¿a qué distancia mínima deben verse los triángulos de señalización?",
+    "Opciones": [
+      "A) Deben ser visibles desde 50 metros.",
+      "B) Deben ser visibles desde 100 metros.",
+      "C) Deben ser visibles desde 150 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque se colocan a 50 metros del coche, la norma exige que los conductores que vienen los vean a 100 metros de distancia."
+  },
+  {
+    "_id": "PB-TM6-P215",
+    "Enunciado": "¿Cuál es la norma sobre estacionar en zonas de carga y descarga?",
+    "Opciones": [
+      "A) Se puede parar, pero no estacionar en horas prohibidas.",
+      "B) Está prohibido tanto parar como estacionar en cualquier horario.",
+      "C) Se permite el estacionamiento a particulares durante un máximo de 30 minutos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En estas zonas la parada está permitida (menos de 2 min), pero el estacionamiento es ilegal en el horario reservado."
+  },
+  {
+    "_id": "PB-TM6-P216",
+    "Enunciado": "¿Qué obligación tiene el conductor de un vehículo que circula por el carril izquierdo en autopista tras adelantar?",
+    "Opciones": [
+      "A) Volver a la derecha si viene otro vehículo que circula más rápido que él.",
+      "B) Mantenerse en el carril izquierdo si circula a la velocidad máxima permitida.",
+      "C) Cambiar al carril de la derecha inmediatamente después de rebasar al vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se puede seguir en el izquierdo para seguir adelantando, pero es obligatorio dejar paso si alguien viene más rápido por detrás."
+  },
+  {
+    "_id": "PB-TM6-P217",
+    "Enunciado": "Para indicar que va a reducir la velocidad de forma considerable, ¿qué debe hacer con las luces?",
+    "Opciones": [
+      "A) Encender las luces de emergencia (warning).",
+      "B) Mantener la luz de freno pisada de forma constante.",
+      "C) Encender varias veces las luces de frenado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Pulsar el freno de forma repetida es la señal luminosa reglamentaria para avisar de una reducción de velocidad a los vehículos traseros."
+  },
+  {
+    "_id": "PB-TM6-P218",
+    "Enunciado": "Al realizar una parada en una calle de sentido único, ¿en qué lado de la calzada puede hacerse?",
+    "Opciones": [
+      "A) Únicamente en el lado derecho.",
+      "B) En ambos lados (derecho o izquierdo) indistintamente.",
+      "C) En el lado izquierdo siempre que no haya un carril bus."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Aunque no aparezca explícitamente en este extracto, la norma general para vías de un solo sentido permite el uso de ambos bordes."
+  },
+  {
+    "_id": "PB-TM6-P219",
+    "Enunciado": "¿Está permitido adelantar a un vehículo que ya está adelantando a otro en una vía de doble sentido?",
+    "Opciones": [
+      "A) Sí, si el tercer carril es lo suficientemente ancho.",
+      "B) No, está prohibido si para ello hay que invadir el carril contrario.",
+      "C) Solo si se hace a vehículos de dos ruedas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "No se puede iniciar un adelantamiento si el vehículo de delante ya está adelantando y requiere usar el sentido opuesto."
+  },
+  {
+    "_id": "PB-TM6-P220",
+    "Enunciado": "Un conductor de una motocicleta quiere cambiar de dirección a la izquierda en una carretera interurbana, ¿dónde debe situarse?",
+    "Opciones": [
+      "A) A la derecha del carril y fuera de la calzada si es posible.",
+      "B) Pegado al eje de la calzada sin invadir el sentido contrario.",
+      "C) En el carril de la izquierda si hay más de dos carriles."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para vehículos de dos ruedas en vías fuera de poblado, la maniobra de giro a la izquierda se inicia desde el borde derecho."
+  },
+  {
+    "_id": "PB-TM6-P221",
+    "Enunciado": "¿Qué luz indica la intención de desplazarse lateralmente para un cambio de carril?",
+    "Opciones": [
+      "A) La luz de posición.",
+      "B) La luz de dirección del lado correspondiente.",
+      "C) Las luces de emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se debe utilizar el intermitente del lado hacia el que se pretende realizar el movimiento."
+  },
+  {
+    "_id": "PB-TM6-P222",
+    "Enunciado": "Al estacionar un conjunto de vehículos en una pendiente, si no dispone de calzos, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Apoyar una de las ruedas delanteras en el bordillo.",
+      "B) Usar una piedra grande del arcén como tope.",
+      "C) Dejar las ruedas totalmente rectas y poner doble freno."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Está prohibido usar piedras; la alternativa legal a los calzos es el apoyo estratégico de las ruedas contra el bordillo."
+  },
+  {
+    "_id": "PB-TM6-P223",
+    "Enunciado": "Como norma general, ¿está permitido parar o estacionar en las autopistas?",
+    "Opciones": [
+      "A) Sí, en el arcén derecho siempre que no se obstaculice.",
+      "B) No, solo se puede hacer en los lugares preparados (áreas de servicio o descanso).",
+      "C) Sí, pero solo durante el día y por menos de dos minutos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En autopistas y autovías la inmovilización voluntaria está estrictamente limitada a las zonas habilitadas específicamente."
+  }
+]

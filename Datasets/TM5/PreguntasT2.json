@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM5-P31",
+    "Enunciado": "¿En qué situación específica tienen los animales la preferencia para pasar sobre los vehículos?",
+    "Opciones": [
+      "C) En las cañadas señalizadas con la señal de 'Paso de animales domésticos'.",
+      "B) Solo si el pastor lleva una prenda reflectante y un bastón de mando.",
+      "A) En cualquier camino de tierra que desemboque en una carretera secundaria."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La preferencia se otorga en cañadas con señalización específica. Por ejemplo, un pastor cruzando con su rebaño en una zona con la señal de paso de animales y el cartel inferior correspondiente."
+  },
+  {
+    "_id": "PB-TM5-P32",
+    "Enunciado": "Para que los animales tengan preferencia en una cañada, ¿qué debe haber debajo de la señal de paso de animales?",
+    "Opciones": [
+      "A) Un cartel que pone cañada.",
+      "C) Un panel que indique la longitud exacta de la vía pecuaria.",
+      "B) Una señal de velocidad máxima recomendada de 20 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El cartel complementario es vital para la prioridad. Un ejemplo es que sin el cartel de 'cañada', los animales pierden su prioridad y deben ceder el paso a los vehículos."
+  },
+  {
+    "_id": "PB-TM5-P33",
+    "Enunciado": "De acuerdo con la definición del temario, ¿qué es exactamente una cañada?",
+    "Opciones": [
+      "C) Una zona de descanso para el ganado situada en los arcenes de la vía.",
+      "A) Un espacio abierto destinado exclusivamente al pastoreo libre de ganado.",
+      "B) Un camino creado para que pasen por él los animales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se define por su función específica de tránsito animal. Un ejemplo sería un camino rústico, pavimentado o no, pero diseñado tradicionalmente para el paso del ganado."
+  },
+  {
+    "_id": "PB-TM5-P34",
+    "Enunciado": "Si un vehículo pretende girar para entrar en otra vía por la que están cruzando animales, ¿cómo debe actuar?",
+    "Opciones": [
+      "B) Aumentar la velocidad para pasar antes de que el grupo de animales sea mayor.",
+      "C) Cederles el paso.",
+      "A) Tocar el claxon para que se aparten rápidamente y no estorben."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El conductor debe esperar a que terminen de cruzar para no asustarlos ni ponerlos en riesgo. Por ejemplo, si vas a entrar en una finca y hay ovejas cruzando el camino, debes detenerte totalmente."
+  },
+  {
+    "_id": "PB-TM5-P35",
+    "Enunciado": "Cuando un vehículo cruza un arcén por el que circulan animales porque no hay cañada, ¿quién tiene preferencia?",
+    "Opciones": [
+      "B) Los animales.",
+      "A) El vehículo, por circular por la vía principal pavimentada.",
+      "C) El conductor que llegue primero al punto de intersección del arcén."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El animal es prioritario si usa el arcén por necesidad de paso. Un ejemplo es un caballo circulando por el arcén de una carretera secundaria donde no existe otra ruta posible para él."
+  },
+  {
+    "_id": "PB-TM5-P36",
+    "Enunciado": "¿Qué vehículos se consideran oficialmente preparados para realizar servicios de urgencias?",
+    "Opciones": [
+      "B) Solo ambulancias de soporte vital y camiones de bomberos.",
+      "A) Policía, bomberos, protección civil, salvamento y ambulancias.",
+      "C) Cualquier vehículo particular que transporte urgentemente a un herido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Son los cuerpos oficiales destinados a la intervención inmediata. Por ejemplo, un coche patrulla de la Policía Nacional o una ambulancia del servicio público de salud."
+  },
+  {
+    "_id": "PB-TM5-P37",
+    "Enunciado": "¿Cómo deben avisar los vehículos prioritarios de su llegada cuando realizan un servicio urgente?",
+    "Opciones": [
+      "C) Mediante el uso repetido de las luces de largo alcance en ráfagas.",
+      "A) Solo con las luces de posición delanteras y traseras encendidas.",
+      "B) Encendiendo la sirena y las luces preparadas para ello."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Deben usar ambos sistemas para ser detectados a larga distancia. Por ejemplo, al llegar a un cruce con tráfico denso, activarán la sirena para que los coches abran paso."
+  },
+  {
+    "_id": "PB-TM5-P38",
+    "Enunciado": "¿En qué tipos de vías tienen preferencia los vehículos de urgencia en servicio prioritario?",
+    "Opciones": [
+      "A) Únicamente en las carreteras interurbanas de gran capacidad.",
+      "C) En todas las vías (calles y carreteras).",
+      "B) Solo en los cruces de calles regulados por semáforos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Tienen prioridad absoluta en cualquier entorno circulatorio. Un ejemplo es que una ambulancia tiene preferencia tanto en una calle estrecha de ciudad como en una autovía."
+  },
+  {
+    "_id": "PB-TM5-P39",
+    "Enunciado": "Ante la llegada de un vehículo de emergencia en servicio urgente, ¿quiénes deben cederle el paso?",
+    "Opciones": [
+      "B) Únicamente los conductores de turismos y furgonetas.",
+      "A) El resto de vehículos y peatones.",
+      "C) Solo los conductores que circulen por el carril de la izquierda."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La seguridad de la emergencia depende de la colaboración total. Por ejemplo, un peatón no debe iniciar el cruce de un paso de cebra si oye una sirena aproximándose."
+  },
+  {
+    "_id": "PB-TM5-P40",
+    "Enunciado": "Además de los servicios de urgencia habituales, ¿qué otros equipos gozan de preferencia de paso?",
+    "Opciones": [
+      "B) Los equipos de mantenimiento que arreglan la carretera.",
+      "C) Los camiones destinados a la recogida de residuos urbanos.",
+      "A) Los vehículos de reparto de mercancías perecederas en horario matinal."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Son vehículos que trabajan por la seguridad y conservación de la infraestructura. Por ejemplo, un camión que está pintando marcas viales tiene preferencia de movimiento sobre el resto."
+  },
+  {
+    "_id": "PB-TM5-P41",
+    "Enunciado": "¿Tienen preferencia los vehículos de auxilio en carretera cuando acuden a prestar una ayuda?",
+    "Opciones": [
+      "C) Sí, cuando van a ayudar a vehículos con avería o accidente.",
+      "A) No, deben respetar la prioridad del resto de usuarios como norma general.",
+      "B) Solo si la avería ha tenido lugar en una autopista de peaje."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se les otorga prioridad para despejar la calzada lo antes posible. Un ejemplo es una grúa acudiendo a retirar un coche averiado que está bloqueando un carril de circulación."
+  },
+  {
+    "_id": "PB-TM5-P42",
+    "Enunciado": "Respecto a los límites de velocidad, ¿qué permiso tienen los conductores de vehículos de urgencias?",
+    "Opciones": [
+      "A) Pueden circular más rápido de la velocidad permitida.",
+      "C) Deben respetarla en todo momento para no provocar nuevos accidentes.",
+      "B) Solo pueden superarla en 20 km/h para realizar adelantamientos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Pueden rebasar los límites para minimizar el tiempo de respuesta. Por ejemplo, una ambulancia puede ir a 140 km/h en autovía para trasladar a un herido en estado crítico."
+  },
+  {
+    "_id": "PB-TM5-P43",
+    "Enunciado": "¿Están obligados los conductores de vehículos de urgencia a respetar las señales de tráfico?",
+    "Opciones": [
+      "C) Solo tienen la obligación de respetar los semáforos que estén en fase roja.",
+      "A) Sí, deben respetar todas las señales verticales y marcas viales.",
+      "B) No tienen la obligación, excepto las órdenes de los agentes de tráfico."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Gozan de inmunidad ante señales, salvo órdenes directas de personas. Un ejemplo es que si un agente les indica detenerse para dejar pasar a una comitiva, deben obedecer."
+  },
+  {
+    "_id": "PB-TM5-P44",
+    "Enunciado": "Al saltarse un semáforo en rojo durante un servicio urgente, ¿qué debe asegurar el conductor?",
+    "Opciones": [
+      "C) Que no pone en peligro a peatones o vehículos.",
+      "B) Que el vehículo de apoyo cubra la retaguardia para evitar colisiones.",
+      "A) Que la señal acústica se escuche a una distancia mínima de 100 metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La prioridad no justifica provocar un siniestro. Por ejemplo, el conductor de un camión de bomberos debe aminorar y mirar a ambos lados antes de cruzar en rojo."
+  },
+  {
+    "_id": "PB-TM5-P45",
+    "Enunciado": "En autopista y autovía, ¿qué maniobras puede realizar un vehículo de urgencia si no hay peligro?",
+    "Opciones": [
+      "A) Cambiar de dirección, de sentido, ir marcha atrás y entrar en la mediana.",
+      "C) Estacionar en mitad del carril para atender comunicaciones por radio.",
+      "B) Circular por el arcén izquierdo a cualquier velocidad que sea necesaria."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Tienen permisos excepcionales para situaciones críticas. Un ejemplo es utilizar un paso en la mediana para cambiar de sentido y llegar antes al lugar de un siniestro."
+  },
+  {
+    "_id": "PB-TM5-P46",
+    "Enunciado": "¿Cómo deben actuar los demás conductores ante la sirena o luces de una ambulancia?",
+    "Opciones": [
+      "C) Aumentarán su velocidad para no entorpecer el paso del vehículo.",
+      "A) Frenarán bruscamente en el mismo lugar por el que circulan.",
+      "B) Se apartarán a la derecha y se pararán si es necesario."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es necesario facilitar un pasillo de emergencia. Por ejemplo, si circulas por un carril, debes arrimarte al borde derecho de la calzada para dejar hueco libre."
+  },
+  {
+    "_id": "PB-TM5-P47",
+    "Enunciado": "Ante la presencia de un vehículo de emergencia en servicio urgente, ¿qué deben hacer los peatones?",
+    "Opciones": [
+      "B) Caminar por el arcén si no hay aceras disponibles en ese tramo.",
+      "A) Cruzar rápidamente si ya han comenzado a hacerlo por un paso señalizado.",
+      "C) Dejarán libre la carretera y esperarán en la acera."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El peatón no debe suponer un obstáculo. Un ejemplo es que si estás esperando para cruzar y ves una patrulla con luces, debes quedarte en la acera hasta que pase."
+  },
+  {
+    "_id": "PB-TM5-P48",
+    "Enunciado": "¿Puede un vehículo particular pedir preferencia de paso como si fuera de urgencias?",
+    "Opciones": [
+      "C) Solo si el conductor del vehículo acredita ser personal médico titulado.",
+      "A) Sí, en algunas circunstancias especiales por una situación de urgencia.",
+      "B) No, el uso de señales de urgencia está prohibido para vehículos civiles."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Situaciones de fuerza mayor permiten solicitar el paso. Un ejemplo cotidiano es el traslado de un familiar que sufre un síntoma grave hacia el hospital más cercano."
+  },
+  {
+    "_id": "PB-TM5-P49",
+    "Enunciado": "Si traslada a una persona muy enferma en su coche, ¿cómo puede avisar acústicamente de la urgencia?",
+    "Opciones": [
+      "C) Solo puede emplear señales sonoras fuera de los núcleos de población.",
+      "A) Manteniendo el claxon pulsado de forma continua durante el trayecto.",
+      "B) Haciendo sonar el claxon de forma intermitente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El sonido debe ser discontinuo para alertar correctamente. Por ejemplo, pulsando el claxon de forma rítmica para que los coches de delante detecten la anomalía."
+  },
+  {
+    "_id": "PB-TM5-P50",
+    "Enunciado": "Además del claxon, ¿qué señal luminosa debe emplear un conductor particular en emergencia?",
+    "Opciones": [
+      "A) Las luces de corto alcance fijas durante toda la conducción.",
+      "C) Encendiendo las luces de emergencia del vehículo.",
+      "B) Las luces antiniebla delanteras y traseras para aumentar la visibilidad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los cuatro intermitentes indican una situación excepcional. Un ejemplo es circular con las luces de emergencia puestas mientras te diriges a un centro médico."
+  },
+  {
+    "_id": "PB-TM5-P51",
+    "Enunciado": "¿Está permitido usar un pañuelo para avisar de una urgencia en un vehículo particular?",
+    "Opciones": [
+      "A) Sí, agitando un pañuelo a través de la ventanilla.",
+      "B) No, es una práctica que actualmente se considera sancionable por riesgo.",
+      "C) Solo si el pañuelo es blanco y se coloca de forma fija en la antena."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es una señal visual reconocida para solicitar auxilio. Un ejemplo es sacar un pañuelo por la ventana mientras el acompañante pide paso a los demás coches."
+  },
+  {
+    "_id": "PB-TM5-P52",
+    "Enunciado": "A pesar de la urgencia, ¿qué debe respetar siempre el conductor de un vehículo privado?",
+    "Opciones": [
+      "C) Solo las señales que indiquen un peligro inminente por obras.",
+      "B) Las normas de circulación, sobre todo en los cruces.",
+      "A) Únicamente los límites de velocidad de los tramos interurbanos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "No se tiene inmunidad total en un vehículo civil. Por ejemplo, aunque lleves una urgencia, debes frenar en las señales de Stop y mirar bien antes de avanzar."
+  },
+  {
+    "_id": "PB-TM5-P53",
+    "Enunciado": "Al circular por un camino muy estrecho que cuenta con señales verticales, ¿cómo debe actuar?",
+    "Opciones": [
+      "A) Aplicando la norma de prioridad para el que haya entrado primero.",
+      "B) Cediendo el paso obligatoriamente al vehículo de mayor peso.",
+      "C) Seguir siempre las normas que indiquen las señales."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las señales tienen prioridad sobre las normas generales. Un ejemplo es que si hay una señal de prioridad en sentido contrario, debes parar aunque llegues antes."
+  },
+  {
+    "_id": "PB-TM5-P54",
+    "Enunciado": "En una zona estrecha que no tiene señales, ¿qué vehículo tiene la preferencia de paso?",
+    "Opciones": [
+      "B) El vehículo que circule a una velocidad superior para despejar el tramo.",
+      "C) El vehículo que resulte más pequeño y sencillo de maniobrar.",
+      "A) El vehículo que ha entrado primero en la zona estrecha."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El orden de llegada determina quién pasa. Por ejemplo, si tú ya has introducido parte de tu coche en un puente estrecho, el camión que viene de frente debe esperar."
+  },
+  {
+    "_id": "PB-TM5-P55",
+    "Enunciado": "Si en un estrechamiento sin señales se duda sobre quién entró primero, ¿quién pasa antes?",
+    "Opciones": [
+      "A) El conductor que acredite más años de antigüedad en su permiso.",
+      "C) El vehículo que circule por la calzada que ofrezca mayor visibilidad.",
+      "B) Los vehículos con más dificultades para hacer maniobras."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se da prioridad al que tiene más complicado retroceder. Un ejemplo es que un camión pasará antes que un turismo porque dar marcha atrás es mucho más difícil para él."
+  },
+  {
+    "_id": "PB-TM5-P56",
+    "Enunciado": "En el orden de preferencia de vehículos en zonas estrechas, ¿quiénes son los primeros?",
+    "Opciones": [
+      "A) Los camiones rígidos de gran tonelaje con carga completa.",
+      "B) Los autobuses que realicen transporte de más de 20 personas.",
+      "C) Vehículos especiales que superan el peso y medidas reglamentarias."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Son los que más espacio y escolta necesitan por sus dimensiones. Por ejemplo, un camión que transporta componentes industriales de tamaño excepcional."
+  },
+  {
+    "_id": "PB-TM5-P57",
+    "Enunciado": "¿Qué vehículos ocupan el segundo lugar en la jerarquía de prioridad en estrechamientos?",
+    "Opciones": [
+      "C) Vehículos arrastrados por animales domésticos.",
+      "A) Conjuntos de vehículos pesados.",
+      "B) Autobuses escolares y de transporte público de pasajeros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Tienen prioridad sobre los vehículos pesados rígidos como por ejemplo un trailer."
+  },
+  {
+    "_id": "PB-TM5-P58",
+    "Enunciado": "¿Qué preferencia tienen los vehículos de tracción animal en una zona estrecha?",
+    "Opciones": [
+      "C) Solo gozan de preferencia sobre las bicicletas y los ciclomotores.",
+      "B) Ocupan el tercer lugar en el orden de preferencia establecido por detrás de un trailer.",
+      "A) Deben ceder el paso a todos los vehículos movidos por motor."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Tienen un puesto alto debido a la imprevisibilidad del animal, por ejemplo, un carro tirado por bueyes tendrá prioridad sobre un turismo en un tramo estrecho."
+  },
+  {
+    "_id": "PB-TM5-P59",
+    "Enunciado": "Un turismo con un remolque de menos de 750 kg se encuentra con un autobús. ¿Quién tiene prioridad?",
+    "Opciones": [
+      "C) El turismo con remolque ligero.",
+      "B) El conductor que deba realizar una marcha atrás de menos metros.",
+      "A) El autobús, por su condición de vehículo de transporte colectivo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El remolque ligero otorga prioridad sobre vehículos pesados rígidos ya que es es un conjunto de vehículo aunque sea ligero, debido a que al maniobrar un remolque maniobras dos piezas que es mas dificil que una sola, por ejemplo, tu coche con un pequeño remolque de carga pasará antes que un autobús escolar."
+  },
+  {
+    "_id": "PB-TM5-P60",
+    "Enunciado": "¿En qué puesto de la lista de prioridad en estrechamientos se encuentran los autobuses?",
+    "Opciones": [
+      "B) En el séptimo lugar, junto a los turismos convencionales.",
+      "A) En el quinto lugar, por detrás de los vehículos con varias partes y delante de los rígidos.",
+      "C) En el sexto lugar, justo después de los camiones."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se sitúan en la mitad de la tabla de prioridades. Un ejemplo práctico es que un autobús tiene preferencia sobre un camión rígido de reparto de mercancías pero no sobre un conjunto de vehículos ya sea ligero o pesado."
+  }
+]
