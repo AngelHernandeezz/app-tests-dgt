@@ -22,7 +22,7 @@
         "IndiceRespuestaCorrecta": 1,
         "Explicacion": "La señal S-127 indica un área de servicio ubicada dentro de una autopista o autovía.",
         "Imagen": true
-    },---
+    },
     {
         "_id": "PB-TM3-P303",
         "Enunciado": "Según el temario, ¿qué elementos suele haber en las áreas de servicio (S-127)?",
