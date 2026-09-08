@@ -427,7 +427,7 @@ datos/                       Banco de preguntas (ejemplos / semillas para Mongo)
 
 ## Licencia
 
-Software propietario desarrollado por Ángel Hernández Espinosa para uso comercial de autoescuelas. Todos los derechos reservados. Si vas a hacer público este repositorio, añade aquí los términos que prefieras (o un archivo `LICENSE` en la raíz).
+Software propietario desarrollado por Ángel Hernández Espinosa para uso comercial de autoescuelas. Todos los derechos reservados.
 
 ## Autor
 
