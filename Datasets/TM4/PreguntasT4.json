@@ -1,0 +1,167 @@
+[
+  {
+    "_id": "PB-TM4-P91",
+    "Enunciado": "¿Para qué vehículos es obligatorio el uso de la luz de marcha atrás?",
+    "Opciones": [
+      "A) Para los vehículos a motor, ciclomotores y remolques.",
+      "B) Solo para camiones y furgonetas de reparto.",
+      "C) Es obligatoria para todos los automóviles."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La luz de marcha atrás es una dotación obligatoria para todos los vehículos considerados automóviles."
+  },
+  {
+    "_id": "PB-TM4-P92",
+    "Enunciado": "Respecto a la luz de marcha atrás, ¿qué norma deben seguir las motocicletas?",
+    "Opciones": [
+      "A) Deben llevar una luz de color blanco obligatoriamente.",
+      "B) Tienen prohibido llevar instalada esta luz.",
+      "C) Pueden llevarla de forma opcional si tienen sidecar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El reglamento prohíbe expresamente el uso de luces de marcha atrás en las motocicletas."
+  },
+  {
+    "_id": "PB-TM4-P93",
+    "Enunciado": "¿Es obligatorio llevar luz de marcha atrás en un vehículo de tres ruedas?",
+    "Opciones": [
+      "A) No, su instalación en estos vehículos es opcional.",
+      "B) Sí, es obligatoria siempre que el vehículo supere los 50 cc.",
+      "C) Solo es obligatoria si el vehículo circula habitualmente de noche."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para los vehículos de tres ruedas, la luz de marcha atrás no es obligatoria sino opcional."
+  },
+  {
+    "_id": "PB-TM4-P94",
+    "Enunciado": "¿Qué norma se aplica a los cuadriciclos pesados sobre la luz de marcha atrás?",
+    "Opciones": [
+      "A) Es obligatoria debido a sus dimensiones y peso.",
+      "B) Está totalmente prohibida para evitar confusiones con otros vehículos.",
+      "C) Su instalación es opcional."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Al igual que en los vehículos de tres ruedas, la instalación de la luz de marcha atrás es opcional en los cuadriciclos pesados."
+  },
+  {
+    "_id": "PB-TM4-P95",
+    "Enunciado": "¿Qué son las señales acústicas?",
+    "Opciones": [
+      "A) Son señales luminosas intermitentes que sirven para pedir paso.",
+      "B) Son sonidos que sirven para avisar a otros conductores de que un vehículo está ahí.",
+      "C) Son órdenes que los agentes de tráfico dan a través de silbatos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las señales acústicas se definen como sonidos emitidos por el vehículo para advertir de su presencia a los demás usuarios."
+  },
+  {
+    "_id": "PB-TM4-P96",
+    "Enunciado": "¿Cuándo está permitido el uso de las señales acústicas?",
+    "Opciones": [
+      "A) Solo en determinados casos específicos marcados por la norma.",
+      "B) Siempre que el conductor quiera saludar a otro usuario de la vía.",
+      "C) Únicamente para evitar accidentes o cuando tarda mucho en salir alguien."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El claxon o señales acústicas no pueden usarse libremente, sino solo en los casos autorizados por el reglamento."
+  },
+  {
+    "_id": "PB-TM4-P97",
+    "Enunciado": "¿Es correcto usar el claxon para evitar un posible accidente?",
+    "Opciones": [
+      "A) No, solo se pueden usar luces de emergencia para ese fin.",
+      "B) Solo si el accidente va a ocurrir en una vía urbana.",
+      "C) Sí, es uno de los casos permitidos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Uno de los supuestos permitidos para usar señales acústicas es tratar de evitar una colisión o accidente."
+  },
+  {
+    "_id": "PB-TM4-P98",
+    "Enunciado": "¿Se puede usar la señal acústica para avisar de un adelantamiento?",
+    "Opciones": [
+      "A) Sí, en cualquier tipo de vía y a cualquier hora.",
+      "B) Sí, pero solo en carreteras que están fuera de un pueblo o ciudad.",
+      "C) No, avisar de un adelantamiento con sonido está prohibido."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El uso del claxon para advertir la intención de adelantar está permitido exclusivamente en vías interurbanas."
+  },
+  {
+    "_id": "PB-TM4-P99",
+    "Enunciado": "Si circula por poblado, ¿puede avisar con el claxon de que va a adelantar?",
+    "Opciones": [
+      "A) No, dentro de poblado está prohibido usar el sonido para avisar de adelantamientos.",
+      "B) Sí, siempre que lo haga con toques muy cortos y suaves.",
+      "C) Sí, es obligatorio para garantizar la seguridad de los peatones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La norma especifica que el aviso acústico de adelantamiento solo es para carreteras fuera de poblado."
+  },
+  {
+    "_id": "PB-TM4-P100",
+    "Enunciado": "¿Cuándo se puede usar el claxon en relación con servicios prioritarios?",
+    "Opciones": [
+      "A) Solo si el vehículo es una ambulancia oficial con sirenas.",
+      "B) Cuando el conductor tiene prisa por llegar al trabajo.",
+      "C) Para advertir a otros de que necesitas pasar o aparcar por una emergencia."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se permite el uso de señales acústicas cuando se realiza un servicio prioritario de emergencia con un vehículo particular, como por ejemplo, cuando llevas a un herido grave al hospital."
+  },
+  {
+    "_id": "PB-TM4-P101",
+    "Enunciado": "¿Qué ejemplo de servicio prioritario justifica el uso de señales acústicas en un coche particular?",
+    "Opciones": [
+      "A) Llegar a tiempo a una cita médica programada.",
+      "B) Llevar a un herido grave al hospital.",
+      "C) Avisar de que el vehículo se ha quedado sin combustible."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El traslado de un herido grave a un centro sanitario se considera un servicio prioritario que permite el uso excepcional del claxon."
+  },
+  {
+    "_id": "PB-TM4-P102",
+    "Enunciado": "¿Es lícito usar el claxon para indicar que se va a aparcar en una emergencia?",
+    "Opciones": [
+      "A) Sí, para advertir a otros vehículos de la necesidad de realizar esa maniobra.",
+      "B) No, el estacionamiento nunca justifica el uso de señales acústicas.",
+      "C) Solo si se hace en una zona de carga y descarga."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El temario menciona que se puede usar para advertir que necesitas aparcar en el lugar si estás realizando un servicio prioritario."
+  },
+  {
+    "_id": "PB-TM4-P103",
+    "Enunciado": "¿Cuál es la función principal de emitir un sonido con el vehículo?",
+    "Opciones": [
+      "A) Pedir a los vehículos lentos que se aparten al arcén.",
+      "B) Indicar que el conductor va a realizar una frenada de emergencia.",
+      "C) Avisar a otros usuarios de que nuestro vehículo está presente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las señales acústicas tienen como fin primordial advertir de la presencia del vehículo para mejorar la seguridad."
+  },
+  {
+    "_id": "PB-TM4-P104",
+    "Enunciado": "Si lleva a una mujer que va a dar a luz al hospital, ¿qué señales debe realizar?",
+    "Opciones": [
+      "A) Únicamente las señales luminosas intermitentes de emergencia.",
+      "B) Puede utilizar señales acústicas para advertir de su servicio prioritario.",
+      "C) Debe sacar un pañuelo blanco y no usar el claxon para no asustar."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En casos de emergencia como un parto inminente, está permitido usar el claxon para advertir de la necesidad de paso."
+  },
+  {
+    "_id": "PB-TM4-P105",
+    "Enunciado": "¿En qué lugar es legal avisar a otro conductor con el claxon antes de adelantarlo?",
+    "Opciones": [
+      "A) En una carretera convencional situada fuera de una ciudad.",
+      "B) En una calle céntrica con varios carriles de circulación.",
+      "C) En una zona residencial debidamente señalizada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El aviso acústico previo al adelantamiento solo es legal en carreteras fuera de poblado."
+  }
+]

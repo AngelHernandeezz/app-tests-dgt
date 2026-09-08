@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM4-P31",
+    "Enunciado": "¿Para qué vehículos es obligatoria la luz de largo alcance?",
+    "Opciones": [
+      "A) Solo para vehículos de transporte de mercancías.",
+      "B) Para todos los automóviles, siendo opcional para ciclomotores.",
+      "C) Únicamente para turismos y motocicletas de gran cilindrada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La luz de carretera es obligatoria en todos los automóviles, mientras que en los ciclomotores su instalación es opcional."
+  },
+  {
+    "_id": "PB-TM4-P32",
+    "Enunciado": "¿Qué característica principal define a la luz de largo alcance?",
+    "Opciones": [
+      "A) Es una luz potente de color blanco que puede deslumbrar a otros usuarios.",
+      "B) Es una luz de tono amarillento diseñada para no molestar la visión.",
+      "C) Es una luz que solo ilumina los bordes laterales de la calzada."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se trata de una luz de color blanco con gran potencia, lo que implica un riesgo de deslumbramiento para los demás conductores."
+  },
+  {
+    "_id": "PB-TM4-P33",
+    "Enunciado": "¿En qué tipo de vías se utiliza la luz de largo alcance?",
+    "Opciones": [
+      "A) Exclusivamente en travesías poco iluminadas.",
+      "B) En vías interurbanas y travesías con poca iluminación.",
+      "C) En carreteras que están situadas fuera de pueblos o ciudades con poca luz."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Su uso está destinado a carreteras interurbanas, es decir, aquellas que se encuentran fuera de poblado (Travesía es fuera de poblado) y estén insuficientemente iluminadas."
+  },
+  {
+    "_id": "PB-TM4-P34",
+    "Enunciado": "¿Cuándo es obligatorio encender la luz de carretera en una vía interurbana?",
+    "Opciones": [
+      "A) Solo si hay niebla muy densa que impida ver a 10 metros.",
+      "B) Siempre que se circule de noche, independientemente de la velocidad.",
+      "C) De noche, con poca luz natural y circulando a más de 40 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es obligatorio usarla de noche en carreteras mal iluminadas cuando la velocidad del vehículo supera los 40 kilómetros por hora."
+  },
+  {
+    "_id": "PB-TM4-P35",
+    "Enunciado": "¿Es obligatorio el uso del largo alcance en túneles fuera de poblado?",
+    "Opciones": [
+      "A) No, de hecho está prohibido, en los túneles siempre basta con la luz de cruce.",
+      "B) Sí, a cualquier hora si el túnel está fuera de un municipio y mal iluminado.",
+      "C) Solo si el túnel no tiene ningún tipo de señalización luminosa."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En túneles fuera de municipio que no estén bien iluminados, es obligatorio el uso de la luz de carretera a cualquier hora del día."
+  },
+  {
+    "_id": "PB-TM4-P36",
+    "Enunciado": "Si circula a menos de 40 km/h por una carretera mal iluminada, ¿Se puede encender la luz de largo alcance?",
+    "Opciones": [
+      "A) Sí, en este caso el uso de la luz de largo alcance es opcional.",
+      "B) No, ya que si o si tienes que ir a más de 40km/h.",
+      "C) Solo si el conductor tiene dificultades de visión nocturna."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cuando la velocidad de circulación es inferior a 40 kilómetros por hora, encender la luz de largo alcance pasa a ser opcional pero si está permitido."
+  },
+  {
+    "_id": "PB-TM4-P37",
+    "Enunciado": "¿Dónde está prohibido encender las luces de largo alcance?",
+    "Opciones": [
+      "A) En autopistas y autovías con tres o más carriles.",
+      "B) Dentro de pueblos y ciudades.",
+      "C) En cualquier carretera durante el amanecer."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El reglamento prohíbe el uso del alumbrado de carretera o largo alcance en las vías situadas dentro de poblado."
+  },
+  {
+    "_id": "PB-TM4-P38",
+    "Enunciado": "Además de en ciudad, ¿en qué otra situación está prohibida la luz de largo alcance?",
+    "Opciones": [
+      "A) Al circular por un carril adicional habilitado por obras.",
+      "B) Al realizar un adelantamiento en una curva de visibilidad reducida.",
+      "C) Cuando el vehículo se encuentra parado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La luz de largo alcance no debe utilizarse cuando el vehículo no está en movimiento, es decir, cuando está parado."
+  },
+  {
+    "_id": "PB-TM4-P39",
+    "Enunciado": "¿Cómo se pueden usar las luces de largo alcance para avisar de un peligro?",
+    "Opciones": [
+      "A) Encendiéndolas y apagándolas de forma intermitente.",
+      "B) Manteniéndolas fijas durante al menos un minuto seguido.",
+      "C) Tapando parcialmente los faros con la mano."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Se permite el uso intermitente de la luz de largo alcance como señal de advertencia de peligro para otros conductores sin llegar a deslumbrar."
+  },
+  {
+    "_id": "PB-TM4-P40",
+    "Enunciado": "¿Cuál es la función de la luz de corto alcance o de cruce?",
+    "Opciones": [
+      "A) Avisar a los vehículos que vienen detrás de nuestra intención de frenar.",
+      "B) Alumbrar la carretera sin deslumbrar ni molestar a otros conductores.",
+      "C) Sustituir a los intermitentes en caso de avería de estos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Esta luz está diseñada para iluminar la vía por delante del vehículo garantizando que no se produzcan molestias o deslumbramientos a los demás usuarios."
+  },
+  {
+    "_id": "PB-TM4-P41",
+    "Enunciado": "¿De qué color es la luz de corto alcance?",
+    "Opciones": [
+      "A) Blanca.",
+      "B) Amarilla selectiva.",
+      "C) Roja intensa."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El color reglamentario para la luz de corto alcance o de cruce es el blanco."
+  },
+  {
+    "_id": "PB-TM4-P42",
+    "Enunciado": "¿Cuántas luces de corto alcance deben llevar obligatoriamente los automóviles?",
+    "Opciones": [
+      "A) Una sola luz central.",
+      "B) Cuatro luces, dos en la parte alta y dos en la baja.",
+      "C) Deben llevar dos luces."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La normativa exige que los automóviles estén equipados con dos luces de corto alcance en la parte delantera."
+  },
+  {
+    "_id": "PB-TM4-P43",
+    "Enunciado": "¿Cuántas luces de corto alcance deben llevar los ciclomotores de dos y tres ruedas?",
+    "Opciones": [
+      "A) Siempre dos luces para asegurar la visibilidad.",
+      "B) Deben llevar una o dos luces.",
+      "C) No tienen obligación de llevar este tipo de alumbrado."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En el caso de los ciclomotores de dos o tres ruedas, la obligación es llevar una o dos luces de corto alcance."
+  },
+  {
+    "_id": "PB-TM4-P44",
+    "Enunciado": "¿Cuántas luces de corto alcance pueden llevar las motocicletas?",
+    "Opciones": [
+      "A) Pueden llevar una o dos.",
+      "B) Obligatoriamente dos ya que es un automovil.",
+      "C) Una sola de forma obligatoria, sin posibilidad de llevar una segunda."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las motocicletas, al igual que los vehículos de tres ruedas y cuadriciclos pesados, y como excepción de los automoviles, tienen permitido llevar una o dos luces de cruce."
+  },
+  {
+    "_id": "PB-TM4-P45",
+    "Enunciado": "¿Cuándo es obligatorio usar la luz de cruce?",
+    "Opciones": [
+      "A) Solo cuando el vehículo circula por vías interurbanas de noche.",
+      "B) Únicamente durante el día en caso de lluvia extrema.",
+      "C) Por la noche, en todo tipo de carreteras, tanto dentro como fuera de poblado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Su uso es imperativo durante la noche en cualquier tipo de vía, ya sea urbana o interurbana."
+  },
+  {
+    "_id": "PB-TM4-P46",
+    "Enunciado": "Durante el día, ¿en qué casos se debe usar obligatoriamente la luz de corto alcance?",
+    "Opciones": [
+      "A) Al circular por túneles o carriles provisionales por obras o accidentes.",
+      "B) Solo cuando se circula por el carril izquierdo de una autopista.",
+      "C) Siempre que se transporte a más de tres pasajeros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Es obligatorio usar la luz de cruce de día al pasar por túneles o circular por carriles habilitados provisionalmente."
+  },
+  {
+    "_id": "PB-TM4-P47",
+    "Enunciado": "¿Debe usarse la luz de cruce si el vehículo no dispone de luces de largo alcance?",
+    "Opciones": [
+      "A) No, en ese caso el vehículo tiene prohibida la circulación nocturna.",
+      "B) Sí, es uno de los casos en los que se debe usar.",
+      "C) Solo si se circula por una vía perfectamente iluminada."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Si el vehículo carece de sistema de largo alcance, se deberá utilizar la luz de cruce en las situaciones que lo requieran."
+  },
+  {
+    "_id": "PB-TM4-P48",
+    "Enunciado": "Si circula a menos de 40 km/h en una vía mal iluminada, ¿qué luces debe usar?",
+    "Opciones": [
+      "A) Únicamente las luces de posición.",
+      "B) Las luces de emergencia de forma constante.",
+      "C) Se deben usar las luces de corto alcance."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "A velocidades inferiores a 40 km/h en vías mal iluminadas, se permite el uso de la luz de corto alcance en sustitución o como opción frente a la de carretera."
+  },
+  {
+    "_id": "PB-TM4-P49",
+    "Enunciado": "¿En qué otra circunstancia es obligatorio cambiar de largo alcance a corto alcance?",
+    "Opciones": [
+      "A) Cuando exista posibilidad de deslumbrar a otros conductores.",
+      "B) Siempre que se entre en una curva hacia la derecha.",
+      "C) Al aproximarse a un paso de peatones aunque esté vacío."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Para evitar el deslumbramiento de otros usuarios de la vía, se debe sustituir la luz de carretera por la de cruce."
+  },
+  {
+    "_id": "PB-TM4-P50",
+    "Enunciado": "¿Qué norma de alumbrado deben seguir las motocicletas durante el día?",
+    "Opciones": [
+      "A) Pueden circular sin luces si hay visibilidad plena.",
+      "B) Siempre deben llevar encendidas las luces de corto alcance.",
+      "C) Deben llevar las luces de posición y las de antiniebla."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las motocicletas tienen la obligación de circular con la luz de corto alcance encendida durante todo el día por cualquier vía."
+  },
+  {
+    "_id": "PB-TM4-P51",
+    "Enunciado": "¿Para qué sirven las luces de antiniebla?",
+    "Opciones": [
+      "A) Para indicar que el vehículo circula a una velocidad muy reducida.",
+      "B) Para que el vehículo sea visto por detrás en condiciones normales.",
+      "C) Para ver mejor la carretera en caso de niebla, nieve, lluvia intensa y humo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Su función es mejorar la visibilidad del conductor y del propio vehículo ante fenómenos meteorológicos o ambientales adversos."
+  },
+  {
+    "_id": "PB-TM4-P52",
+    "Enunciado": "¿De qué tipos de luces antiniebla dispone un vehículo?",
+    "Opciones": [
+      "A) Hay luces de antiniebla delantera y trasera.",
+      "B) Solo existe la luz antiniebla trasera por ser la más importante.",
+      "C) Dispone de luces antiniebla laterales y de techo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El sistema de alumbrado antiniebla se divide en delantero y trasero."
+  },
+  {
+    "_id": "PB-TM4-P53",
+    "Enunciado": "¿De qué color pueden ser las luces antiniebla delanteras?",
+    "Opciones": [
+      "A) Únicamente blancas para no confundir.",
+      "B) Son blancas o amarillas.",
+      "C) Son de color azul claro."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El reglamento permite que la luz antiniebla delantera sea de color blanco o amarillo selectivo."
+  },
+  {
+    "_id": "PB-TM4-P54",
+    "Enunciado": "¿De qué color son las luces antiniebla traseras?",
+    "Opciones": [
+      "A) Blancas para iluminar la matrícula.",
+      "B) Amarillas para resaltar en la niebla.",
+      "C) Son rojas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La luz antiniebla trasera debe ser siempre de color rojo."
+  },
+  {
+    "_id": "PB-TM4-P55",
+    "Enunciado": "¿Con qué otras luces se deben obligatoriamente usar las luces antiniebla delanteras?",
+    "Opciones": [
+      "A) Se usan con las luces de posición.",
+      "B) Se deben usar obligatoriamente solas.",
+      "C) Con las luces de estacionamiento únicamente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El uso de la luz antiniebla delantera debe ir acompañado al menos de las luces de posición."
+  },
+  {
+    "_id": "PB-TM4-P56",
+    "Enunciado": "¿Se pueden usar las antiniebla delanteras junto con el largo o corto alcance?",
+    "Opciones": [
+      "A) No, el uso simultáneo está prohibido por riesgo de cortocircuito.",
+      "B) Sí, también las puedes utilizar a la vez que esas luces.",
+      "C) Solo si el vehículo circula por una autopista."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Es posible y legal utilizar la luz antiniebla delantera simultáneamente con la luz de carretera o la de cruce."
+  },
+  {
+    "_id": "PB-TM4-P57",
+    "Enunciado": "¿Cuándo se deben usar las luces de antiniebla traseras?",
+    "Opciones": [
+      "A) Siempre que llueva ligeramente para aumentar la seguridad.",
+      "B) Solo cuando el coche circule marcha atrás en condiciones de niebla.",
+      "C) Solo en casos de mucha necesidad, con visibilidad muy mala."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Debido a su intensidad, la luz antiniebla trasera solo se debe encender cuando las condiciones ambientales son especialmente desfavorables, una lluvia MUY intensa, niebla INTENSA, nuble de polvo INTENSA, nieve INTENSA, etc...."
+  },
+  {
+    "_id": "PB-TM4-P58",
+    "Enunciado": "¿Con qué luces se pueden encender las antiniebla traseras?",
+    "Opciones": [
+      "A) A la vez que las de largo y corto alcance y las antiniebla delanteras.",
+      "B) Únicamente con las luces de posición para no sobrecargar el sistema.",
+      "C) Solo pueden encenderse si las luces de cruce están apagadas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La luz trasera de antiniebla puede funcionar junto con el resto del alumbrado delantero (cruce, carretera o antiniebla delantera)."
+  },
+  {
+    "_id": "PB-TM4-P59",
+    "Enunciado": "¿Qué es un catadióptrico?",
+    "Opciones": [
+      "A) Un sensor que enciende las luces automáticamente al entrar en un túnel.",
+      "B) Un dispositivo que refleja la luz externa de otros vehículos.",
+      "C) Una bombilla de repuesto que se activa si se funde la principal."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Un catadióptrico es un elemento óptico diseñado para reflejar la luz que recibe de fuentes externas, como los faros de otros coches."
+  },
+  {
+    "_id": "PB-TM4-P60",
+    "Enunciado": "¿Para qué sirve el catadióptrico en un vehículo?",
+    "Opciones": [
+      "A) Para que el conductor vea mejor la señalización horizontal.",
+      "B) Para reducir el consumo de energía eléctrica de la batería.",
+      "C) Sirve para que se vea el vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Su finalidad primordial es mejorar la visibilidad del vehículo para otros usuarios, especialmente cuando está estacionado o sus luces están apagadas."
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM4-P136",
+    "Enunciado": "¿Qué forma tienen los catadióptricos traseros de un semirremolque?",
+    "Opciones": [
+      "A) Circular.",
+      "B) Triangular.",
+      "C) Rectangular."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques y semirremolques tienen la obligación de llevar catadióptricos triangulares en su parte posterior."
+  },
+  {
+    "_id": "PB-TM4-P137",
+    "Enunciado": "Circula por un túnel urbano bien iluminado. ¿Es obligatorio encender las luces?",
+    "Opciones": [
+      "A) No, al ser vía urbana y estar iluminado basta con la luz diurna.",
+      "B) Solo si el túnel mide más de 200 metros.",
+      "C) Sí, posición y corto alcance."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En los túneles siempre es obligatorio el alumbrado de posición y corto alcance, independientemente de la iluminación o ubicación."
+  },
+  {
+    "_id": "PB-TM4-P138",
+    "Enunciado": "¿Puede un turismo llevar encendida la luz antiniebla trasera con lluvia débil?",
+    "Opciones": [
+      "A) No, está prohibido ya que puede deslumbrar.",
+      "B) Sí, para ser visto mejor desde lejos.",
+      "C) Solo si circula por una autopista."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La luz antiniebla trasera solo se usa en casos de lluvia muy intensa o niebla espesa; con lluvia débil está prohibida por deslumbramiento."
+  },
+  {
+    "_id": "PB-TM4-P139",
+    "Enunciado": "¿Es obligatorio llevar luz de largo alcance en un ciclomotor?",
+    "Opciones": [
+      "A) Sí, para circular de noche por carretera.",
+      "B) No, es opcional para este tipo de vehículos.",
+      "C) No, está prohibida en ciclomotores."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La luz de carretera o largo alcance es una instalación opcional para los ciclomotores."
+  },
+  {
+    "_id": "PB-TM4-P140",
+    "Enunciado": "Si realiza una parada por emergencia en el arcén de una autopista de noche, ¿qué luces debe dejar?",
+    "Opciones": [
+      "A) Posición y señal de emergencia.",
+      "B) Solo señal de emergencia.",
+      "C) Ninguna, para evitar distracciones a otros conductores."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En paradas de emergencia nocturnas en vías interurbanas se deben mantener las luces de posición y la señal de emergencia."
+  },
+  {
+    "_id": "PB-TM4-P141",
+    "Enunciado": "¿De qué color son los catadióptricos delanteros?",
+    "Opciones": [
+      "A) Amarillos.",
+      "B) Rojos.",
+      "C) Blancos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Los catadióptricos situados en el frontal del vehículo deben ser de color blanco."
+  },
+  {
+    "_id": "PB-TM4-P142",
+    "Enunciado": "¿Se puede usar la luz de largo alcance para avisar de un peligro?",
+    "Opciones": [
+      "A) Sí, usándola de forma intermitente sin deslumbrar.",
+      "B) No, solo se permite el uso del claxon.",
+      "C) Solo durante el día."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El uso intermitente de las luces de largo alcance está permitido para advertir de peligros."
+  },
+  {
+    "_id": "PB-TM4-P143",
+    "Enunciado": "¿Cuántas luces de corto alcance debe llevar una motocicleta?",
+    "Opciones": [
+      "A) Una o dos.",
+      "B) Obligatoriamente dos.",
+      "C) Siempre una central."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las motocicletas tienen permitido llevar instaladas una o dos luces de corto alcance."
+  },
+  {
+    "_id": "PB-TM4-P144",
+    "Enunciado": "¿Qué luz indica que vamos a circular hacia atrás?",
+    "Opciones": [
+      "A) La luz de posición trasera parpadeando.",
+      "B) La luz de marcha atrás (blanca).",
+      "C) No hay una luz específica, se usan los intermitentes."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La luz de marcha atrás, de color blanco, advierte a otros usuarios del movimiento hacia atrás del vehículo."
+  },
+  {
+    "_id": "PB-TM4-P145",
+    "Enunciado": "¿Es obligatorio el uso de la señal de emergencia en el transporte escolar durante la subida de alumnos?",
+    "Opciones": [
+      "A) No, basta con los intermitentes del lado de la acera.",
+      "B) Sí, es obligatorio usarla en esas paradas.",
+      "C) Solo si la parada dura más de dos minutos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El transporte escolar debe activar la señal de emergencia siempre que pare para que los alumnos suban o bajen."
+  },
+  {
+    "_id": "PB-TM4-P146",
+    "Enunciado": "¿Cuándo se puede usar el claxon para evitar un accidente?",
+    "Opciones": [
+      "A) Solo fuera de poblado.",
+      "B) Tanto dentro como fuera de poblado.",
+      "C) Solo si no funcionan los frenos."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El uso del claxon para prevenir un accidente es una de las excepciones permitidas en cualquier tipo de vía."
+  },
+  {
+    "_id": "PB-TM4-P147",
+    "Enunciado": "¿De qué color es la luz de frenado?",
+    "Opciones": [
+      "A) Roja.",
+      "B) Blanca.",
+      "C) Amarilla."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La luz de frenado es de color rojo intenso para distinguirse claramente de la de posición."
+  },
+  {
+    "_id": "PB-TM4-P148",
+    "Enunciado": "Un automóvil con una anchura de 2,12 metros circula de día. ¿Cuándo debe encender las luces de gálibo?",
+    "Opciones": [
+      "A) En los mismos casos que la luz de posición (túneles, días oscuros, etc.).",
+      "B) Nunca, de día están prohibidas.",
+      "C) Solo si transporta mercancías peligrosas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las luces de gálibo se rigen por las mismas normas de uso que las de posición."
+  },
+  {
+    "_id": "PB-TM4-P149",
+    "Enunciado": "Si se averían las luces en carretera, ¿qué debe hacer?",
+    "Opciones": [
+      "A) Parar inmediatamente en el carril y poner los triángulos.",
+      "B) Reducir velocidad y buscar una zona iluminada para aparcar.",
+      "C) Seguir circulando con precaución hasta el taller más cercano."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Ante avería de luces, se debe reducir la velocidad y no parar hasta encontrar un lugar iluminado y seguro."
+  },
+  {
+    "_id": "PB-TM4-P150",
+    "Enunciado": "¿Qué vehículos tienen prohibida la luz de marcha atrás?",
+    "Opciones": [
+      "A) Los remolques de menos de 750 kg.",
+      "B) Los ciclomotores de dos ruedas.",
+      "C) Las motocicletas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La normativa prohíbe expresamente que las motocicletas lleven luz de marcha atrás."
+  },
+  {
+    "_id": "PB-TM4-P151",
+    "Enunciado": "¿Cuál es la función principal de la luz de posición?",
+    "Opciones": [
+      "A) Iluminar el camino en ciudad.",
+      "B) Indicar la presencia y anchura del vehículo.",
+      "C) Sustituir a las de gálibo en vehículos de más de 2 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las luces de posición sirven para que el vehículo sea visto y se identifique su volumen lateral."
+  },
+  {
+    "_id": "PB-TM4-P152",
+    "Enunciado": "Circula por una carretera convencional mal iluminada a 45 km/h. ¿Qué luces son obligatorias?",
+    "Opciones": [
+      "A) Las de corto alcance.",
+      "B) Las de largo alcance.",
+      "C) Ambas alternativamente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "A más de 40 km/h en vía interurbana mal iluminada, el uso del largo alcance es obligatorio."
+  },
+  {
+    "_id": "PB-TM4-P153",
+    "Enunciado": "¿Puede encender la luz antiniebla delantera junto con la de largo alcance?",
+    "Opciones": [
+      "A) Sí, es posible usarlas a la vez.",
+      "B) No, el sistema eléctrico no lo permite.",
+      "C) Solo en autopistas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La luz antiniebla delantera puede funcionar junto con la de posición, cruce o carretera."
+  },
+  {
+    "_id": "PB-TM4-P154",
+    "Enunciado": "Al cambiar de carril en una autopista, ¿cuándo debe apagar el intermitente?",
+    "Opciones": [
+      "A) 5 segundos después de entrar en el nuevo carril.",
+      "B) En cuanto termine el movimiento lateral.",
+      "C) Solo si viene otro vehículo detrás."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El indicador de dirección debe apagarse inmediatamente después de finalizar la maniobra."
+  },
+  {
+    "_id": "PB-TM4-P155",
+    "Enunciado": "¿Para qué sirve el catadióptrico amarillo?",
+    "Opciones": [
+      "A) Para señalizar el lateral del vehículo.",
+      "B) Para la parte trasera de los remolques.",
+      "C) Para el frontal de los camiones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los catadióptricos de color amarillo se instalan en los laterales del vehículo."
+  },
+  {
+    "_id": "PB-TM4-P156",
+    "Enunciado": "¿En qué caso está permitido usar el claxon en poblado?",
+    "Opciones": [
+      "A) Para saludar a un conocido.",
+      "B) Para avisar de un adelantamiento.",
+      "C) Para evitar un posible accidente."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Dentro de poblado, la única razón general permitida para usar el claxon es la prevención de accidentes."
+  },
+  {
+    "_id": "PB-TM4-P157",
+    "Enunciado": "Un turismo está parado en el arcén de una vía interurbana mal iluminada. ¿Puede apagar todas las luces?",
+    "Opciones": [
+      "A) No, debe mantener al menos las de posición.",
+      "B) Sí, si ha puesto los triángulos de preseñalización.",
+      "C) Sí, para no deslumbrar a los que circulan."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "En paradas en vías mal iluminadas, es obligatorio mantener las luces de posición encendidas."
+  },
+  {
+    "_id": "PB-TM4-P158",
+    "Enunciado": "¿Qué alumbrado es obligatorio para un remolque de noche?",
+    "Opciones": [
+      "A) Solo la señal de emergencia.",
+      "B) Luces de posición y catadióptricos.",
+      "C) Luces de corto alcance propias."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los remolques deben llevar luces de posición y catadióptricos (triangulares detrás) para ser visibles."
+  },
+  {
+    "_id": "PB-TM4-P159",
+    "Enunciado": "¿Es obligatorio llevar dos luces de frenado en una motocicleta?",
+    "Opciones": [
+      "A) No, puede llevar una o dos.",
+      "B) Sí, es obligatorio desde 2015.",
+      "C) Solo si tiene más de 125 cc."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El reglamento permite que las motocicletas equipen una o dos luces de frenado."
+  },
+  {
+    "_id": "PB-TM4-P160",
+    "Enunciado": "¿De qué color es la luz antiniebla trasera?",
+    "Opciones": [
+      "A) Blanca.",
+      "B) Amarilla.",
+      "C) Roja."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La luz antiniebla trasera es siempre de color rojo intenso."
+  },
+  {
+    "_id": "PB-TM4-P161",
+    "Enunciado": "¿Qué luces se deben encender al circular por un túnel durante el día?",
+    "Opciones": [
+      "A) Solo las luces de posición.",
+      "B) Posición y corto alcance.",
+      "C) Ninguna, si el túnel tiene luz artificial."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El paso por túneles exige siempre el uso de posición y corto alcance (cruce)."
+  },
+  {
+    "_id": "PB-TM4-P162",
+    "Enunciado": "Si su coche no arranca y lo empuja de noche por el arcén, ¿qué luces debe llevar?",
+    "Opciones": [
+      "A) Las de posición.",
+      "B) Ninguna, al no estar el motor en marcha.",
+      "C) La señal de emergencia únicamente."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Cualquier vehículo que circule o esté parado en la vía de noche debe señalizar su posición con las luces reglamentarias."
+  },
+  {
+    "_id": "PB-TM4-P163",
+    "Enunciado": "¿Se puede usar la luz de posición sola para circular por una calle muy bien iluminada?",
+    "Opciones": [
+      "A) Sí, si se ve perfectamente la calzada.",
+      "B) No, nunca se circula solo con posición.",
+      "C) Solo si se va a menos de 20 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En circulación, la luz de posición debe ir siempre acompañada de cruce o carretera."
+  },
+  {
+    "_id": "PB-TM4-P164",
+    "Enunciado": "¿Cuántas luces de marcha atrás lleva un camión?",
+    "Opciones": [
+      "A) Obligatoriamente dos.",
+      "B) Una o dos.",
+      "C) Cuatro, dos arriba y dos abajo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los automóviles (incluidos camiones) pueden llevar una o dos luces de marcha atrás."
+  },
+  {
+    "_id": "PB-TM4-P165",
+    "Enunciado": "¿Qué luz es obligatoria para un ciclomotor de dos ruedas?",
+    "Opciones": [
+      "A) Posición y corto alcance.",
+      "B) Solo posición.",
+      "C) Solo largo alcance."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los ciclomotores deben estar equipados con luces de posición y de corto alcance."
+  }
+]

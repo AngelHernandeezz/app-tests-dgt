@@ -1,0 +1,357 @@
+[
+    {
+        "_id": "PB-TM3-P211",
+        "Enunciado": "¿Qué indica la señal de obligación R-414?",
+        "Opciones": [
+            "A) Obligación para los vehículos que transportan mercancías peligrosas de circular por esa carretera.",
+            "B) Prohibición de entrada a vehículos con carga explosiva.",
+            "C) Obligación de circular por el arcén para vehículos pesados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-414 indica la obligación para los vehículos que transportan mercancías peligrosas de circular por esa carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P212",
+        "Enunciado": "¿A qué vehículos obliga la señal R-415 a circular por la carretera donde esté situada?",
+        "Opciones": [
+            "A) A todos los camiones cisterna sin excepción.",
+            "B) A los vehículos que transportan más de 1.000 litros de productos que pueden contaminar el agua.",
+            "C) Únicamente a los vehículos que transportan combustible doméstico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-415 indica obligación de circular por esa carretera para los vehículos que transportan más de 1.000 litros de productos contaminantes del agua.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P213",
+        "Enunciado": "¿Cuál es el significado de la señal R-416?",
+        "Opciones": [
+            "A) Obligación de circular con las luces de emergencia encendidas.",
+            "B) Prohibición de transportar materiales inflamables por esa vía.",
+            "C) Obligación de circular por esa carretera para los vehículos que transportan material explosivo o que puede arder."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-416 indica la obligación de circular por esa carretera para los vehículos que transportan material explosivo o que puede arder.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P214",
+        "Enunciado": "¿Qué indica la señal R-418 sobre el uso del carril?",
+        "Opciones": [
+            "A) Que es un carril solo para vehículos que tienen un equipo de telepeaje.",
+            "B) Que el carril está reservado para el pago en efectivo únicamente.",
+            "C) Que los vehículos sin telepeaje pueden pasar si pagan con tarjeta."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-418 indica que el carril es solo para vehículos que tienen un equipo de telepeaje.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P215",
+        "Enunciado": "Según el temario, ¿qué es el telepeaje?",
+        "Opciones": [
+            "A) Un sistema de cámaras que multa a los vehículos sin seguro.",
+            "B) Un dispositivo electrónico en el parabrisas que reconoce la matrícula para que la barrera se abra automáticamente.",
+            "C) Un carné especial que deben llevar los conductores de camiones en autopistas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El telepeaje es un dispositivo electrónico que se coloca en el parabrisas y que reconoce la matrícula del vehículo para abrir la barrera de forma automática."
+    },
+    {
+        "_id": "PB-TM3-P216",
+        "Enunciado": "¿Cuál es la función del grupo de señales que comienzan por la nomenclatura R-500?",
+        "Opciones": [
+            "A) Indicar el comienzo de nuevas prohibiciones.",
+            "B) Informar sobre la cercanía de áreas de servicio.",
+            "C) Indicar el fin de una prohibición o de una obligación."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las señales que empiezan por R-500 son señales que acaban con la prohibición o la obligación."
+    },
+    {
+        "_id": "PB-TM3-P217",
+        "Enunciado": "¿Qué indica la señal R-500?",
+        "Opciones": [
+            "A) Señala el lugar desde el que se acaban todas las prohibiciones.",
+            "B) Indica que se puede circular en cualquier sentido.",
+            "C) Fin de la obligación de encender las luces."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-500 significa fin de todas las prohibiciones e indica el lugar donde se acaban.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P218",
+        "Enunciado": "¿Qué efecto tiene la señal R-501 sobre el conductor?",
+        "Opciones": [
+            "A) Que debe reducir la velocidad por precaución.",
+            "B) Indica el fin de la limitación de velocidad y que puedes ir más rápido.",
+            "C) Obligación de detenerse en el próximo cruce."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-501 indica el fin de limitación de velocidad, por lo que puedes ir más rápido.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P219",
+        "Enunciado": "¿Qué significa la señal R-502?",
+        "Opciones": [
+            "A) Prohibición de adelantar a camiones.",
+            "B) Fin de la velocidad mínima obligatoria.",
+            "C) Fin de la prohibición de adelantar, por lo que puedes adelantar a otros vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-502 indica el fin de la prohibición de adelantar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P220",
+        "Enunciado": "¿Quiénes pueden volver a adelantar tras ver la señal R-503?",
+        "Opciones": [
+            "A) Los camiones.",
+            "B) Solo los turismos y motocicletas.",
+            "C) Únicamente los vehículos de transporte escolar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-503 indica el fin de la prohibición de adelantar para camiones, por lo que estos pueden volver a adelantar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P221",
+        "Enunciado": "La señal R-504 indica...",
+        "Opciones": [
+            "A) Comienzo de zona de estacionamiento de pago.",
+            "B) Fin de zona de aparcamiento limitado.",
+            "C) Que está prohibido aparcar en todo el tramo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-504 indica el fin de zona de aparcamiento limitado, permitiendo a los vehículos aparcar en ese lugar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P222",
+        "Enunciado": "¿Qué indica la señal R-505?",
+        "Opciones": [
+            "A) Vía obligatoria para bicicletas.",
+            "B) Prohibición de circular a ciclomotores.",
+            "C) Fin de vía reservada para bicicletas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-505 indica el fin de la vía reservada para bicicletas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P223",
+        "Enunciado": "Ante la señal R-506, ¿cómo puede actuar el conductor respecto a la velocidad?",
+        "Opciones": [
+            "A) Puede conducir más despacio de lo que indicaba la señal anterior.",
+            "B) Debe mantener la misma velocidad mínima obligatoriamente.",
+            "C) Tiene prohibido superar los 30 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-506 indica el fin de velocidad mínima, permitiendo conducir más despacio de lo que indicaba la señal.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P224",
+        "Enunciado": "¿Cómo se llaman las señales que dan información de interés a conductores y peatones?",
+        "Opciones": [
+            "A) Señales de reglamentación.",
+            "B) Señales de indicación.",
+            "C) Señales de advertencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las señales que dan información de interés se llaman señales de indicación."
+    },
+    {
+        "_id": "PB-TM3-P225",
+        "Enunciado": "¿Qué indica la señal S-1?",
+        "Opciones": [
+            "A) Lugar donde comienza una autovía.",
+            "B) Fin de una autopista.",
+            "C) Lugar donde comienza una autopista."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-1 indica el lugar donde comienza una autopista.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P226",
+        "Enunciado": "¿Cuál es el significado de la señal S-1a?",
+        "Opciones": [
+            "A) Lugar donde comienza una autovía.",
+            "B) Lugar donde comienza una carretera nacional.",
+            "C) Fin de una autovía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-1a indica el lugar donde comienza una autovía.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P227",
+        "Enunciado": "¿Qué indica la señal S-2?",
+        "Opciones": [
+            "A) Comienzo de una autopista de peaje.",
+            "B) Lugar donde termina una autopista.",
+            "C) Fin de una carretera reservada para automóviles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-2 indica el lugar donde termina una autopista.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P228",
+        "Enunciado": "¿Qué significa la señal S-2a?",
+        "Opciones": [
+            "A) Lugar donde comienza una autovía.",
+            "B) Proximidad de una salida de autovía.",
+            "C) Lugar donde termina una autovía."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-2a indica el lugar donde termina una autovía.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P229",
+        "Enunciado": "¿Qué indica la señal S-3?",
+        "Opciones": [
+            "A) Comienzo de una carretera reservada para que circulen automóviles.",
+            "B) Vía exclusiva para vehículos de transporte público.",
+            "C) Fin de la obligatoriedad de circular por la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-3 indica el comienzo de una carretera reservada para que circulen automóviles.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P230",
+        "Enunciado": "¿Cuál es el significado de la señal S-4?",
+        "Opciones": [
+            "A) Comienzo de una vía para automóviles.",
+            "B) Fin de una carretera reservada para automóviles.",
+            "C) Prohibición de circular a turismos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-4 indica el fin de una carretera reservada para automóviles.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P231",
+        "Enunciado": "¿Qué indica la señal S-5?",
+        "Opciones": [
+            "A) Proximidad de un paso inferior.",
+            "B) Tramo de vía con iluminación deficiente.",
+            "C) Comienza un túnel."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-5 indica que comienza un túnel.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P232",
+        "Enunciado": "¿Qué significa la señal S-6?",
+        "Opciones": [
+            "A) Fin del túnel.",
+            "B) Fin de la obligación de encender el alumbrado.",
+            "C) Comienzo de un tramo de obras en túnel."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-6 indica el fin del túnel.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P233",
+        "Enunciado": "¿Qué indica la señal S-7?",
+        "Opciones": [
+            "A) Velocidad máxima permitida obligatoria.",
+            "B) Velocidad máxima aconsejada a la que debes ir siempre en esa carretera.",
+            "C) Fin de la recomendación de velocidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-7 aconseja la velocidad máxima a la que debes ir siempre en esa carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P234",
+        "Enunciado": "La señal S-8 indica que...",
+        "Opciones": [
+            "A) Comienza un tramo de velocidad limitada.",
+            "B) Debes aumentar la velocidad obligatoriamente.",
+            "C) Se acaba el tramo de carretera en el que se aconseja conducir a esa velocidad o más despacio."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-8 indica el fin de la velocidad máxima aconsejada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P235",
+        "Enunciado": "¿Qué recomienda la señal S-9?",
+        "Opciones": [
+            "A) Conducir entre las dos velocidades que aparecen en la señal.",
+            "B) Circular exactamente a la velocidad media de las dos cifras.",
+            "C) Mantener una distancia de seguridad de entre 70 y 90 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-9 recomienda conducir entre esas dos velocidades que aparecen en la señal.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P236",
+        "Enunciado": "¿Cuál es el significado de la señal S-10?",
+        "Opciones": [
+            "A) Fin de todas las recomendaciones de la vía.",
+            "B) Indica el lugar desde donde no se aconseja seguir conduciendo a esas velocidades.",
+            "C) Obligación de circular a la velocidad máxima de la vía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-10 indica el fin de las velocidades aconsejadas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P237",
+        "Enunciado": "¿Qué indican las señales del grupo S-11?",
+        "Opciones": [
+            "A) La presencia de un carril para vehículos lentos.",
+            "B) El número de carriles con prioridad de paso.",
+            "C) El sentido en el que deben circular los vehículos en una calzada de único sentido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las señales S-11 indican el sentido de circulación en una calzada de único sentido.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P238",
+        "Enunciado": "Además del sentido de la marcha, ¿qué maniobra prohíbe la señal S-11?",
+        "Opciones": [
+            "A) El adelantamiento por la derecha.",
+            "B) La parada y el estacionamiento.",
+            "C) Cambiar el sentido de la marcha (dar media vuelta)."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-11 también prohíbe cambiar el sentido (dar media vuelta)."
+    },
+    {
+        "_id": "PB-TM3-P239",
+        "Enunciado": "En las señales S-11, ¿qué información proporcionan las flechas?",
+        "Opciones": [
+            "A) La distancia hasta el próximo pueblo.",
+            "B) La velocidad mínima de cada carril.",
+            "C) Indican el número de carriles de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En las señales S-11, las flechas indican el número de carriles."
+    },
+    {
+        "_id": "PB-TM3-P240",
+        "Enunciado": "¿Qué indica la señal S-12?",
+        "Opciones": [
+            "A) Que el tramo de calzada tiene dos sentidos de circulación.",
+            "B) Que en ese tramo de calle o carretera debes circular en el sentido hacia el que apunta la flecha.",
+            "C) Obligación de girar a la derecha en el tramo señalizado."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-12 indica un tramo de calzada de sentido único en la dirección de la flecha y prohíbe hacerlo en el otro sentido.",
+        "Imagen": true
+    }
+]

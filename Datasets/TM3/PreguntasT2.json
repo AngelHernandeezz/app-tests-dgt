@@ -1,0 +1,342 @@
+[
+    {
+        "_id": "PB-TM3-P31",
+        "Enunciado": "¿Qué son los paneles con mensajes que cambian?",
+        "Opciones": [
+            "A) Dispositivos que solo se activan cuando hay un accidente grave.",
+            "B) Paneles colocados en las carreteras que cambian la información dependiendo de las circunstancias del tráfico.",
+            "C) Señales que avisan exclusivamente de la presencia de agentes en la vía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Según el temario, estos paneles se colocan en las carreteras y su información varía según el estado o circunstancias del tráfico."
+    },
+    {
+        "_id": "PB-TM3-P32",
+        "Enunciado": "¿Cuál de las siguientes es una función de los paneles con mensajes que cambian?",
+        "Opciones": [
+            "A) Dar información a los conductores, advertir de peligros y dar recomendaciones.",
+            "B) Indicar los precios de los peajes en las autopistas privadas.",
+            "C) Sustituir permanentemente a todas las señales verticales de la vía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los paneles sirven para dar información, advertir de posibles peligros y proporcionar recomendaciones e instrucciones que se deben cumplir."
+    },
+    {
+        "_id": "PB-TM3-P33",
+        "Enunciado": "¿Qué indica el temario sobre las señales de balizamiento?",
+        "Opciones": [
+            "A) Son señales que solo pueden ser colocadas por los agentes de tráfico.",
+            "B) Son luces, señales y dispositivos para destacar las obras e indicar la dirección a seguir.",
+            "C) Son marcas viales pintadas en el suelo para delimitar los carriles de emergencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las señales de balizamiento son dispositivos usados para destacar obras, indicar la dirección en una calle o carretera y señalar obstáculos."
+    },
+    {
+        "_id": "PB-TM3-P34",
+        "Enunciado": "¿Qué indica el panel direccional provisional?",
+        "Opciones": [
+            "A) Informa de que el tramo de carretera está en condiciones óptimas.",
+            "B) Indica la proximidad de un área de descanso.",
+            "C) Prohíbe el paso e informa hacia dónde se debe circular."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El panel direccional provisional tiene la función de prohibir el paso e informar sobre la dirección obligatoria de circulación.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P35",
+        "Enunciado": "¿Qué efecto tienen las banderitas y conos en la carretera?",
+        "Opciones": [
+            "A) Permiten el paso a velocidad reducida entre los elementos.",
+            "B) Prohíben el paso a través de ellos y por el espacio que hay entre cada uno.",
+            "C) Solo sirven para adornar tramos de vía en festividades locales."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las banderitas y conos prohíben el paso tanto a través de ellos como por el espacio libre que quede entre cada elemento."
+    },
+    {
+        "_id": "PB-TM3-P36",
+        "Enunciado": "En el contexto de la señalización de obras, ¿qué significa una luz roja fija?",
+        "Opciones": [
+            "A) Que la carretera está cerrada al tráfico.",
+            "B) Que solo pueden pasar vehículos de transporte público.",
+            "C) Que se debe extremar la precaución pero se puede pasar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una luz roja fija en las señales de balizamiento indica que la carretera está cerrada al tráfico."
+    },
+    {
+        "_id": "PB-TM3-P37",
+        "Enunciado": "¿Qué prohíben las luces amarillas fijas o intermitentes en una zona de obras?",
+        "Opciones": [
+            "A) Prohíben el uso de las luces de largo alcance.",
+            "B) Prohíben circular a más de 100 km/h.",
+            "C) Prohíben el paso a través del espacio que hay entre las luces."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estas luces prohíben el paso a través del espacio que existe entre ellas."
+    },
+    {
+        "_id": "PB-TM3-P38",
+        "Enunciado": "¿Qué son los paneles de dirección permanentes?",
+        "Opciones": [
+            "A) Dispositivos que indican hacia dónde circular en lugares donde siempre hay un posible peligro.",
+            "B) Señales que indican la dirección hacia un hospital cercano.",
+            "C) Carteles que indican el nombre del próximo municipio."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Son dispositivos que indican la dirección de circulación en puntos de la vía que presentan un riesgo constante.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P39",
+        "Enunciado": "Si te encuentras un solo panel de dirección permanente en una curva, ¿qué indica?",
+        "Opciones": [
+            "A) Fin del peligro.",
+            "B) Peligro moderado.",
+            "C) Peligro extremo."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Según el temario, un solo panel de dirección permanente significa peligro moderado."
+    },
+    {
+        "_id": "PB-TM3-P40",
+        "Enunciado": "En la señalización de una curva, ¿qué significado tienen dos paneles de dirección permanentes?",
+        "Opciones": [
+            "A) Que la curva es de sentido único.",
+            "B) Prohibido el adelantamiento.",
+            "C) Bastante peligro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La presencia de dos paneles de dirección permanentes indica que hay bastante peligro en esa zona."
+    },
+    {
+        "_id": "PB-TM3-P41",
+        "Enunciado": "¿Cuánto peligro avisan tres paneles de dirección permanentes colocados juntos?",
+        "Opciones": [
+            "A) Mucho peligro.",
+            "B) Peligro por desprendimientos.",
+            "C) Ningún peligro, es solo informativo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Tres paneles de dirección permanentes avisan de que hay mucho peligro en ese tramo."
+    },
+    {
+        "_id": "PB-TM3-P42",
+        "Enunciado": "¿Para quiénes sirven las indicaciones de los semáforos para peatones?",
+        "Opciones": [
+            "A) Solo sirven para los conductores de bicicletas.",
+            "B) Deben ser obedecidas tanto por conductores como por peatones.",
+            "C) Sus indicaciones sirven para los peatones, no para los conductores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los semáforos para peatones están destinados exclusivamente a regular el movimiento de los peatones."
+    },
+    {
+        "_id": "PB-TM3-P43",
+        "Enunciado": "En un semáforo circular para vehículos, ¿qué significa la luz roja fija?",
+        "Opciones": [
+            "A) Ceder el paso a los vehículos de la derecha.",
+            "B) Prohibido el paso.",
+            "C) Detenerse solo si vienen otros vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una luz roja fija en un semáforo circular significa obligatoriamente prohibido el paso."
+    },
+    {
+        "_id": "PB-TM3-P44",
+        "Enunciado": "¿Dónde se suelen colocar una o dos luces rojas intermitentes en un semáforo?",
+        "Opciones": [
+            "A) Antes de un paso a nivel o un puente.",
+            "B) Antes de entrar en un túnel de gran longitud.",
+            "C) En los cruces con prioridad a la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Estas luces prohíben el paso temporalmente y se ubican antes de pasos a nivel o puentes móviles."
+    },
+    {
+        "_id": "PB-TM3-P45",
+        "Enunciado": "¿Está permitido pasar con la luz amarilla fija de un semáforo?",
+        "Opciones": [
+            "A) Sí, siempre que no haya peatones cruzando.",
+            "B) No, está prohibido bajo cualquier circunstancia igual que la luz roja.",
+            "C) Sí, pero solo a los vehículos que no pueden parar por motivos de seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La luz amarilla fija prohíbe el paso, aunque permite pasar si el vehículo no puede detenerse con seguridad."
+    },
+    {
+        "_id": "PB-TM3-P46",
+        "Enunciado": "¿Qué obligación imponen una o dos luces amarillas intermitentes en un semáforo?",
+        "Opciones": [
+            "A) Obligan a ceder el paso a los vehículos que vienen por derecha e izquierda y a peatones.",
+            "B) Detener el vehículo obligatoriamente.",
+            "C) Aumentar la velocidad para despejar la intersección."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las luces amarillas intermitentes obligan a ceder el paso a todos los vehículos (derecha e izquierda) y también a los peatones."
+    },
+    {
+        "_id": "PB-TM3-P47",
+        "Enunciado": "Además de permitir el paso, ¿qué otra indicación da la luz verde fija en un cruce?",
+        "Opciones": [
+            "A) Que el cruce está cerrado a vehículos pesados.",
+            "B) Les da prioridad a los vehículos en el cruce.",
+            "C) Que hay que ceder el paso a la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La luz verde fija permite el paso y otorga prioridad a los conductores en la intersección."
+    },
+    {
+        "_id": "PB-TM3-P48",
+        "Enunciado": "¿Qué indica una flecha negra sobre una luz roja o amarilla de un semáforo?",
+        "Opciones": [
+            "A) Que el carril está reservado para vehículos de transporte de carga.",
+            "B) Que la señal está fuera de servicio.",
+            "C) Que el vehículo solo puede ir hacia el lado que indica la flecha, respetando el color de la luz."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La flecha negra limita la dirección permitida al sentido que indica y obliga a respetar la prohibición del color que tenga la luz.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P49",
+        "Enunciado": "Ante una flecha verde iluminada sobre un fondo circular negro, ¿cómo debe actuar el conductor?",
+        "Opciones": [
+            "A) Tiene prioridad absoluta y no necesita fijarse en los peatones.",
+            "B) Puede avanzar hacia donde indica la flecha con cuidado, fijándose en peatones y otros vehículos.",
+            "C) Debe detenerse y esperar a que se encienda la luz verde circular principal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La flecha verde permite avanzar en esa dirección, pero exige hacerlo con precaución ante peatones o vehículos que entren en ese carril."
+    },
+    {
+        "_id": "PB-TM3-P50",
+        "Enunciado": "¿Quiénes deben obedecer las indicaciones de los semáforos cuadrados de carril?",
+        "Opciones": [
+            "A) Solo los vehículos que circulan por el carril en el que está colocado el semáforo.",
+            "B) Únicamente los peatones que quieran cruzar la calzada.",
+            "C) Todos los vehículos que circulan por la vía sin excepción."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Los semáforos de carril afectan exclusivamente a los conductores que circulan por el carril sobre el que están situados."
+    },
+    {
+        "_id": "PB-TM3-P51",
+        "Enunciado": "¿Qué significa una luz roja en forma de aspa en un semáforo de carril?",
+        "Opciones": [
+            "A) Indica que el carril es de sentido único.",
+            "B) Permite el paso solo a motocicletas.",
+            "C) No se puede ocupar ese carril y hay que abandonarlo lo más rápido posible."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El aspa roja prohíbe ocupar ese carril y obliga a los conductores a salir de él rápidamente.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P52",
+        "Enunciado": "En un semáforo de carril, ¿qué indica la luz verde en forma de flecha hacia abajo?",
+        "Opciones": [
+            "A) Que hay un garaje próximo en ese lado.",
+            "B) Está permitido circular por ese carril, obedeciendo el resto de señales.",
+            "C) Que el carril es exclusivo para vehículos de emergencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Indica que está permitido circular por el carril, pero manteniendo la obediencia al resto de señales que existan.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P53",
+        "Enunciado": "¿Qué indica una luz blanca o amarilla en forma de flecha diagonal hacia abajo en un semáforo de carril?",
+        "Opciones": [
+            "A) Que el carril está reservado para vehículos lentos.",
+            "B) Que se permite el giro hacia ese lado en el próximo cruce.",
+            "C) Que los conductores deben ir al carril que señala porque el suyo se va a cerrar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Esta flecha diagonal indica que el carril actual se va a cerrar y los conductores deben desplazarse hacia donde señala.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P54",
+        "Enunciado": "Si un semáforo tiene dibujado un ciclo, ¿a quiénes afectan sus indicaciones?",
+        "Opciones": [
+            "A) A ciclos y ciclomotores únicamente.",
+            "B) A todos los conductores que circulen por el carril derecho.",
+            "C) A todos los vehículos de dos ruedas, incluyendo motocicletas potentes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las indicaciones de estos semáforos sirven solo para ciclos y ciclomotores.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P55",
+        "Enunciado": "¿Cómo son los semáforos cuyas indicaciones no sirven para los turismos?",
+        "Opciones": [
+            "A) Tienen luces cuadradas en lugar de circulares.",
+            "B) Tienen un dibujo de un camión sobre fondo blanco.",
+            "C) Tienen una línea blanca sobre un fondo negro circular."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los semáforos para tranvías, autobuses y otros vehículos se identifican por tener una línea blanca sobre fondo negro circular.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P56",
+        "Enunciado": "¿Qué son las señales verticales?",
+        "Opciones": [
+            "A) Instrucciones dadas por megafonía en las ciudades.",
+            "B) Placas con información fijas en postes u otras estructuras.",
+            "C) Marcas pintadas con pintura especial en el asfalto."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las señales verticales son placas con información que permanecen fijas en postes o estructuras de calles y carreteras."
+    },
+    {
+        "_id": "PB-TM3-P57",
+        "Enunciado": "Según su función, ¿en qué tres grupos se dividen las señales verticales?",
+        "Opciones": [
+            "A) Las que advierten de peligros, las que obligan o prohíben, y las que informan y orientan.",
+            "B) Las de ciudad, las de carretera nacional y las de autopista.",
+            "C) Las de agentes, las de semáforos y las de marcas viales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales verticales se clasifican en advertencia de peligro, reglamentación (obligación o prohibición) e indicación (información y orientación)."
+    },
+    {
+        "_id": "PB-TM3-P58",
+        "Enunciado": "De acuerdo al temario, ¿qué es una vía?",
+        "Opciones": [
+            "A) El espacio reservado exclusivamente para los vehículos a motor.",
+            "B) El lugar por donde se circula, pudiendo ser calle, carretera o camino.",
+            "C) Solo los tramos de carretera que tienen más de dos carriles."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Una vía es el término genérico para cualquier lugar por donde se circula (calle, carretera o camino)."
+    },
+    {
+        "_id": "PB-TM3-P59",
+        "Enunciado": "¿Qué indica la señal de advertencia de peligro P-1?",
+        "Opciones": [
+            "A) Peligro por la proximidad de un colegio.",
+            "B) Peligro por un cruce donde no hay prioridad de paso.",
+            "C) Los vehículos que van por esa vía tienen preferencia antes que los de los lados."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-1 indica peligro por la proximidad de una intersección donde los vehículos de la vía principal tienen preferencia sobre los de los lados.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P60",
+        "Enunciado": "¿Qué significa la señal P-1a?",
+        "Opciones": [
+            "A) Preferencia para pasar antes que los vehículos que vienen por la vía de la derecha.",
+            "B) Peligro porque se incorpora un carril por la izquierda.",
+            "C) Obligación de girar a la derecha en el próximo cruce."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-1a advierte de una intersección con una vía a la derecha cuyos usuarios deben ceder el paso.",
+        "Imagen": true
+    }
+]

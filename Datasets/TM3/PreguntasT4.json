@@ -1,0 +1,357 @@
+[
+    {
+        "_id": "PB-TM3-P91",
+        "Enunciado": "La señal P-17b indica que la calzada se vuelve más estrecha...",
+        "Opciones": [
+            "A) A la izquierda.",
+            "B) Por ambos lados.",
+            "C) Únicamente en los tramos de curva."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-17b advierte de que la calzada se vuelve más estrecha por el lado izquierdo.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P92",
+        "Enunciado": "¿Qué indica la señal P-18?",
+        "Opciones": [
+            "A) Que los vehículos deben circular por el arcén.",
+            "B) Que hay obras en la vía.",
+            "C) Peligro por desprendimiento de piedras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal P-18 indica que hay obras en la vía.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P93",
+        "Enunciado": "¿Qué peligro advierte la señal P-19?",
+        "Opciones": [
+            "A) Proximidad de una zona de frenado de emergencia.",
+            "B) Tramo de carretera con visibilidad reducida.",
+            "C) Que la calzada resbala."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-19 indica que la calzada resbala.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P94",
+        "Enunciado": "Ante la señal P-20, ¿qué precaución debe tomar el conductor?",
+        "Opciones": [
+            "A) Tener cuidado porque llega a un lugar donde suele haber peatones.",
+            "B) Aumentar la velocidad para pasar rápido.",
+            "C) Ninguna, los peatones siempre deben ceder el paso."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-20 avisa de que estás llegando a un lugar donde suele haber peatones y se debe tener cuidado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P95",
+        "Enunciado": "¿Qué indica la señal P-21?",
+        "Opciones": [
+            "A) Obligación de detenerse ante un paso de peatones.",
+            "B) Proximidad de un parque infantil.",
+            "C) Que hay niños cerca de ese lugar, por ejemplo, la salida de una escuela."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-21 advierte de la presencia de niños cerca, como en las inmediaciones de una escuela.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P96",
+        "Enunciado": "¿Qué advierte la señal P-22?",
+        "Opciones": [
+            "A) Un lugar por donde pasan o cruzan ciclistas con frecuencia.",
+            "B) Una vía reservada exclusivamente para ciclos.",
+            "C) El fin de un carril bici."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-22 indica un lugar por donde pasan o cruzan ciclistas con frecuencia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P97",
+        "Enunciado": "¿Cuál es el significado de la señal P-23?",
+        "Opciones": [
+            "A) Peligro por la proximidad de un coto de caza.",
+            "B) Prohibición de circular con animales por la calzada.",
+            "C) Lugar donde pueden pasar animales domésticos con frecuencia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-23 indica un lugar donde pueden pasar animales domésticos con frecuencia, como vacas u ovejas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P98",
+        "Enunciado": "¿Qué indica la señal P-24?",
+        "Opciones": [
+            "A) Zona de pastoreo junto a la carretera.",
+            "B) Lugar por donde pueden cruzar animales en libertad.",
+            "C) Proximidad de un zoológico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal P-24 advierte de un lugar por donde pueden cruzar animales en libertad.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P99",
+        "Enunciado": "La señal P-25 advierte a los conductores de que...",
+        "Opciones": [
+            "A) Solo se permite circular por el carril derecho.",
+            "B) La carretera pasa a ser de sentido único.",
+            "C) Los vehículos pueden circular en los dos sentidos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-25 indica que los vehículos pueden circular en los dos sentidos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P100",
+        "Enunciado": "¿Qué peligro indica la señal P-26?",
+        "Opciones": [
+            "A) Pavimento en mal estado por baches.",
+            "B) Que puede haber piedras u otros obstáculos en la carretera por desprendimientos.",
+            "C) Proximidad de una cantera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal P-26 avisa de que puede haber piedras u obstáculos porque es una zona donde se desprenden objetos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P101",
+        "Enunciado": "¿Qué significado tiene la señal P-27?",
+        "Opciones": [
+            "A) Peligro por inundaciones frecuentes.",
+            "B) Proximidad de un puente móvil con barreras.",
+            "C) Que la vía termina en el muelle de un puerto o en una corriente de agua."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-27 indica que la vía termina en un muelle o en una corriente de agua.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P102",
+        "Enunciado": "¿Qué advierte la señal P-28?",
+        "Opciones": [
+            "A) Que saltan piedras pequeñas del suelo de la carretera, llamadas gravilla.",
+            "B) Que el firme de la carretera está sin asfaltar.",
+            "C) Peligro por calzada resbaladiza debido a la arena."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-28 indica que saltan piedras pequeñas (gravilla) del suelo de la carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P103",
+        "Enunciado": "¿Qué indica la señal P-29?",
+        "Opciones": [
+            "A) Que hay viento fuerte de costado.",
+            "B) Zona de tormentas eléctricas frecuentes.",
+            "C) Proximidad de un aeródromo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-29 advierte de que hay viento fuerte de costado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P104",
+        "Enunciado": "La señal P-30 indica que la calzada...",
+        "Opciones": [
+            "A) Está a distinta altura por un lado porque hay un escalón.",
+            "B) Se estrecha bruscamente por la derecha.",
+            "C) Tiene un bache profundo en el centro."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal P-30 indica que la calzada está a distinta altura por un lado debido a la presencia de un escalón.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P105",
+        "Enunciado": "¿Qué advierte la señal P-31?",
+        "Opciones": [
+            "A) Tramo de vía con prioridad de paso.",
+            "B) Que hay mucho tráfico en un tramo de la carretera.",
+            "C) Proximidad de una gasolinera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal P-31 avisa de que hay mucho tráfico en un tramo de la carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P106",
+        "Enunciado": "¿Qué significado tiene la señal P-32?",
+        "Opciones": [
+            "A) Peligro por curva cerrada con visibilidad reducida.",
+            "B) Que hay vehículos que dificultan la circulación por avería, accidente u otras causas.",
+            "C) Prohibición de detenerse en la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal P-32 indica la presencia de vehículos que dificultan la circulación por causas como avería o accidente.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P107",
+        "Enunciado": "Ante la señal P-33, ¿qué circunstancias se encontrará el conductor?",
+        "Opciones": [
+            "A) Un tramo de vía sin iluminación artificial.",
+            "B) Pavimento muy deslizante por lluvia.",
+            "C) Niebla, nieve o humo en la carretera y se ve peor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-33 avisa de que hay niebla, nieve o humo y la visibilidad es peor.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P108",
+        "Enunciado": "¿Qué indica la señal P-34?",
+        "Opciones": [
+            "A) Peligro por caída de copos de nieve.",
+            "B) Que una zona de la calzada está muy deslizante por hielo o nieve.",
+            "C) Obligación de usar neumáticos de invierno."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal P-34 indica que la calzada está muy deslizante debido al hielo o la nieve.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P109",
+        "Enunciado": "¿Cuál es la función de la señal P-35?",
+        "Opciones": [
+            "A) Indicar el fin de todos los peligros anteriores.",
+            "B) Informar de una zona de servicios próxima.",
+            "C) Avisar de un peligro distinto a todos los anteriores."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-35 sirve de aviso para peligros que no tienen una señal específica propia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P110",
+        "Enunciado": "¿Qué son las señales de reglamentación?",
+        "Opciones": [
+            "A) Señales que informan de obligaciones, limitaciones y prohibiciones en la vía.",
+            "B) Placas que solo sirven para orientar a los peatones.",
+            "C) Señales que únicamente indican lugares de interés turístico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales de reglamentación informan a conductores y peatones de sus obligaciones, limitaciones y prohibiciones."
+    },
+    {
+        "_id": "PB-TM3-P111",
+        "Enunciado": "Si una señal de reglamentación se coloca encima del nombre de un pueblo, ¿dónde se debe cumplir?",
+        "Opciones": [
+            "A) En todo el pueblo o ciudad.",
+            "B) Únicamente hasta el primer cruce que se encuentre.",
+            "C) Solo en la calle principal del pueblo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales de reglamentación colocadas junto o encima de la señal de nombre de población se deben cumplir en toda la localidad."
+    },
+    {
+        "_id": "PB-TM3-P112",
+        "Enunciado": "Una señal circular con el número 40 encima del nombre de un pueblo significa que...",
+        "Opciones": [
+            "A) Solo los camiones deben respetar ese límite de velocidad.",
+            "B) Está prohibido conducir a más de 40 km/h en todo el pueblo.",
+            "C) Se recomienda circular a 40 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Según el ejemplo del temario, indica la prohibición de superar los 40 km/h en todo el pueblo."
+    },
+    {
+        "_id": "PB-TM3-P113",
+        "Enunciado": "Si una señal de velocidad máxima está antes o después del nombre del pueblo, ¿cuál es su alcance?",
+        "Opciones": [
+            "A) Solo afecta a los vehículos que entran al pueblo, no a los que salen.",
+            "B) Sigue siendo válida para todo el pueblo.",
+            "C) Solo vale para ese tramo, hasta encontrar otra señal."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Si está antes o después, la limitación solo afecta a ese tramo específico hasta que aparezca otra señal."
+    },
+    {
+        "_id": "PB-TM3-P114",
+        "Enunciado": "¿Con qué letra empieza el nombre de las señales de reglamentación?",
+        "Opciones": [
+            "A) Con la letra S.",
+            "B) Con la letra R.",
+            "C) Con la letra P."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El nombre de las señales de reglamentación empieza con la letra R."
+    },
+    {
+        "_id": "PB-TM3-P115",
+        "Enunciado": "¿Qué obligación impone la señal R-1 de ceda el paso?",
+        "Opciones": [
+            "A) Detenerse siempre, aunque no vengan vehículos.",
+            "B) Acelerar para incorporarse rápido al tráfico.",
+            "C) Ceder el paso a los vehículos que ya circulan por la vía a la que se quiere entrar o al carril al que se quiere ir."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-1 obliga a ceder el paso a los vehículos que ya están en la vía o carril al que se pretende acceder.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P116",
+        "Enunciado": "¿Qué indica la señal R-2 de STOP?",
+        "Opciones": [
+            "A) Reducir la velocidad hasta casi detenerse.",
+            "B) Detenerse solo si vienen otros vehículos por la izquierda.",
+            "C) Obligación de parar el vehículo y dejar pasar a los vehículos de la vía a la que quieres entrar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-2 obliga a detener el vehículo totalmente y ceder el paso.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P117",
+        "Enunciado": "¿Qué significa circular por una carretera con la señal R-3?",
+        "Opciones": [
+            "A) Que tienes preferencia en los cruces antes que los conductores que llegan desde otra carretera.",
+            "B) Que la carretera tiene peaje obligatorio.",
+            "C) Que es una vía exclusiva para automóviles."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-3 indica que se circula por una carretera con preferencia de paso en las intersecciones.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P118",
+        "Enunciado": "¿Qué indica la señal R-4?",
+        "Opciones": [
+            "A) Prohibición de circular a más de 40 km/h.",
+            "B) Que la carretera por la que circulas deja de tener más preferencia que otras.",
+            "C) Que comienza una carretera con preferencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-4 indica el fin de la carretera con preferencia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P119",
+        "Enunciado": "Ante la señal R-5 en un paso estrecho, ¿cuándo está prohibido entrar?",
+        "Opciones": [
+            "A) Si al atravesarlo estorbas a los vehículos que vienen de frente.",
+            "B) Siempre, sin excepción.",
+            "C) Solo si conduces un vehículo de más de 3.500 kg."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-5 prohíbe la entrada si se va a obstaculizar a los que vienen en sentido contrario.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P120",
+        "Enunciado": "¿Qué indica la señal R-6 en un paso estrecho?",
+        "Opciones": [
+            "A) Obligación de ceder el paso al sentido contrario.",
+            "B) Que tienes preferencia para pasar antes que los vehículos que vienen en sentido contrario.",
+            "C) Que el paso está cerrado por obras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-6 indica prioridad de paso sobre el sentido contrario en tramos estrechos.",
+        "Imagen": true
+    }
+]

@@ -1,0 +1,343 @@
+[
+    {
+        "_id": "PB-TM3-P331",
+        "Enunciado": "¿Qué información proporciona el panel complementario S-800?",
+        "Opciones": [
+            "A) Indica la longitud total de un tramo peligroso.",
+            "B) Indica el número de teléfono del servicio de grúa.",
+            "C) Indica la distancia que hay desde la señal a algún peligro o advertencia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El panel S-800 indica la distancia que hay desde el lugar donde está la señal hasta el peligro o advertencia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P332",
+        "Enunciado": "¿Qué indica el panel complementario S-810?",
+        "Opciones": [
+            "A) Indica la distancia exacta hasta el próximo pueblo o ciudad.",
+            "B) Indica que el peligro solo afecta a los vehículos de transporte escolar.",
+            "C) Indica cuánto ocupa el tramo peligroso, es decir, durante cuántos metros o kilómetros hay peligro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-810 sirve para indicar la extensión o longitud del tramo en el que existe el peligro.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P333",
+        "Enunciado": "Si ves las señales S-820 o S-821 debajo de una señal de prohibición, ¿qué significan?",
+        "Opciones": [
+            "A) Indican cuántos metros dura esa prohibición siguiendo el sentido de la flecha.",
+            "B) Que la prohibición solo se debe cumplir los días festivos.",
+            "C) Que la prohibición termina inmediatamente al pasar la señal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Estas señales indican la distancia en metros durante la cual se mantiene la prohibición en la dirección señalada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P334",
+        "Enunciado": "¿Cuál es la función de los paneles complementarios S-850 a S-853?",
+        "Opciones": [
+            "A) Indicar el número de carriles que tienen preferencia de paso.",
+            "B) Indica en qué dirección y sentido se puede circular con preferencia.",
+            "C) Avisar de la proximidad de un cruce con prioridad de la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Estos paneles se colocan junto a la señal R-3 para indicar el itinerario con preferencia en una intersección.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P335",
+        "Enunciado": "Colocado debajo de la señal de Ceda el paso, ¿qué indica el panel S-840?",
+        "Opciones": [
+            "A) Que se aproxima un paso a nivel con barreras.",
+            "B) El tiempo que debe estar el vehículo detenido.",
+            "C) La distancia a la que el conductor debe parar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El panel S-840 informa sobre la distancia a la que se encuentra la obligación de detenerse (Stop).",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P336",
+        "Enunciado": "¿Qué significa el panel complementario S-870?",
+        "Opciones": [
+            "A) Que la señal solo debe cumplirse durante la noche.",
+            "B) Que la señal es válida únicamente para motocicletas.",
+            "C) Indica que la prohibición o advertencia de la señal principal solo corresponde al carril o ramal al que señala."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-870 limita el alcance de la señal principal al carril o salida específica hacia la que apunta la flecha.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P337",
+        "Enunciado": "¿Para qué sirve el panel complementario S-880?",
+        "Opciones": [
+            "A) Para señalar que el tramo de vía es exclusivo para los vehículos dibujados.",
+            "B) Indica que la prohibición o aviso solo la deben cumplir los vehículos que se ven en este panel.",
+            "C) Para indicar que la señal afecta a todos los vehículos sin excepción."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El panel S-880 especifica qué tipos de vehículos están afectados por la señal principal colocada encima.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P338",
+        "Enunciado": "¿Cuándo se debe cumplir una señal que tiene debajo el panel complementario S-890?",
+        "Opciones": [
+            "A) Cuando hay nieve, lluvia o niebla.",
+            "B) Únicamente durante los meses de invierno.",
+            "C) Solo cuando la temperatura sea inferior a los 0 grados."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-890 indica que la norma o peligro corresponde a situaciones meteorológicas adversas como nieve, lluvia o niebla.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P339",
+        "Enunciado": "¿Qué indica la señal S-960?",
+        "Opciones": [
+            "A) Hay un teléfono de emergencia.",
+            "B) Una centralita de información de tráfico.",
+            "C) Un puesto de auxilio mecánico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-960 informa de la presencia de un teléfono para pedir ayuda en caso de emergencia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P340",
+        "Enunciado": "¿Qué significa la señal S-980?",
+        "Opciones": [
+            "A) Zona reservada para evacuación médica.",
+            "B) Hay una salida de emergencia.",
+            "C) Entrada permitida a vehículos de rescate."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-980 indica la ubicación de una salida destinada a emergencias.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P341",
+        "Enunciado": "¿Cuál es el significado de la señal S-990?",
+        "Opciones": [
+            "A) El número de metros hasta el próximo poste SOS en el túnel.",
+            "B) La distancia hasta el final del túnel.",
+            "C) Indica dónde está la salida de emergencia en los túneles."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-990 se utiliza específicamente en túneles para orientar hacia la salida de emergencia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P342",
+        "Enunciado": "En una carretera de dos sentidos, ¿qué prohíbe la línea blanca continua a los conductores?",
+        "Opciones": [
+            "A) Circular a la izquierda de la línea.",
+            "B) Solo prohíbe el adelantamiento de camiones.",
+            "C) Únicamente prohíbe aparcar sobre la línea."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En carreteras de dos sentidos, la línea continua prohíbe circular por el lado izquierdo de la misma."
+    },
+    {
+        "_id": "PB-TM3-P343",
+        "Enunciado": "Respecto a las líneas blancas continuas en la carretera, ¿qué está prohibido hacer?",
+        "Opciones": [
+            "A) Circular a una velocidad constante sobre ellas.",
+            "B) Atravesar la línea.",
+            "C) Seguir recto si la línea hace curva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Según el temario, una de las prohibiciones de la línea continua es atravesarla."
+    },
+    {
+        "_id": "PB-TM3-P344",
+        "Enunciado": "Además de no atravesarla, ¿qué otra restricción impone la línea blanca continua?",
+        "Opciones": [
+            "A) Conducir por encima de ella.",
+            "B) Usarla como guía visual en condiciones de niebla.",
+            "C) Detener el vehículo sobre ella en caso de avería."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Está expresamente prohibido conducir por encima de una línea blanca continua."
+    },
+    {
+        "_id": "PB-TM3-P345",
+        "Enunciado": "Si la separación entre las líneas es más ancha de lo normal, ¿qué significa?",
+        "Opciones": [
+            "A) Que hay cerca un carril especial.",
+            "B) Que la carretera se va a ensanchar.",
+            "C) Que el pavimento está en mal estado."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Una mayor anchura en la separación de las líneas indica la proximidad o presencia de un carril especial."
+    },
+    {
+        "_id": "PB-TM3-P346",
+        "Enunciado": "¿Cómo se define una línea discontinua en la carretera?",
+        "Opciones": [
+            "A) Una línea de color amarillo que indica precaución.",
+            "B) Una línea formada por muchas líneas más pequeñas seguidas, con espacios libres entre ellas.",
+            "C) Dos líneas paralelas que marcan el centro de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La línea discontinua se caracteriza por estar fragmentada en tramos cortos con espacios intermedios."
+    },
+    {
+        "_id": "PB-TM3-P347",
+        "Enunciado": "¿Qué significan las líneas discontinuas dobles a los dos lados de un carril?",
+        "Opciones": [
+            "A) Que el carril está reservado únicamente para vehículos de gran tonelaje.",
+            "B) Que está prohibido realizar cualquier tipo de adelantamiento en ese carril.",
+            "C) Que en este carril a veces se puede conducir hacia un sentido y otras veces hacia otro."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las líneas discontinuas dobles delimitan un carril reversible, cuyo sentido de circulación puede variar."
+    },
+    {
+        "_id": "PB-TM3-P348",
+        "Enunciado": "En un carril con líneas discontinuas dobles, ¿cómo saben los conductores en qué sentido circular?",
+        "Opciones": [
+            "A) Siguiendo el sentido de la mayoría de los vehículos.",
+            "B) Habrá semáforos en ese carril u otros medios para indicarlo.",
+            "C) Dependiendo de si la hora del día es par o impar."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El sentido de circulación en carriles reversibles se indica mediante semáforos de carril u otros dispositivos."
+    },
+    {
+        "_id": "PB-TM3-P349",
+        "Enunciado": "Si hay una línea continua y otra discontinua juntas, ¿cuál debe tener en cuenta el conductor?",
+        "Opciones": [
+            "A) Ambas, debiendo extremar la precaución.",
+            "B) Solo la línea que está más cerca del lado por el que va conduciendo.",
+            "C) Siempre la línea continua, por ser más restrictiva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El conductor debe obedecer la marca vial que se encuentre más próxima a su lado de circulación."
+    },
+    {
+        "_id": "PB-TM3-P350",
+        "Enunciado": "¿Está permitido atravesar o circular sobre las líneas de borde y aparcamiento?",
+        "Opciones": [
+            "A) Sí, pueden atravesarse o circular sobre ellas.",
+            "B) Solo en caso de que sea necesario realizar un giro a la izquierda.",
+            "C) No, se deben respetar como si fueran líneas continuas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las líneas de borde (que marcan el fin de la carretera) o de aparcamiento pueden ser rebasadas."
+    },
+    {
+        "_id": "PB-TM3-P351",
+        "Enunciado": "Ante una línea transversal continua, ¿qué deben hacer todos los vehículos?",
+        "Opciones": [
+            "A) Detenerse cuando lo marquen ciertas señales o indicaciones.",
+            "B) Reducir la velocidad hasta los 20 km/h.",
+            "C) Cambiar obligatoriamente al carril derecho."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La línea transversal continua obliga a la detención del vehículo ante determinadas señales o agentes."
+    },
+    {
+        "_id": "PB-TM3-P352",
+        "Enunciado": "¿Qué señales o elementos obligan a detenerse en una línea transversal continua?",
+        "Opciones": [
+            "A) Las señales de peligro y las líneas de borde.",
+            "B) Únicamente las señales verticales de limitación de velocidad.",
+            "C) Semáforos, pasos de peatones, instrucciones de agentes y señales de detención obligatoria."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La detención en la línea continua se realiza para cumplir con semáforos, pasos de cebra, órdenes de agentes o señales de Stop."
+    },
+    {
+        "_id": "PB-TM3-P353",
+        "Enunciado": "¿Obliga por sí sola a detenerse la marca transversal continua en la calzada?",
+        "Opciones": [
+            "A) Solo si está pintada en una intersección sin visibilidad.",
+            "B) Sí, siempre indica una parada obligatoria inmediata.",
+            "C) No, la marca no obliga por sí sola."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La línea transversal continua por sí misma no impone la detención; debe ir acompañada de una señal o circunstancia que la exija."
+    },
+    {
+        "_id": "PB-TM3-P354",
+        "Enunciado": "Según el temario, ¿qué es una línea transversal?",
+        "Opciones": [
+            "A) La línea que separa la calzada del arcén.",
+            "B) Línea que cruza la carretera a lo ancho, en vez de hacerlo a lo largo.",
+            "C) Una línea que divide los carriles en el mismo sentido."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Se define línea transversal como aquella que atraviesa la vía de un lado a otro (a lo ancho)."
+    },
+    {
+        "_id": "PB-TM3-P355",
+        "Enunciado": "¿Cuándo no deben los vehículos rebasar una línea transversal discontinua?",
+        "Opciones": [
+            "A) Únicamente cuando haya peatones esperando en la acera.",
+            "B) Si deben ceder el paso a otros vehículos siguiendo las normas o señales.",
+            "C) Cuando la línea esté pintada antes de una curva."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La línea transversal discontinua marca el lugar donde no se debe pasar si se tiene la obligación de ceder el paso."
+    },
+    {
+        "_id": "PB-TM3-P356",
+        "Enunciado": "¿Qué son las marcas de paso de peatones en la calzada?",
+        "Opciones": [
+            "A) Líneas anchas que indican que los conductores deben dejar paso a los peatones.",
+            "B) Cuadrados blancos que reservan el espacio para la carga y descarga.",
+            "C) Líneas amarillas que prohíben el estacionamiento cerca de las esquinas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El paso de peatones se señaliza con líneas blancas anchas y transversales para dar prioridad a los peatones."
+    },
+    {
+        "_id": "PB-TM3-P357",
+        "Enunciado": "¿Cómo se indica un paso para ciclistas en la calzada?",
+        "Opciones": [
+            "A) Con una línea continua de color rojo.",
+            "B) Mediante un cebreado blanco en el centro del carril.",
+            "C) Con líneas discontinuas y paralelas que indican que los ciclistas tienen preferencia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El paso para ciclistas se marca con dos líneas discontinuas paralelas, otorgándoles prioridad de paso."
+    },
+    {
+        "_id": "PB-TM3-P358",
+        "Enunciado": "Ante la señal de STOP escrita en la calzada, ¿dónde debe parar el conductor?",
+        "Opciones": [
+            "A) Antes de la línea de detención.",
+            "B) Justo encima de las letras de la señal.",
+            "C) En el centro del cruce para tener mejor visibilidad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La detención obligatoria por la marca de Stop debe realizarse inmediatamente antes de la línea transversal de detención."
+    },
+    {
+        "_id": "PB-TM3-P359",
+        "Enunciado": "¿A qué vehículos afecta la señal de límite de velocidad escrita en la calzada?",
+        "Opciones": [
+            "A) A todos los vehículos que circulan por la carretera en ese sentido.",
+            "B) Solo a los camiones y vehículos pesados.",
+            "C) A los vehículos que circulan por el carril donde está la señal."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El límite de velocidad pintado en el suelo afecta exclusivamente a los usuarios del carril en el que se encuentra la marca."
+    },
+    {
+        "_id": "PB-TM3-P360",
+        "Enunciado": "¿Hasta cuándo hay que seguir la indicación de velocidad escrita en la calzada?",
+        "Opciones": [
+            "A) Solo durante los siguientes 500 metros.",
+            "B) Hasta que otra señal diga que se puede circular a otra velocidad.",
+            "C) Hasta el final de la calle o carretera."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La limitación impuesta por la marca vial de velocidad se mantiene hasta encontrar una nueva señalización de velocidad."
+    }
+]

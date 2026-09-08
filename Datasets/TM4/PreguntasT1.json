@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM4-P1",
+    "Enunciado": "¿Cuándo es obligatorio llevar encendidas las luces que correspondan en un vehículo?",
+    "Opciones": [
+      "A) Solo cuando el conductor lo considere necesario por falta de visibilidad.",
+      "B) Únicamente durante la madrugada antes del amanecer.",
+      "C) Entre la entrada y salida del sol."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Según las normas generales, por la noche debes llevar encendidas las luces que correspondan en cada momento siempre que sea de noche."
+  },
+  {
+    "_id": "PB-TM4-P2",
+    "Enunciado": "Durante el día, ¿en qué circunstancia climática se deben encender las luces?",
+    "Opciones": [
+      "A) Cuando hace un día oscuro con poca luz natural.",
+      "B) Solo si está lloviendo de forma torrencial.",
+      "C) Únicamente si hay niebla muy densa."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Durante el día, es obligatorio encender las luces si las condiciones ambientales hacen que el día sea oscuro y haya poca luz natural."
+  },
+  {
+    "_id": "PB-TM4-P3",
+    "Enunciado": "¿Es obligatorio encender las luces al circular por un túnel durante el día?",
+    "Opciones": [
+      "A) No, si el túnel cuenta con iluminación artificial suficiente.",
+      "B) Sí, se deben encender al pasar por un túnel.",
+      "C) Solo es obligatorio si el túnel mide más de 100 metros."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El temario especifica que al pasar por un túnel se deben encender las luces, incluso durante el día."
+  },
+  {
+    "_id": "PB-TM4-P4",
+    "Enunciado": "Al conducir por un carril reversible durante el día, ¿qué norma de alumbrado debe seguirse?",
+    "Opciones": [
+      "A) No es necesario encender ninguna luz si hay sol.",
+      "B) Se deben encender solo las luces de posición.",
+      "C) Se deben encender las luces del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es obligatorio encender las luces cuando se conduce por un carril reversible, sin importar que sea de día."
+  },
+  {
+    "_id": "PB-TM4-P5",
+    "Enunciado": "¿Qué es un carril reversible?",
+    "Opciones": [
+      "A) Un carril que a veces está abierto en un sentido y otras veces en el contrario.",
+      "B) Un carril destinado exclusivamente a la marcha atrás en caso de emergencia.",
+      "C) Un carril que permite el giro en U en cualquier momento."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Un carril reversible se define como aquel que puede estar abierto en un sentido o en el contrario según las necesidades del tráfico."
+  },
+  {
+    "_id": "PB-TM4-P6",
+    "Enunciado": "Si circula por un carril adicional o en sentido contrario al habitual por obras, ¿debe usar las luces durante el día?",
+    "Opciones": [
+      "A) No, las luces son solo para uso nocturno en estos carriles.",
+      "B) Sí, se deben encender en estos casos.",
+      "C) Solo si la velocidad es superior a 80 km/h."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Se deben encender las luces durante el día al conducir por un carril adicional o uno que va en sentido contrario al normal debido a obras o accidentes."
+  },
+  {
+    "_id": "PB-TM4-P7",
+    "Enunciado": "¿Qué se entiende por un carril adicional?",
+    "Opciones": [
+      "A) Un carril de uso exclusivo para vehículos de alta ocupación.",
+      "B) Un carril reservado para el estacionamiento de vehículos averiados.",
+      "C) Un nuevo carril que se abre de forma temporal por obras, retenciones o accidentes."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Un carril adicional es aquel que se habilita temporalmente para mejorar la fluidez ante obras, atascos o incidentes."
+  },
+  {
+    "_id": "PB-TM4-P8",
+    "Enunciado": "Si se estropean algunas luces mientras conduce, ¿qué es lo primero que debe hacer?",
+    "Opciones": [
+      "A) Reducir la velocidad del coche y poner otra que funcione aunque se vea menos.",
+      "B) Aumentar la velocidad para llegar pronto a un taller y poner las luces mas potentes.",
+      "C) Continuar circulando con normalidad hasta su destino siempre que este bien iluminada la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Ante la avería de luces en marcha, la primera medida de seguridad es reducir la velocidad además de encender las luces que funcionen aunque se vea menos."
+  },
+  {
+    "_id": "PB-TM4-P9",
+    "Enunciado": "Ante una avería de luces, ¿dónde debe aparcar el vehículo?",
+    "Opciones": [
+      "A) En el mismo lugar donde se produzca la avería inmediatamente.",
+      "B) Cuando llegue a una zona iluminada.",
+      "C) En el arcén izquierdo si es una autopista."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El conductor debe reducir la velocidad y buscar una zona iluminada para aparcar el vehículo de forma segura."
+  },
+  {
+    "_id": "PB-TM4-P10",
+    "Enunciado": "Tras aparcar por una avería en las luces, ¿cuándo puede seguir circulando?",
+    "Opciones": [
+      "A) Solamente si la vía está bien iluminada y nos escolta un vehículo cualquiera.",
+      "B) Si el conductor considera que tiene visibilidad suficiente con las luces que quedan.",
+      "C) No debe seguir circulando hasta que el sistema de luces esté arreglado."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "La norma prohíbe seguir circulando con el sistema de alumbrado averiado hasta que este sea reparado."
+  },
+  {
+    "_id": "PB-TM4-P11",
+    "Enunciado": "¿Cuándo se considera que una carretera está poco iluminada respecto a la matrícula de otro vehículo?",
+    "Opciones": [
+      "A) Cuando no se puede leer la matrícula del vehículo de delante a 10 metros de distancia.",
+      "B) Cuando no se distingue el color de la matrícula a 20 metros.",
+      "C) Cuando la matrícula está sucia y no se ve a 5 metros."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Uno de los criterios para considerar una vía poco iluminada es la imposibilidad de leer la placa de matrícula del vehículo precedente a 10 metros."
+  },
+  {
+    "_id": "PB-TM4-P12",
+    "Enunciado": "Se considera que una carretera está poco iluminada si no se ve un vehículo de color oscuro a...",
+    "Opciones": [
+      "A) 100 metros de distancia.",
+      "B) 50 metros de distancia.",
+      "C) 25 metros de distancia."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La falta de visibilidad de un vehículo oscuro a una distancia de 50 metros define legalmente a una carretera como poco iluminada."
+  },
+  {
+    "_id": "PB-TM4-P13",
+    "Enunciado": "¿Cuál es la función principal de las luces de posición?",
+    "Opciones": [
+      "A) Alumbrar la carretera a larga distancia para el conductor.",
+      "B) Sustituir a las luces de cruce en túneles muy iluminados.",
+      "C) Que se vea bien el vehículo y se sepa lo ancho que es."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las luces de posición sirven para señalizar la presencia y la anchura del vehículo ante otros usuarios."
+  },
+  {
+    "_id": "PB-TM4-P14",
+    "Enunciado": "¿En qué partes del vehículo se encuentran situadas las luces de posición?",
+    "Opciones": [
+      "A) En la parte de delante, en la de atrás y en los laterales.",
+      "B) Únicamente en la parte delantera para no deslumbrar.",
+      "C) Solo en la parte trasera y en los laterales."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El vehículo dispone de luces de posición delanteras, traseras y laterales."
+  },
+  {
+    "_id": "PB-TM4-P15",
+    "Enunciado": "¿De qué color son las luces de posición delanteras?",
+    "Opciones": [
+      "A) Amarillas.",
+      "B) Blancas.",
+      "C) Rojas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las luces de posición situadas en la parte delantera del vehículo deben ser de color blanco."
+  },
+  {
+    "_id": "PB-TM4-P16",
+    "Enunciado": "¿De qué color son las luces de posición traseras?",
+    "Opciones": [
+      "A) Blancas.",
+      "B) Amarillas.",
+      "C) Rojas."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Las luces de posición situadas en la parte posterior del vehículo son de color rojo."
+  },
+  {
+    "_id": "PB-TM4-P17",
+    "Enunciado": "¿De qué color son las luces de posición laterales?",
+    "Opciones": [
+      "A) Amarillas.",
+      "B) Rojas.",
+      "C) Blancas."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las luces de posición que se encuentran en los laterales del vehículo son de color amarillo."
+  },
+  {
+    "_id": "PB-TM4-P18",
+    "Enunciado": "¿En qué situaciones se deben usar las luces de posición?",
+    "Opciones": [
+      "A) Únicamente cuando hay niebla espesa durante el día.",
+      "B) De noche, al pasar por un túnel o en días oscuros con poca luz.",
+      "C) Solo para estacionar en el arcén de una autopista."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Su uso es preceptivo de noche, en túneles y cuando la luz natural sea insuficiente."
+  },
+  {
+    "_id": "PB-TM4-P19",
+    "Enunciado": "Cuando el vehículo está en movimiento, las luces de posición...",
+    "Opciones": [
+      "A) Se pueden encender solas si la carretera está muy iluminada.",
+      "B) Deben apagarse para ahorrar batería si se usan las de cruce.",
+      "C) Siempre se encienden con otro tipo de luces."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "En circulación, las luces de posición nunca van solas; siempre acompañan a otro sistema de alumbrado."
+  },
+  {
+    "_id": "PB-TM4-P20",
+    "Enunciado": "¿Cuándo se pueden encender las luces de posición solas, sin otro tipo de luces?",
+    "Opciones": [
+      "A) Solo cuando el coche está parado por alguna circunstancia.",
+      "B) Cuando se circula por una vía urbana muy bien iluminada.",
+      "C) Al circular a menos de 20 km/h en zonas residenciales."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Únicamente está permitido el uso de las luces de posición de forma aislada cuando el vehículo se encuentra parado, como por ejemplo, cuando un coche que tiene que parar por una avería en una carretera mal iluminada."
+  },
+  {
+    "_id": "PB-TM4-P21",
+    "Enunciado": "¿Cuándo se utiliza la luz de estacionamiento?",
+    "Opciones": [
+      "A) Al circular por una vía privada para no molestar.",
+      "B) Cuando un vehículo se tiene que parar en una zona mal iluminada.",
+      "C) Siempre que se abandone el vehículo en un parking público."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La luz de estacionamiento tiene como fin señalizar el vehículo cuando este para en lugares con iluminación deficiente."
+  },
+  {
+    "_id": "PB-TM4-P22",
+    "Enunciado": "¿Se puede usar la luz de estacionamiento en lugar de las luces de posición al parar en zonas mal iluminadas?",
+    "Opciones": [
+      "A) No, la de posición es siempre obligatoria.",
+      "B) Solo si el vehículo es un camión de gran tonelaje.",
+      "C) Sí, se puede usar en vez de las luces de posición."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El reglamento permite sustituir las luces de posición por las de estacionamiento en paradas en zonas mal iluminadas."
+  },
+  {
+    "_id": "PB-TM4-P23",
+    "Enunciado": "¿Dónde se sitúan las luces de estacionamiento y de qué color son?",
+    "Opciones": [
+      "A) Delante y detrás, y son del mismo color que las de posición.",
+      "B) Delante, detrás y en los laterales, y son del mismo color que las de posición.",
+      "C) En el techo del vehículo y son de color blanco intenso."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Las luces de estacionamiento se ubican delante y detrás y mantienen la misma codificación de colores que las de posición."
+  },
+  {
+    "_id": "PB-TM4-P24",
+    "Enunciado": "¿Para qué sirven las luces de gálibo?",
+    "Opciones": [
+      "A) Para iluminar el interior de los vehículos de transporte público.",
+      "B) Para indicar de forma clara cuál es la anchura total del vehículo.",
+      "C) Para avisar de que el vehículo transporta mercancías peligrosas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las luces de gálibo tienen como función mostrar el ancho total del vehículo, especialmente en vehículos voluminosos, ya que la propia palabra gálibo hace referencia a la anchura del vehículo."
+  },
+  {
+    "_id": "PB-TM4-P25",
+    "Enunciado": "¿Cómo se colocan las luces de gálibo en el vehículo?",
+    "Opciones": [
+      "A) Una sola luz en el centro de la parte trasera.",
+      "B) Cuatro luces en los bajos del vehículo para iluminar el suelo.",
+      "C) Dos luces delanteras y dos traseras en los bordes exteriores y en la zona más alta."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se instalan por parejas (2 delante y 2 detrás) en los puntos más altos y extremos de la carrocería."
+  },
+  {
+    "_id": "PB-TM4-P26",
+    "Enunciado": "¿En qué casos se deben usar las luces de gálibo?",
+    "Opciones": [
+      "A) En los mismos casos que las luces de posición.",
+      "B) Solo cuando se circula marcha atrás por un túnel.",
+      "C) Únicamente durante la carga y descarga de mercancías."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El uso de las luces de gálibo coincide con los supuestos de uso de las luces de posición."
+  },
+  {
+    "_id": "PB-TM4-P27",
+    "Enunciado": "¿De qué color son las luces de gálibo delanteras y traseras?",
+    "Opciones": [
+      "A) Delanteras amarillas y traseras blancas.",
+      "B) Delanteras blancas y traseras rojas.",
+      "C) Delanteras rojas y traseras amarillas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Al igual que las de posición, las luces de gálibo delanteras son blancas y las traseras rojas."
+  },
+  {
+    "_id": "PB-TM4-P28",
+    "Enunciado": "¿Para qué vehículos es obligatorio el uso de luces de gálibo?",
+    "Opciones": [
+      "A) Solo para turismos que arrastren un remolque ligero.",
+      "B) Para motocicletas con sidecar de más de 1 metro de ancho.",
+      "C) Para automóviles, remolques y semirremolques de más de 2,10 metros de ancho."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Cualquier automóvil o remolque que exceda los 2,10 metros de anchura tiene la obligación de llevar estas luces."
+  },
+  {
+    "_id": "PB-TM4-P29",
+    "Enunciado": "¿Para qué automóviles es opcional la instalación de luces de gálibo?",
+    "Opciones": [
+      "A) Para aquellos que miden entre 1,80 y 2,10 metros de ancho.",
+      "B) Para todos los que midan más de 1,50 metros de ancho.",
+      "C) Cualquier vehículo puede utilizarla sin importar el ancho."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Si el vehículo mide entre 1,80 y 2,10 metros, la luz de gálibo no es obligatoria sino opcional, pero si mide menos de 1,80 está prohibida usarla para no confundir."
+  },
+  {
+    "_id": "PB-TM4-P30",
+    "Enunciado": "¿Cuál es la función de la luz de largo alcance o de carretera?",
+    "Opciones": [
+      "A) Avisar a los peatones de que el vehículo se aproxima.",
+      "B) Alumbrar una distancia larga delante del vehículo en carretera.",
+      "C) Facilitar la visión de las señales laterales en ciudad."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Esta luz está diseñada para proporcionar visibilidad a gran distancia por delante del vehículo en vías interurbanas."
+  }
+]

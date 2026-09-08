@@ -1,0 +1,360 @@
+[
+    {
+        "_id": "PB-TM3-P271",
+        "Enunciado": "¿Qué indica la señal S-34?",
+        "Opciones": [
+            "A) Proximidad de un área de descanso con merendero.",
+            "B) Hay un lugar en el que se puede aparcar un vehículo dentro de un túnel en caso de emergencia o avería.",
+            "C) Lugar reservado para el estacionamiento de taxis."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-34 señala un lugar habilitado para aparcar dentro de un túnel únicamente en situaciones de emergencia o avería.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P272",
+        "Enunciado": "La señal S-34a indica que en ese lugar hay...",
+        "Opciones": [
+            "A) Un teléfono de emergencia.",
+            "B) Una salida de emergencia hacia el exterior.",
+            "C) Un extintor de incendios."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-34a informa de que el lugar cuenta con un teléfono de emergencia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P273",
+        "Enunciado": "¿Qué indica la presencia de un número dentro de la señal de carril (grupo S-50)?",
+        "Opciones": [
+            "A) El número de kilómetros que restan para el final de la vía.",
+            "B) Por los carriles señalizados con un número solo pueden ir los vehículos que circulan a esa velocidad o más rápido.",
+            "C) La velocidad máxima a la que se permite circular por ese carril."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los carriles señalizados con un número indican que solo pueden ser ocupados por vehículos que alcancen, al menos, esa velocidad."
+    },
+    {
+        "_id": "PB-TM3-P274",
+        "Enunciado": "¿Cuál es el significado de la señal S-51?",
+        "Opciones": [
+            "A) Carril reservado para autobuses.",
+            "B) Prohibición de circular a autobuses por ese carril.",
+            "C) Carril exclusivo para vehículos con más de dos ocupantes."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-51 indica que el carril está reservado específicamente para la circulación de autobuses.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P275",
+        "Enunciado": "¿De qué informan las señales S-52, S-52a y S-52b?",
+        "Opciones": [
+            "A) De un aumento en el número de carriles disponibles en la calzada.",
+            "B) De que el carril derecho se convierte en carril obligatorio de salida.",
+            "C) Avisa de que un carril no se puede usar más e indica el carril por el que se puede continuar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Estas señales avisan de la finalización de un carril y orientan hacia cuál se debe realizar el desplazamiento para continuar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P276",
+        "Enunciado": "¿Qué información proporciona la señal S-53c?",
+        "Opciones": [
+            "A) Que la carretera pasa de tener tres carriles a tener dos.",
+            "B) La proximidad de un cruce con prioridad de paso para el carril central.",
+            "C) Carretera que pasa de tener dos carriles a tener tres, indicando además la velocidad máxima de cada uno."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-53c indica que se gana un carril adicional (pasa de 2 a 3) y especifica los límites de velocidad correspondientes.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P277",
+        "Enunciado": "En una carretera de dos carriles, ¿qué indica la señal S-60a?",
+        "Opciones": [
+            "A) Que ambos carriles se unen en uno solo de frente.",
+            "B) Indica que el carril de la izquierda se va a desviar hacia la izquierda.",
+            "C) Que el carril de la derecha se desvía a la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En tramos de dos carriles, la señal S-60a advierte de la desviación del carril izquierdo hacia ese mismo lado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P278",
+        "Enunciado": "Si circulas por una carretera de dos carriles y ves la señal S-60b, ¿qué indica?",
+        "Opciones": [
+            "A) Que está prohibido adelantar por el lado derecho.",
+            "B) Que el carril derecho termina bruscamente por obras.",
+            "C) Indica que el carril de la derecha se va a desviar hacia la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-60b indica que, en una vía de dos carriles, el situado a la derecha tendrá una desviación hacia ese lado."
+    },
+    {
+        "_id": "PB-TM3-P279",
+        "Enunciado": "¿Qué indica la señal S-61a en una carretera de tres carriles?",
+        "Opciones": [
+            "A) Que el carril derecho se desvía a la derecha.",
+            "B) Indica que el carril de la izquierda se va a desviar hacia la izquierda.",
+            "C) Que el carril central se desvía a la izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En vías de tres carriles, la S-61a señaliza la desviación del carril más a la izquierda.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P280",
+        "Enunciado": "Ante la señal S-61b en una vía de tres carriles, ¿qué maniobra se indica?",
+        "Opciones": [
+            "A) La unión del carril central con el derecho.",
+            "B) Indica que el carril de la derecha se va a desviar hacia la derecha.",
+            "C) El fin del carril central por estrechamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-61b advierte de que el carril situado a la derecha en una vía de tres carriles se desviará en ese sentido.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P281",
+        "Enunciado": "¿Quiénes pueden circular por el carril señalizado con la S-64?",
+        "Opciones": [
+            "A) Por ese carril solo podrán circular ciclos.",
+            "B) Ciclos y peatones exclusivamente.",
+            "C) Únicamente ciclomotores y bicicletas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-64 indica un carril bici o vía ciclista en la carretera reservado solo para ciclos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P282",
+        "Enunciado": "¿Qué indica la señal S-107?",
+        "Opciones": [
+            "A) Zona de picnic o merendero.",
+            "B) Un albergue juvenil próximo.",
+            "C) Lugar donde puedes acampar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-107 identifica un lugar apto para la acampada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P283",
+        "Enunciado": "¿Qué servicio anuncia la señal S-108?",
+        "Opciones": [
+            "A) Una zona de baño permitida.",
+            "B) Un lavadero de vehículos.",
+            "C) Hay una fuente con agua."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-108 indica la presencia de una fuente de agua.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P284",
+        "Enunciado": "¿Qué indica la señal S-109?",
+        "Opciones": [
+            "A) Hay un lugar bonito de ver.",
+            "B) Un parque de atracciones.",
+            "C) Una oficina de información."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el temario, la S-109 señala un lugar bonito de ver.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P285",
+        "Enunciado": "¿Qué servicio ofrece el lugar indicado por la señal S-110?",
+        "Opciones": [
+            "A) Un centro de salud o ambulatorio.",
+            "B) Hay un hotel o un motel.",
+            "C) Una zona de acampada con bungalows."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-110 indica la existencia de un hotel o motel.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P286",
+        "Enunciado": "¿Cuál es el significado de la señal S-111?",
+        "Opciones": [
+            "A) Una zona de descanso con máquinas de comida.",
+            "B) Hay un restaurante.",
+            "C) Un bar o cafetería."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-111 indica que hay un restaurante.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P287",
+        "Enunciado": "¿Qué indica la señal S-112?",
+        "Opciones": [
+            "A) Hay un bar o cafetería.",
+            "B) Una tienda de comestibles.",
+            "C) Un comedor social."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-112 identifica un bar o cafetería.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P288",
+        "Enunciado": "¿Qué vehículos pueden estacionar en la zona señalizada con la S-113?",
+        "Opciones": [
+            "A) Turismos con portabicicletas.",
+            "B) Pueden aparcar caravanas.",
+            "C) Solo remolques de carga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-113 indica un lugar donde está permitido el aparcamiento de caravanas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P289",
+        "Enunciado": "¿Qué indica la señal S-114?",
+        "Opciones": [
+            "A) Lugar permitido para realizar fuego.",
+            "B) Puedes parar a comer.",
+            "C) Zona de acampada libre."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-114 indica un lugar habilitado para parar a comer.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P290",
+        "Enunciado": "¿Qué indica la señal S-115?",
+        "Opciones": [
+            "A) Desde ese lugar puedes empezar una excursión andando.",
+            "B) Obligación para los peatones de circular por el arcén.",
+            "C) Proximidad de un paso de peatones en zona rural."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-115 marca el punto de inicio para excursiones a pie.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P291",
+        "Enunciado": "Según la señal S-116, ¿qué está permitido en ese lugar?",
+        "Opciones": [
+            "A) Solo se permite la acampada con tienda, sin vehículos.",
+            "B) Puedes acampar en ese lugar con tienda de campaña y con caravana.",
+            "C) Aparcar camiones y autobuses únicamente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-116 indica que el lugar permite la acampada tanto con tiendas como con caravanas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P292",
+        "Enunciado": "¿Qué indica la señal S-117?",
+        "Opciones": [
+            "A) Un hospital infantil.",
+            "B) Hay un albergue juvenil.",
+            "C) Una escuela de montaña."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-117 informa de la ubicación de un albergue juvenil.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P293",
+        "Enunciado": "¿Cuál es la función de la señal S-118?",
+        "Opciones": [
+            "A) Hay una oficina de turismo.",
+            "B) Informar sobre la cercanía de una biblioteca municipal.",
+            "C) Indicar una zona de acceso a internet público."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-118 indica que hay una oficina de turismo.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P294",
+        "Enunciado": "¿Qué se requiere en la zona señalizada con la S-119?",
+        "Opciones": [
+            "A) El pago de una tasa de entrada al parque fluvial.",
+            "B) Se necesita una autorización especial para pescar.",
+            "C) Estar en posesión de una licencia de caza mayor."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-119 identifica una zona de río donde es obligatoria una autorización especial para pescar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P295",
+        "Enunciado": "¿Qué indica la señal S-120?",
+        "Opciones": [
+            "A) Un coto de caza gestionado.",
+            "B) Una reserva de animales protegidos.",
+            "C) Hay un parque nacional."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-120 señala la presencia de un parque nacional.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P296",
+        "Enunciado": "¿Qué indica la señal S-121?",
+        "Opciones": [
+            "A) La entrada a un barrio histórico peatonal.",
+            "B) Hay monumentos para ver y visitar.",
+            "C) Un edificio oficial o sede del ayuntamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-121 informa de la existencia de monumentos visitables.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P297",
+        "Enunciado": "¿Para qué sirve la señal S-122?",
+        "Opciones": [
+            "A) Señal para indicar otros servicios.",
+            "B) Indicar la proximidad de una gasolinera o taller.",
+            "C) Señalar la dirección hacia un polígono industrial."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-122 es una placa genérica para indicar la presencia de otros servicios no especificados con señal propia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P298",
+        "Enunciado": "¿Cuál es la finalidad del lugar señalizado con la S-123?",
+        "Opciones": [
+            "A) El estacionamiento de vehículos pesados en ruta.",
+            "B) Una zona para el frenado de emergencia.",
+            "C) Área de descanso para parar a descansar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-123 indica un área diseñada específicamente para que los usuarios de la vía paren a descansar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P299",
+        "Enunciado": "¿Qué indica la señal S-124?",
+        "Opciones": [
+            "A) Estación ferroviaria con parking de pago obligatorio.",
+            "B) Zona para aparcar vehículos que conecta con una estación de tren.",
+            "C) Prohibición de estacionar cerca de las vías férreas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-124 señala un aparcamiento que tiene conexión directa con una estación de tren.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P300",
+        "Enunciado": "¿Qué indica la señal S-125?",
+        "Opciones": [
+            "A) Un parking exclusivo para vehículos eléctricos.",
+            "B) Zona para aparcar vehículos que conecta con una estación de tren inferior.",
+            "C) Estación de metro con acceso restringido a residentes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-125 indica un aparcamiento conectado con una estación de tren inferior (subterráneo o metro).",
+        "Imagen": true
+    }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "_id": "PB-TM4-P61",
+    "Enunciado": "¿Dónde están situados los catadióptricos en el vehículo?",
+    "Opciones": [
+      "A) Exclusivamente en la parte de atrás para evitar colisiones por alcance.",
+      "B) En los retrovisores exteriores y en el techo del vehículo.",
+      "C) En la parte delantera, trasera y lateral del vehículo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Este tipo de luces o dispositivos reflectantes están distribuidos en la parte delantera, trasera y lateral del vehículo."
+  },
+  {
+    "_id": "PB-TM4-P62",
+    "Enunciado": "¿De qué color deben ser los catadióptricos delanteros?",
+    "Opciones": [
+      "A) Blancos.",
+      "B) Rojos.",
+      "C) Amarillos."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Los catadióptricos situados en la parte delantera del vehículo tienen que ser obligatoriamente de color blanco."
+  },
+  {
+    "_id": "PB-TM4-P63",
+    "Enunciado": "¿De qué color son los catadióptricos traseros?",
+    "Opciones": [
+      "A) Amarillos para resaltar más en la oscuridad.",
+      "B) Rojos.",
+      "C) Blancos para iluminar la vía al resto de conductores."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Los catadióptricos traseros deben ser siempre de color rojo, al igual que el resto del alumbrado de posición posterior."
+  },
+  {
+    "_id": "PB-TM4-P64",
+    "Enunciado": "Los catadióptricos situados en los laterales del vehículo, ¿de qué color son?",
+    "Opciones": [
+      "A) Blancos.",
+      "B) Rojos.",
+      "C) Amarillos."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Al igual que las luces de posición laterales, los catadióptricos laterales deben ser de color amarillo."
+  },
+  {
+    "_id": "PB-TM4-P65",
+    "Enunciado": "¿Qué forma deben tener los catadióptricos traseros de los remolques y semirremolques?",
+    "Opciones": [
+      "A) Forma triangular.",
+      "B) Forma redonda u ovalada.",
+      "C) Forma cuadrada o rectangular."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La normativa especifica que los remolques y semirremolques deben llevar catadióptricos de forma triangular en su parte trasera."
+  },
+  {
+    "_id": "PB-TM4-P66",
+    "Enunciado": "¿Cuál es la finalidad de la luz indicadora de dirección?",
+    "Opciones": [
+      "A) Iluminar la calzada cuando se entra en una calle oscura.",
+      "B) Avisar de que un vehículo va a girar y moverse hacia la derecha o hacia la izquierda.",
+      "C) Mantener una distancia de seguridad automática con el coche de delante."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El intermitente sirve para advertir a los demás usuarios de la intención de realizar un giro o desplazamiento lateral."
+  },
+  {
+    "_id": "PB-TM4-P67",
+    "Enunciado": "¿Cuándo debe el conductor encender el intermitente?",
+    "Opciones": [
+      "A) Únicamente al estacionar el vehículo en batería.",
+      "B) Solo cuando detecte que hay otros conductores cerca.",
+      "C) Siempre que vaya a cambiar de dirección, de sentido o cambiar de carril."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es obligatorio usar la señalización luminosa en cualquier maniobra que implique cambio de dirección, sentido o carril."
+  },
+  {
+    "_id": "PB-TM4-P68",
+    "Enunciado": "Una vez terminado el giro o movimiento lateral, el conductor debe...",
+    "Opciones": [
+      "A) Apagar la luz indicadora de dirección.",
+      "B) Dejarla encendida 50 metros más por cortesía.",
+      "C) Tocar el claxon para confirmar que la maniobra ha finalizado."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El reglamento obliga a apagar el indicador de dirección en cuanto se termine de realizar el movimiento señalizado."
+  },
+  {
+    "_id": "PB-TM4-P69",
+    "Enunciado": "¿Cómo es la luz de los indicadores de dirección?",
+    "Opciones": [
+      "A) Blanca y fija para no deslumbrar.",
+      "B) Amarilla y luce de manera intermitente.",
+      "C) Roja y muy brillante para indicar peligro."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La luz de los intermitentes es de color amarillo y su funcionamiento debe ser intermitente."
+  },
+  {
+    "_id": "PB-TM4-P70",
+    "Enunciado": "¿Para qué vehículos es obligatorio llevar luces indicadoras de dirección?",
+    "Opciones": [
+      "A) Soloamente para los automóviles, remolques y ciclomotores.",
+      "B) Únicamente para vehículos de transporte de mercancías y autobuses.",
+      "C) Para todos los vehículos a motor, ciclomotores, los remolques y los semirremolques."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Todos los vehículos a motor y ciclomotores, así como los remolques y semirremolques, tienen la obligación de equipar estas luces."
+  },
+  {
+    "_id": "PB-TM4-P71",
+    "Enunciado": "¿Qué advierte la señal de emergencia a los demás usuarios?",
+    "Opciones": [
+      "A) Que el vehículo tiene un problema y puede ser un peligro para los demás.",
+      "B) Que el vehículo tiene prioridad absoluta para circular por ese carril.",
+      "C) Que el vehículo está circulando a la velocidad máxima de la vía."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La señal de emergencia se utiliza para advertir de una situación anómala o peligro proveniente del propio vehículo."
+  },
+  {
+    "_id": "PB-TM4-P72",
+    "Enunciado": "¿Qué luces se encienden para mostrar la señal de emergencia?",
+    "Opciones": [
+      "A) Las luces de posición y las de gálibo delanteras simultáneamente.",
+      "B) Todas las luces de dirección del vehículo a la vez.",
+      "C) Solo las luces de posición delanteras de forma fija."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La señal de emergencia consiste en el funcionamiento simultáneo de todos los indicadores de dirección."
+  },
+  {
+    "_id": "PB-TM4-P73",
+    "Enunciado": "¿En qué vehículos es obligatorio el equipamiento de la señal de emergencia?",
+    "Opciones": [
+      "A) Solo en los vehículos destinados exclusivamente al transporte escolar.",
+      "B) A todos los vehículos a motor, ciclomotores, remolques y semirremolques.",
+      "C) En los automóviles, sus remolques y semirremolques."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es una dotación obligatoria para automóviles, remolques y semirremolques."
+  },
+  {
+    "_id": "PB-TM4-P74",
+    "Enunciado": "Si un vehículo tiene una avería y no puede alcanzar la velocidad mínima exigida, ¿debe usar la señal de emergencia?",
+    "Opciones": [
+      "A) Sí, se utiliza en este caso tanto de día como de noche.",
+      "B) Solo si circula por una carretera interurbana durante la madrugada.",
+      "C) No, en ese caso debe usar únicamente las luces de antiniebla traseras."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Uno de los casos de uso obligado es cuando el vehículo no alcanza la velocidad mínima de la vía por avería."
+  },
+  {
+    "_id": "PB-TM4-P75",
+    "Enunciado": "Al realizar un viaje de emergencia, como llevar a un herido al hospital, ¿qué luces debe usar?",
+    "Opciones": [
+      "A) La luz de largo alcance de forma constante para pedir paso.",
+      "B) Se debe utilizar la señal de emergencia.",
+      "C) No debe usar ninguna luz, solo señales acústicas repetidas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "En servicios prioritarios realizados por vehículos particulares, se debe utilizar la señal de emergencia, como por ejemplo, llevar al hospital a una mujer que va a dar a luz."
+  },
+  {
+    "_id": "PB-TM4-P76",
+    "Enunciado": "¿En qué otra situación es obligatorio el uso de la señal de emergencia?",
+    "Opciones": [
+      "A) Al circular por una calle peatonal para avisar a los viandantes.",
+      "B) Cuando se circula por el arcén en condiciones de lluvia ligera.",
+      "C) Para avisar de que otro vehículo está parado por un problema en la vía o túnel."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Sirve para advertir a los demás conductores de la presencia de otro vehículo detenido por emergencia."
+  },
+  {
+    "_id": "PB-TM4-P77",
+    "Enunciado": "Al subir y bajar pasajeros en vehículos de transporte escolar, ¿qué luces se deben activar?",
+    "Opciones": [
+      "A) La señal de emergencia.",
+      "B) Las luces de corto alcance únicamente.",
+      "C) Las luces de gálibo de la parte trasera."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "El transporte escolar debe usar la señal de emergencia durante las paradas para la subida y bajada de alumnos."
+  },
+  {
+    "_id": "PB-TM4-P78",
+    "Enunciado": "¿Cuál es la función de la luz de frenado?",
+    "Opciones": [
+      "A) Aumentar la visibilidad del coche en los días nublados.",
+      "B) Indica que el vehículo está frenando.",
+      "C) Avisar de que el motor se ha detenido por completo."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "La luz de frenado tiene como única misión informar a los conductores que circulan detrás de que el vehículo está reduciendo su marcha."
+  },
+  {
+    "_id": "PB-TM4-P79",
+    "Enunciado": "¿Cuándo debe el conductor avisar con las luces de frenado?",
+    "Opciones": [
+      "A) Solo si realiza una frenada brusca por un peligro inminente.",
+      "B) Únicamente al llegar a un semáforo que esté en fase roja.",
+      "C) Siempre que vaya a frenar el vehículo, aunque sea por poco tiempo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Se debe avisar de la intención de frenar siempre que se vaya a realizar la maniobra, independientemente de la duración."
+  },
+  {
+    "_id": "PB-TM4-P80",
+    "Enunciado": "¿De qué color es la luz de frenado?",
+    "Opciones": [
+      "A) Rojo intenso.",
+      "B) Blanco brillante.",
+      "C) Amarillo selectivo."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La luz de frenado es de color rojo y tiene una intensidad superior a la de la luz de posición trasera."
+  },
+  {
+    "_id": "PB-TM4-P81",
+    "Enunciado": "¿Dónde están colocadas las luces de frenado?",
+    "Opciones": [
+      "A) En el techo del vehículo para ser vistas desde lejos.",
+      "B) En la parte de atrás del vehículo.",
+      "C) Debajo de la matrícula trasera exclusivamente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Las luces de frenado se sitúan en la parte posterior del vehículo para ser visibles por los usuarios que nos siguen."
+  },
+  {
+    "_id": "PB-TM4-P82",
+    "Enunciado": "¿Para qué vehículos es obligatoria la luz de frenado?",
+    "Opciones": [
+      "A) Para todos los vehículos a motor, ciclomotores, remolques y semirremolques.",
+      "B) Para motocicletas y turismos únicamente.",
+      "C) Para todos los automóviles, ciclomotores, remolques y semirremolques."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Es una luz obligatoria para la práctica totalidad de vehículos motorizados y remolcados."
+  },
+  {
+    "_id": "PB-TM4-P83",
+    "Enunciado": "¿Dónde se coloca la tercera luz de freno?",
+    "Opciones": [
+      "A) En la parte de atrás del vehículo, por encima de las luces de frenado.",
+      "B) En el salpicadero para informar al propio conductor.",
+      "C) En los laterales para avisar de frenadas en las intersecciones."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La tercera luz de freno se ubica en una posición elevada en la parte posterior del vehículo."
+  },
+  {
+    "_id": "PB-TM4-P84",
+    "Enunciado": "¿Cuándo se enciende la tercera luz de freno?",
+    "Opciones": [
+      "A) Solo cuando el conductor presiona el pedal de freno con mucha fuerza.",
+      "B) Se enciende al mismo tiempo que las luces de frenado.",
+      "C) Únicamente cuando se circula marcha atrás por una pendiente."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "Su funcionamiento es solidario al de las luces de frenado principales; se encienden a la vez."
+  },
+  {
+    "_id": "PB-TM4-P85",
+    "Enunciado": "¿De qué color es la tercera luz de freno?",
+    "Opciones": [
+      "A) Blanco.",
+      "B) Amarillo.",
+      "C) Rojo."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "Al ser una luz de freno, debe mantener el código de color rojo."
+  },
+  {
+    "_id": "PB-TM4-P86",
+    "Enunciado": "¿Es obligatorio llevar instalada la tercera luz de freno?",
+    "Opciones": [
+      "A) Es opcional para casi todos los automóviles.",
+      "B) Sí, es obligatoria para todos los automóviles desde el año 2020 al ser mas visible.",
+      "C) Solo si el vehículo carece de intermitentes traseros en los laterales."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "La instalación de la tercera luz de freno tiene carácter opcional para los automóviles."
+  },
+  {
+    "_id": "PB-TM4-P87",
+    "Enunciado": "Respecto a la tercera luz de freno, ¿qué norma deben seguir las motocicletas?",
+    "Opciones": [
+      "A) Pueden llevarla si es de tecnología LED de bajo consumo.",
+      "B) Las motocicletas no la pueden llevar.",
+      "C) Es obligatoria si tienen una cilindrada superior a 250 cc."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El reglamento prohíbe expresamente que las motocicletas equipen una tercera luz de freno."
+  },
+  {
+    "_id": "PB-TM4-P88",
+    "Enunciado": "¿Para qué sirve la luz de marcha atrás?",
+    "Opciones": [
+      "A) Ilumina la carretera desde atrás para avisar de que el vehículo va a circular hacia atrás.",
+      "B) Para iluminar el maletero mientras el vehículo está en movimiento.",
+      "C) Para deslumbrar al conductor que nos sigue de cerca por seguridad."
+    ],
+    "IndiceRespuestaCorrecta": 0,
+    "Explicacion": "Tiene la doble función de iluminar la zona posterior para el conductor y avisar a los demás de la maniobra de retroceso."
+  },
+  {
+    "_id": "PB-TM4-P89",
+    "Enunciado": "¿Cómo se activa la luz de marcha atrás?",
+    "Opciones": [
+      "A) Mediante un interruptor manual situado en el cuadro de mandos.",
+      "B) Se encienden de forma automática cuando el vehículo empieza a ir hacia atrás.",
+      "C) Solo se encienden si las luces de posición ya están activadas."
+    ],
+    "IndiceRespuestaCorrecta": 1,
+    "Explicacion": "El sistema está diseñado para que las luces se activen automáticamente al engranar la marcha atrás."
+  },
+  {
+    "_id": "PB-TM4-P90",
+    "Enunciado": "¿De qué color y cuántas luces de marcha atrás puede llevar un vehículo?",
+    "Opciones": [
+      "A) Una o dos luces de color rojo intenso.",
+      "B) Tres luces de color amarillo intermitente.",
+      "C) Son una o dos luces de color blanco."
+    ],
+    "IndiceRespuestaCorrecta": 2,
+    "Explicacion": "El vehículo puede estar equipado con una o dos luces de marcha atrás, que deben ser de color blanco."
+  }
+]
