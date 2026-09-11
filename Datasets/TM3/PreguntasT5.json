@@ -1,0 +1,354 @@
+[
+    {
+        "_id": "PB-TM3-P121",
+        "Enunciado": "¿Qué prohíbe la señal R-100?",
+        "Opciones": [
+            "A) Prohíbe la entrada solo a vehículos de motor.",
+            "B) Prohíbe el paso únicamente en días festivos.",
+            "C) Prohíbe circular a todos los vehículos, en cualquier sentido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-100 indica circulación prohibida para todos los vehículos y en cualquier sentido.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P122",
+        "Enunciado": "¿Cuál es el significado de la señal R-101?",
+        "Opciones": [
+            "A) Entrada prohibida a todo tipo de vehículos.",
+            "B) Estacionamiento prohibido.",
+            "C) Prohibido girar a la izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-101 prohíbe la entrada a todo tipo de vehículos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P123",
+        "Enunciado": "Ante la señal R-101 de entrada prohibida, ¿pueden circular vehículos en el sentido contrario al del conductor?",
+        "Opciones": [
+            "A) Sí, porque esta prohibición solo puede ser en un sentido.",
+            "B) Solo si son vehículos de emergencia.",
+            "C) No, la vía está totalmente cerrada al tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La prohibición de la señal R-101 puede ser solo en un sentido, por lo que es posible que circulen vehículos en el sentido contrario."
+    },
+    {
+        "_id": "PB-TM3-P124",
+        "Enunciado": "¿Qué indica la señal R-102?",
+        "Opciones": [
+            "A) Entrada prohibida para vehículos a motor.",
+            "B) Vía reservada para ciclos.",
+            "C) Prohibido el paso a camiones."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-102 indica entrada prohibida para vehículos a motor.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P125",
+        "Enunciado": "Con la señal R-102 de entrada prohibida a vehículos a motor, ¿está permitido el paso a los ciclomotores?",
+        "Opciones": [
+            "A) Sí que pueden entrar ciclomotores.",
+            "B) No, tienen la entrada prohibida.",
+            "C) Solo si el motor es eléctrico."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Según el temario, con la señal R-102 sí que pueden entrar los ciclomotores."
+    },
+    {
+        "_id": "PB-TM3-P126",
+        "Enunciado": "¿A qué vehículos prohíbe la entrada la señal R-103?",
+        "Opciones": [
+            "A) Solo a los camiones y furgones.",
+            "B) A los vehículos a motor.",
+            "C) Únicamente a las motocicletas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-103 prohíbe la entrada a vehículos a motor.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P127",
+        "Enunciado": "Si te encuentras la señal R-103, ¿puedes entrar con una motocicleta?",
+        "Opciones": [
+            "A) No, las motocicletas tienen prohibida la entrada.",
+            "B) Solo si la motocicleta es de menos de 125 cc.",
+            "C) Sí, siempre que sea una motocicleta de dos ruedas sin sidecar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con la señal R-103 sí que pueden entrar motocicletas de dos ruedas, sin sidecar."
+    },
+    {
+        "_id": "PB-TM3-P128",
+        "Enunciado": "¿Qué indica la señal R-104?",
+        "Opciones": [
+            "A) Obligación de circular por el carril derecho.",
+            "B) Prohibida la entrada a ciclomotores.",
+            "C) Prohibida la entrada de motocicletas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-104 significa prohibida la entrada de motocicletas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P129",
+        "Enunciado": "¿Qué vehículos tienen prohibida la entrada con la señal R-105?",
+        "Opciones": [
+            "A) Solo las bicicletas de montaña.",
+            "B) Los ciclomotores y los vehículos para personas con movilidad reducida.",
+            "C) Los turismos con remolque ligero."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-105 prohíbe la entrada a ciclomotores y a vehículos para personas con movilidad reducida.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P130",
+        "Enunciado": "¿Cuál es el significado de la señal R-106?",
+        "Opciones": [
+            "A) Prohibida la entrada a vehículos que transportan mercancías.",
+            "B) Prohibido circular a más de 80 km/h.",
+            "C) Entrada permitida solo a camiones vacíos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-106 prohíbe la entrada a vehículos que transportan mercancías, aunque no lleven mucha carga.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P131",
+        "Enunciado": "Según la señal R-106, ¿qué ejemplos de vehículos tienen prohibida la entrada?",
+        "Opciones": [
+            "A) Furgonetas y camiones.",
+            "B) Autobuses y trolebuses.",
+            "C) Turismos y motocicletas con sidecar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El temario pone como ejemplos de la señal R-106 a las furgonetas y los camiones."
+    },
+    {
+        "_id": "PB-TM3-P132",
+        "Enunciado": "¿Qué prohíbe la señal R-107?",
+        "Opciones": [
+            "A) La entrada a vehículos con más de dos ejes.",
+            "B) La entrada a vehículos de transporte de mercancías con una carga mayor a la indicada.",
+            "C) El paso de vehículos que superen los 2 metros de ancho."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-107 prohíbe la entrada a vehículos de mercancías que puedan llevar una carga de toneladas mayor al número de la señal.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P133",
+        "Enunciado": "Un camión que tiene prohibida la entrada por la señal R-107, ¿puede entrar si circula vacío en ese momento?",
+        "Opciones": [
+            "A) Solo si el trayecto es inferior a 5 kilómetros.",
+            "B) Sí, la prohibición solo se aplica si en ese momento supera el peso.",
+            "C) No, tienen prohibida la entrada aunque vayan vacíos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los vehículos afectados por la señal R-107 tienen prohibida la entrada aunque vayan vacíos de carga en ese momento."
+    },
+    {
+        "_id": "PB-TM3-P134",
+        "Enunciado": "¿Qué indica la señal R-108?",
+        "Opciones": [
+            "A) Prohibida la entrada a vehículos que transportan mercancías peligrosas.",
+            "B) Obligación de circular con luces de gálibo.",
+            "C) Prohibido el paso a vehículos que transportan productos explosivos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-108 indica prohibida la entrada a vehículos que transportan mercancías peligrosas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P135",
+        "Enunciado": "¿Cuál es el significado de la señal R-109?",
+        "Opciones": [
+            "A) Entrada permitida solo a vehículos cisterna.",
+            "B) Prohibido el uso de señales acústicas.",
+            "C) Prohibida la entrada a vehículos con mercancías que pueden explotar o arder."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-109 prohíbe la entrada a vehículos con mercancías que pueden explotar o arder.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P136",
+        "Enunciado": "¿Qué prohíbe la señal R-110?",
+        "Opciones": [
+            "A) El paso de vehículos que pesen más de 1.000 kilos.",
+            "B) El lavado de vehículos en la vía pública.",
+            "C) La entrada a vehículos que transporten más de 1.000 litros de productos que pueden contaminar el agua."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-110 prohíbe la entrada a vehículos que transporten más de 1.000 litros de productos contaminantes del agua.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P137",
+        "Enunciado": "¿Qué indica la señal R-111?",
+        "Opciones": [
+            "A) Obligación de circular por el arcén para tractores.",
+            "B) Prohibida la entrada de tractores y otras máquinas agrícolas a motor.",
+            "C) Vía reservada para maquinaria de obras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-111 prohíbe la entrada de tractores y otras máquinas agrícolas a motor.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P138",
+        "Enunciado": "¿Qué prohíbe la señal R-112?",
+        "Opciones": [
+            "A) Prohibida la entrada de vehículos a motor con remolque.",
+            "B) El paso de camiones de más de 3.500 kg.",
+            "C) La entrada de motocicletas con sidecar."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-112 indica prohibida la entrada de vehículos a motor con remolque.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P139",
+        "Enunciado": "Ante la señal R-112 de entrada prohibida con remolque, ¿qué vehículos SÍ tienen permitido el paso?",
+        "Opciones": [
+            "A) Ningún tipo de remolque, independientemente de sus ejes.",
+            "B) Únicamente los remolques agrícolas.",
+            "C) Los semirremolques y los remolques de un solo eje."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con la señal R-112 sí que pueden entrar los semirremolques y los remolques de un solo eje."
+    },
+    {
+        "_id": "PB-TM3-P140",
+        "Enunciado": "¿Qué indica la señal R-113?",
+        "Opciones": [
+            "A) Vía reservada para animales de carga.",
+            "B) Prohibida la entrada a vehículos que son arrastrados por animales.",
+            "C) Prohibido circular con animales por la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-113 prohíbe la entrada a vehículos arrastrados por animales, como coches de caballos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P141",
+        "Enunciado": "¿Cuál es el significado de la señal R-114?",
+        "Opciones": [
+            "A) Vía obligatoria para ciclistas.",
+            "B) Prohibida la entrada de bicicletas.",
+            "C) Fin de carril bici."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-114 indica prohibida la entrada de bicicletas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P142",
+        "Enunciado": "¿Qué indica la señal R-115?",
+        "Opciones": [
+            "A) Prohibido el estacionamiento de remolques.",
+            "B) Entrada permitida solo a personal de mantenimiento.",
+            "C) Prohibida la entrada de carros llevados por personas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-115 prohíbe la entrada de carros llevados por personas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P143",
+        "Enunciado": "¿Qué prohíbe la señal R-116?",
+        "Opciones": [
+            "A) Prohibido el cruce de peatones fuera del paso.",
+            "B) Prohibida la entrada a animales de montura.",
+            "C) Prohibida la entrada a peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-116 indica prohibida la entrada a peatones.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P144",
+        "Enunciado": "¿Cuál es el significado de la señal R-117?",
+        "Opciones": [
+            "A) Vía reservada para jinetes.",
+            "B) Prohibida la entrada de animales montados por personas.",
+            "C) Peligro por paso de animales domésticos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-117 prohíbe la entrada de animales montados por personas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P145",
+        "Enunciado": "¿Qué obligación impone la señal R-200?",
+        "Opciones": [
+            "A) Obligación de parar el vehículo en el lugar donde esté colocada.",
+            "B) Detenerse solo si el semáforo está en rojo.",
+            "C) Obligación de circular por el arcén."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-200 indica la obligación de parar el vehículo para cumplir con las señales que haya en cada caso.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P146",
+        "Enunciado": "Según el temario, ¿en qué lugares se puede encontrar la señal R-200?",
+        "Opciones": [
+            "A) En entradas a túneles de más de 500 metros.",
+            "B) En puestos de peaje de autopistas o puestos de policía.",
+            "C) En intersecciones con prioridad a la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-200 se coloca, por ejemplo, en puestos de peaje en la autopista o un puesto de policía."
+    },
+    {
+        "_id": "PB-TM3-P147",
+        "Enunciado": "¿Qué prohíbe la señal R-201?",
+        "Opciones": [
+            "A) El paso a vehículos cuya anchura sea superior a la indicada.",
+            "B) El paso a vehículos que superen los 10 metros de largo.",
+            "C) El paso de vehículos que llevan una carga que pesa más que las toneladas indicadas."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-201 prohíbe el paso de vehículos que llevan una carga que pesa más que el número de toneladas que indica la señal.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P148",
+        "Enunciado": "¿Cuál es el significado de la señal R-202?",
+        "Opciones": [
+            "A) Obligación de pesar el vehículo en la báscula más próxima.",
+            "B) Prohibido el paso de vehículos que llevan un peso en el eje de sus ruedas mayor al indicado.",
+            "C) Prohibida la circulación de vehículos con ruedas metálicas."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-202 prohíbe el paso de vehículos que llevan un peso en el eje mayor al número de toneladas indicado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P149",
+        "Enunciado": "Si la señal R-202 marca la cifra 2,4 t, ¿pueden pasar vehículos con un peso en el eje de 3 toneladas?",
+        "Opciones": [
+            "A) No, no pueden pasar vehículos que lleven un peso en eje mayor a 2,4 toneladas.",
+            "B) Solo si se trata de un vehículo de transporte público.",
+            "C) Sí, porque la señal es solo informativa."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En el ejemplo del temario, con la señal de 2,4 t no pueden pasar vehículos que lleven un peso en eje mayor a esa cifra."
+    },
+    {
+        "_id": "PB-TM3-P150",
+        "Enunciado": "¿Qué prohíbe la señal R-203?",
+        "Opciones": [
+            "A) El paso de vehículos con una altura superior a la indicada.",
+            "B) Prohibido el paso de vehículos que son más largos que la medida que indica la señal.",
+            "C) El paso de vehículos más anchos que la medida de la señal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-203 prohíbe el paso de vehículos que superen la longitud indicada.",
+        "Imagen": true
+    }
+]

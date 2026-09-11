@@ -1,0 +1,349 @@
+[
+    {
+        "_id": "PB-TM3-P377",
+        "Enunciado": "Un agente levanta el brazo en vertical en una intersección. ¿Qué deben hacer los conductores que ya se encuentran dentro del cruce?",
+        "Opciones": [
+            "A) Detenerse inmediatamente bloqueando la intersección.",
+            "B) Pueden seguir circulando para despejar el cruce.",
+            "C) Girar a la derecha obligatoriamente para abandonar la vía."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Según el temario, cuando un agente levanta el brazo en vertical en un cruce, pueden seguir circulando los conductores que ya estaban dentro del mismo.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P378",
+        "Enunciado": "Si se encuentra una señal de STOP y un semáforo con luz verde encendida simultáneamente, ¿cuál debe obedecer?",
+        "Opciones": [
+            "A) La señal de STOP, por ser más restrictiva.",
+            "B) Ambas: hacer el STOP y luego pasar en verde.",
+            "C) El semáforo en verde, por tener mayor prioridad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En el orden de prioridad, los semáforos están en tercer lugar y las señales verticales en cuarto. Por tanto, el semáforo prevalece sobre el STOP."
+    },
+    {
+        "_id": "PB-TM3-P379",
+        "Enunciado": "Circulando por un puerto de montaña con el panel 1 en color amarillo, ¿puede pasar un camión con una carga máxima de 3.500 kg?",
+        "Opciones": [
+            "A) Sí, porque la prohibición es para camiones de más de 3.500 kg.",
+            "B) No, tienen prohibido el paso todos los camiones independientemente de su peso.",
+            "C) Solo si lleva instaladas las cadenas para nieve."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Con el panel amarillo en un puerto de montaña, la prohibición de pasar afecta a los camiones de más de 3.500 kg y a los tráileres."
+    },
+    {
+        "_id": "PB-TM3-P380",
+        "Enunciado": "¿Qué indica la señal R-102 respecto a los ciclomotores?",
+        "Opciones": [
+            "A) Que tienen prohibida la entrada como el resto de vehículos a motor.",
+            "B) Que solo pueden entrar si son de propulsión eléctrica.",
+            "C) Que sí pueden entrar a pesar de la prohibición general para vehículos a motor."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-102 (entrada prohibida para vehículos a motor) especifica que sí que pueden entrar los ciclomotores.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P381",
+        "Enunciado": "Ante la señal R-305 de prohibido adelantar, ¿está permitido adelantar a una motocicleta de dos ruedas?",
+        "Opciones": [
+            "A) No, la señal prohíbe el adelantamiento a cualquier vehículo.",
+            "B) Sí, siempre que no se invada el carril contrario.",
+            "C) Solo si la motocicleta circula por el arcén."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Con la señal R-305 solo puedes adelantar a motocicletas de dos ruedas si no invades el carril contrario.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P382",
+        "Enunciado": "Si encuentra una señal de velocidad máxima de 40 km/h colocada justo encima de la señal de nombre de población 'Jaca', ¿dónde termina la limitación?",
+        "Opciones": [
+            "A) Al salir de la población 'Jaca'.",
+            "B) Al encontrar el primer cruce dentro del pueblo.",
+            "C) A los 500 metros de la señal."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales de reglamentación colocadas junto o encima del nombre de población se deben cumplir en todo el pueblo o ciudad."
+    },
+    {
+        "_id": "PB-TM3-P383",
+        "Enunciado": "Un agente tiene el brazo extendido en horizontal. Si lo baja, ¿cesa la obligación de detenerse?",
+        "Opciones": [
+            "A) Sí, al bajar el brazo se permite el paso inmediatamente.",
+            "B) Solo si el agente se da la vuelta.",
+            "C) No, la orden se debe obedecer hasta que el agente dé otra indicación."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La orden de detenerse por brazo extendido en horizontal se debe obedecer hasta que el agente dé otra indicación, aunque baje los brazos."
+    },
+    {
+        "_id": "PB-TM3-P384",
+        "Enunciado": "¿Permite la señal R-112 el paso de un turismo que arrastra un remolque de un solo eje?",
+        "Opciones": [
+            "A) No, prohíbe la entrada a cualquier vehículo a motor con remolque.",
+            "B) Sí, porque los remolques de un solo eje están permitidos.",
+            "C) Solo si el peso total del conjunto es inferior a 3.500 kg."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-112 prohíbe la entrada de vehículos a motor con remolque, pero hace la excepción de que sí pueden entrar semirremolques y remolques de un solo eje.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P385",
+        "Enunciado": "Respecto a la línea blanca continua, ¿cuál de las siguientes acciones está prohibida en una vía de dos sentidos?",
+        "Opciones": [
+            "A) Circular por el lado izquierdo de la línea.",
+            "B) Parar en el lado derecho de la calzada.",
+            "C) Cambiar de dirección hacia la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La línea continua prohíbe atravesarla, conducir sobre ella y, en vías de dos sentidos, circular a la izquierda de la misma."
+    },
+    {
+        "_id": "PB-TM3-P386",
+        "Enunciado": "¿Qué prohibición establece una línea amarilla marcada en zigzag en el borde de la calzada?",
+        "Opciones": [
+            "A) Prohibido parar y aparcar.",
+            "B) Prohibido circular por ese carril.",
+            "C) Prohibido aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La línea amarilla en zigzag indica que está prohibido aparcar en esa zona."
+    },
+    {
+        "_id": "PB-TM3-P387",
+        "Enunciado": "Además del sentido de circulación, ¿qué maniobra prohíbe la señal S-11?",
+        "Opciones": [
+            "A) El adelantamiento.",
+            "B) El cambio de sentido (dar media vuelta).",
+            "C) La parada de vehículos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-11 indica calzada de sentido único y también prohíbe expresamente cambiar el sentido de la marcha.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P388",
+        "Enunciado": "Si la señal de velocidad máxima se encuentra situada unos metros antes del nombre de un pueblo, ¿cuál es su vigencia?",
+        "Opciones": [
+            "A) Solo para ese tramo específico hasta encontrar otra señal.",
+            "B) Para toda la travesía de la población.",
+            "C) Hasta que el conductor decida cambiar de velocidad por seguridad."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si la señal está antes o después del nombre del pueblo, la limitación solo es para ese tramo, no para todo el pueblo."
+    },
+    {
+        "_id": "PB-TM3-P389",
+        "Enunciado": "En una calle señalizada como zona residencial, ¿cuál es la velocidad máxima permitida?",
+        "Opciones": [
+            "A) 30 km/h.",
+            "B) 10 km/h.",
+            "C) 20 km/h."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En la señal S-28 de zona con preferencia para peatones, no se puede conducir a más de 20 kilómetros por hora."
+    },
+    {
+        "_id": "PB-TM3-P390",
+        "Enunciado": "Un camión con capacidad de carga de 6 toneladas circula vacío. ¿Puede entrar en una vía con la señal R-107 que marca '5,5 t'?",
+        "Opciones": [
+            "A) Sí, porque al ir vacío pesa menos de lo indicado.",
+            "B) No, tiene prohibida la entrada aunque vaya vacío de carga.",
+            "C) Solo si dispone de una autorización municipal."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vehículos afectados por la R-107 tienen prohibida la entrada si su carga permitida es mayor a la señal, aunque en ese momento circulen vacíos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P391",
+        "Enunciado": "¿Obliga por sí sola la marca transversal continua a que los vehículos se detengan?",
+        "Opciones": [
+            "A) No, la marca no obliga por sí sola.",
+            "B) Sí, siempre indica una parada obligatoria.",
+            "C) Solo si está situada en el carril izquierdo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La línea transversal continua no obliga por sí sola; se debe detener en ella para cumplir con otras señales (STOP, semáforo, agentes, etc.)."
+    },
+    {
+        "_id": "PB-TM3-P392",
+        "Enunciado": "Ante la señal R-404 de obligación para automóviles, ¿qué vehículo NO está obligado a circular por esa calzada?",
+        "Opciones": [
+            "A) Los turismos.",
+            "B) Los camiones de carga ligera.",
+            "C) Las motocicletas sin sidecar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-404 obliga a los automóviles, pero especifica que las motocicletas sin sidecar no están obligadas.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P393",
+        "Enunciado": "¿Qué indica el panel complementario S-870 colocado debajo de una señal principal?",
+        "Opciones": [
+            "A) Que la señal solo es válida en días laborables.",
+            "B) Que la prohibición solo corresponde al carril o ramal al que señala.",
+            "C) Que la señal afecta a todos los carriles por igual."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-870 indica que la prohibición o advertencia de la señal principal solo afecta al carril o ramal señalizado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P394",
+        "Enunciado": "¿A qué distancia indica la señal P-9a que se encuentra un paso a nivel o puente móvil?",
+        "Opciones": [
+            "A) A unos 300 metros.",
+            "B) A unos 200 metros.",
+            "C) A unos 100 metros."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales P-9a y P-10a (con tres franjas rojas) indican la presencia del elemento a unos 300 metros.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P395",
+        "Enunciado": "¿Qué maniobras prohíbe específicamente la señal R-303?",
+        "Opciones": [
+            "A) Solo el giro a la izquierda.",
+            "B) Únicamente el cambio de sentido.",
+            "C) Girar a la izquierda y cambiar de sentido."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-303 prohíbe conjuntamente el giro a la izquierda y el cambio de sentido.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P396",
+        "Enunciado": "Si un agente realiza varios toques de silbato cortos y repetidos, ¿qué deben hacer los conductores?",
+        "Opciones": [
+            "A) Volver a circular y seguir conduciendo.",
+            "B) Detener el vehículo.",
+            "C) Reducir la velocidad considerablemente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Varios toques cortos y repetidos significan detener el vehículo; un toque largo significa volver a circular."
+    },
+    {
+        "_id": "PB-TM3-P397",
+        "Enunciado": "Ante la señal de calzada sin salida, ¿está permitido salir por un lugar distinto al de entrada?",
+        "Opciones": [
+            "A) No, solo pueden salir por el mismo lugar por el que han entrado.",
+            "B) Sí, si el vehículo es una motocicleta o ciclo.",
+            "C) Sí, siempre que se haga marcha atrás."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-15a indica que los vehículos solo pueden salir de esa calzada por el mismo lugar por el que entraron."
+    },
+    {
+        "_id": "PB-TM3-P398",
+        "Enunciado": "La señal R-110 prohíbe la entrada a vehículos que transportan productos contaminantes del agua en cantidades superiores a...",
+        "Opciones": [
+            "A) 500 litros.",
+            "B) 5.000 litros.",
+            "C) 1.000 litros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-110 prohíbe el paso a vehículos con más de 1.000 litros de productos contaminantes del agua.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P399",
+        "Enunciado": "Un agente balancea una luz roja con un brazo. ¿A quién obliga a detenerse?",
+        "Opciones": [
+            "A) A todos los vehículos que circulan por la calzada.",
+            "B) A los conductores hacia los que el agente dirige la luz.",
+            "C) Únicamente a los vehículos que vienen por detrás del agente."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cuando un agente balancea una luz roja o amarilla, se deben detener los conductores hacia los que el agente dirige la luz."
+    },
+    {
+        "_id": "PB-TM3-P400",
+        "Enunciado": "Según la señal S-32, ¿cuál es el requisito para pagar el peaje mediante este sistema?",
+        "Opciones": [
+            "A) Que el vehículo tenga instalados los medios técnicos necesarios.",
+            "B) Que el vehículo sea de categoría turismo únicamente.",
+            "C) Estar dado de alta en el registro de conductores habituales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El telepeaje (S-32) se puede usar siempre que el vehículo tenga instalados los medios técnicos necesarios.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P401",
+        "Enunciado": "Según la definición de perfil irregular, ¿qué son los badenes?",
+        "Opciones": [
+            "A) Partes inclinadas hacia arriba para reducir velocidad.",
+            "B) Piedras que saltan del suelo de la calzada.",
+            "C) Baches o zanjas en la vía."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario define los badenes como partes de la vía que son baches o zanjas."
+    },
+    {
+        "_id": "PB-TM3-P402",
+        "Enunciado": "Ante la señal R-5 en un paso estrecho, ¿cuándo se prohíbe la entrada?",
+        "Opciones": [
+            "A) En todo momento si hay vehículos esperando.",
+            "B) Si al atravesarlo estorbas a los vehículos que vienen de frente.",
+            "C) Solo durante las horas nocturnas o con baja visibilidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-5 prohíbe entrar si se va a estorbar a los vehículos que vienen de frente.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P403",
+        "Enunciado": "La señal S-9 recomienda conducir...",
+        "Opciones": [
+            "A) Entre las dos velocidades que aparecen en la señal.",
+            "B) Exactamente a la velocidad más baja de las dos.",
+            "C) Por encima de la velocidad más alta indicada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-9 recomienda conducir entre las dos velocidades que aparecen reflejadas en ella.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P404",
+        "Enunciado": "La señal P-14a advierte de varias curvas peligrosas próximas. ¿Hacia dónde se dirige la primera de ellas?",
+        "Opciones": [
+            "A) Hacia la izquierda.",
+            "B) Es indiferente, lo indica la flecha inferior.",
+            "C) Hacia la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal P-14a indica varias curvas peligrosas cerca y la primera va hacia la derecha.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P405",
+        "Enunciado": "¿Qué indica la marca vial formada por una cuadrícula de líneas amarillas?",
+        "Opciones": [
+            "A) Zona de estacionamiento prohibido solo para camiones.",
+            "B) Prohibición de entrar si puedes quedarte parado estorbando la circulación.",
+            "C) Lugar reservado para la detención de vehículos de emergencia."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La cuadrícula amarilla prohíbe entrar en una intersección si existe el riesgo de quedarse detenido dentro de ella obstaculizando el tráfico.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P406",
+        "Enunciado": "Ante la señal R-202 con la inscripción '2,4 t', ¿qué vehículos tienen prohibido el paso?",
+        "Opciones": [
+            "A) Los que lleven un peso en eje mayor a 2,4 toneladas.",
+            "B) Los que tengan una masa total superior a 2.400 kg.",
+            "C) Los que transporten más de 2,4 toneladas de mercancía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-202 prohíbe el paso de vehículos con un peso en el eje de sus ruedas mayor al número de toneladas indicado.",
+        "Imagen": true
+    }
+]

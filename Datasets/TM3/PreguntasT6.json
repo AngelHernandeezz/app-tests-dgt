@@ -1,0 +1,360 @@
+[
+    {
+        "_id": "PB-TM3-P151",
+        "Enunciado": "¿Qué prohíbe la señal R-204?",
+        "Opciones": [
+            "A) El paso de vehículos con una altura superior a la de la señal.",
+            "B) El paso de vehículos que superen el peso por eje indicado.",
+            "C) El paso de vehículos que son más anchos que la medida que indica la señal."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-204 prohíbe el paso de vehículos cuya anchura sea superior a la indicada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P152",
+        "Enunciado": "¿Cuál es el significado de la señal R-205?",
+        "Opciones": [
+            "A) Prohibido el paso a vehículos que superen la longitud indicada.",
+            "B) Obligación de circular por el carril central si el vehículo es alto.",
+            "C) Prohibido el paso de vehículos que son más altos que la medida que indica la señal."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-205 indica la prohibición de paso a los vehículos que tengan una altura superior a la marcada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P153",
+        "Enunciado": "¿Qué obligación impone la señal R-300?",
+        "Opciones": [
+            "A) Mantener con el vehículo de delante los metros de distancia que marca la señal.",
+            "B) Detenerse obligatoriamente durante 70 segundos.",
+            "C) Circular a una velocidad máxima de 70 kilómetros por hora."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-300 obliga a mantener la separación mínima indicada con el vehículo que circula delante.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P154",
+        "Enunciado": "¿Qué indica la señal de reglamentación R-301?",
+        "Opciones": [
+            "A) Prohibición de conducir a más velocidad de la que indica la señal.",
+            "B) Fin de la limitación de velocidad anterior.",
+            "C) Recomendación de circular a la velocidad indicada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-301 prohíbe circular a una velocidad superior a la indicada en kilómetros por hora.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P155",
+        "Enunciado": "Si la señal de velocidad máxima está colocada antes o después del nombre de un pueblo, ¿cuál es su alcance?",
+        "Opciones": [
+            "A) Solo prohíbe superar esa velocidad en ese tramo específico, hasta encontrar otra señal.",
+            "B) Afecta a todo el pueblo por igual.",
+            "C) Únicamente afecta a los vehículos pesados en travesía."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Si la señal está antes o después del nombre del pueblo, la limitación solo es para ese tramo hasta encontrar otra señal."
+    },
+    {
+        "_id": "PB-TM3-P156",
+        "Enunciado": "¿Qué maniobra prohíbe la señal R-302?",
+        "Opciones": [
+            "A) Cambiar el sentido de la marcha.",
+            "B) Girar a la izquierda.",
+            "C) Girar a la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-302 indica que está prohibido girar a la derecha.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P157",
+        "Enunciado": "¿Qué prohíbe la señal R-303?",
+        "Opciones": [
+            "A) Solo el cambio de sentido de la marcha.",
+            "B) Girar a la izquierda y cambiar de sentido.",
+            "C) Únicamente girar a la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-303 prohíbe tanto el giro a la izquierda como el cambio de sentido.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P158",
+        "Enunciado": "¿Cuál es el significado de la señal R-304?",
+        "Opciones": [
+            "A) Prohibido girar a la izquierda en el próximo cruce.",
+            "B) Prohibido cambiar el sentido de la marcha.",
+            "C) Prohibido circular en sentido contrario."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-304 prohíbe cambiar el sentido de la marcha, es decir, no se puede dar media vuelta e ir hacia el otro lado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P159",
+        "Enunciado": "¿Qué indica la señal R-305?",
+        "Opciones": [
+            "A) Prohibido circular a más de dos vehículos en paralelo.",
+            "B) Prohibido adelantar a otros vehículos.",
+            "C) Prioridad de paso respecto al sentido contrario."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-305 indica que está prohibido adelantar a otros vehículos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P160",
+        "Enunciado": "Ante la señal R-305 de prohibido adelantar, ¿a qué vehículos se puede adelantar excepcionalmente?",
+        "Opciones": [
+            "A) A ningún vehículo, la prohibición es absoluta.",
+            "B) A motocicletas de dos ruedas si no se invade el carril contrario.",
+            "C) A los camiones de menos de 3.500 kg."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Con la señal R-305 solo puedes adelantar a motocicletas de dos ruedas si no invades el carril contrario.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P161",
+        "Enunciado": "¿Hasta cuándo se debe obedecer la prohibición de la señal R-305?",
+        "Opciones": [
+            "A) Hasta que aparezca otra señal que indique que sí puedes adelantar.",
+            "B) Solo durante los siguientes 100 metros.",
+            "C) Hasta el próximo cruce de carreteras."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La prohibición de adelantar se mantiene hasta encontrar una señal que permita el adelantamiento en esa zona.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P162",
+        "Enunciado": "¿A qué vehículos prohíbe adelantar la señal R-306?",
+        "Opciones": [
+            "A) A los camiones con carga máxima superior a 3.500 kilos.",
+            "B) Únicamente a los vehículos que transportan mercancías peligrosas.",
+            "C) A todos los turismos y motocicletas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-306 prohíbe adelantar a los camiones que puedan llevar cargas de más de 3.500 kilos.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P163",
+        "Enunciado": "Con la señal R-306, ¿pueden los camiones adelantar a una motocicleta de dos ruedas?",
+        "Opciones": [
+            "A) No, tienen prohibido cualquier adelantamiento.",
+            "B) Solo si la motocicleta circula por el arcén.",
+            "C) Sí, siempre que no invadan el carril contrario."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los camiones afectados por la señal R-306 solo pueden adelantar a motocicletas de dos ruedas si no invaden el carril contrario.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P164",
+        "Enunciado": "¿Qué prohíbe la señal R-307?",
+        "Opciones": [
+            "A) Parar y aparcar en ese lugar.",
+            "B) Solo el estacionamiento en horas laborables.",
+            "C) Únicamente el aparcamiento, permitiendo la parada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-307 prohíbe tanto parar como aparcar (estacionar) en el lugar señalizado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P165",
+        "Enunciado": "¿Qué indica la señal R-308?",
+        "Opciones": [
+            "A) Prohibida la parada y el estacionamiento.",
+            "B) Obligación de aparcar solo en las zonas señalizadas.",
+            "C) Prohibido aparcar en ese lado de la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-308 prohíbe aparcar en el lado de la calzada donde esté situada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P166",
+        "Enunciado": "Ante la señal R-308 de prohibido aparcar, ¿qué acción SÍ está permitida?",
+        "Opciones": [
+            "A) Estacionar por menos de 5 minutos.",
+            "B) Puedes parar, pero no aparcar.",
+            "C) Aparcar solo para carga y descarga."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-308 permite realizar una parada, pero prohíbe el aparcamiento.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P167",
+        "Enunciado": "¿Qué significado tiene la señal R-308a?",
+        "Opciones": [
+            "A) Prohibido aparcar los días pares.",
+            "B) Prohibido aparcar durante la primera quincena.",
+            "C) Prohibido aparcar en ese lado de la calzada los días impares del mes."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-308a prohíbe el estacionamiento en ese lado los días impares del mes.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P168",
+        "Enunciado": "Con la señal R-308a, ¿está permitido realizar una parada un día impar?",
+        "Opciones": [
+            "A) No, la parada también está prohibida.",
+            "B) Solo si se trata de un vehículo de transporte público.",
+            "C) Sí, puedes parar, pero no aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Igual que la R-308, la R-308a permite parar aunque prohíba aparcar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P169",
+        "Enunciado": "¿Qué prohíbe la señal R-308b?",
+        "Opciones": [
+            "A) La parada de vehículos durante todo el mes.",
+            "B) Prohibido aparcar en ese lado de la calzada los días pares del mes.",
+            "C) El estacionamiento los días impares."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-308b prohíbe aparcar en ese lado de la calzada los días pares.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P170",
+        "Enunciado": "Según el temario, ¿qué ejemplos de días corresponden a la prohibición de la señal R-308b?",
+        "Opciones": [
+            "A) Los días 1, 3, 5...",
+            "B) Los días 2, 4, 6...",
+            "C) Todos los días del 1 al 15."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El temario pone como ejemplo de días pares para la R-308b los días 2, 4, 6...",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P171",
+        "Enunciado": "Un conductor se encuentra la señal R-308b, ¿puede detenerse para dejar a un pasajero un día par?",
+        "Opciones": [
+            "A) Solo si el pasajero tiene movilidad reducida.",
+            "B) Sí, puede parar, pero no aparcar.",
+            "C) No, la parada está prohibida los días pares."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Bajo la señal R-308b se puede parar, pero no aparcar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P172",
+        "Enunciado": "¿Qué indica la señal R-308c?",
+        "Opciones": [
+            "A) Prohibido aparcar en ese lado de la calzada los primeros 15 días de cada mes.",
+            "B) Prohibido aparcar a partir del día 15.",
+            "C) Prohibido aparcar solo los fines de semana."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-308c prohíbe aparcar en ese lado los primeros 15 días del mes.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P173",
+        "Enunciado": "Bajo la prohibición de la señal R-308c, ¿qué acción está permitida?",
+        "Opciones": [
+            "A) Aparcar solo durante las horas nocturnas.",
+            "B) El estacionamiento por tiempo limitado.",
+            "C) Puedes parar, pero no aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal R-308c permite la parada pero prohíbe el aparcamiento.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P174",
+        "Enunciado": "¿Qué prohíbe la señal R-308d?",
+        "Opciones": [
+            "A) Prohibido aparcar en ese lado de la calzada entre el día 16 y el último día de cada mes.",
+            "B) Prohibido aparcar durante los días impares del mes.",
+            "C) Prohibida la parada y el estacionamiento de larga duración."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-308d prohíbe aparcar desde el día 16 hasta el final del mes.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P175",
+        "Enunciado": "Con la señal R-308d, ¿está permitido parar?",
+        "Opciones": [
+            "A) Solo si es un vehículo de emergencia.",
+            "B) No, está prohibido bajo cualquier circunstancia.",
+            "C) Sí, puedes parar, pero no aparcar."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Con la señal R-308d se puede realizar una parada, pero no aparcar.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P176",
+        "Enunciado": "¿Qué prohíbe la señal R-308e?",
+        "Opciones": [
+            "A) Prohibido aparcar delante de un vado.",
+            "B) Aparcar en las proximidades de un hospital.",
+            "C) Circular por zonas peatonales."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-308e indica la prohibición de aparcar delante de un vado.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P177",
+        "Enunciado": "Según el temario, ¿qué es un vado?",
+        "Opciones": [
+            "A) Tramos de la calzada reservados para el estacionamiento de taxis.",
+            "B) Espacios de la calle reservados para que algunos vehículos puedan entrar a sus garajes, casas o comercios.",
+            "C) Zonas de la vía con pavimento irregular por obras."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Los vados son espacios reservados para permitir la entrada de vehículos a garajes, casas o comercios."
+    },
+    {
+        "_id": "PB-TM3-P178",
+        "Enunciado": "¿Qué indica la señal R-309?",
+        "Opciones": [
+            "A) Estacionamiento reservado para personas con movilidad reducida.",
+            "B) Zona de aparcamiento de duración limitada.",
+            "C) Zona de estacionamiento prohibido para camiones."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal R-309 señala una zona donde el aparcamiento tiene una duración limitada.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P179",
+        "Enunciado": "En una zona con la señal R-309, ¿qué obligación tiene el conductor?",
+        "Opciones": [
+            "A) Pagar obligatoriamente en efectivo al vigilante.",
+            "B) Abandonar el vehículo en menos de 10 minutos.",
+            "C) Indicar la hora en que dejó aparcado el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En zonas de aparcamiento limitado, el conductor está obligado a indicar la hora de inicio del estacionamiento.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P180",
+        "Enunciado": "¿Cuándo se deben realizar sonidos y pitadas con el vehículo según la señal R-310?",
+        "Opciones": [
+            "A) Solo cuando sean necesarios para evitar accidentes.",
+            "B) Únicamente para saludar a otros conductores.",
+            "C) Siempre que se quiera adelantar a otro vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal R-310 recuerda que los sonidos y pitadas solo deben hacerse para evitar accidentes.",
+        "Imagen": true
+    }
+]

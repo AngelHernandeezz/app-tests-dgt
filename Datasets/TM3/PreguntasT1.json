@@ -1,0 +1,344 @@
+[
+    {
+        "_id": "PB-TM3-P1",
+        "Enunciado": "¿Qué indica la normativa sobre cambiar las señales de la carretera?",
+        "Opciones": [
+            "A) Está permitido siempre que se haga para mejorar la visibilidad.",
+            "B) Solo pueden cambiarlas los conductores en caso de emergencia.",
+            "C) Está prohibido hacerlo sin una causa justificada."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Según las normas generales, está prohibido cambiar las señales de la carretera sin una causa justificada."
+    },
+    {
+        "_id": "PB-TM3-P2",
+        "Enunciado": "¿Dónde debe cumplirse la indicación de cada señal de circulación?",
+        "Opciones": [
+            "A) Únicamente en los tramos donde no haya marcas viales.",
+            "B) Solo en el carril derecho de la calzada.",
+            "C) En todo el ancho de la calle o de la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La indicación de cada señal se debe cumplir en todo el ancho de la calle o de la carretera."
+    },
+    {
+        "_id": "PB-TM3-P3",
+        "Enunciado": "Si existe una indicación distinta para cada carril, ¿cómo se señaliza esta circunstancia?",
+        "Opciones": [
+            "A) Con señales verticales específicas en el arcén izquierdo.",
+            "B) Habrá marcas en la carretera que lo indiquen.",
+            "C) Mediante señales acústicas de los agentes."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En los casos en los que haya una indicación distinta para cada carril habrá marcas en la carretera que lo indiquen."
+    },
+    {
+        "_id": "PB-TM3-P4",
+        "Enunciado": "¿Quiénes tienen la obligación de obedecer las señales de circulación?",
+        "Opciones": [
+            "A) Únicamente los conductores de vehículos a motor.",
+            "B) Solo los conductores que circulen por vías urbanas.",
+            "C) Todos los conductores y peatones."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Todos los conductores y peatones deben obedecer las indicaciones de las señales de circulación."
+    },
+    {
+        "_id": "PB-TM3-P5",
+        "Enunciado": "En el orden de prioridad entre señales, ¿cuáles deben obedecerse en primer lugar?",
+        "Opciones": [
+            "A) Señales verticales de circulación.",
+            "B) Señales y órdenes de los agentes de tráfico.",
+            "C) Los semáforos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El primer lugar en el orden de prioridad lo ocupan las señales y órdenes de los agentes de tráfico."
+    },
+    {
+        "_id": "PB-TM3-P6",
+        "Enunciado": "¿Qué señales ocupan el segundo lugar en el orden de prioridad?",
+        "Opciones": [
+            "A) Señales circunstanciales de modificación temporal de la vía y señales que avisan de curvas y obstáculos.",
+            "B) Los semáforos circulares para vehículos.",
+            "C) Las marcas viales y líneas blancas."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El segundo lugar corresponde a las señales circunstanciales que indican modificaciones temporales y señales que avisan de curvas y obstáculos."
+    },
+    {
+        "_id": "PB-TM3-P7",
+        "Enunciado": "Siguiendo el orden de prioridad, ¿qué señales se encuentran en tercer lugar?",
+        "Opciones": [
+            "A) Señales verticales de circulación.",
+            "B) Marcas y líneas en la carretera.",
+            "C) Semáforos."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Los semáforos ocupan el tercer lugar en la jerarquía de señales de circulación."
+    },
+    {
+        "_id": "PB-TM3-P8",
+        "Enunciado": "¿Qué lugar ocupan las señales verticales de circulación en el orden de obediencia?",
+        "Opciones": [
+            "A) El cuarto.",
+            "B) El tercero.",
+            "C) El quinto."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Las señales verticales de circulación ocupan el cuarto lugar en el orden de prioridad."
+    },
+    {
+        "_id": "PB-TM3-P9",
+        "Enunciado": "¿Cuáles son las últimas señales en el orden de prioridad y obediencia?",
+        "Opciones": [
+            "A) Los semáforos.",
+            "B) Marcas y líneas en la carretera.",
+            "C) Las señales de balizamiento."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las marcas y líneas en la carretera son las quintas y últimas en el orden de prioridad."
+    },
+    {
+        "_id": "PB-TM3-P10",
+        "Enunciado": "Como norma general, ¿qué señales verticales y semáforos debe obedecer un conductor?",
+        "Opciones": [
+            "A) Únicamente los situados sobre el carril por el que circula.",
+            "B) Los que están a su izquierda en la carretera.",
+            "C) Los que están a su derecha en la carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Como norma general, se deben obedecer las señales verticales y semáforos que están a la derecha en la carretera."
+    },
+    {
+        "_id": "PB-TM3-P11",
+        "Enunciado": "Si un conductor quiere girar a la izquierda y no hay señales a la derecha, ¿cuáles debe obedecer?",
+        "Opciones": [
+            "A) Debe detenerse hasta que un agente le autorice el paso.",
+            "B) Las señales que haya a la izquierda.",
+            "C) Ninguna, al no haber señalización en el lado derecho."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Cuando se quiera girar a la izquierda o seguir de frente y no haya señales a la derecha, se deben obedecer las de la izquierda."
+    },
+    {
+        "_id": "PB-TM3-P12",
+        "Enunciado": "Si desea seguir de frente y hay señales con indicaciones distintas a derecha e izquierda, ¿cuál debe obedecer?",
+        "Opciones": [
+            "A) La de su izquierda.",
+            "B) Cualquiera de las dos, siempre que extreme la precaución.",
+            "C) La de la derecha, por ser la norma general."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Se deben obedecer las señales de la izquierda cuando se quiera girar a la izquierda o seguir de frente y haya indicaciones distintas en cada lado."
+    },
+    {
+        "_id": "PB-TM3-P13",
+        "Enunciado": "Si encuentra una señal de STOP y un semáforo en verde colocados juntos, ¿cuál debe obedecer?",
+        "Opciones": [
+            "A) La señal de STOP.",
+            "B) El semáforo en verde.",
+            "C) Ambas señales, deteniéndose y luego pasando."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Al ser el semáforo prioritario sobre la señal vertical, debe obedecerse el semáforo en verde.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P14",
+        "Enunciado": "Ante una señal de STOP y una de ceda el paso situadas en el mismo lugar, ¿cuál prevalece?",
+        "Opciones": [
+            "A) La señal de STOP.",
+            "B) La señal de ceda el paso.",
+            "C) Ninguna, se debe aplicar la prioridad de la derecha."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "En caso de contradicción entre señales del mismo tipo, prevalece la más restrictiva, que es la de STOP.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P15",
+        "Enunciado": "Si hay un semáforo en verde y una señal de prohibido girar a la izquierda, ¿cómo debe actuar?",
+        "Opciones": [
+            "A) Puede girar a la izquierda porque el semáforo está en verde.",
+            "B) Debe detenerse y esperar a que cambie la señal vertical.",
+            "C) Puede seguir de frente o girar a la derecha, pero no girar a la izquierda."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se deben obedecer las dos: el semáforo permite pasar y la señal vertical prohíbe el giro específico a la izquierda.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P16",
+        "Enunciado": "¿Cuándo deben cumplirse las señales y órdenes de los agentes de tráfico?",
+        "Opciones": [
+            "A) Solo cuando no haya semáforos en el cruce.",
+            "B) Hay que cumplirlas siempre.",
+            "C) Únicamente en condiciones de baja visibilidad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Las señales que dan los agentes de tráfico hay que cumplirlas siempre."
+    },
+    {
+        "_id": "PB-TM3-P17",
+        "Enunciado": "¿A qué distancia mínima deben verse bien los objetos o prendas que usen los agentes?",
+        "Opciones": [
+            "A) A 50 metros.",
+            "B) A 150 metros.",
+            "C) A 250 metros."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Para dar indicaciones, los agentes usarán objetos y prendas que se vean bien a 150 metros de distancia."
+    },
+    {
+        "_id": "PB-TM3-P18",
+        "Enunciado": "¿Qué obliga a hacer un agente con el brazo levantado en vertical?",
+        "Opciones": [
+            "A) Detenerse a todos los conductores que se acerquen al agente.",
+            "B) Aumentar la velocidad para despejar la vía.",
+            "C) Detenerse solo a los vehículos que vienen de frente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El brazo levantado en vertical indica que se deben detener todos los conductores que se acerquen al agente.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P19",
+        "Enunciado": "Si un agente levanta el brazo en vertical en un cruce, ¿qué ocurre con los vehículos que ya están dentro del cruce?",
+        "Opciones": [
+            "A) Tienen prohibido girar hacia cualquier lado.",
+            "B) Deben detenerse inmediatamente bloqueando el cruce.",
+            "C) Pueden seguir circulando."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Cuando esta señal se hace en un cruce, pueden seguir circulando los conductores que ya estaban dentro del cruce."
+    },
+    {
+        "_id": "PB-TM3-P20",
+        "Enunciado": "¿Qué significa que un agente tenga el brazo o brazos extendidos en horizontal?",
+        "Opciones": [
+            "A) Que se deben detener todos los conductores que se acercan al agente.",
+            "B) Que la carretera está abierta para los turismos.",
+            "C) Que los vehículos deben reducir la velocidad obligatoriamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "El brazo o brazos extendidos en horizontal significa que se deben detener todos los conductores que se acercan al agente.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P21",
+        "Enunciado": "Si el agente baja los brazos tras haberlos tenido extendidos en horizontal, ¿cesa la obligación de detenerse?",
+        "Opciones": [
+            "A) No, la orden se debe obedecer hasta que el agente dé otra indicación.",
+            "B) Solo si no vienen más vehículos en sentido contrario.",
+            "C) Sí, se puede reanudar la marcha inmediatamente."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Esta orden se debe obedecer hasta que el agente dé otra indicación, aunque baje los brazos."
+    },
+    {
+        "_id": "PB-TM3-P22",
+        "Enunciado": "Si un agente balancea una luz roja o amarilla, ¿quiénes deben detenerse?",
+        "Opciones": [
+            "A) Todos los vehículos que circulen por la vía.",
+            "B) Únicamente los vehículos de transporte de mercancías.",
+            "C) Los conductores hacia los que el agente dirige la luz."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Se deben detener los conductores hacia los que el agente dirige la luz.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P23",
+        "Enunciado": "¿Qué indica un agente moviendo el brazo extendido hacia arriba y hacia abajo?",
+        "Opciones": [
+            "A) Que los conductores deben detenerse en el arcén.",
+            "B) Que deben reducir la velocidad los conductores que se acercan por ese lado.",
+            "C) Que se permite el paso con prioridad."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Indica que deben reducir la velocidad todos los conductores que se acercan al agente por el lado desde el que hace la señal.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P24",
+        "Enunciado": "Varios toques de silbato cortos y repetidos de un agente significan...",
+        "Opciones": [
+            "A) Reanudar la marcha.",
+            "B) Circular con precaución.",
+            "C) Detener el vehículo."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Varios toques de silbato cortos y repetidos significan detener el vehículo."
+    },
+    {
+        "_id": "PB-TM3-P25",
+        "Enunciado": "¿Qué indicación da un agente mediante un toque largo de silbato?",
+        "Opciones": [
+            "A) Volver a circular y seguir conduciendo.",
+            "B) Detener el vehículo inmediatamente.",
+            "C) Reducir la velocidad por peligro."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Un toque largo de silbato significa volver a circular y seguir conduciendo."
+    },
+    {
+        "_id": "PB-TM3-P26",
+        "Enunciado": "¿Qué indica una bandera roja mostrada por un agente desde un vehículo?",
+        "Opciones": [
+            "A) Que los vehículos no pueden circular por esa carretera.",
+            "B) Que la carretera está abierta solo para servicios de emergencia.",
+            "C) Que hay un peligro próximo en la calzada."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La bandera roja indica que los vehículos no pueden circular por esa carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P27",
+        "Enunciado": "Una bandera verde mostrada desde un vehículo de un agente indica que...",
+        "Opciones": [
+            "A) Se debe circular a velocidad reducida por obras.",
+            "B) Los conductores deben detenerse a la derecha.",
+            "C) Los vehículos pueden volver a circular por esa carretera."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La bandera verde significa que los vehículos pueden volver a circular por esa carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P28",
+        "Enunciado": "¿Qué significa la bandera amarilla mostrada por un agente?",
+        "Opciones": [
+            "A) Que los vehículos deben abandonar la vía en la próxima salida.",
+            "B) Que conductores y peatones deben circular con mucho cuidado por un posible peligro.",
+            "C) Que la carretera está totalmente cerrada al tráfico."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La bandera amarilla indica precaución extrema por un posible peligro en la carretera.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P29",
+        "Enunciado": "¿Qué obliga a hacer un agente con el brazo extendido hacia abajo y fijo desde un vehículo?",
+        "Opciones": [
+            "A) Reducir la velocidad por debajo de 30 km/h.",
+            "B) Detenerse en el lado derecho a los conductores a los que señala.",
+            "C) Girar obligatoriamente a la derecha en el siguiente cruce."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "Esta señal obliga a detenerse en el lado derecho a los conductores a los que señala el brazo.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P30",
+        "Enunciado": "Si un vehículo de policía emite luces rojas o amarillas intermitentes y sonidos, el conductor debe...",
+        "Opciones": [
+            "A) Parar el vehículo en el lado derecho, delante del vehículo de policía.",
+            "B) Aumentar la velocidad para no estorbar al agente.",
+            "C) Detenerse inmediatamente en el carril por el que circula."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Hay que parar en el lado derecho, delante del vehículo de policía y seguir sus instrucciones desde dentro del vehículo.",
+        "Imagen": true
+    }
+]

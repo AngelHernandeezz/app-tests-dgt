@@ -1,0 +1,356 @@
+[
+    {
+        "_id": "PB-TM3-P301",
+        "Enunciado": "¿Qué indica la señal S-126?",
+        "Opciones": [
+            "A) Zona para aparcar vehículos que conecta con una estación de autobuses.",
+            "B) Un área de descanso con parada de taxis.",
+            "C) Una zona reservada exclusivamente para autobuses urbanos."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-124 indica una zona de aparcamiento conectada con una estación de autobuses.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P302",
+        "Enunciado": "¿Qué indica la señal S-127?",
+        "Opciones": [
+            "A) Proximidad de un taller de reparación en carretera nacional.",
+            "B) Área de servicio dentro de una autopista o autovía.",
+            "C) Un puesto de auxilio sanitario en zona de montaña."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-127 indica un área de servicio ubicada dentro de una autopista o autovía.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P303",
+        "Enunciado": "Según el temario, ¿qué elementos suele haber en las áreas de servicio (S-127)?",
+        "Opciones": [
+            "A) Centros comerciales y oficinas de turismo.",
+            "B) Únicamente puestos de auxilio y teléfonos de emergencia.",
+            "C) Gasolineras, restaurantes y lugares para descansar un rato."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "En las áreas de servicio suele haber gasolineras, restaurantes y lugares para descansar."
+    },
+    {
+        "_id": "PB-TM3-P304",
+        "Enunciado": "¿Cómo se clasifica el grupo de señales destinadas a orientar al conductor sobre rutas y distancias?",
+        "Opciones": [
+            "A) Señales de advertencia de peligro.",
+            "B) Señales de reglamentación.",
+            "C) Señales de orientación."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "El temario agrupa estas señales bajo la categoría de señales de orientación."
+    },
+    {
+        "_id": "PB-TM3-P305",
+        "Enunciado": "¿Qué información proporciona la señal S-200?",
+        "Opciones": [
+            "A) Obligación de circular por el carril derecho de la rotonda.",
+            "B) Prohibición de realizar un cambio de sentido en la intersección.",
+            "C) Indica todas las salidas que hay en la próxima rotonda."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-200 muestra todas las posibles salidas de la siguiente glorieta o rotonda.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P306",
+        "Enunciado": "En la señal S-200, ¿qué indican las salidas que están pintadas de azul?",
+        "Opciones": [
+            "A) Que son salidas hacia zonas residenciales.",
+            "B) Que llevan a una autopista o autovía.",
+            "C) Que son salidas prohibidas para camiones."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "En esta señal, el color azul en las salidas indica que conducen a una autopista o autovía."
+    },
+    {
+        "_id": "PB-TM3-P307",
+        "Enunciado": "¿Qué indica la señal S-222a?",
+        "Opciones": [
+            "A) Indica la dirección de una carretera y la de las salidas que llevan a una autopista o autovía.",
+            "B) El número de carriles disponibles en la próxima salida.",
+            "C) La distancia hasta el área de servicio más cercana."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-222a informa sobre la dirección de la vía actual y las salidas hacia vías de alta capacidad.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P308",
+        "Enunciado": "¿Cuál es el significado de la señal S-232?",
+        "Opciones": [
+            "A) Obligación de pagar peaje en 500 metros.",
+            "B) Fin de la autopista a la distancia indicada.",
+            "C) Indica dónde está la entrada a la autopista y a qué distancia."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-232 señala la ubicación y distancia de la entrada a una autopista.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P309",
+        "Enunciado": "¿Qué información facilita la señal S-235a?",
+        "Opciones": [
+            "A) Indica cuál es la próxima salida dentro de una autopista o autovía y a qué distancia está.",
+            "B) El número de kilómetros recorridos desde el origen de la vía.",
+            "C) La presencia de un radar de tramo próximo."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-235a informa sobre la siguiente salida en autopista/autovía y su distancia.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P310",
+        "Enunciado": "¿Qué indica la señal S-300?",
+        "Opciones": [
+            "A) La velocidad máxima permitida en las poblaciones cercanas.",
+            "B) Indica los nombres de pueblos y ciudades que hay en una carretera y a qué distancia está ese pueblo o ciudad.",
+            "C) El nombre de la calle por la que se circula."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-300 informa de los destinos próximos en una carretera y los kilómetros restantes.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P311",
+        "Enunciado": "La señal S-301 se utiliza para indicar nombres de pueblos y ciudades en...",
+        "Opciones": [
+            "A) Carreteras nacionales únicamente.",
+            "B) Caminos agrícolas y vías peatonales.",
+            "C) Una autopista o autovía."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-301 es específica para indicar destinos y distancias dentro de autopistas o autovías.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P312",
+        "Enunciado": "¿Qué indica la señal S-322?",
+        "Opciones": [
+            "A) Prohibición de circular a bicicletas por el arcén.",
+            "B) Indica en qué dirección hay una vía ciclista o senda ciclable y la distancia a la que está.",
+            "C) Fin de la zona reservada para ciclos."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-322 orienta sobre la dirección y distancia de una vía ciclista.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P313",
+        "Enunciado": "Según el temario, ¿qué tres datos proporciona la señal S-360?",
+        "Opciones": [
+            "A) Nombre del conductor, matrícula y número de ejes.",
+            "B) Número de la carretera, lugar hacia el que va y nombre del pueblo o ciudad en la siguiente salida.",
+            "C) Kilometraje, velocidad media y altitud."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-360 informa del número de vía, destino de la misma y destino de la próxima salida.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P314",
+        "Enunciado": "¿Qué indica la señal S-368?",
+        "Opciones": [
+            "A) La dirección hacia un puerto o aeropuerto cercano.",
+            "B) Indica el número de la autopista o autovía, hacia dónde van y el nombre del pueblo o ciudad en la siguiente salida.",
+            "C) La distancia hasta el próximo poste de auxilio SOS."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-368 proporciona información sobre la identificación de la vía de alta capacidad, su dirección y la próxima salida.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P315",
+        "Enunciado": "¿Para qué sirven las señales del grupo S-400?",
+        "Opciones": [
+            "A) Para señalar el fin de las obligaciones anteriores.",
+            "B) Para indicar peligros por meteorología adversa.",
+            "C) Para clasificar las carreteras."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Las señales S-400 y siguientes se utilizan para clasificar el tipo de carretera por la que se circula."
+    },
+    {
+        "_id": "PB-TM3-P316",
+        "Enunciado": "¿Qué es la señal S-400?",
+        "Opciones": [
+            "A) Carretera europea, nombre que se le da a esa carretera en Europa.",
+            "B) Una vía reservada para el transporte internacional.",
+            "C) El número de salida de una autopista."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-400 identifica una carretera dentro del itinerario europeo.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P317",
+        "Enunciado": "¿Qué indica la señal S-410?",
+        "Opciones": [
+            "A) Carretera autonómica de primer nivel.",
+            "B) Autopista o autovía.",
+            "C) Carretera nacional del Estado español."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-410 se utiliza para identificar una autopista o autovía.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P318",
+        "Enunciado": "¿Cuál es el significado de la señal S-410a?",
+        "Opciones": [
+            "A) Autopista de pago.",
+            "B) Autovía con limitación de acceso.",
+            "C) Carretera nacional de peaje."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-410a identifica una autopista en la que es obligatorio el pago de peaje.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P319",
+        "Enunciado": "¿Qué indica la señal S-420?",
+        "Opciones": [
+            "A) Carretera nacional, del Estado español.",
+            "B) Autopista de mantenimiento estatal.",
+            "C) Carretera europea de interés general."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-420 identifica las carreteras nacionales pertenecientes al Estado español.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P320",
+        "Enunciado": "¿Qué son las señales S-430?",
+        "Opciones": [
+            "A) Autopistas de titularidad regional.",
+            "B) Carretera más importante de una Comunidad Autónoma (primer nivel).",
+            "C) Carreteras que unen pueblos pequeños."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-430 identifica las carreteras autonómicas de primer nivel.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P321",
+        "Enunciado": "¿Qué función tienen las carreteras indicadas por la señal S-440?",
+        "Opciones": [
+            "A) Son tramos de carretera nacional cedidos a los municipios.",
+            "B) Son vías exclusivas para el transporte de mercancías autonómico.",
+            "C) Unen pueblos dentro de una Comunidad Autónoma o sirven para llegar a carreteras de primer nivel."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-440 indica carreteras autonómicas de segundo nivel que conectan poblaciones o llevan a vías principales.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P322",
+        "Enunciado": "¿Cómo se llaman las carreteras indicadas por la señal S-450?",
+        "Opciones": [
+            "A) Vías de servicio de la red nacional.",
+            "B) Caminos vecinales pavimentados.",
+            "C) Carreteras autonómicas de tercer nivel, que unen pueblos pequeños."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-450 identifica las carreteras autonómicas de tercer nivel.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P323",
+        "Enunciado": "¿Para qué se utilizan las señales del grupo S-500?",
+        "Opciones": [
+            "A) Son señales que indican dónde estás.",
+            "B) Para indicar la cercanía de fronteras internacionales.",
+            "C) Para avisar de cambios en el número de carriles."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "Este grupo de señales sirve para localizar geográficamente al conductor (poblaciones o puntos kilométricos)."
+    },
+    {
+        "_id": "PB-TM3-P324",
+        "Enunciado": "¿Qué indica la señal S-500?",
+        "Opciones": [
+            "A) Comienzo de una zona de peaje urbano.",
+            "B) Proximidad de un área metropolitana.",
+            "C) Entrada a un pueblo o ciudad."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "La señal S-500 marca el punto de entrada a una población.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P325",
+        "Enunciado": "¿Qué significa la señal S-510?",
+        "Opciones": [
+            "A) Salida de un pueblo o ciudad.",
+            "B) Fin de la prioridad de paso en travesía.",
+            "C) Prohibición de entrada a vehículos pesados a la población."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-510 indica que se está abandonando el casco urbano de un pueblo o ciudad.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P326",
+        "Enunciado": "¿Qué indica la señal S-574?",
+        "Opciones": [
+            "A) Indica el kilómetro donde te encuentras en una autopista o autovía.",
+            "B) La distancia que falta para el próximo puesto de socorro.",
+            "C) El número total de kilómetros que tiene la autopista."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-574 es un hito kilométrico para autopistas y autovías.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P327",
+        "Enunciado": "¿Cada cuántos kilómetros verás las señales S-574 en una autopista o autovía?",
+        "Opciones": [
+            "A) Solo en las entradas y salidas.",
+            "B) Cada kilómetro.",
+            "C) Cada 10 kilómetros."
+        ],
+        "IndiceRespuestaCorrecta": 2,
+        "Explicacion": "Según el temario, estas señales se ven cada 10 kilómetros (kilómetro 10, 20, 30, etc.)."
+    },
+    {
+        "_id": "PB-TM3-P328",
+        "Enunciado": "¿Qué indica la señal S-574a?",
+        "Opciones": [
+            "A) Indica el kilómetro donde te encuentras en una carretera.",
+            "B) Kilometraje de una vía ciclista.",
+            "C) Distancia hasta la próxima Comunidad Autónoma."
+        ],
+        "IndiceRespuestaCorrecta": 0,
+        "Explicacion": "La señal S-574a indica el punto kilométrico en una carretera convencional.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P329",
+        "Enunciado": "¿Cuál es el significado de la señal S-574b?",
+        "Opciones": [
+            "A) Kilometraje de un ramal de incorporación.",
+            "B) Indica el kilómetro donde te encuentras en una autopista de pago.",
+            "C) La distancia restante hasta la siguiente cabina de peaje."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "La señal S-574b es el hito kilométrico específico para autopistas de peaje.",
+        "Imagen": true
+    },
+    {
+        "_id": "PB-TM3-P330",
+        "Enunciado": "En la señal S-575 de carretera autonómica, ¿qué determina su color?",
+        "Opciones": [
+            "A) La altitud sobre el nivel del mar.",
+            "B) El nivel de importancia de la carretera.",
+            "C) La Comunidad Autónoma a la que pertenece."
+        ],
+        "IndiceRespuestaCorrecta": 1,
+        "Explicacion": "El color de la señal S-575 corresponde al nivel de importancia (primer, segundo o tercer nivel) de la carretera autonómica.",
+        "Imagen": true
+    }
+]
